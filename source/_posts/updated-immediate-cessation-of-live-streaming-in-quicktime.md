@@ -449,3 +449,4 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://ai-video-tools.techidaily.com/updated-mastering-image-proportions-a-beginners-guide-to-ratio-calculators/"><u>Updated Mastering Image Proportions A Beginners Guide to Ratio Calculators</u></a></li>
 </ul></div>
 
+

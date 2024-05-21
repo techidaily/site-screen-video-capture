@@ -684,3 +684,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-lava-yuva-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Lava Yuva 2 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

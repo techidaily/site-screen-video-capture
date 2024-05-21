@@ -1,7 +1,7 @@
 ---
 title: "\"Best 7 First-Person Shooters of the Year\""
-date: 2024-05-18T14:48:09.556Z
-updated: 2024-05-19T14:48:09.556Z
+date: 2024-05-20T00:50:45.523Z
+updated: 2024-05-21T00:50:45.523Z
 tags: 
   - screen-recording
   - ai video
@@ -514,4 +514,5 @@ For macOS 10.12 or later
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi Civi 3 | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-waht-is-ai-pixel-art-generator-wondershare-virbo-glossary/"><u>2024 Approved Waht Is AI Pixel Art Generator? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
+
 

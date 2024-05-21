@@ -439,3 +439,4 @@ To sum it up for you, OBS is completely free while Bandicam is a premium softwar
 <li><a href="https://smart-video-creator.techidaily.com/new-video-formatting-made-easy-change-shape-size-and-aspect-ratio/"><u>New Video Formatting Made Easy Change Shape, Size, and Aspect Ratio</u></a></li>
 </ul></div>
 
+

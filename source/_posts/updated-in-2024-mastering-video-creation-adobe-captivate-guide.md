@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Mastering Video Creation  Adobe Captivate Guide\""
-date: 2024-05-18T14:34:45.771Z
-updated: 2024-05-19T14:34:45.771Z
+date: 2024-05-20T00:50:06.866Z
+updated: 2024-05-21T00:50:06.866Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Max Wales
 <li><a href="https://ios-unlock.techidaily.com/did-your-iphone-se-2020-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone SE (2020) Passcode Change Itself? Unlock It Now</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 6s? | Dr.fone</u></a></li>
 </ul></div>
+
 

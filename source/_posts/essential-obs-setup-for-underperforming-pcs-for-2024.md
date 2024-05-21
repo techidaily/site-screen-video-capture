@@ -1,7 +1,7 @@
 ---
 title: "Essential OBS Setup for Underperforming PCs for 2024"
-date: 2024-05-18T14:43:37.168Z
-updated: 2024-05-19T14:43:37.168Z
+date: 2024-05-20T00:50:33.108Z
+updated: 2024-05-21T00:50:33.108Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-adobe-premiere-pro-tutorial-how-to-remove-camera-shake-and-stabilize-footage/"><u>2024 Approved Adobe Premiere Pro Tutorial How to Remove Camera Shake and Stabilize Footage</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-easy-avi-editing-on-windows-8-top-rated-video-editor-for-pc-2023/"><u>Updated In 2024, Easy AVI Editing on Windows 8 Top-Rated Video Editor for PC - 2023</u></a></li>
 </ul></div>
+
 

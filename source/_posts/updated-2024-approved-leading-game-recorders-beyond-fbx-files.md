@@ -552,3 +552,4 @@ If you are facing FBX recorder not working issue or you are not satisfied with t
 <li><a href="https://voice-adjusting.techidaily.com/in-2024-final-cut-pro-sound-visualization-step-by-step-on-rendering-audio-waveforms-and-their-animation-integration/"><u>In 2024, Final Cut Pro Sound Visualization Step-by-Step on Rendering Audio Waveforms and Their Animation Integration</u></a></li>
 </ul></div>
 
+

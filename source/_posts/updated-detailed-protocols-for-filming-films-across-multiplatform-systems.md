@@ -391,3 +391,4 @@ Recording all of your favorite movies on your Mac or PC is now easy and enjoyabl
 <li><a href="https://audio-shaping.techidaily.com/capturing-your-computers-audio-spectrum-with-audacity/"><u>Capturing Your Computers Audio Spectrum with Audacity</u></a></li>
 </ul></div>
 
+

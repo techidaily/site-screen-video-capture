@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quieting Mute Voices on OBS Platforms"
-date: 2024-05-18T14:47:22.588Z
-updated: 2024-05-19T14:47:22.588Z
+date: 2024-05-20T00:50:43.539Z
+updated: 2024-05-21T00:50:43.539Z
 tags: 
   - screen-recording
   - ai video
@@ -549,4 +549,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-voice-clone.techidaily.com/new-best-options-top-live-streaming-platforms-according-to-types/"><u>New Best Options Top Live Streaming Platforms According to Types</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo S17e | Dr.fone</u></a></li>
 </ul></div>
+
 

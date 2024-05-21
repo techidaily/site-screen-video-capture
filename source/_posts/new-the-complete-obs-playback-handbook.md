@@ -1,7 +1,7 @@
 ---
 title: "[New] The Complete OBS Playback Handbook"
-date: 2024-05-18T14:24:31.070Z
-updated: 2024-05-19T14:24:31.070Z
+date: 2024-05-20T00:49:37.103Z
+updated: 2024-05-21T00:49:37.103Z
 tags: 
   - screen-recording
   - ai video
@@ -430,4 +430,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://video-creation-software.techidaily.com/updated-no-crack-no-problem-free-filmora-alternatives-you-can-trust/"><u>Updated No Crack, No Problem Free Filmora Alternatives You Can Trust</u></a></li>
 <li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Itel P55+ | Dr.fone</u></a></li>
 </ul></div>
+
 

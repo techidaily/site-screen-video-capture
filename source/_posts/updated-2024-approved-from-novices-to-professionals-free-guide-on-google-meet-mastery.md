@@ -914,3 +914,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

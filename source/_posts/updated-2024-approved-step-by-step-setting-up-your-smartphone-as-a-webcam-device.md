@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Step-by-Step  Setting Up Your Smartphone as a Webcam Device\""
-date: 2024-05-18T14:27:12.694Z
-updated: 2024-05-19T14:27:12.694Z
+date: 2024-05-20T00:49:45.349Z
+updated: 2024-05-21T00:49:45.349Z
 tags: 
   - screen-recording
   - ai video
@@ -629,4 +629,5 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-v2-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic V2 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-free-chromebook-video-editors/"><u>New 2024 Approved The Ultimate Guide to Free Chromebook Video Editors</u></a></li>
 </ul></div>
+
 

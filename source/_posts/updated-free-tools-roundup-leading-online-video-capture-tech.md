@@ -963,3 +963,4 @@ Follow @Liza Brown
 <li><a href="https://ai-video-editing.techidaily.com/new-want-to-learn-how-to-crop-or-trim-video-in-powerpoint-we-have-got-you-covered-we-have-given-a-step-by-step-guide-that-will-allow-you-to-trim-and-crop-vi/"><u>New Want to Learn How to Crop or Trim Video in PowerPoint? We Have Got You Covered; We Have Given a Step-by-Step Guide that Will Allow You to Trim and Crop Videos Using This Presentation Program</u></a></li>
 </ul></div>
 
+

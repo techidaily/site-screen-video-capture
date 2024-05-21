@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Correcting Excessive Encoding in OBS\""
-date: 2024-05-18T14:30:15.625Z
-updated: 2024-05-19T14:30:15.625Z
+date: 2024-05-20T00:49:54.306Z
+updated: 2024-05-21T00:49:54.306Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 8 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-y77t-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo Y77t Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 </ul></div>
+
 

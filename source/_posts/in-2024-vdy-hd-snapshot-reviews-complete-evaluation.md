@@ -309,3 +309,4 @@ There may be a lot of other similar applications like VSDC on the internet out t
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-tecno-spark-10c-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Tecno Spark 10C Wont Charge | Dr.fone</u></a></li>
 </ul></div>
 
+

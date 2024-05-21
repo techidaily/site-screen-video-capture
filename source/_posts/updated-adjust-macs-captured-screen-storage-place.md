@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Adjust Mac's Captured Screen Storage Place"
-date: 2024-05-18T14:25:31.070Z
-updated: 2024-05-19T14:25:31.070Z
+date: 2024-05-20T00:49:40.036Z
+updated: 2024-05-21T00:49:40.036Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-subtitles-in-quicktime-player/"><u>In 2024, How to Add Subtitles in QuickTime Player?</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-venturing-beyond-jazz-norms-discovering-hidden-insights/"><u>New Venturing Beyond Jazz Norms Discovering Hidden Insights</u></a></li>
 </ul></div>
+
 

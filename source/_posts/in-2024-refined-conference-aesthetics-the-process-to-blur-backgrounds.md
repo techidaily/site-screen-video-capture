@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Refined Conference Aesthetics  The Process to Blur Backgrounds\""
-date: 2024-05-18T14:28:02.816Z
-updated: 2024-05-19T14:28:02.816Z
+date: 2024-05-20T00:49:48.022Z
+updated: 2024-05-21T00:49:48.022Z
 tags: 
   - screen-recording
   - ai video
@@ -795,4 +795,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/updated-steps-to-rotate-videos-in-lightworks/"><u>Updated Steps to Rotate Videos in Lightworks</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
 </ul></div>
+
 

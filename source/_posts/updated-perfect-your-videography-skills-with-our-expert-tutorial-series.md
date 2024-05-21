@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfect Your Videography Skills with Our Expert Tutorial Series"
-date: 2024-05-18T14:26:32.239Z
-updated: 2024-05-19T14:26:32.239Z
+date: 2024-05-20T00:49:43.480Z
+updated: 2024-05-21T00:49:43.480Z
 tags: 
   - screen-recording
   - ai video
@@ -779,4 +779,5 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/best-fixes-for-itel-p55-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel P55 Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-best-of-the-best-top-video-editors-for-windows-11-pcs/"><u>New 2024 Approved The Best of the Best Top Video Editors for Windows 11 PCs</u></a></li>
 </ul></div>
+
 

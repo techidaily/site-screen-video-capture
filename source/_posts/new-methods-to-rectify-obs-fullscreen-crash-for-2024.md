@@ -1,7 +1,7 @@
 ---
 title: "[New] Methods to Rectify OBS Fullscreen Crash for 2024"
-date: 2024-05-18T14:32:18.512Z
-updated: 2024-05-19T14:32:18.512Z
+date: 2024-05-20T00:49:59.816Z
+updated: 2024-05-21T00:49:59.816Z
 tags: 
   - screen-recording
   - ai video
@@ -284,4 +284,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ai-video.techidaily.com/2024-approved-7-best-real-time-video-translation-apps/"><u>2024 Approved 7 Best Real Time Video Translation Apps</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Crafting Coolest Mini-Houses in MC World\""
-date: 2024-05-18T14:41:15.412Z
-updated: 2024-05-19T14:41:15.412Z
+date: 2024-05-20T00:50:26.123Z
+updated: 2024-05-21T00:50:26.123Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ Follow @Shanoon Cox
 <li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-nova-y71-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Nova Y71?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-x50-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor X50 to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

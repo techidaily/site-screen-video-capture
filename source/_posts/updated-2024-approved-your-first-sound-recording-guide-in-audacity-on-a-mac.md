@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Your First Sound Recording Guide in Audacity on a Mac\""
-date: 2024-05-18T14:25:45.282Z
-updated: 2024-05-19T14:25:45.282Z
+date: 2024-05-20T00:49:40.995Z
+updated: 2024-05-21T00:49:40.995Z
 tags: 
   - screen-recording
   - ai video
@@ -289,4 +289,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy A54 5G | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Poco F5 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

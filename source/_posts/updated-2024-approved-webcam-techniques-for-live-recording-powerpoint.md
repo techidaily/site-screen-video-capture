@@ -571,3 +571,4 @@ Hopefully, you have understood how do you record a PowerPoint with a webcam. You
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-y100-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo Y100 Phones? | Dr.fone</u></a></li>
 </ul></div>
 
+

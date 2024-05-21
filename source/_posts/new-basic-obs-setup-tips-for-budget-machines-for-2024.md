@@ -1,7 +1,7 @@
 ---
 title: "[New] Basic OBS Setup Tips for Budget Machines for 2024"
-date: 2024-05-18T14:38:27.096Z
-updated: 2024-05-19T14:38:27.096Z
+date: 2024-05-20T00:50:17.906Z
+updated: 2024-05-21T00:50:17.906Z
 tags: 
   - screen-recording
   - ai video
@@ -231,4 +231,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-v29e-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo V29e</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-se-2022-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone SE (2022) Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
 </ul></div>
+
 

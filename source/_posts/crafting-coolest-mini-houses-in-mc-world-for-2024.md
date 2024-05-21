@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting Coolest Mini-Houses in MC World for 2024\""
-date: 2024-05-18T14:38:22.432Z
-updated: 2024-05-19T14:38:22.432Z
+date: 2024-05-20T00:50:17.719Z
+updated: 2024-05-21T00:50:17.719Z
 tags: 
   - screen-recording
   - ai video
@@ -353,4 +353,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-13-powerful-video-editors-that-outshine-windows-movie-maker/"><u>2024 Approved 13 Powerful Video Editors That Outshine Windows Movie Maker</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-14-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 14 Passcode Easily Video Inside | Dr.fone</u></a></li>
 </ul></div>
+
 

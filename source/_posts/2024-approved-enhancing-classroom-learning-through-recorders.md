@@ -940,3 +940,4 @@ To record online teaching all you have to do is install one of the applications 
 <li><a href="https://techidaily.com/how-do-i-reset-my-tecno-pop-7-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Pop 7 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
 
+

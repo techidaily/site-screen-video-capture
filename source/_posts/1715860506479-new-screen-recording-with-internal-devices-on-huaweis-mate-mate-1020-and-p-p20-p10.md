@@ -1,7 +1,7 @@
 ---
 title: "[New] Screen Recording with Internal Devices on Huawei’s Mate (Mate 10/20) and P (P20, P10)."
-date: 2024-05-18T14:40:52.350Z
-updated: 2024-05-19T14:40:52.350Z
+date: 2024-05-20T00:50:24.707Z
+updated: 2024-05-21T00:50:24.707Z
 tags: 
   - screen-recording
   - ai video
@@ -375,4 +375,5 @@ Follow @Max Wales
 <li><a href="https://audio-editing.techidaily.com/discovering-secure-online-spaces-to-connect-with-others-for-2024/"><u>Discovering Secure Online Spaces to Connect with Others for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-complete-how-to-tutorials-of-kapwing-collage-maker-for-2024/"><u>New Complete How-To Tutorials of Kapwing Collage Maker for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Master the Art of Video Editing in OBS Studio\""
-date: 2024-05-18T14:47:09.288Z
-updated: 2024-05-19T14:47:09.288Z
+date: 2024-05-20T00:50:43.003Z
+updated: 2024-05-21T00:50:43.003Z
 tags: 
   - screen-recording
   - ai video
@@ -528,4 +528,5 @@ Open Broadcaster Program, also known as OBS, is a free open-source software for 
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-narzo-60-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme Narzo 60 5G Location without Installing Software? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-13t-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 13T Pro Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 

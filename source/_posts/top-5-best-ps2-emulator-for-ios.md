@@ -511,3 +511,4 @@ For macOS 10.12 or later
 <li><a href="https://video-ai-editor.techidaily.com/new-from-click-to-view-the-art-of-creating-effective-youtube-thumbnails-size-design-and-more/"><u>New From Click to View The Art of Creating Effective YouTube Thumbnails (Size, Design, and More)</u></a></li>
 </ul></div>
 
+

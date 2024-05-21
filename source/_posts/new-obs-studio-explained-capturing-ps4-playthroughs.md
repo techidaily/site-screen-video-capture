@@ -1,7 +1,7 @@
 ---
 title: "\"[New] OBS Studio Explained  Capturing PS4 Playthroughs\""
-date: 2024-05-18T14:26:18.055Z
-updated: 2024-05-19T14:26:18.055Z
+date: 2024-05-20T00:49:42.547Z
+updated: 2024-05-21T00:49:42.547Z
 tags: 
   - screen-recording
   - ai video
@@ -413,4 +413,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-xr-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone XR With 7 Methods</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Realme 11 Pro+? | Dr.fone</u></a></li>
 </ul></div>
+
 

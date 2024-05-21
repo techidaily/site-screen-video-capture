@@ -1,7 +1,7 @@
 ---
 title: "Storing Session Videos in GH"
-date: 2024-05-18T14:40:45.599Z
-updated: 2024-05-19T14:40:45.599Z
+date: 2024-05-20T00:50:24.356Z
+updated: 2024-05-21T00:50:24.356Z
 tags: 
   - screen-recording
   - ai video
@@ -465,4 +465,5 @@ The answer to the question "Can you record a Google hangout?" is yes. You can us
 <li><a href="https://ai-editing-video.techidaily.com/new-speed-updown-videos-in-vlc-for-2024/"><u>New Speed Up/Down Videos in VLC for 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-play-40c-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Honor Play 40C Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

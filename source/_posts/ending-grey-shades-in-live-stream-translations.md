@@ -1,7 +1,7 @@
 ---
 title: "Ending Grey Shades in Live Stream Translations"
-date: 2024-05-18T14:29:55.686Z
-updated: 2024-05-19T14:29:55.686Z
+date: 2024-05-20T00:49:53.320Z
+updated: 2024-05-21T00:49:53.320Z
 tags: 
   - screen-recording
   - ai video
@@ -248,4 +248,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-itel-p55-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Itel P55 5G</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-6-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 6 without Password?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, The Complete Guide to Audio Editing in Audacity, Made Simple"
-date: 2024-05-18T14:21:57.167Z
-updated: 2024-05-19T14:21:57.167Z
+date: 2024-05-20T00:49:29.757Z
+updated: 2024-05-21T00:49:29.757Z
 tags: 
   - screen-recording
   - ai video
@@ -320,4 +320,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-v29-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo V29</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-in-2024-speedy-sonic-transformation-altering-audio-velocity-with-ease/"><u>New In 2024, Speedy Sonic Transformation Altering Audio Velocity with Ease</u></a></li>
 </ul></div>
+
 

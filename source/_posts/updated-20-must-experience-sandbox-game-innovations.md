@@ -858,3 +858,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-10-vegas-pro-alternatives-for-mac-that-wont-break-the-bank/"><u>Updated The Ultimate List 10 Vegas Pro Alternatives for Mac That Wont Break the Bank</u></a></li>
 </ul></div>
 
+

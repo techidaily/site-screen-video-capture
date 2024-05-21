@@ -320,3 +320,4 @@ Where you were facing problems recording videos on your screen and could not cho
 <li><a href="https://phone-solutions.techidaily.com/does-motorola-razr-40-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Motorola Razr 40 has native HEVC support?</u></a></li>
 </ul></div>
 
+

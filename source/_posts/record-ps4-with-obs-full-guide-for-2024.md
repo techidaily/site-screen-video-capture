@@ -1,7 +1,7 @@
 ---
 title: "Record PS4 with OBS Full Guide for 2024"
-date: 2024-05-18T14:42:55.707Z
-updated: 2024-05-19T14:42:55.707Z
+date: 2024-05-20T00:50:31.125Z
+updated: 2024-05-21T00:50:31.125Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo Y36 | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-how-to-learn-cartoon-sketch-drawing/"><u>Updated How To Learn Cartoon Sketch Drawing</u></a></li>
 </ul></div>
+
 

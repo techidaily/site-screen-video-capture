@@ -737,3 +737,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-htc-u23-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with HTC U23 Pro Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 
+

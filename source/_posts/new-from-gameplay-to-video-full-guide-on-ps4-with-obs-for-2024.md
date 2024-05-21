@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Gameplay to Video  Full Guide on PS4 with OBS for 2024\""
-date: 2024-05-18T14:36:01.035Z
-updated: 2024-05-19T14:36:01.035Z
+date: 2024-05-20T00:50:10.241Z
+updated: 2024-05-21T00:50:10.241Z
 tags: 
   - screen-recording
   - ai video
@@ -361,4 +361,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-transform-your-tunes-free-online-tool-to-dial-back-mp3-volume-ideal-for-karaoke-enthusiasts/"><u>New 2024 Approved Transform Your Tunes Free Online Tool to Dial Back MP3 Volume, Ideal for Karaoke Enthusiasts.</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Itel P55 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

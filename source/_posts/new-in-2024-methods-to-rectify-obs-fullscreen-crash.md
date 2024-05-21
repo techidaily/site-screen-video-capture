@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Methods to Rectify OBS Fullscreen Crash"
-date: 2024-05-18T14:41:56.753Z
-updated: 2024-05-19T14:41:56.753Z
+date: 2024-05-20T00:50:28.032Z
+updated: 2024-05-21T00:50:28.032Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-poco-c55-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Poco C55? | Dr.fone</u></a></li>
 </ul></div>
+
 

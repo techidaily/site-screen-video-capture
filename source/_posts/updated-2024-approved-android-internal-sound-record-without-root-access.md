@@ -469,3 +469,4 @@ Follow @Max Wales
 <li><a href="https://ai-vdieo-software.techidaily.com/premiere-rush-not-your-cup-of-tea-try-these-4-alternatives/"><u>Premiere Rush Not Your Cup of Tea? Try These 4 Alternatives</u></a></li>
 </ul></div>
 
+

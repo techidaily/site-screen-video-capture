@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, DirectScreen W11  Instant Recording on Windows 11\""
-date: 2024-05-18T14:28:41.591Z
-updated: 2024-05-19T14:28:41.591Z
+date: 2024-05-20T00:49:49.737Z
+updated: 2024-05-21T00:49:49.737Z
 tags: 
   - screen-recording
   - ai video
@@ -476,4 +476,5 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Xiaomi Civi 3 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-make-foggy-text-reflection-effect/"><u>Updated In 2024, How to Make Foggy Text Reflection Effect</u></a></li>
 </ul></div>
+
 

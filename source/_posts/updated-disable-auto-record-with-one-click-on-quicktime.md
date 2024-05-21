@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Disable Auto-Record with One Click on QuickTime\""
-date: 2024-05-18T14:44:11.164Z
-updated: 2024-05-19T14:44:11.164Z
+date: 2024-05-20T00:50:34.593Z
+updated: 2024-05-21T00:50:34.593Z
 tags: 
   - screen-recording
   - ai video
@@ -428,4 +428,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-poco-c65-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Poco C65 to iPhone Easily | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

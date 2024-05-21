@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Use Your Phone as A Webcam to Record Videos?"
-date: 2024-05-18T14:21:52.842Z
-updated: 2024-05-19T14:21:52.842Z
+date: 2024-05-20T00:49:29.541Z
+updated: 2024-05-21T00:49:29.541Z
 tags: 
   - screen-recording
   - ai video
@@ -601,4 +601,5 @@ Follow @Max Wales
 <li><a href="https://smart-video-creator.techidaily.com/new-the-best-free-and-paid-video-editors-for-windows-11-for-2024/"><u>New The Best Free and Paid Video Editors for Windows 11 for 2024</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-filmora-hacks-streamline-your-reaction-video-creation-process/"><u>Updated 2024 Approved Filmora Hacks Streamline Your Reaction Video Creation Process</u></a></li>
 </ul></div>
+
 

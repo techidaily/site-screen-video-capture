@@ -1,7 +1,7 @@
 ---
 title: "\"Easier Cinematography  Perfecting Fade Effects\""
-date: 2024-05-18T14:31:49.463Z
-updated: 2024-05-19T14:31:49.463Z
+date: 2024-05-20T00:49:58.592Z
+updated: 2024-05-21T00:49:58.592Z
 tags: 
   - screen-recording
   - ai video
@@ -488,4 +488,5 @@ Follow @Max Wales
 <li><a href="https://sound-optimizing.techidaily.com/updated-the-ultimate-compilation-top-5-budget-friendly-open-source-windows-audio-editors/"><u>Updated The Ultimate Compilation Top 5 Budget-Friendly, Open-Source Windows Audio Editors</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-in-2024-final-cut-pro-tutorial-changing-aspect-ratio-for-social-media-and-more/"><u>New In 2024, Final Cut Pro Tutorial Changing Aspect Ratio for Social Media and More</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"OBS Studio Guide  5 Key Edits for Flawless Results\""
-date: 2024-05-18T14:36:08.594Z
-updated: 2024-05-19T14:36:08.594Z
+date: 2024-05-20T00:50:10.578Z
+updated: 2024-05-21T00:50:10.578Z
 tags: 
   - screen-recording
   - ai video
@@ -561,4 +561,5 @@ Open Broadcaster Program, also known as OBS, is a free open-source software for 
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-a78-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo A78 5G to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 with a Mask On | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -866,3 +866,4 @@ While choosing the screen recorder, try to pick the one that can turn out best f
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-motorola-moto-g13-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Motorola Moto G13 to New Phone | Dr.fone</u></a></li>
 </ul></div>
 
+

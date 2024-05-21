@@ -304,3 +304,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://video-content-creator.techidaily.com/updated-streamline-your-workflow-top-adobe-premiere-shortcuts-you-need/"><u>Updated Streamline Your Workflow Top Adobe Premiere Shortcuts You Need</u></a></li>
 </ul></div>
 
+

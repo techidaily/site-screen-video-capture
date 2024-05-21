@@ -547,3 +547,4 @@ You can agree with me that this screen catch application has a decent portion of
 <li><a href="https://techidaily.com/is-your-tecno-spark-10-4g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Spark 10 4G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
 
+

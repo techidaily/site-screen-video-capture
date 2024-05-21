@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Luminous Gaming Recording  Overcoming the Absence of a Black Screen in OBS\""
-date: 2024-05-18T14:35:10.415Z
-updated: 2024-05-19T14:35:10.415Z
+date: 2024-05-20T00:50:07.994Z
+updated: 2024-05-21T00:50:07.994Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://phone-solutions.techidaily.com/fixed-excel-found-a-problem-with-one-or-more-formula-by-stellar-guide/"><u>Fixed Excel Found a Problem with One or more Formula</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-acoustic-enhancement-techniques-for-premiere-pro-videographers-for-2024/"><u>Updated Acoustic Enhancement Techniques for Premiere Pro Videographers for 2024</u></a></li>
 </ul></div>
+
 

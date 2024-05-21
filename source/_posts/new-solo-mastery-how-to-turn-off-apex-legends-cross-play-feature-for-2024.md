@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Solo Mastery  How to Turn Off Apex Legends' Cross-Play Feature for 2024\""
-date: 2024-05-18T14:35:19.106Z
-updated: 2024-05-19T14:35:19.106Z
+date: 2024-05-20T00:50:08.371Z
+updated: 2024-05-21T00:50:08.371Z
 tags: 
   - screen-recording
   - ai video
@@ -339,4 +339,5 @@ Follow @Richard Bennett
 <li><a href="https://video-ai-editor.techidaily.com/new-in-2024-10-outstanding-online-tools-for-creating-gaming-intros/"><u>New In 2024, 10 Outstanding Online Tools for Creating Gaming Intros</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-premier-selection-best-15-affordable-audio-cutter-apps/"><u>Updated 2024 Approved The Premier Selection Best 15 Affordable Audio Cutter Apps</u></a></li>
 </ul></div>
+
 

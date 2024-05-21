@@ -1,7 +1,7 @@
 ---
 title: "Quick Mac Screen Capture Tips and Shortcuts Guide"
-date: 2024-05-18T14:35:37.670Z
-updated: 2024-05-19T14:35:37.670Z
+date: 2024-05-20T00:50:09.154Z
+updated: 2024-05-21T00:50:09.154Z
 tags: 
   - screen-recording
   - ai video
@@ -379,4 +379,5 @@ A screen recorder is an instrument that catches content on your Mac screen and s
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-translate-instagram-videos-easily-a-step-by-step-guide/"><u>In 2024, Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo S18e? | Dr.fone</u></a></li>
 </ul></div>
+
 

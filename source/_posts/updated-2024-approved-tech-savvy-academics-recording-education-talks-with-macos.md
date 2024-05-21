@@ -348,3 +348,4 @@ Mac is the working framework known for its flexible usefulness, and every one of
 <li><a href="https://smart-video-creator.techidaily.com/updated-os-x-mavericks-video-editing-101-from-beginner-to-pro/"><u>Updated OS X Mavericks Video Editing 101 From Beginner to Pro</u></a></li>
 </ul></div>
 
+

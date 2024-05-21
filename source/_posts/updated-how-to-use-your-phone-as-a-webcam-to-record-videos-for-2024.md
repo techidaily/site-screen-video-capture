@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Use Your Phone as A Webcam to Record Videos for 2024"
-date: 2024-05-18T14:31:30.827Z
-updated: 2024-05-19T14:31:30.827Z
+date: 2024-05-20T00:49:57.798Z
+updated: 2024-05-21T00:49:57.798Z
 tags: 
   - screen-recording
   - ai video
@@ -589,4 +589,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-editing.techidaily.com/new-best-gif-to-mov-converters/"><u>New Best GIF to MOV Converters</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-15-forgotten-cartoon-characters-of-all-time-you-used-to-love-for-2024/"><u>Updated 15 Forgotten Cartoon Characters of All Time You Used to Love for 2024</u></a></li>
 </ul></div>
+
 

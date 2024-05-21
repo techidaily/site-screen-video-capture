@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Effortless Screen Capture in Dota 2 Matches"
-date: 2024-05-18T14:43:52.830Z
-updated: 2024-05-19T14:43:52.830Z
+date: 2024-05-20T00:50:33.856Z
+updated: 2024-05-21T00:50:33.856Z
 tags: 
   - screen-recording
   - ai video
@@ -493,4 +493,5 @@ If you love to play on Steam platform and you want to record your Steam gameplay
 <li><a href="https://ai-video-editing.techidaily.com/new-list-of-whatsapp-video-format-that-you-may-need-to-know-for-2024/"><u>New List of Whatsapp Video Format That You May Need to Know for 2024</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-apple-iphone-12-pro-max-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on Apple iPhone 12 Pro Max Safe and Legal</u></a></li>
 </ul></div>
+
 

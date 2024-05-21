@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Tips  Solve OBS's Blackout During Live Captures\""
-date: 2024-05-18T14:40:21.316Z
-updated: 2024-05-19T14:40:21.316Z
+date: 2024-05-20T00:50:23.240Z
+updated: 2024-05-21T00:50:23.240Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://sound-optimizing.techidaily.com/new-in-2024-how-to-remove-sound-from-iphone-video-easy-guide/"><u>New In 2024, How to Remove Sound From iPhone Video? Easy Guide</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes for Missing Sound in OBS"
-date: 2024-05-18T14:33:14.124Z
-updated: 2024-05-19T14:33:14.124Z
+date: 2024-05-20T00:50:02.725Z
+updated: 2024-05-21T00:50:02.725Z
 tags: 
   - screen-recording
   - ai video
@@ -568,4 +568,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oppo-reno-8t-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Oppo Reno 8T with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Refined Conference Aesthetics  The Process to Blur Backgrounds for 2024\""
-date: 2024-05-18T14:33:18.231Z
-updated: 2024-05-19T14:33:18.231Z
+date: 2024-05-20T00:50:02.928Z
+updated: 2024-05-21T00:50:02.928Z
 tags: 
   - screen-recording
   - ai video
@@ -827,4 +827,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-tools.techidaily.com/new-video-invitation-creators-for-iphone-and-android-a-roundup/"><u>New Video Invitation Creators for iPhone and Android A Roundup</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-the-art-of-synchronizing-video-to-music-techniques/"><u>Updated The Art of Synchronizing Video to Music Techniques</u></a></li>
 </ul></div>
+
 

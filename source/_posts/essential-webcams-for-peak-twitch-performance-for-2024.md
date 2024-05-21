@@ -769,3 +769,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/how-to-factory-reset-tecno-pop-8-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pop 8 without Losing Data | Dr.fone</u></a></li>
 </ul></div>
 
+

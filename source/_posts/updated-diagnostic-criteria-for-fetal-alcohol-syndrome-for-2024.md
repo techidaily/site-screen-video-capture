@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Diagnostic Criteria for Fetal Alcohol Syndrome for 2024"
-date: 2024-05-18T14:35:45.328Z
-updated: 2024-05-19T14:35:45.328Z
+date: 2024-05-20T00:50:09.477Z
+updated: 2024-05-21T00:50:09.478Z
 tags: 
   - screen-recording
   - ai video
@@ -927,4 +927,5 @@ Follow @Richard Bennett
 <li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-x50i-frp-by-drfone-android/"><u>Full Guide to Bypass Honor X50i FRP</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-12-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 12 Phone Password Without Factory Reset?</u></a></li>
 </ul></div>
+
 

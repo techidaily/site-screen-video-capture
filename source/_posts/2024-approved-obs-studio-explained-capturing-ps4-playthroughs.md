@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  OBS Studio Explained  Capturing PS4 Playthroughs\""
-date: 2024-05-18T14:36:11.842Z
-updated: 2024-05-19T14:36:11.842Z
+date: 2024-05-20T00:50:11.028Z
+updated: 2024-05-21T00:50:11.029Z
 tags: 
   - screen-recording
   - ai video
@@ -371,4 +371,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Realme V30T? | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-applications-for-adding-audio-to-video-in-android-for-2024/"><u>Updated Applications for Adding Audio to Video in Android for 2024</u></a></li>
 </ul></div>
+
 

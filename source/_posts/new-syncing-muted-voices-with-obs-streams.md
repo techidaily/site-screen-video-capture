@@ -1,7 +1,7 @@
 ---
 title: "[New] Syncing Muted Voices with OBS Streams"
-date: 2024-05-18T14:31:38.124Z
-updated: 2024-05-19T14:31:38.124Z
+date: 2024-05-20T00:49:58.125Z
+updated: 2024-05-21T00:49:58.125Z
 tags: 
   - screen-recording
   - ai video
@@ -554,4 +554,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlock-xiaomi-redmi-note-12-proplus-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Xiaomi Redmi Note 12 Pro+ 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-s17t-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo S17t to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 

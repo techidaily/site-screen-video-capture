@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Warrior's Path  A List of Intense Fighting Games\""
-date: 2024-05-18T14:30:44.841Z
-updated: 2024-05-19T14:30:44.841Z
+date: 2024-05-20T00:49:55.744Z
+updated: 2024-05-21T00:49:55.744Z
 tags: 
   - screen-recording
   - ai video
@@ -296,4 +296,5 @@ Follow @Richard Bennett
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-c300-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from C300</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-14-pro-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 14 Pro Activation Lock</u></a></li>
 </ul></div>
+
 

@@ -883,3 +883,4 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-12-mini-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 12 mini to TV or PC? | Dr.fone</u></a></li>
 </ul></div>
 
+

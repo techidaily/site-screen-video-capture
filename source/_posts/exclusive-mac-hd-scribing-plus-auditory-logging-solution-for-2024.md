@@ -476,3 +476,4 @@ The methods that we have discussed here are quite simple and you will get some v
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-motorola-moto-g13-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Motorola Moto G13 Wont Charge | Dr.fone</u></a></li>
 </ul></div>
 
+

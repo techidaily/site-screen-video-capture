@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Expert Tips for PS4 Screen Recordings with OBS"
-date: 2024-05-18T14:23:37.389Z
-updated: 2024-05-19T14:23:37.389Z
+date: 2024-05-20T00:49:34.719Z
+updated: 2024-05-21T00:49:34.719Z
 tags: 
   - screen-recording
   - ai video
@@ -399,4 +399,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-samsung-galaxy-f04-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Samsung Galaxy F04? Fixed | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/mobile-mastery-the-top-10-vlog-editor-apps-you-need-to-know/"><u>Mobile Mastery The Top 10 Vlog Editor Apps You Need to Know</u></a></li>
 </ul></div>
+
 

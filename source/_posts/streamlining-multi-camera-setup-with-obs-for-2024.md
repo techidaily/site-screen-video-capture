@@ -1,7 +1,7 @@
 ---
 title: "\"Streamlining Multi-Camera Setup with OBS for 2024\""
-date: 2024-05-18T14:24:12.752Z
-updated: 2024-05-19T14:24:12.752Z
+date: 2024-05-20T00:49:36.253Z
+updated: 2024-05-21T00:49:36.253Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-sony-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Sony Phone FRP Lock</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Tecno Spark 10C? | Dr.fone</u></a></li>
 </ul></div>
+
 

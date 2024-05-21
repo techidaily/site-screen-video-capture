@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Comprehensive Guide  PS4 Recording via OBS Studio\""
-date: 2024-05-18T14:21:28.128Z
-updated: 2024-05-19T14:21:28.128Z
+date: 2024-05-20T00:49:28.438Z
+updated: 2024-05-21T00:49:28.438Z
 tags: 
   - screen-recording
   - ai video
@@ -384,4 +384,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://sound-tweaking.techidaily.com/top-8-dictation-software-for-windows-mac-and-online/"><u>Top 8 Dictation Software for Windows, Mac, and Online</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/1714190903558-updated-adding-sound-effects-can-make-your-video-more-interesting-and-adorable-setting-the-frequency-of-audio-with-on-screen-visuals-will-invoke-the-viewers/"><u>Updated Adding Sound Effects Can Make Your Video More Interesting and Adorable. Setting the Frequency of Audio with On-Screen Visuals Will Invoke the Viewers Emotions and Attach Them to the Scene for 2024</u></a></li>
 </ul></div>
+
 

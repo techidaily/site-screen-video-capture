@@ -595,3 +595,4 @@ Follow @Richard Bennett
 <li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-redmi-note-12r-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Redmi Note 12R?</u></a></li>
 </ul></div>
 
+

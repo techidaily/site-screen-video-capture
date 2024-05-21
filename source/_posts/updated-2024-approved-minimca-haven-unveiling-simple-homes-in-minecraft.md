@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  MiniMCA Haven  Unveiling Simple Homes in Minecraft\""
-date: 2024-05-18T14:29:18.429Z
-updated: 2024-05-19T14:29:18.429Z
+date: 2024-05-20T00:49:51.248Z
+updated: 2024-05-21T00:49:51.248Z
 tags: 
   - screen-recording
   - ai video
@@ -370,4 +370,5 @@ Follow @Ollie Mattison
 <li><a href="https://audio-editing.techidaily.com/updated-the-sound-detectives-handbook-extracting-silence-from-video-files-in-iosos-x-systems/"><u>Updated The Sound Detectives Handbook Extracting Silence From Video Files in iOS/OS X Systems</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-8-plus-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 8 Plus Passcode without a Computer | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -401,3 +401,4 @@ A screen recorder is an instrument that catches content on your Mac screen and s
 <li><a href="https://ai-voice-clone.techidaily.com/new-ai-script-feature/"><u>New AI Script Feature</u></a></li>
 </ul></div>
 
+

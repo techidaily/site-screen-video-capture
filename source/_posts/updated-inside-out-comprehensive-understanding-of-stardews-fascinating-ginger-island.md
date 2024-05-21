@@ -435,3 +435,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-change-aspect-ratio-of-video/"><u>New In 2024, Change Aspect Ratio of Video</u></a></li>
 </ul></div>
 
+

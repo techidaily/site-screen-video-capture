@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, From Beginner to Pro  Mastering Mi 11 Screen Captures\""
-date: 2024-05-18T14:29:17.083Z
-updated: 2024-05-19T14:29:17.083Z
+date: 2024-05-20T00:49:51.183Z
+updated: 2024-05-21T00:49:51.183Z
 tags: 
   - screen-recording
   - ai video
@@ -610,4 +610,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-young-filmmakers-learn-to-make-your-own-movies/"><u>2024 Approved Young Filmmakers Learn to Make Your Own Movies</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

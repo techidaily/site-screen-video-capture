@@ -763,3 +763,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://techidaily.com/how-do-i-reset-my-tecno-spark-10-4g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Spark 10 4G Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
 
+

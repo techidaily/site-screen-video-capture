@@ -1,7 +1,7 @@
 ---
 title: "\"[New] QuickCapture MiniApp - Windows 10 Version\""
-date: 2024-05-18T14:41:17.306Z
-updated: 2024-05-19T14:41:17.306Z
+date: 2024-05-20T00:50:26.207Z
+updated: 2024-05-21T00:50:26.207Z
 tags: 
   - screen-recording
   - ai video
@@ -429,4 +429,5 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-a15-4g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy A15 4G Reset Code | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-video-editing-tools-for-4k-content/"><u>Updated Top-Rated Video Editing Tools for 4K Content</u></a></li>
 </ul></div>
+
 

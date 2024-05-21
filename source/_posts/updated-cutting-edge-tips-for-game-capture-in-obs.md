@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Cutting-Edge Tips for Game Capture in OBS\""
-date: 2024-05-18T14:34:53.901Z
-updated: 2024-05-19T14:34:53.901Z
+date: 2024-05-20T00:50:07.230Z
+updated: 2024-05-21T00:50:07.230Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Android? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-poco-x6-phone-by-drfone-android/"><u>How to Reset a Locked Poco X6 Phone</u></a></li>
 </ul></div>
+
 

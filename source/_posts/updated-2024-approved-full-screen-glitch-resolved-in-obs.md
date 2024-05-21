@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Full-Screen Glitch Resolved in Obs\""
-date: 2024-05-18T14:37:42.543Z
-updated: 2024-05-19T14:37:42.543Z
+date: 2024-05-20T00:50:14.924Z
+updated: 2024-05-21T00:50:14.924Z
 tags: 
   - screen-recording
   - ai video
@@ -265,4 +265,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-realme-11x-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Realme 11X 5G Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/in-2024-virtualdub-review-does-it-still-hold-up-plus-top-alternatives-to-consider/"><u>In 2024, Virtualdub Review Does It Still Hold Up? Plus, Top Alternatives to Consider</u></a></li>
 </ul></div>
+
 

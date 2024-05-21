@@ -616,3 +616,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://voice-adjusting.techidaily.com/2024-approved-sony-vegas-audio-editor-how-to-edit-audio-in-vegas-pro/"><u>2024 Approved Sony Vegas Audio Editor How to Edit Audio in Vegas Pro</u></a></li>
 </ul></div>
 
+

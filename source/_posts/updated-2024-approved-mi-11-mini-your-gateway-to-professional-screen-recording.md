@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Mi 11 Mini  Your Gateway to Professional Screen Recording\""
-date: 2024-05-18T14:44:04.869Z
-updated: 2024-05-19T14:44:04.869Z
+date: 2024-05-20T00:50:34.322Z
+updated: 2024-05-21T00:50:34.322Z
 tags: 
   - screen-recording
   - ai video
@@ -552,4 +552,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-iphone-13-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From iPhone 13 How to Bypass?</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-best-method-to-split-video-into-parts-online/"><u>New In 2024, Best Method to Split Video Into Parts Online</u></a></li>
 </ul></div>
+
 

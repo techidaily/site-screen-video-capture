@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Simple Steps for Turning Your Smartphone Into an Effective Camera"
-date: 2024-05-18T14:25:00.937Z
-updated: 2024-05-19T14:25:00.937Z
+date: 2024-05-20T00:49:38.647Z
+updated: 2024-05-21T00:49:38.647Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ Follow @Max Wales
 <li><a href="https://audio-editing.techidaily.com/updated-mastering-audio-manipulation-speed-and-pitch-adjustments-in-adobe-rush/"><u>Updated Mastering Audio Manipulation Speed and Pitch Adjustments in Adobe Rush</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-thousands-already-found-15-best-sites-to-watch-cartoons-online-free-and-so-can-you/"><u>New Thousands Already Found 15 Best Sites to Watch Cartoons Online Free And So Can You</u></a></li>
 </ul></div>
+
 

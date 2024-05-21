@@ -1,7 +1,7 @@
 ---
 title: "[New] Beginner's Guide to iPhone Screen Capture"
-date: 2024-05-18T14:28:18.259Z
-updated: 2024-05-19T14:28:18.259Z
+date: 2024-05-20T00:49:48.752Z
+updated: 2024-05-21T00:49:48.752Z
 tags: 
   - screen-recording
   - ai video
@@ -528,4 +528,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-best-free-video-cutting-software-for-mp4-files/"><u>Updated In 2024, Best Free Video Cutting Software for MP4 Files</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-in-2024-discover-the-best-free-green-screen-apps-for-android-and-ios/"><u>New In 2024, Discover the Best Free Green Screen Apps for Android and iOS</u></a></li>
 </ul></div>
+
 

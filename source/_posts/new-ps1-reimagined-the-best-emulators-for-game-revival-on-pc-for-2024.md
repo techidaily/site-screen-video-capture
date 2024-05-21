@@ -396,3 +396,4 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/in-2024-the-ultimate-guide-to-facebook-video-cover-size-and-resolution/"><u>In 2024, The Ultimate Guide to Facebook Video Cover Size and Resolution</u></a></li>
 </ul></div>
 
+

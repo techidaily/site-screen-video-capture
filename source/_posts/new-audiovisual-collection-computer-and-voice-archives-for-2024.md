@@ -770,3 +770,4 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://smart-video-creator.techidaily.com/updated-shaky-footage-no-problem-fcpx-stabilization-techniques/"><u>Updated Shaky Footage? No Problem! FCPX Stabilization Techniques</u></a></li>
 </ul></div>
 
+

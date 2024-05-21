@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Download, Install and Use OBS on Mac"
-date: 2024-05-18T14:36:10.485Z
-updated: 2024-05-19T14:36:10.485Z
+date: 2024-05-20T00:50:10.668Z
+updated: 2024-05-21T00:50:10.668Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://video-creation-software.techidaily.com/updated-in-2024-simplify-your-reaction-video-creation-a-step-by-step-guide-with-filmora/"><u>Updated In 2024, Simplify Your Reaction Video Creation A Step-by-Step Guide with Filmora</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-mastering-the-airwaves-an-in-depth-look-at-the-leading-free-and-paid-podcast-to-text-conversion-applications-for-2024/"><u>New Mastering the Airwaves An In-Depth Look at the Leading Free & Paid Podcast to Text Conversion Applications for 2024</u></a></li>
 </ul></div>
+
 

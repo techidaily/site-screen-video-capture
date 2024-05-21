@@ -534,3 +534,4 @@ If you are confused if you should install Screen Recorder Pro to record your scr
 <li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-infinix-smart-7-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Infinix Smart 7 | Dr.fone</u></a></li>
 </ul></div>
 
+

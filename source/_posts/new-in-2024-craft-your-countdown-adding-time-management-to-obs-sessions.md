@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Craft Your Countdown  Adding Time Management to OBS Sessions\""
-date: 2024-05-18T14:28:41.320Z
-updated: 2024-05-19T14:28:41.320Z
+date: 2024-05-20T00:49:49.731Z
+updated: 2024-05-21T00:49:49.731Z
 tags: 
   - screen-recording
   - ai video
@@ -253,4 +253,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor Play 8T | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-google-pixel-8-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Google Pixel 8 to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

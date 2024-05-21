@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Play to Pause  Save Games via OBS for 2024\""
-date: 2024-05-18T14:24:01.508Z
-updated: 2024-05-19T14:24:01.508Z
+date: 2024-05-20T00:49:35.790Z
+updated: 2024-05-21T00:49:35.790Z
 tags: 
   - screen-recording
   - ai video
@@ -397,4 +397,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Tecno Spark 20 Pro | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Sony Xperia 10 V | Dr.fone</u></a></li>
 </ul></div>
+
 

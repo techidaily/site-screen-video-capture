@@ -1,7 +1,7 @@
 ---
 title: "\"Comprehensive Guide to Live-Streaming with OBS and Platforms for 2024\""
-date: 2024-05-18T14:22:18.081Z
-updated: 2024-05-19T14:22:18.081Z
+date: 2024-05-20T00:49:30.603Z
+updated: 2024-05-21T00:49:30.603Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-6-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 6 Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/add-depth-and-dimension-a-guide-to-creating-3d-videos-on-windows-for-2024/"><u>Add Depth and Dimension A Guide to Creating 3D Videos on Windows for 2024</u></a></li>
 </ul></div>
+
 

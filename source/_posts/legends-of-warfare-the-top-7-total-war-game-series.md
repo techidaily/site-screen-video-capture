@@ -1,7 +1,7 @@
 ---
 title: "\"Legends of Warfare  The Top 7 Total War Game Series\""
-date: 2024-05-18T14:30:13.469Z
-updated: 2024-05-19T14:30:13.469Z
+date: 2024-05-20T00:49:54.203Z
+updated: 2024-05-21T00:49:54.203Z
 tags: 
   - screen-recording
   - ai video
@@ -535,4 +535,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://phone-solutions.techidaily.com/how-can-i-play-mov-files-on-samsung-galaxy-s24plus-by-aiseesoft-video-converter-play-mov-on-android/"><u>How can I play .mov files on Samsung Galaxy S24+ ?</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

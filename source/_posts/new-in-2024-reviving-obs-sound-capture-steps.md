@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Reviving OBS Sound Capture Steps"
-date: 2024-05-18T14:26:24.065Z
-updated: 2024-05-19T14:26:24.065Z
+date: 2024-05-20T00:49:43.106Z
+updated: 2024-05-21T00:49:43.106Z
 tags: 
   - screen-recording
   - ai video
@@ -555,4 +555,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-ultimate-guide-to-aesthetic-audio-enhancer-benefits-drawbacks-and-alternative-options/"><u>New In 2024, The Ultimate Guide to Aesthetic Audio Enhancer Benefits, Drawbacks, and Alternative Options</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-asus-rog-phone-8-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Asus ROG Phone 8 to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

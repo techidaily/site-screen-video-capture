@@ -712,3 +712,4 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://howto.techidaily.com/why-your-nokia-c12-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Nokia C12 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Crafting Traditional Eastern Abodes in MC World\""
-date: 2024-05-18T14:28:41.864Z
-updated: 2024-05-19T14:28:41.864Z
+date: 2024-05-20T00:49:49.745Z
+updated: 2024-05-21T00:49:49.745Z
 tags: 
   - screen-recording
   - ai video
@@ -347,4 +347,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-vdieo-software.techidaily.com/1714065039535-video-resumes-can-be-quite-effective-if-used-in-the-right-context-and-that-is-the-reason-why-weve-decided-to-take-you-through-some-of-the-best-video-resume-/"><u>Video Resumes Can Be Quite Effective if Used in the Right Context, and that Is the Reason Why Weve Decided to Take You Through some of the Best Video Resume Makers You Can Use to Get the Job Youve A for 2024</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-all-about-anime-dubbing-definition-process-cases-and-tips/"><u>Updated All About Anime Dubbing - Definition, Process, Cases & Tips</u></a></li>
 </ul></div>
+
 

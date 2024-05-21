@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Steps to Restore OBS Fullscreen"
-date: 2024-05-18T14:43:11.660Z
-updated: 2024-05-19T14:43:11.660Z
+date: 2024-05-20T00:50:31.871Z
+updated: 2024-05-21T00:50:31.871Z
 tags: 
   - screen-recording
   - ai video
@@ -312,4 +312,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/top-audio-splitter-on-mac-for-2024/"><u>Top Audio Splitter on Mac for 2024</u></a></li>
 </ul></div>
+
 

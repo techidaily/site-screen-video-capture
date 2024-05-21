@@ -492,3 +492,4 @@ Hopefully, you have understood how to record WhatsApp video call on your device.
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-oppo-a18-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Oppo A18</u></a></li>
 </ul></div>
 
+

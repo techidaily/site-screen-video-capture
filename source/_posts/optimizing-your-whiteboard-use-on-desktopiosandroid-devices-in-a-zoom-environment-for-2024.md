@@ -564,3 +564,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-create-a-light-sweep-shine-effect-with-filmora/"><u>New In 2024, How to Create a Light Sweep (Shine) Effect with Filmora</u></a></li>
 </ul></div>
 
+

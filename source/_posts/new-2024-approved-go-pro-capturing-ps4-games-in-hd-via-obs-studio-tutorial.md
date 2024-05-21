@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Go Pro  Capturing PS4 Games in HD via OBS Studio Tutorial\""
-date: 2024-05-18T14:41:07.263Z
-updated: 2024-05-19T14:41:07.263Z
+date: 2024-05-20T00:50:25.408Z
+updated: 2024-05-21T00:50:25.408Z
 tags: 
   - screen-recording
   - ai video
@@ -376,4 +376,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://techidaily.com/best-fixes-for-oppo-find-n3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Find N3 Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-infinix-smart-8-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Infinix Smart 8 Pro Phone</u></a></li>
 </ul></div>
+
 

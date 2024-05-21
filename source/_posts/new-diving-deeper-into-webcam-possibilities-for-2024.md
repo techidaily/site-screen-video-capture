@@ -408,3 +408,4 @@ Follow @Liza Brown
 <li><a href="https://ai-vdieo-software.techidaily.com/prime-video-picture-format-guide/"><u>Prime Video Picture Format Guide</u></a></li>
 </ul></div>
 
+

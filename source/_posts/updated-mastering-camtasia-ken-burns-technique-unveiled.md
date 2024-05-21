@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Camtasia  Ken Burns Technique Unveiled\""
-date: 2024-05-18T14:38:23.526Z
-updated: 2024-05-19T14:38:23.526Z
+date: 2024-05-20T00:50:17.769Z
+updated: 2024-05-21T00:50:17.769Z
 tags: 
   - screen-recording
   - ai video
@@ -347,4 +347,5 @@ Follow @Max Wales
 <li><a href="https://audio-shaping.techidaily.com/new-mastering-audio-visualization-creating-waveforms-and-enhancing-with-animations-in-adobe-premiere-pro/"><u>New Mastering Audio Visualization Creating Waveforms & Enhancing with Animations in Adobe Premiere Pro</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-14-pro-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 14 Pro with a Broken Screen? | Dr.fone</u></a></li>
 </ul></div>
+
 

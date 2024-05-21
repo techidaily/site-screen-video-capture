@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Techniques to Troubleshoot Silent OBS Sessions for 2024"
-date: 2024-05-18T14:24:05.610Z
-updated: 2024-05-19T14:24:05.610Z
+date: 2024-05-20T00:49:35.992Z
+updated: 2024-05-21T00:49:35.992Z
 tags: 
   - screen-recording
   - ai video
@@ -567,4 +567,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-15-best-video-editing-courses-online-with-certificate-free-paid/"><u>Updated In 2024, 15 Best Video Editing Courses Online with Certificate Free $ Paid</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-s23-fe-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy S23 FE Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
+
 

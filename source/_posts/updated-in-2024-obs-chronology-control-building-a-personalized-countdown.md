@@ -265,3 +265,4 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-splitting-audio-from-a-video-in-sony-vegas-step-by-step/"><u>New 2024 Approved Splitting Audio From a Video in Sony Vegas Step by Step</u></a></li>
 </ul></div>
 
+

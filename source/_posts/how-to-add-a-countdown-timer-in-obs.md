@@ -1,7 +1,7 @@
 ---
 title: "How To Add a Countdown Timer in OBS"
-date: 2024-05-18T14:45:00.700Z
-updated: 2024-05-19T14:45:00.700Z
+date: 2024-05-20T00:50:37.109Z
+updated: 2024-05-21T00:50:37.109Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-a79-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo A79 5G?</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-list-of-free-video-loopers-for-windows-and-macos/"><u>New 2024 Approved The Ultimate List of Free Video Loopers for Windows and macOS</u></a></li>
 </ul></div>
+
 

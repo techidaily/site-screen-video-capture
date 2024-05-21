@@ -1,7 +1,7 @@
 ---
 title: "\"OBS Utilization  Comprehensive Gameplay Recording\""
-date: 2024-05-18T14:28:49.534Z
-updated: 2024-05-19T14:28:49.534Z
+date: 2024-05-20T00:49:50.008Z
+updated: 2024-05-21T00:49:50.008Z
 tags: 
   - screen-recording
   - ai video
@@ -424,4 +424,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c51-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme C51 Phone with Broken Screen</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 

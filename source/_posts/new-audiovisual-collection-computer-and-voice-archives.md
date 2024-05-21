@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Audiovisual Collection  Computer & Voice Archives\""
-date: 2024-05-18T14:45:30.490Z
-updated: 2024-05-19T14:45:30.490Z
+date: 2024-05-20T00:50:38.374Z
+updated: 2024-05-21T00:50:38.374Z
 tags: 
   - screen-recording
   - ai video
@@ -781,4 +781,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-an-easy-to-understand-guide-on-how-to-loop-a-video-on-canva-this-article-is-sure-to-help-you-if-this-is-your-first-time-attempting-a-loop-vi/"><u>Updated In 2024, An Easy-to-Understand Guide on How to Loop a Video on Canva. This Article Is Sure to Help You if This Is Your First Time Attempting a Loop Video</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/in-2024-harmonizing-vision-and-sound-discover-the-most-trusted-applications-for-adding-music-to-visual-narratives/"><u>In 2024, Harmonizing Vision & Sound Discover the Most Trusted Applications for Adding Music to Visual Narratives</u></a></li>
 </ul></div>
+
 

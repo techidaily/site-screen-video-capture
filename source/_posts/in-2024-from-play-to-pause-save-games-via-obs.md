@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Play to Pause  Save Games via OBS\""
-date: 2024-05-18T14:30:29.425Z
-updated: 2024-05-19T14:30:29.425Z
+date: 2024-05-20T00:49:54.839Z
+updated: 2024-05-21T00:49:54.839Z
 tags: 
   - screen-recording
   - ai video
@@ -400,4 +400,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-how-to-run-windows-and-mac-os-video-editing-apps-on-your-chromebook/"><u>Updated In 2024, How to Run Windows and Mac OS Video Editing Apps on Your Chromebook</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-poco-x6-by-fonelab-android-recover-music/"><u>How to restore wiped music on Poco X6</u></a></li>
 </ul></div>
+
 

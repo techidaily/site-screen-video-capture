@@ -278,3 +278,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://smart-video-editing.techidaily.com/updated-solve-common-fcpx-problems-with-a-simple-reset/"><u>Updated Solve Common FCPX Problems with a Simple Reset</u></a></li>
 </ul></div>
 
+

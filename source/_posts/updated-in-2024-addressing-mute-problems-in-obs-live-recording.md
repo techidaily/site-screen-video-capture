@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Addressing Mute Problems in OBS Live Recording"
-date: 2024-05-18T14:33:48.746Z
-updated: 2024-05-19T14:33:48.746Z
+date: 2024-05-20T00:50:04.283Z
+updated: 2024-05-21T00:50:04.283Z
 tags: 
   - screen-recording
   - ai video
@@ -575,4 +575,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-video-editing.techidaily.com/how-to-zoom-in-and-out-on-mac-for-2024/"><u>How to Zoom In and Out on Mac for 2024</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/how-to-select-the-best-mac-mp3-tag-editor-in-2024/"><u>How To Select the Best Mac MP3 Tag Editor, In 2024</u></a></li>
 </ul></div>
+
 

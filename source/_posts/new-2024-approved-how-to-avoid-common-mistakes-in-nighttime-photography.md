@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Avoid Common Mistakes in Nighttime Photography\""
-date: 2024-05-18T14:33:06.768Z
-updated: 2024-05-19T14:33:06.768Z
+date: 2024-05-20T00:50:02.340Z
+updated: 2024-05-21T00:50:02.340Z
 tags: 
   - screen-recording
   - ai video
@@ -182,4 +182,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-apple-iphone-15-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track WhatsApp Messages on Apple iPhone 15 Without Them Knowing? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-m54-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy M54 5G Location without Installing Software? | Dr.fone</u></a></li>
 </ul></div>
+
 

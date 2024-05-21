@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Use a Whiteboard in Google Meet on Laptop/iPhone/Android"
-date: 2024-05-18T14:32:38.853Z
-updated: 2024-05-19T14:32:38.853Z
+date: 2024-05-20T00:50:01.098Z
+updated: 2024-05-21T00:50:01.098Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-6-best-text-to-speech-generators-for-youtube-videos-windows-mac-android-iphone-and-online/"><u>2024 Approved 6 Best Text to Speech Generators for YouTube Videos Windows, Mac, Android, iPhone & Online</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/the-best-english-voice-generator-to-convert-text-into-desired-accent/"><u>The Best English Voice Generator To Convert Text Into Desired Accent</u></a></li>
 </ul></div>
+
 

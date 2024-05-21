@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Pro Tips  Configuring Stopwatches in OBS Studio\""
-date: 2024-05-18T14:26:23.795Z
-updated: 2024-05-19T14:26:23.795Z
+date: 2024-05-20T00:49:43.096Z
+updated: 2024-05-21T00:49:43.096Z
 tags: 
   - screen-recording
   - ai video
@@ -269,4 +269,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Lava Storm 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/the-top-4k-video-editing-solutions-for-professionals/"><u>The Top 4K Video Editing Solutions for Professionals</u></a></li>
 </ul></div>
+
 

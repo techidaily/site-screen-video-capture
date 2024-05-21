@@ -595,3 +595,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://ai-editing-video.techidaily.com/new-split-a-clip-in-davinci-resolve-step-by-step/"><u>New Split a Clip in DaVinci Resolve Step by Step</u></a></li>
 </ul></div>
 
+

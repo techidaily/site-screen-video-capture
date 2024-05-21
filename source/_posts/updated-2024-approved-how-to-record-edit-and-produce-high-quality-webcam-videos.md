@@ -516,3 +516,4 @@ Follow @Max Wales
 <li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-xiaomi-redmi-note-12-pro-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Xiaomi Redmi Note 12 Pro 5G?</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Effortlessly Record Audio on Your Mac Using Audacity for 2024"
-date: 2024-05-18T14:45:24.765Z
-updated: 2024-05-19T14:45:24.765Z
+date: 2024-05-20T00:50:38.191Z
+updated: 2024-05-21T00:50:38.191Z
 tags: 
   - screen-recording
   - ai video
@@ -272,4 +272,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-from-fast-to-slow-a-comprehensive-guide-to-windows-live-movie-makers-slow-motion-effect/"><u>New 2024 Approved From Fast to Slow A Comprehensive Guide to Windows Live Movie Makers Slow Motion Effect</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-avchd-video-editing-the-top-5-software-options-this-year/"><u>New 2024 Approved AVCHD Video Editing The Top 5 Software Options This Year</u></a></li>
 </ul></div>
+
 

@@ -466,3 +466,4 @@ This is an amazing app as it does everything that you want it to and more. Altho
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-a-oppo-a18-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo A18 Phone that is Locked?</u></a></li>
 </ul></div>
 
+

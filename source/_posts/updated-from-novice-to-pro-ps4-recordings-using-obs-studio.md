@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Novice to Pro  PS4 Recordings Using OBS Studio\""
-date: 2024-05-18T14:40:31.566Z
-updated: 2024-05-19T14:40:31.566Z
+date: 2024-05-20T00:50:23.733Z
+updated: 2024-05-21T00:50:23.733Z
 tags: 
   - screen-recording
   - ai video
@@ -393,4 +393,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-find-n3-flip-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo Find N3 Flip by Name | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-play-7t-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor Play 7T Wont Charge | Dr.fone</u></a></li>
 </ul></div>
+
 

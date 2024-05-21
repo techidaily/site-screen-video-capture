@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Simplify Your Mac's Sound Recording Journey with Audacity"
-date: 2024-05-18T14:43:35.519Z
-updated: 2024-05-19T14:43:35.519Z
+date: 2024-05-20T00:50:33.044Z
+updated: 2024-05-21T00:50:33.044Z
 tags: 
   - screen-recording
   - ai video
@@ -302,4 +302,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://sound-tweaking.techidaily.com/in-2024-must-try-list-of-prime-song-capture-technology-for-fans/"><u>In 2024, Must-Try List of Prime Song Capture Technology for Fans</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-7-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 7 Plus Lock Screen with Notifications?</u></a></li>
 </ul></div>
+
 

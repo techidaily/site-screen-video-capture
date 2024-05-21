@@ -1,7 +1,7 @@
 ---
 title: "\"Masterclass in Elegance  Blurring Borders for Zoom\""
-date: 2024-05-18T14:45:00.972Z
-updated: 2024-05-19T14:45:00.972Z
+date: 2024-05-20T00:50:37.114Z
+updated: 2024-05-21T00:50:37.114Z
 tags: 
   - screen-recording
   - ai video
@@ -660,4 +660,5 @@ Follow @Richard Bennett
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo A78 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-make-your-videos-pop-top-text-animation-apps-for-android-and-ios-for-2024/"><u>New Make Your Videos Pop Top Text Animation Apps for Android and iOS for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"AudioAnalyzer  Reaction to Recordings\""
-date: 2024-05-18T14:42:01.611Z
-updated: 2024-05-19T14:42:01.611Z
+date: 2024-05-20T00:50:28.281Z
+updated: 2024-05-21T00:50:28.281Z
 tags: 
   - screen-recording
   - ai video
@@ -404,4 +404,5 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://audio-editing.techidaily.com/updated-2024-approved-solemn-sonatas-classic-music-selections-to-enhance-wedding-cinematography/"><u>Updated 2024 Approved Solemn Sonatas Classic Music Selections to Enhance Wedding Cinematography</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

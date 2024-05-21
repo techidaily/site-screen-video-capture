@@ -981,3 +981,4 @@ By reading this passage, you must know how easy could be to capture and record y
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-10-animated-text-tools-you-need-to-try-this-year/"><u>New In 2024, Top 10 Animated Text Tools You Need to Try This Year</u></a></li>
 </ul></div>
 
+

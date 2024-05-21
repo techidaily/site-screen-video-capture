@@ -447,3 +447,4 @@ The methods that we have discussed here are quite simple and you will get some v
 <li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-lava-blaze-2-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Lava Blaze 2?</u></a></li>
 </ul></div>
 
+

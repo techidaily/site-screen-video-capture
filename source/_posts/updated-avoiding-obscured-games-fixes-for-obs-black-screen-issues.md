@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Avoiding Obscured Games  Fixes for OBS Black Screen Issues\""
-date: 2024-05-18T14:22:17.535Z
-updated: 2024-05-19T14:22:17.535Z
+date: 2024-05-20T00:49:30.588Z
+updated: 2024-05-21T00:49:30.588Z
 tags: 
   - screen-recording
   - ai video
@@ -268,4 +268,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-ninja-jump-effect/"><u>Updated How To Make Ninja Jump Effect</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/the-remote-auditory-engineers-toolkit-optimizing-playback-velocity-and-harmonic-content-online/"><u>The Remote Auditory Engineers Toolkit Optimizing Playback Velocity and Harmonic Content Online</u></a></li>
 </ul></div>
+
 

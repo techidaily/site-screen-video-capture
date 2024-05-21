@@ -1,7 +1,7 @@
 ---
 title: "[New] Windows 10 Capture MiniApp"
-date: 2024-05-18T14:33:20.695Z
-updated: 2024-05-19T14:33:20.695Z
+date: 2024-05-20T00:50:03.056Z
+updated: 2024-05-21T00:50:03.056Z
 tags: 
   - screen-recording
   - ai video
@@ -460,4 +460,5 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oppo-find-x6-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Oppo Find X6? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/top-5-online-video-converter-for-instagram-2024/"><u>Top 5 Online Video Converter for Instagram 2024</u></a></li>
 </ul></div>
+
 

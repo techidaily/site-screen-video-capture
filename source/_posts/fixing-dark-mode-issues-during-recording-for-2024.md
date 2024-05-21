@@ -1,7 +1,7 @@
 ---
 title: "Fixing Dark Mode Issues During Recording for 2024"
-date: 2024-05-18T14:29:23.553Z
-updated: 2024-05-19T14:29:23.553Z
+date: 2024-05-20T00:49:51.498Z
+updated: 2024-05-21T00:49:51.498Z
 tags: 
   - screen-recording
   - ai video
@@ -295,4 +295,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unlock-fcpx-best-online-courses-tutorials-and-websites/"><u>Updated 2024 Approved Unlock FCPX Best Online Courses, Tutorials, and Websites</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-6s-plus-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 6s Plus Data Completely | Dr.fone</u></a></li>
 </ul></div>
+
 

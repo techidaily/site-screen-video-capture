@@ -526,3 +526,4 @@ Follow @Max Wales
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-xiaomi-redmi-note-12-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Xiaomi Redmi Note 12 5G to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
 
+

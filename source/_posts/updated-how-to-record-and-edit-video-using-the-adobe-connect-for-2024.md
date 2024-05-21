@@ -397,3 +397,4 @@ Follow @Max Wales
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-mastery-top-tutorials-and-resources/"><u>Updated FCPX Mastery Top Tutorials and Resources</u></a></li>
 </ul></div>
 
+

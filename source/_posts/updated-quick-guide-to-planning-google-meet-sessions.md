@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quick Guide to Planning Google Meet Sessions"
-date: 2024-05-18T14:26:33.331Z
-updated: 2024-05-19T14:26:33.331Z
+date: 2024-05-20T00:49:43.520Z
+updated: 2024-05-21T00:49:43.520Z
 tags: 
   - screen-recording
   - ai video
@@ -661,4 +661,5 @@ You can share links of the meetings you have created, join with links, schedule 
 <li><a href="https://audio-editing.techidaily.com/new-in-2024-find-brush-sound-effect/"><u>New In 2024, Find Brush Sound Effect</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-cutting-the-chatter-a-guide-to-isolating-and-removing-vocals-in-music-productions-using-audacity/"><u>Updated 2024 Approved Cutting the Chatter A Guide to Isolating and Removing Vocals in Music Productions Using Audacity</u></a></li>
 </ul></div>
+
 

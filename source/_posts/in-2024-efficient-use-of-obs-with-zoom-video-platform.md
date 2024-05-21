@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Efficient Use of OBS with Zoom Video Platform"
-date: 2024-05-18T14:26:45.667Z
-updated: 2024-05-19T14:26:45.667Z
+date: 2024-05-20T00:49:44.041Z
+updated: 2024-05-21T00:49:44.041Z
 tags: 
   - screen-recording
   - ai video
@@ -395,4 +395,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-the-seamless-audio-journey-crafting-subtle-volume-transitions-in-adobe-after-effects/"><u>Updated The Seamless Audio Journey Crafting Subtle Volume Transitions in Adobe After Effects</u></a></li>
 </ul></div>
+
 

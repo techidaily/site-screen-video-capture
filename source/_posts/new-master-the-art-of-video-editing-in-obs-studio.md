@@ -1,7 +1,7 @@
 ---
 title: "[New] Master the Art of Video Editing in OBS Studio"
-date: 2024-05-18T14:46:54.138Z
-updated: 2024-05-19T14:46:54.138Z
+date: 2024-05-20T00:50:42.327Z
+updated: 2024-05-21T00:50:42.327Z
 tags: 
   - screen-recording
   - ai video
@@ -537,4 +537,5 @@ Open Broadcaster Program, also known as OBS, is a free open-source software for 
 <li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-g2-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo G2 Phone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-12-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 12 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 </ul></div>
+
 

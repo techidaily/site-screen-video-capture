@@ -414,3 +414,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-create-a-custom-sequence-preset-in-premiere-pro/"><u>2024 Approved How to Create a Custom Sequence Preset in Premiere Pro</u></a></li>
 </ul></div>
 
+

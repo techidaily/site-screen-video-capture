@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Game Capture  A Guide to Using OBS\""
-date: 2024-05-18T14:38:20.796Z
-updated: 2024-05-19T14:38:20.796Z
+date: 2024-05-20T00:50:17.621Z
+updated: 2024-05-21T00:50:17.621Z
 tags: 
   - screen-recording
   - ai video
@@ -403,4 +403,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-13c-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Xiaomi Redmi 13C</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/the-smartest-spots-to-download-trendy-whoosh-sounds-online-for-2024/"><u>The Smartest Spots to Download Trendy Whoosh Sounds Online for 2024</u></a></li>
 </ul></div>
+
 

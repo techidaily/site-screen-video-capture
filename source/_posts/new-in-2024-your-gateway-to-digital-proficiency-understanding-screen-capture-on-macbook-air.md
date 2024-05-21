@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Your Gateway to Digital Proficiency  Understanding Screen Capture on MacBook Air\""
-date: 2024-05-18T14:37:28.380Z
-updated: 2024-05-19T14:37:28.380Z
+date: 2024-05-20T00:50:14.267Z
+updated: 2024-05-21T00:50:14.268Z
 tags: 
   - screen-recording
   - ai video
@@ -335,4 +335,5 @@ There may be other tools and screen recorders in the market available for your M
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Oppo A78 | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/save-money-get-great-images-free-commercial-image-alternatives/"><u>Save Money, Get Great Images Free Commercial Image Alternatives</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] FireCapture Pro for FF"
-date: 2024-05-18T14:43:53.375Z
-updated: 2024-05-19T14:43:53.375Z
+date: 2024-05-20T00:50:33.890Z
+updated: 2024-05-21T00:50:33.890Z
 tags: 
   - screen-recording
   - ai video
@@ -690,4 +690,5 @@ Assuming you need to record the substance when perusing sites utilizing Firefox,
 <li><a href="https://ai-editing-video.techidaily.com/how-to-remove-audio-from-videos-with-ffmpeg-for-2024/"><u>How to Remove Audio From Videos with FFmpeg for 2024</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s23-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S23 in 5 Easy Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

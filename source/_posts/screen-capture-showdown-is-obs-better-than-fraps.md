@@ -1,7 +1,7 @@
 ---
 title: "\"Screen Capture Showdown  Is OBS Better Than Fraps?\""
-date: 2024-05-18T14:38:21.345Z
-updated: 2024-05-19T14:38:21.345Z
+date: 2024-05-20T00:50:17.658Z
+updated: 2024-05-21T00:50:17.658Z
 tags: 
   - screen-recording
   - ai video
@@ -249,4 +249,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-xiaomi-redmi-note-13-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Xiaomi Redmi Note 13 Pro 5G Devices</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-complete-pexels-primer-knowledge-essential-for-graphic-designers-and-marketers/"><u>New 2024 Approved The Complete Pexels Primer Knowledge Essential for Graphic Designers and Marketers</u></a></li>
 </ul></div>
+
 

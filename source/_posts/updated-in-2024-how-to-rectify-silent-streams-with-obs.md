@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Rectify Silent Streams with OBS"
-date: 2024-05-18T14:36:54.982Z
-updated: 2024-05-19T14:36:54.982Z
+date: 2024-05-20T00:50:12.821Z
+updated: 2024-05-21T00:50:12.821Z
 tags: 
   - screen-recording
   - ai video
@@ -549,4 +549,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-s-best-free-video-editing-tools-for-32-bit-windows-users/"><u>2024 Approved S Best Free Video Editing Tools for 32-Bit Windows Users</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-nord-ce-3-lite-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Nord CE 3 Lite 5G without backup.</u></a></li>
 </ul></div>
+
 

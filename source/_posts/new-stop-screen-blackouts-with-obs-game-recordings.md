@@ -1,7 +1,7 @@
 ---
 title: "[New] Stop Screen Blackouts with OBS Game Recordings"
-date: 2024-05-18T14:27:34.100Z
-updated: 2024-05-19T14:27:34.100Z
+date: 2024-05-20T00:49:46.399Z
+updated: 2024-05-21T00:49:46.399Z
 tags: 
   - screen-recording
   - ai video
@@ -277,4 +277,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Honor Magic 6 Pro | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-you-cast-your-apple-iphone-6-plus-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>In 2024, How Can You Cast Your Apple iPhone 6 Plus to Windows PC With Ease? | Dr.fone</u></a></li>
 </ul></div>
+
 

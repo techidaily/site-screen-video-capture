@@ -280,3 +280,4 @@ Yes. Google Translate is a free speech to text service available for Windows, iO
 <li><a href="https://sound-tweaking.techidaily.com/new-the-complete-manual-of-sound-control-enhancing-your-live-stream-with-obs-ducking/"><u>New The Complete Manual of Sound Control Enhancing Your Live Stream with OBS Ducking</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Discovering the Power of Fraps in Video Capture"
-date: 2024-05-18T14:45:31.836Z
-updated: 2024-05-19T14:45:31.836Z
+date: 2024-05-20T00:50:38.447Z
+updated: 2024-05-21T00:50:38.447Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-edge-40-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Edge 40 ProFRP Lock</u></a></li>
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Infinix Smart 8 HD | Dr.fone</u></a></li>
 </ul></div>
+
 

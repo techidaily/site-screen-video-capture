@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Mastering PS4 Game Capture via OBS Studio"
-date: 2024-05-18T14:26:09.014Z
-updated: 2024-05-19T14:26:09.014Z
+date: 2024-05-20T00:49:42.109Z
+updated: 2024-05-21T00:49:42.109Z
 tags: 
   - screen-recording
   - ai video
@@ -405,4 +405,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-unlocking-free-speech-transcription-a-triad-of-simple-approaches/"><u>New 2024 Approved Unlocking Free Speech Transcription - A Triad of Simple Approaches</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-2024-approved-8-best-cartoon-sound-effects-you-can-download/"><u>New 2024 Approved 8 Best Cartoon Sound Effects You Can Download</u></a></li>
 </ul></div>
+
 

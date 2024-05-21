@@ -1,7 +1,7 @@
 ---
 title: "Choosing Between OBS and Fraps for Excellent Screen Capture"
-date: 2024-05-18T14:30:46.195Z
-updated: 2024-05-19T14:30:46.195Z
+date: 2024-05-20T00:49:55.801Z
+updated: 2024-05-21T00:49:55.801Z
 tags: 
   - screen-recording
   - ai video
@@ -295,4 +295,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-top-time-lapse-camera-apps-for-mobile-devices-2023-update/"><u>New 2024 Approved Top Time-Lapse Camera Apps for Mobile Devices (2023 Update)</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-v27e-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo V27e?</u></a></li>
 </ul></div>
+
 

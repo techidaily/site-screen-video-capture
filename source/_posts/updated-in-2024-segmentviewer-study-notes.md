@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, SegmentViewer Study Notes"
-date: 2024-05-18T14:36:58.799Z
-updated: 2024-05-19T14:36:58.799Z
+date: 2024-05-20T00:50:12.981Z
+updated: 2024-05-21T00:50:12.981Z
 tags: 
   - screen-recording
   - ai video
@@ -210,4 +210,5 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-netflix-subtitle-translation-methods-comprehensive-guide/"><u>Updated 2024 Approved Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
 <li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

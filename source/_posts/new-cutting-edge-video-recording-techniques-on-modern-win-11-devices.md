@@ -685,3 +685,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi ?</u></a></li>
 </ul></div>
 
+

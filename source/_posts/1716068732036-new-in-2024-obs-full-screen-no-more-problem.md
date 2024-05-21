@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Obs Full-Screen No More Problem!\""
-date: 2024-05-18T14:26:12.854Z
-updated: 2024-05-19T14:26:12.854Z
+date: 2024-05-20T00:49:42.263Z
+updated: 2024-05-21T00:49:42.263Z
 tags: 
   - screen-recording
   - ai video
@@ -284,4 +284,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-12-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 12</u></a></li>
 </ul></div>
+
 

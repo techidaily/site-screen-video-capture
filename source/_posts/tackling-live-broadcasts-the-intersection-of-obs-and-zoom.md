@@ -1,7 +1,7 @@
 ---
 title: "\"Tackling Live Broadcasts  The Intersection of OBS and Zoom\""
-date: 2024-05-18T14:24:26.688Z
-updated: 2024-05-19T14:24:26.688Z
+date: 2024-05-20T00:49:36.901Z
+updated: 2024-05-21T00:49:36.901Z
 tags: 
   - screen-recording
   - ai video
@@ -431,4 +431,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://smart-video-creator.techidaily.com/new-create-viral-memes-with-these-10-top-rated-mobile-apps-for-2024/"><u>New Create Viral Memes with These 10 Top-Rated Mobile Apps for 2024</u></a></li>
 <li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-defy-2-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Defy 2, is it possible?</u></a></li>
 </ul></div>
+
 

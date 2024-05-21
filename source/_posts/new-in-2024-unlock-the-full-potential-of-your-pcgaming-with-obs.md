@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Unlock the Full Potential of Your PC/Gaming with OBS"
-date: 2024-05-18T14:34:15.201Z
-updated: 2024-05-19T14:34:15.201Z
+date: 2024-05-20T00:50:05.244Z
+updated: 2024-05-21T00:50:05.244Z
 tags: 
   - screen-recording
   - ai video
@@ -399,4 +399,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-x-flip-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo X Flip Devices | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-get-steady-top-rated-video-stabilization-softwa/"><u>2024 Approved Get Steady Top-Rated Video Stabilization Softwa</u></a></li>
 </ul></div>
+
 

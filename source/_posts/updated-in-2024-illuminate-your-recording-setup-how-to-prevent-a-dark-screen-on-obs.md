@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Illuminate Your Recording Setup  How to Prevent a Dark Screen on OBS\""
-date: 2024-05-18T14:43:31.976Z
-updated: 2024-05-19T14:43:31.976Z
+date: 2024-05-20T00:50:32.886Z
+updated: 2024-05-21T00:50:32.886Z
 tags: 
   - screen-recording
   - ai video
@@ -285,4 +285,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-6-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 6 Plus Without iTunes? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-which-video-editor-reigns-supreme-final-cut-pro-vs-lumafusion/"><u>New In 2024, Which Video Editor Reigns Supreme? Final Cut Pro vs LumaFusion</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Correcting Missed Audio Segments in OBS Recordings"
-date: 2024-05-18T14:36:34.903Z
-updated: 2024-05-19T14:36:34.903Z
+date: 2024-05-20T00:50:12.002Z
+updated: 2024-05-21T00:50:12.002Z
 tags: 
   - screen-recording
   - ai video
@@ -561,4 +561,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://howto.techidaily.com/why-your-vivo-s17-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo S17 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

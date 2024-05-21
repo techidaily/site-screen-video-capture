@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Transform Your Playtime  Mastering PS4 Live Recordings with OBS\""
-date: 2024-05-18T14:37:45.250Z
-updated: 2024-05-19T14:37:45.250Z
+date: 2024-05-20T00:50:15.074Z
+updated: 2024-05-21T00:50:15.074Z
 tags: 
   - screen-recording
   - ai video
@@ -388,4 +388,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-fast-forward-to-success-creating-stunning-time-lapses-in-final-cut-pro/"><u>2024 Approved Fast Forward to Success Creating Stunning Time Lapses in Final Cut Pro</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-xs-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone XS without Data Loss? | Dr.fone</u></a></li>
 </ul></div>
+
 

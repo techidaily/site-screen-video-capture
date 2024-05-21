@@ -590,3 +590,4 @@ You can agree with me that this screen catch application has a decent portion of
 <li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-field-to-a-word-2013-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature field to a Word 2013</u></a></li>
 </ul></div>
 
+

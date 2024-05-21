@@ -1,7 +1,7 @@
 ---
 title: "\"How to Ensure Consistent Frame Rates in Multi-Camera Setups\""
-date: 2024-05-18T14:33:43.050Z
-updated: 2024-05-19T14:33:43.050Z
+date: 2024-05-20T00:50:04.061Z
+updated: 2024-05-21T00:50:04.061Z
 tags: 
   - screen-recording
   - ai video
@@ -575,4 +575,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-x9b-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Honor X9b to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-nokia-c02-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Nokia C02 FRP</u></a></li>
 </ul></div>
+
 

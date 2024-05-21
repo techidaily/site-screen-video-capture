@@ -180,3 +180,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-a2-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Oppo A2 | Dr.fone</u></a></li>
 </ul></div>
 
+

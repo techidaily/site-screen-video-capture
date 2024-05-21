@@ -1,7 +1,7 @@
 ---
 title: "\"Solo Mastery  How to Turn Off Apex Legends' Cross-Play Feature\""
-date: 2024-05-18T14:22:16.987Z
-updated: 2024-05-19T14:22:16.987Z
+date: 2024-05-20T00:49:30.559Z
+updated: 2024-05-21T00:49:30.559Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ Follow @Richard Bennett
 <li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-14-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 14 Without a Home Button | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-budget-friendly-video-editing-top-free-imovie-alternatives/"><u>New 2024 Approved Budget-Friendly Video Editing Top Free iMovie Alternatives</u></a></li>
 </ul></div>
+
 

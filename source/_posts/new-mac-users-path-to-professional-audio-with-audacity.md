@@ -1,7 +1,7 @@
 ---
 title: "[New] Mac Users' Path to Professional Audio with Audacity"
-date: 2024-05-18T14:27:48.768Z
-updated: 2024-05-19T14:27:48.768Z
+date: 2024-05-20T00:49:47.119Z
+updated: 2024-05-21T00:49:47.119Z
 tags: 
   - screen-recording
   - ai video
@@ -295,4 +295,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-stop-motion-made-easy-a-beginners-guide-to-studio-and-alternatives/"><u>Updated 2024 Approved Stop Motion Made Easy A Beginners Guide to Studio and Alternatives</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-the-art-of-panning-and-zooming-a-ken-burns-effect-tutorial/"><u>New The Art of Panning and Zooming A Ken Burns Effect Tutorial</u></a></li>
 </ul></div>
+
 

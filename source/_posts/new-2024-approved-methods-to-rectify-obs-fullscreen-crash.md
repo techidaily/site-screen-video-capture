@@ -287,3 +287,4 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://voice-adjusting.techidaily.com/updated-explore-whispered-complaint-samples-for-2024/"><u>Updated Explore Whispered Complaint Samples for 2024</u></a></li>
 </ul></div>
 
+

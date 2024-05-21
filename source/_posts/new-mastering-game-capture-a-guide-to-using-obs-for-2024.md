@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Game Capture  A Guide to Using OBS for 2024\""
-date: 2024-05-18T14:42:26.580Z
-updated: 2024-05-19T14:42:26.580Z
+date: 2024-05-20T00:50:29.535Z
+updated: 2024-05-21T00:50:29.535Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-poco-m6-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Poco M6 5G | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Motorola Moto G34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

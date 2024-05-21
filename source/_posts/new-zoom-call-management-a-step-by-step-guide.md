@@ -818,3 +818,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-editing.techidaily.com/are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-thumbnail-for-2024/"><u>Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail for 2024</u></a></li>
 </ul></div>
 
+

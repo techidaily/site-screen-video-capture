@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Recordings to Live  An OBS Guide to YouTube and Twitch Streaming\""
-date: 2024-05-18T14:34:59.307Z
-updated: 2024-05-19T14:34:59.307Z
+date: 2024-05-20T00:50:07.425Z
+updated: 2024-05-21T00:50:07.425Z
 tags: 
   - screen-recording
   - ai video
@@ -189,4 +189,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-poco-c51-device-sim-by-drfone-android/"><u>Easily Unlock Your Poco C51 Device SIM</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6s-plus-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6s Plus to the Previous iOS System Version? | Dr.fone</u></a></li>
 </ul></div>
+
 

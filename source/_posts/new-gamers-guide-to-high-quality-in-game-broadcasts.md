@@ -592,3 +592,4 @@ A catch card is a gadget that can be associated with a PC to record on-screen co
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-12-mini-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 12 mini to Mac? | Dr.fone</u></a></li>
 </ul></div>
 
+

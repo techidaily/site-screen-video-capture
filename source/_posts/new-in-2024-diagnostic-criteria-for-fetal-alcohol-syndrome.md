@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Diagnostic Criteria for Fetal Alcohol Syndrome"
-date: 2024-05-18T14:42:58.949Z
-updated: 2024-05-19T14:42:58.949Z
+date: 2024-05-20T00:50:31.244Z
+updated: 2024-05-21T00:50:31.244Z
 tags: 
   - screen-recording
   - ai video
@@ -913,4 +913,5 @@ Follow @Richard Bennett
 <li><a href="https://video-content-creator.techidaily.com/new-make-a-face-for-free-best-online-generators-and-makers/"><u>New Make a Face for Free Best Online Generators and Makers</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-poco-m6-pro-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Poco M6 Pro 5G Phone Pattern Lock</u></a></li>
 </ul></div>
+
 

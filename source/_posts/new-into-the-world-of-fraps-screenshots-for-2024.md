@@ -1,7 +1,7 @@
 ---
 title: "[New] Into the World of Fraps Screenshots for 2024"
-date: 2024-05-18T14:40:26.705Z
-updated: 2024-05-19T14:40:26.705Z
+date: 2024-05-20T00:50:23.465Z
+updated: 2024-05-21T00:50:23.465Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-vdieo-software.techidaily.com/new-steady-as-a-rock-mastering-video-stabilization-in-adobe-premiere-pro/"><u>New Steady as a Rock Mastering Video Stabilization in Adobe Premiere Pro</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-google-pixel-8-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Google Pixel 8 To iPhone 15/14/13? | Dr.fone</u></a></li>
 </ul></div>
+
 

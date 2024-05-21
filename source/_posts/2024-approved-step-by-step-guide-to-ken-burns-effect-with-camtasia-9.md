@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step Guide to Ken Burns Effect with Camtasia 9\""
-date: 2024-05-18T14:22:35.271Z
-updated: 2024-05-19T14:22:35.271Z
+date: 2024-05-20T00:49:31.407Z
+updated: 2024-05-21T00:49:31.407Z
 tags: 
   - screen-recording
   - ai video
@@ -352,4 +352,5 @@ Follow @Max Wales
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-secrets-for-tiktok-live-studio-success/"><u>In 2024, Secrets for TikTok Live Studio Success</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia C02 | Dr.fone</u></a></li>
 </ul></div>
+
 

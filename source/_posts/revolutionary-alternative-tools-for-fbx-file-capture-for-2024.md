@@ -547,3 +547,4 @@ If you are facing FBX recorder not working issue or you are not satisfied with t
 <li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-samsung-galaxy-xcover-7-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Samsung Galaxy XCover 7?</u></a></li>
 </ul></div>
 
+

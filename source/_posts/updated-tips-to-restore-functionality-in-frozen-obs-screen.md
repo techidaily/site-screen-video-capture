@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tips to Restore Functionality in Frozen OBS Screen"
-date: 2024-05-18T14:23:58.763Z
-updated: 2024-05-19T14:23:58.763Z
+date: 2024-05-20T00:49:35.666Z
+updated: 2024-05-21T00:49:35.666Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 14</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-focused-tutorial-excluding-audio-from-latest-mkv-updates/"><u>Updated Focused Tutorial Excluding Audio From Latest MKV Updates</u></a></li>
 </ul></div>
+
 

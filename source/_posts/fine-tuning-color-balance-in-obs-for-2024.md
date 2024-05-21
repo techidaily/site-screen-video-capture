@@ -1,7 +1,7 @@
 ---
 title: "\"Fine-Tuning Color Balance in OBS for 2024\""
-date: 2024-05-18T14:44:59.341Z
-updated: 2024-05-19T14:44:59.341Z
+date: 2024-05-20T00:50:37.064Z
+updated: 2024-05-21T00:50:37.064Z
 tags: 
   - screen-recording
   - ai video
@@ -299,4 +299,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-se-2022-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone SE (2022) on MetroPCS</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -530,3 +530,4 @@ If you are an avid player of Sims 4, you should record your gameplay and upload 
 <li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Xiaomi Redmi Note 13 5G?</u></a></li>
 </ul></div>
 
+

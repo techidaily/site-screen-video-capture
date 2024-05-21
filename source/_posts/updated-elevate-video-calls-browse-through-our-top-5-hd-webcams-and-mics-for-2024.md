@@ -651,3 +651,4 @@ Follow @Max Wales
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-lava-blaze-2-5g-by-drfone-android/"><u>How to Bypass FRP on Lava Blaze 2 5G?</u></a></li>
 </ul></div>
 
+

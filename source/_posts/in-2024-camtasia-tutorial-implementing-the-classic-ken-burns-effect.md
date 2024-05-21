@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Camtasia Tutorial  Implementing the Classic Ken Burns Effect\""
-date: 2024-05-18T14:29:57.294Z
-updated: 2024-05-19T14:29:57.294Z
+date: 2024-05-20T00:49:53.398Z
+updated: 2024-05-21T00:49:53.398Z
 tags: 
   - screen-recording
   - ai video
@@ -369,4 +369,5 @@ Follow @Max Wales
 <li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Honor Magic 5 Lite | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/oneplus-data-recovery-recover-lost-data-from-oneplus-nord-ce-3-5g-by-fonelab-android-recover-data/"><u>OnePlus Data Recovery – recover lost data from OnePlus Nord CE 3 5G</u></a></li>
 </ul></div>
+
 

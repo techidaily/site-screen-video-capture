@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Ken Burns Effect Techniques for Camtasia Users"
-date: 2024-05-18T14:47:28.545Z
-updated: 2024-05-19T14:47:28.545Z
+date: 2024-05-20T00:50:43.800Z
+updated: 2024-05-21T00:50:43.800Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ Follow @Max Wales
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Oppo Find N3? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Poco X6 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

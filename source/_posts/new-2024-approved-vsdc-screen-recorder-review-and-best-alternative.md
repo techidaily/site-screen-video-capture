@@ -309,3 +309,4 @@ There may be a lot of other similar applications like VSDC on the internet out t
 <li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-nokia-c12-pro-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Nokia C12 Pro</u></a></li>
 </ul></div>
 
+

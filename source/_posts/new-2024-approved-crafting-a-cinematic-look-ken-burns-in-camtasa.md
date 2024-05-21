@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Crafting a Cinematic Look  Ken Burns in Camtasa\""
-date: 2024-05-18T14:39:34.879Z
-updated: 2024-05-19T14:39:34.879Z
+date: 2024-05-20T00:50:21.174Z
+updated: 2024-05-21T00:50:21.174Z
 tags: 
   - screen-recording
   - ai video
@@ -340,4 +340,5 @@ Follow @Max Wales
 <li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-reno-10-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo Reno 10 5G via a USB Cable | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unleash-the-full-potential-of-your-audio-files-with-mp3-converter-windows-a-step-by-step-guide/"><u>New 2024 Approved Unleash the Full Potential of Your Audio Files with Mp3 Converter Windows A Step-by-Step Guide</u></a></li>
 </ul></div>
+
 

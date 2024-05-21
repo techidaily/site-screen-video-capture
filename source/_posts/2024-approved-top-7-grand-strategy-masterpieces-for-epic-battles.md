@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 7 Grand Strategy Masterpieces for Epic Battles\""
-date: 2024-05-18T14:26:19.151Z
-updated: 2024-05-19T14:26:19.151Z
+date: 2024-05-20T00:49:42.899Z
+updated: 2024-05-21T00:49:42.899Z
 tags: 
   - screen-recording
   - ai video
@@ -561,4 +561,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://smart-video-editing.techidaily.com/updated-watermark-free-video-editing-8-free-trimming-options-for-2024/"><u>Updated Watermark-Free Video Editing 8 Free Trimming Options for 2024</u></a></li>
 <li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-find-x7-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo Find X7 FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+
 

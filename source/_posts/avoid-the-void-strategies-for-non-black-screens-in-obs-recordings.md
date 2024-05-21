@@ -1,7 +1,7 @@
 ---
 title: "\"Avoid the Void  Strategies for Non-Black Screens in OBS Recordings\""
-date: 2024-05-18T14:48:39.724Z
-updated: 2024-05-19T14:48:39.724Z
+date: 2024-05-20T00:50:47.052Z
+updated: 2024-05-21T00:50:47.052Z
 tags: 
   - screen-recording
   - ai video
@@ -249,4 +249,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-iphone-se-2020-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your iPhone SE (2020)? How to Fix</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On HTC U23 | Dr.fone</u></a></li>
 </ul></div>
+
 

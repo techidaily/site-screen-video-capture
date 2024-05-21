@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Airwaves to Files  Online Audio Capture Basics\""
-date: 2024-05-18T14:41:54.589Z
-updated: 2024-05-19T14:41:54.589Z
+date: 2024-05-20T00:50:27.948Z
+updated: 2024-05-21T00:50:27.948Z
 tags: 
   - screen-recording
   - ai video
@@ -431,4 +431,5 @@ We have stated how to record online streaming video as well as to record online 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-14-pro-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 14 Pro Lock Screen with Notifications? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo Y28 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

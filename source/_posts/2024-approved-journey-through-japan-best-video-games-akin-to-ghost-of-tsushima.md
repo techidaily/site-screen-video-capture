@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Journey Through Japan  Best Video Games Akin to Ghost of Tsushima\""
-date: 2024-05-18T14:29:10.335Z
-updated: 2024-05-19T14:29:10.335Z
+date: 2024-05-20T00:49:50.882Z
+updated: 2024-05-21T00:49:50.882Z
 tags: 
   - screen-recording
   - ai video
@@ -596,4 +596,5 @@ Follow @Ollie Mattison
 <li><a href="https://video-ai-editor.techidaily.com/2024-approved-from-zero-to-hero-the-best-free-and-paid-android-video-editors/"><u>2024 Approved From Zero to Hero The Best Free and Paid Android Video Editors</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-the-sound-of-silence-enhancing-video-quality-with-premiere-pros-easy-audio-filters/"><u>New The Sound of Silence Enhancing Video Quality with Premiere Pros Easy Audio Filters</u></a></li>
 </ul></div>
+
 

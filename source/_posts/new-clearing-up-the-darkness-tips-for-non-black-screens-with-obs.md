@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Clearing Up the Darkness  Tips for Non-Black Screens with OBS\""
-date: 2024-05-18T14:47:20.691Z
-updated: 2024-05-19T14:47:20.691Z
+date: 2024-05-20T00:50:43.450Z
+updated: 2024-05-21T00:50:43.450Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-want-to-make-a-meme-gif-heres-how-to-do/"><u>New 2024 Approved Want to Make a Meme GIF? Heres How to Do</u></a></li>
 <li><a href="https://techidaily.com/how-do-i-reset-my-poco-m6-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Poco M6 5G Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
+
 

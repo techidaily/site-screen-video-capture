@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Lightweight OBS Adjustments for Thriftier Systems for 2024"
-date: 2024-05-18T14:31:27.313Z
-updated: 2024-05-19T14:31:27.313Z
+date: 2024-05-20T00:49:57.674Z
+updated: 2024-05-21T00:49:57.674Z
 tags: 
   - screen-recording
   - ai video
@@ -247,4 +247,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://video-ai-editor.techidaily.com/updated-videopad-video-editor-a-thorough-review-and-comparison-with-other-options/"><u>Updated Videopad Video Editor A Thorough Review and Comparison with Other Options</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-art-generator-for-2024/"><u>What Is an AI Art Generator for 2024</u></a></li>
 </ul></div>
+
 

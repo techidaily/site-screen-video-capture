@@ -401,3 +401,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://smart-video-editing.techidaily.com/in-2024-premiere-pro-2023-importing-editing-and-exporting-videos-for-beginners/"><u>In 2024, Premiere Pro 2023 Importing, Editing, and Exporting Videos for Beginners</u></a></li>
 </ul></div>
 
+

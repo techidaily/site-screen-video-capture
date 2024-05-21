@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Fine-Tuning Color Balance in OBS\""
-date: 2024-05-18T14:38:13.464Z
-updated: 2024-05-19T14:38:13.464Z
+date: 2024-05-20T00:50:16.615Z
+updated: 2024-05-21T00:50:16.615Z
 tags: 
   - screen-recording
   - ai video
@@ -293,4 +293,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://smart-video-creator.techidaily.com/top-10-best-free-webm-video-editors-for-2024/"><u>Top 10 Best Free WebM Video Editors for 2024</u></a></li>
 <li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-galaxy-z-flip-5-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on Galaxy Z Flip 5</u></a></li>
 </ul></div>
+
 

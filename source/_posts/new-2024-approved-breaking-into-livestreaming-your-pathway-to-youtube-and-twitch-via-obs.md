@@ -161,3 +161,4 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://smart-video-editing.techidaily.com/updated-add-captions-to-your-videos-with-these-10-free-online-subtitle-tools-for-2024/"><u>Updated Add Captions to Your Videos with These 10 Free Online Subtitle Tools for 2024</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Avoid Common Mistakes in Nighttime Photography for 2024"
-date: 2024-05-18T14:46:29.516Z
-updated: 2024-05-19T14:46:29.516Z
+date: 2024-05-20T00:50:41.280Z
+updated: 2024-05-21T00:50:41.280Z
 tags: 
   - screen-recording
   - ai video
@@ -169,4 +169,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://video-creation-software.techidaily.com/in-2024-the-ultimate-fcpx-plugin-repair-guide-diagnose-and-fix-issues-fast/"><u>In 2024, The Ultimate FCPX Plugin Repair Guide Diagnose and Fix Issues Fast</u></a></li>
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo T2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

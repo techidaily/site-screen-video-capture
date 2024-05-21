@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] MiniMCA Haven  Unveiling Simple Homes in Minecraft for 2024\""
-date: 2024-05-18T14:39:02.886Z
-updated: 2024-05-19T14:39:02.886Z
+date: 2024-05-20T00:50:19.444Z
+updated: 2024-05-21T00:50:19.444Z
 tags: 
   - screen-recording
   - ai video
@@ -353,4 +353,5 @@ Follow @Ollie Mattison
 <li><a href="https://smart-video-creator.techidaily.com/final-cut-pro-x-not-for-you-try-these-10-alternative-video-editors/"><u>Final Cut Pro X Not for You? Try These 10 Alternative Video Editors</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-ultimate-list-of-whatsapp-status-video-creation-tools-free-and-paid/"><u>Updated 2024 Approved The Ultimate List of WhatsApp Status Video Creation Tools Free & Paid</u></a></li>
 </ul></div>
+
 

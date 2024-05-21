@@ -502,3 +502,4 @@ Hopefully, you have understood how to record WhatsApp video call on your device.
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-art-of-image-resizing-finding-the-perfect-ratio/"><u>New 2024 Approved The Art of Image Resizing Finding the Perfect Ratio</u></a></li>
 </ul></div>
 
+

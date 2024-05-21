@@ -1,7 +1,7 @@
 ---
 title: "Quick Start Guide to Setup and Use OBS on Apple Systems"
-date: 2024-05-18T14:24:09.739Z
-updated: 2024-05-19T14:24:09.739Z
+date: 2024-05-20T00:49:36.157Z
+updated: 2024-05-21T00:49:36.157Z
 tags: 
   - screen-recording
   - ai video
@@ -344,4 +344,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oneplus-nord-ce-3-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked OnePlus Nord CE 3 5G Phone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-an-ai-headshot-generator/"><u>Updated 2024 Approved What Is an AI Headshot Generator?</u></a></li>
 </ul></div>
+
 

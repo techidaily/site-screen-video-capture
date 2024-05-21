@@ -753,3 +753,4 @@ Follow @Max Wales
 <li><a href="https://smart-video-creator.techidaily.com/new-in-2024-detect-and-fix-image-aspect-imbalance/"><u>New In 2024, Detect and Fix Image Aspect Imbalance</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Samurai's Modern Journey  10 Games Similar to Ghost of Tsushima\""
-date: 2024-05-18T14:27:11.593Z
-updated: 2024-05-19T14:27:11.593Z
+date: 2024-05-20T00:49:45.315Z
+updated: 2024-05-21T00:49:45.315Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-art-of-transitions-3-expert-tips-for-final-cut-pro-users/"><u>New In 2024, The Art of Transitions 3 Expert Tips for Final Cut Pro Users</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-top-10-sketch-animation-video-makers/"><u>Updated In 2024, Top 10 Sketch Animation Video Makers</u></a></li>
 </ul></div>
+
 

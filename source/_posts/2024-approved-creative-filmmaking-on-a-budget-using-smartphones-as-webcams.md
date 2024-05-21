@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Creative Filmmaking on a Budget  Using Smartphones as Webcams\""
-date: 2024-05-18T14:48:42.981Z
-updated: 2024-05-19T14:48:42.981Z
+date: 2024-05-20T00:50:47.177Z
+updated: 2024-05-21T00:50:47.177Z
 tags: 
   - screen-recording
   - ai video
@@ -631,4 +631,5 @@ Follow @Max Wales
 <li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-ins-and-outs-of-anime-localization-from-translation-to-sound-design/"><u>New 2024 Approved The Ins and Outs of Anime Localization From Translation to Sound Design</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-se-2020-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone SE (2020) Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

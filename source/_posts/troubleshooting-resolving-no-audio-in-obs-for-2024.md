@@ -1,7 +1,7 @@
 ---
 title: "\"Troubleshooting  Resolving No Audio in OBS for 2024\""
-date: 2024-05-18T14:39:14.155Z
-updated: 2024-05-19T14:39:14.155Z
+date: 2024-05-20T00:50:19.932Z
+updated: 2024-05-21T00:50:19.932Z
 tags: 
   - screen-recording
   - ai video
@@ -588,4 +588,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-revolutionize-your-video-content-how-to-convert-videos-into-cartoons-in-minutes/"><u>New In 2024, Revolutionize Your Video Content How to Convert Videos Into Cartoons in Minutes</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-video-rotation-made-simple-a-fast-and-easy-guide/"><u>Updated In 2024, Video Rotation Made Simple A Fast and Easy Guide</u></a></li>
 </ul></div>
+
 

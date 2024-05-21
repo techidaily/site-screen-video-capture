@@ -348,3 +348,4 @@ Follow @Max Wales
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-4-solutions-to-add-white-borders-on-mobile-and-desktop/"><u>2024 Approved 4 Solutions to Add White Borders on Mobile and Desktop</u></a></li>
 </ul></div>
 
+

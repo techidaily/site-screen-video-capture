@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Time Trackers in Action  Using OBS for Timed Events\""
-date: 2024-05-18T14:26:43.746Z
-updated: 2024-05-19T14:26:43.746Z
+date: 2024-05-20T00:49:43.955Z
+updated: 2024-05-21T00:49:43.955Z
 tags: 
   - screen-recording
   - ai video
@@ -299,4 +299,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-moto-g04-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G04 Pattern Lock if Forgotten? 6 Ways</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-in-2024-totally-tune-out-mastering-the-art-of-muting-media-on-internet-platforms/"><u>New In 2024, Totally Tune-Out Mastering the Art of Muting Media on Internet Platforms</u></a></li>
 </ul></div>
+
 

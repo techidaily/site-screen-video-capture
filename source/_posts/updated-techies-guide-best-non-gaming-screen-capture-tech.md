@@ -1040,3 +1040,4 @@ After reading this article you must have been awarded of the top alternatives to
 <li><a href="https://fix-guide.techidaily.com/lava-yuva-2-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 2 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
 
+

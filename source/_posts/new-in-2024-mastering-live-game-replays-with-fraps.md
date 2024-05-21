@@ -364,3 +364,4 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-calculating-the-golden-ratio-a-guide-to-pixel-proportions/"><u>Updated 2024 Approved Calculating the Golden Ratio A Guide to Pixel Proportions</u></a></li>
 </ul></div>
 
+

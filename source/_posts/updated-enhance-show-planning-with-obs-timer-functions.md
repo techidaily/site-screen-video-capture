@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Enhance Show Planning with OBS Timer Functions"
-date: 2024-05-18T14:46:50.622Z
-updated: 2024-05-19T14:46:50.622Z
+date: 2024-05-20T00:50:42.216Z
+updated: 2024-05-21T00:50:42.216Z
 tags: 
   - screen-recording
   - ai video
@@ -264,4 +264,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-video-tools.techidaily.com/in-2024-the-ultimate-guide-to-video-editing-splitting-videos-in-windows-live-movie-maker/"><u>In 2024, The Ultimate Guide to Video Editing Splitting Videos in Windows Live Movie Maker</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-best-of-the-best-28-video-to-gif-converters/"><u>Updated 2024 Approved The Best of the Best 28 Video to GIF Converters</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Adjusting OBS Encoding Settings for 2024"
-date: 2024-05-18T14:34:07.367Z
-updated: 2024-05-19T14:34:07.367Z
+date: 2024-05-20T00:50:04.989Z
+updated: 2024-05-21T00:50:04.989Z
 tags: 
   - screen-recording
   - ai video
@@ -268,4 +268,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 8? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-f34-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy F34 5G FRP?</u></a></li>
 </ul></div>
+
 

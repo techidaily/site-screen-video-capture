@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Obs Studio Masterclass for PS4 Screen Capture"
-date: 2024-05-18T14:33:53.606Z
-updated: 2024-05-19T14:33:53.606Z
+date: 2024-05-20T00:50:04.441Z
+updated: 2024-05-21T00:50:04.441Z
 tags: 
   - screen-recording
   - ai video
@@ -413,4 +413,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-tecno-pova-5-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Tecno Pova 5 Pro?</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/updated-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>Updated Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
 </ul></div>
+
 

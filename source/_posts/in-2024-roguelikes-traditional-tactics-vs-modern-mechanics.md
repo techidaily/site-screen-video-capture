@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Roguelike's Traditional Tactics Vs. Modern Mechanics"
-date: 2024-05-18T14:21:49.947Z
-updated: 2024-05-19T14:21:49.947Z
+date: 2024-05-20T00:49:29.437Z
+updated: 2024-05-21T00:49:29.437Z
 tags: 
   - screen-recording
   - ai video
@@ -303,4 +303,5 @@ Follow @Ollie Mattison
 <li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-honor-play-7t-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Honor Play 7T Pattern Lock Screen</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor Magic 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

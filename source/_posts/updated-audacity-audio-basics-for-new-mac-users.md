@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Audacity Audio Basics for New Mac Users"
-date: 2024-05-18T14:36:29.182Z
-updated: 2024-05-19T14:36:29.182Z
+date: 2024-05-20T00:50:11.753Z
+updated: 2024-05-21T00:50:11.753Z
 tags: 
   - screen-recording
   - ai video
@@ -290,4 +290,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-6s-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 6s</u></a></li>
 <li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-poco-c65-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Poco C65 | Dr.fone</u></a></li>
 </ul></div>
+
 

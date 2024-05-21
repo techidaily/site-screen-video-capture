@@ -539,3 +539,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/new-here-you-can-lean-about-the-different-ways-for-gimp-transparent-background-png-format-files/"><u>New Here You Can Lean About the Different Ways for GIMP Transparent Background PNG Format Files</u></a></li>
 </ul></div>
 
+

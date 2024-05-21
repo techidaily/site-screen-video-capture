@@ -820,3 +820,4 @@ Often such a situation arises in front of us where we want to screen record apar
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-a-freeze-frame-sequence-effect/"><u>Updated How to Create a Freeze Frame Sequence Effect</u></a></li>
 </ul></div>
 
+

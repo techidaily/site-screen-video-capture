@@ -666,3 +666,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-infinix-note-30-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Infinix Note 30 5G to Mac? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -764,3 +764,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-zoom-in-and-out-on-mac/"><u>New How to Zoom In and Out on Mac</u></a></li>
 </ul></div>
 
+

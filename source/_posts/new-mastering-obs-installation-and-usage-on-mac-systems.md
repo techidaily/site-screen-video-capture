@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering OBS  Installation and Usage on Mac Systems\""
-date: 2024-05-18T14:24:11.389Z
-updated: 2024-05-19T14:24:11.389Z
+date: 2024-05-20T00:49:36.219Z
+updated: 2024-05-21T00:49:36.219Z
 tags: 
   - screen-recording
   - ai video
@@ -363,4 +363,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-7-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 7 Apple ID and Apple Pay</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/in-2024-professional-linux-sound-capture-a-rundown-of-top-software-for-studio-quality-audio/"><u>In 2024, Professional Linux Sound Capture A Rundown of Top Software for Studio-Quality Audio</u></a></li>
 </ul></div>
+
 

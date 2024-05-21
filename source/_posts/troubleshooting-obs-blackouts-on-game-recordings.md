@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting OBS Blackouts on Game Recordings"
-date: 2024-05-18T14:39:26.714Z
-updated: 2024-05-19T14:39:26.714Z
+date: 2024-05-20T00:50:20.456Z
+updated: 2024-05-21T00:50:20.456Z
 tags: 
   - screen-recording
   - ai video
@@ -251,4 +251,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-11-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 11 Pro without Passcode or Face ID | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-s23-fe-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy S23 FE Step-by-Step Solutions | Dr.fone</u></a></li>
 </ul></div>
+
 

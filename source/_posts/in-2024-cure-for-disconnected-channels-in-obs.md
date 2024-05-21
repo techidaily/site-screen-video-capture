@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Cure for Disconnected Channels in OBS"
-date: 2024-05-18T14:28:01.191Z
-updated: 2024-05-19T14:28:01.191Z
+date: 2024-05-20T00:49:47.948Z
+updated: 2024-05-21T00:49:47.948Z
 tags: 
   - screen-recording
   - ai video
@@ -577,4 +577,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://smart-video-creator.techidaily.com/updated-elevate-your-editing-game-10-best-free-plugins-for-fcpx/"><u>Updated Elevate Your Editing Game 10 Best Free Plugins for FCPX</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-12-animated-slideshow-powerpoint-templates/"><u>New 12 Animated Slideshow PowerPoint Templates</u></a></li>
 </ul></div>
+
 

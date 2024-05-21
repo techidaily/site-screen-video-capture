@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Solutions for an Unresponsive OBS Video Source"
-date: 2024-05-18T14:25:06.957Z
-updated: 2024-05-19T14:25:06.957Z
+date: 2024-05-20T00:49:38.960Z
+updated: 2024-05-21T00:49:38.960Z
 tags: 
   - screen-recording
   - ai video
@@ -252,4 +252,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-14-pro-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 14 Pro with iTunes</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-reno-8t-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo Reno 8T 5G PC | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Becoming the Ultimate Streamer on YouTube and Twitch Using OBS"
-date: 2024-05-18T14:23:02.550Z
-updated: 2024-05-19T14:23:02.550Z
+date: 2024-05-20T00:49:33.063Z
+updated: 2024-05-21T00:49:33.063Z
 tags: 
   - screen-recording
   - ai video
@@ -170,4 +170,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-fcpx-compression-crash-course-from-basics-to-advanced/"><u>Updated 2024 Approved FCPX Compression Crash Course From Basics to Advanced</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Motorola Defy 2? | Dr.fone</u></a></li>
 </ul></div>
+
 

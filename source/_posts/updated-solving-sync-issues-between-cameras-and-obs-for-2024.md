@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Solving Sync Issues Between Cameras and OBS for 2024"
-date: 2024-05-18T14:27:42.286Z
-updated: 2024-05-19T14:27:42.286Z
+date: 2024-05-20T00:49:46.722Z
+updated: 2024-05-21T00:49:46.722Z
 tags: 
   - screen-recording
   - ai video
@@ -585,4 +585,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/capturing-perfect-sound-a-comprehensive-guide-for-advanced-mac-users-for-2024/"><u>Capturing Perfect Sound A Comprehensive Guide for Advanced Mac Users for 2024</u></a></li>
 </ul></div>
+
 

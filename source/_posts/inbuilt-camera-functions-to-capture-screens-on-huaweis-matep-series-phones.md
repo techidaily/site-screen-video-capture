@@ -1,7 +1,7 @@
 ---
 title: "Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones"
-date: 2024-05-18T14:24:09.198Z
-updated: 2024-05-19T14:24:09.198Z
+date: 2024-05-20T00:49:36.120Z
+updated: 2024-05-21T00:49:36.120Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Follow @Max Wales
 <li><a href="https://video-creation-software.techidaily.com/updated-the-art-of-youtube-audio-extraction-a-comprehensive-guide-for-2024/"><u>Updated The Art of YouTube Audio Extraction A Comprehensive Guide for 2024</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-oppo-by-fonelab-android-recover-music/"><u>The way to get back lost music from Oppo</u></a></li>
 </ul></div>
+
 

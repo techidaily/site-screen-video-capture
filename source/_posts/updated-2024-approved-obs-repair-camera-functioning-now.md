@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  OBS Repair  Camera Functioning Now\""
-date: 2024-05-18T14:27:55.798Z
-updated: 2024-05-19T14:27:55.798Z
+date: 2024-05-20T00:49:47.427Z
+updated: 2024-05-21T00:49:47.427Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Lava Yuva 3 | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-video-production-on-mac-with-adobe-premiere-pro-for-2024/"><u>Elevate Your Video Production on Mac with Adobe Premiere Pro for 2024</u></a></li>
 </ul></div>
+
 

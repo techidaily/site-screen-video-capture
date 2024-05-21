@@ -405,3 +405,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://audio-editing.techidaily.com/new-mastering-acoustic-harmony-optimal-eq-settings-guide/"><u>New Mastering Acoustic Harmony Optimal EQ Settings Guide</u></a></li>
 </ul></div>
 
+

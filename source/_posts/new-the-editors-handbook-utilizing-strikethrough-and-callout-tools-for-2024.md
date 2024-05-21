@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Editor's Handbook  Utilizing Strikethrough and Callout Tools for 2024\""
-date: 2024-05-18T14:46:34.140Z
-updated: 2024-05-19T14:46:34.140Z
+date: 2024-05-20T00:50:41.477Z
+updated: 2024-05-21T00:50:41.477Z
 tags: 
   - screen-recording
   - ai video
@@ -492,4 +492,5 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-honor-magic-5-lite-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Honor Magic 5 Lite</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-sony-xperia-1-v-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Sony Xperia 1 V to New Android Phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

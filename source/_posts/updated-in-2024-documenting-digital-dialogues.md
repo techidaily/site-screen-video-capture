@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Documenting Digital Dialogues"
-date: 2024-05-18T14:36:53.615Z
-updated: 2024-05-19T14:36:53.615Z
+date: 2024-05-20T00:50:12.767Z
+updated: 2024-05-21T00:50:12.767Z
 tags: 
   - screen-recording
   - ai video
@@ -490,4 +490,5 @@ The answer to the question "Can you record a Google hangout?" is yes. You can us
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-jump-cutting-like-a-pro-in-fcpx-expert-techniques-revealed/"><u>Updated 2024 Approved Jump Cutting Like a Pro in FCPX Expert Techniques Revealed</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/2024-approved-the-speakers-digest-top-text-to-speech-sites-for-enhanced-digital-interaction/"><u>2024 Approved The Speakers Digest - Top Text-to-Speech Sites for Enhanced Digital Interaction</u></a></li>
 </ul></div>
+
 

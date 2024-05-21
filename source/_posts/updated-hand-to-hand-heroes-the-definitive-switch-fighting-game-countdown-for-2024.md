@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Hand-to-Hand Heroes  The Definitive Switch Fighting Game Countdown for 2024\""
-date: 2024-05-18T14:21:37.939Z
-updated: 2024-05-19T14:21:37.939Z
+date: 2024-05-20T00:49:28.884Z
+updated: 2024-05-21T00:49:28.884Z
 tags: 
   - screen-recording
   - ai video
@@ -796,4 +796,5 @@ For macOS 10.12 or later
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-instagram-music-downloader-convert-videos-to-mp3/"><u>New In 2024, Instagram Music Downloader Convert Videos to MP3</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/windows-10-essentials-top-10-free-video-compression-software-for-2024/"><u>Windows 10 Essentials Top 10 Free Video Compression Software for 2024</u></a></li>
 </ul></div>
+
 

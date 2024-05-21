@@ -1,7 +1,7 @@
 ---
 title: "[New] Adjusting Settings for Audible OBS Broadcasts for 2024"
-date: 2024-05-18T14:34:07.636Z
-updated: 2024-05-19T14:34:07.636Z
+date: 2024-05-20T00:50:04.991Z
+updated: 2024-05-21T00:50:04.991Z
 tags: 
   - screen-recording
   - ai video
@@ -576,4 +576,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Motorola Moto G24? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-f5-pro-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco F5 Pro 5G</u></a></li>
 </ul></div>
+
 

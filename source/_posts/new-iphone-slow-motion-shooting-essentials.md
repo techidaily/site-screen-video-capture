@@ -1,7 +1,7 @@
 ---
 title: "[New] IPhone Slow Motion Shooting Essentials"
-date: 2024-05-18T14:30:16.972Z
-updated: 2024-05-19T14:30:16.972Z
+date: 2024-05-20T00:49:54.363Z
+updated: 2024-05-21T00:49:54.363Z
 tags: 
   - screen-recording
   - ai video
@@ -514,4 +514,5 @@ iPhone offers various easy-to-use and creative tools and apps for producing inno
 <li><a href="https://sound-optimizing.techidaily.com/updated-mastering-final-cut-pro-visualizing-sound-with-audio-waveforms-and-dynamic-animation-effects/"><u>Updated Mastering Final Cut Pro Visualizing Sound with Audio Waveforms & Dynamic Animation Effects</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/2024-approved-stunning-4k-video-clips-you-need-to-see/"><u>2024 Approved Stunning 4K Video Clips You Need to See</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Scaling Back OBS Video Bandwidth"
-date: 2024-05-18T14:44:21.558Z
-updated: 2024-05-19T14:44:21.558Z
+date: 2024-05-20T00:50:35.158Z
+updated: 2024-05-21T00:50:35.158Z
 tags: 
   - screen-recording
   - ai video
@@ -294,4 +294,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://audio-shaping.techidaily.com/essential-techniques-for-linking-and-easing-scenes-together-for-2024/"><u>Essential Techniques for Linking and Easing Scenes Together for 2024</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-y36-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo Y36 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
+
 

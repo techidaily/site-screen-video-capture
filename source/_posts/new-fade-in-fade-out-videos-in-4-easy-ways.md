@@ -1,7 +1,7 @@
 ---
 title: "[New] Fade In Fade Out Videos in 4 Easy Ways"
-date: 2024-05-18T14:28:16.360Z
-updated: 2024-05-19T14:28:16.360Z
+date: 2024-05-20T00:49:48.643Z
+updated: 2024-05-21T00:49:48.643Z
 tags: 
   - screen-recording
   - ai video
@@ -481,4 +481,5 @@ Follow @Max Wales
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo Y27 4G? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-avi-video-editor-reviews-our-top-picks/"><u>New 2024 Approved Free AVI Video Editor Reviews Our Top Picks</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Change Saving Spot for Mac's Photos"
-date: 2024-05-18T14:25:13.001Z
-updated: 2024-05-19T14:25:13.001Z
+date: 2024-05-20T00:49:39.205Z
+updated: 2024-05-21T00:49:39.205Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Max Wales
 <li><a href="https://sound-optimizing.techidaily.com/new-link-and-paste-song-file-within-imovie-narrative/"><u>New Link and Paste Song File Within iMovie Narrative</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-top-15-slow-motion-capcut-templates-to-work-with/"><u>In 2024, Top 15 Slow Motion CapCut Templates to Work With</u></a></li>
 </ul></div>
+
 

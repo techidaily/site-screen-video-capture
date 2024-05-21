@@ -1,7 +1,7 @@
 ---
 title: "\"Digital Diary  The Art of Screen Recording on MacBook Air\""
-date: 2024-05-18T14:41:14.058Z
-updated: 2024-05-19T14:41:14.058Z
+date: 2024-05-20T00:50:26.051Z
+updated: 2024-05-21T00:50:26.051Z
 tags: 
   - screen-recording
   - ai video
@@ -344,4 +344,5 @@ There may be other tools and screen recorders in the market available for your M
 <li><a href="https://sound-tweaking.techidaily.com/2024-approved-finding-bone-chilling-soundscapes-for-projects/"><u>2024 Approved Finding Bone-Chilling Soundscapes for Projects</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/the-craziest-10-ai-editors-youve-seen-for-2024/"><u>The Craziest 10 AI Editors Youve Seen for 2024</u></a></li>
 </ul></div>
+
 

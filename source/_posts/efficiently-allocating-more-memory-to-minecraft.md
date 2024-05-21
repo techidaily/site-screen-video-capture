@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Allocating More Memory to Minecraft"
-date: 2024-05-18T14:31:17.588Z
-updated: 2024-05-19T14:31:17.588Z
+date: 2024-05-20T00:49:57.257Z
+updated: 2024-05-21T00:49:57.257Z
 tags: 
   - screen-recording
   - ai video
@@ -595,4 +595,5 @@ Follow @Ollie Mattison
 <li><a href="https://sound-optimizing.techidaily.com/2024-approved-after-effects-guide-to-elevating-song-visualization/"><u>2024 Approved After Effects Guide to Elevating Song Visualization</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

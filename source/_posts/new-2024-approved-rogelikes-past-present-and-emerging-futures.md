@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Rogelikes Past, Present, & Emerging Futures\""
-date: 2024-05-18T14:34:47.657Z
-updated: 2024-05-19T14:34:47.657Z
+date: 2024-05-20T00:50:06.920Z
+updated: 2024-05-21T00:50:06.920Z
 tags: 
   - screen-recording
   - ai video
@@ -312,4 +312,5 @@ Follow @Ollie Mattison
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-imovie-for-android-not-exactly-but-these-10-alternatives-come-close/"><u>New 2024 Approved IMovie for Android? Not Exactly, But These 10 Alternatives Come Close</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-xiaomi-redmi-a2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Xiaomi Redmi A2 to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

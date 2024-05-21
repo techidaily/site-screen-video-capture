@@ -745,3 +745,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-xiaomi-redmi-a2plus-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Xiaomi Redmi A2+ Phone When You Forget the Password</u></a></li>
 </ul></div>
 
+

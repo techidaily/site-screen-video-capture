@@ -708,3 +708,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://blog-min.techidaily.com/how-to-sign-wpt-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpt file electronically</u></a></li>
 </ul></div>
 
+

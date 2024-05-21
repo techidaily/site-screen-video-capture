@@ -1,7 +1,7 @@
 ---
 title: "\"Easy-to-Follow Guide for Configuring Streamlabs OBS\""
-date: 2024-05-18T14:23:38.201Z
-updated: 2024-05-19T14:23:38.201Z
+date: 2024-05-20T00:49:34.748Z
+updated: 2024-05-21T00:49:34.748Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ While using Streamlabs, most of the templates available are nothing more than st
 <li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 12 mini | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-xiaomi-redmi-note-12-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Xiaomi Redmi Note 12 Pro 5G Devices</u></a></li>
 </ul></div>
+
 

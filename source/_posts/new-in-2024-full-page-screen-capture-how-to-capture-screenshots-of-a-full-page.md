@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Full Page Screen Capture  How to Capture Screenshots of a Full Page?\""
-date: 2024-05-18T14:35:46.960Z
-updated: 2024-05-19T14:35:46.960Z
+date: 2024-05-20T00:50:09.523Z
+updated: 2024-05-21T00:50:09.523Z
 tags: 
   - screen-recording
   - ai video
@@ -557,4 +557,5 @@ Follow @Max Wales
 <li><a href="https://ai-video.techidaily.com/in-2024-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>In 2024, Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-k70-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi K70 Phone without PIN</u></a></li>
 </ul></div>
+
 

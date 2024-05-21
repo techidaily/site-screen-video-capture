@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Countdown Configuration Guide for OBS Enthusiasts\""
-date: 2024-05-18T14:38:27.644Z
-updated: 2024-05-19T14:38:27.644Z
+date: 2024-05-20T00:50:17.923Z
+updated: 2024-05-21T00:50:17.923Z
 tags: 
   - screen-recording
   - ai video
@@ -263,4 +263,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-cartoon-video-makers-for-beginners-for-2024/"><u>New The Ultimate List of Cartoon Video Makers for Beginners for 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo Y02T | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Windows/Mac  Recording Skype Chats & Calls\""
-date: 2024-05-18T14:30:52.394Z
-updated: 2024-05-19T14:30:52.394Z
+date: 2024-05-20T00:49:56.057Z
+updated: 2024-05-21T00:49:56.057Z
 tags: 
   - screen-recording
   - ai video
@@ -612,4 +612,5 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Other iPhone 11 devices? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mp4-to-mp3-conversion-on-mobile-the-best-apps-and-tools/"><u>Updated 2024 Approved MP4 to MP3 Conversion on Mobile The Best Apps and Tools</u></a></li>
 </ul></div>
+
 

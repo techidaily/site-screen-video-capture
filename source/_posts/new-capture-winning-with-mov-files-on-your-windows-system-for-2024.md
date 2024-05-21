@@ -684,3 +684,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-text-behind-objects-in-video/"><u>Updated How to Add Text Behind Objects in Video</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Documenting Your PS4 Journey"
-date: 2024-05-18T14:24:56.836Z
-updated: 2024-05-19T14:24:56.836Z
+date: 2024-05-20T00:49:38.502Z
+updated: 2024-05-21T00:49:38.502Z
 tags: 
   - screen-recording
   - ai video
@@ -360,4 +360,5 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-y27-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo Y27 5G Phone?</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme 11X 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

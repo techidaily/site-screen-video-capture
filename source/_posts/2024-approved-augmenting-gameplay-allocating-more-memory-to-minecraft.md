@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Augmenting Gameplay  Allocating More Memory to Minecraft\""
-date: 2024-05-18T14:30:31.581Z
-updated: 2024-05-19T14:30:31.581Z
+date: 2024-05-20T00:49:54.965Z
+updated: 2024-05-21T00:49:54.965Z
 tags: 
   - screen-recording
   - ai video
@@ -594,4 +594,5 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro without Passcode or Face ID | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-trim-cut-and-edit-mastering-kapwings-online-video-editor/"><u>New In 2024, Trim, Cut, and Edit Mastering Kapwings Online Video Editor</u></a></li>
 </ul></div>
+
 

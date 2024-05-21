@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Ultimate Tutorial  How To Add a Countdown Timer in OBS\""
-date: 2024-05-18T14:28:13.921Z
-updated: 2024-05-19T14:28:13.921Z
+date: 2024-05-20T00:49:48.511Z
+updated: 2024-05-21T00:49:48.511Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://audio-editing.techidaily.com/updated-top-10-tools-for-extracting-audio-separately-from-videos-for-2024/"><u>Updated Top 10 Tools for Extracting Audio Separately From Videos for 2024</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-game-on-voice-reimagined-mastering-morphvox-sound-changes-in-real-time-gaming-streams-for-2024/"><u>Updated Game On, Voice Reimagined Mastering Morphvox Sound Changes in Real-Time Gaming Streams for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quieting Unwanted Sounds  OBS Audio Issue Fixed\""
-date: 2024-05-18T14:30:00.252Z
-updated: 2024-05-19T14:30:00.252Z
+date: 2024-05-20T00:49:53.602Z
+updated: 2024-05-21T00:49:53.602Z
 tags: 
   - screen-recording
   - ai video
@@ -565,4 +565,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://video-creation-software.techidaily.com/new-unleash-your-creativity-top-10-free-video-editing-apps-for-ubuntu-for-2024/"><u>New Unleash Your Creativity Top 10 Free Video Editing Apps for Ubuntu for 2024</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-in-this-article-we-are-going-to-take-you-through-15-best-apps-you-can-use-to-cartoon-yourself-and-increase-the-number-of-likes-your-posts-on-all-maj/"><u>Updated In This Article We Are Going to Take You Through 15 Best Apps You Can Use to Cartoon Yourself and Increase the Number of Likes Your Posts on All Major Social Media Platforms Are Getting</u></a></li>
 </ul></div>
+
 

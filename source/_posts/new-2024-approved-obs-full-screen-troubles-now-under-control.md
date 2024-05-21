@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Obs Full Screen Troubles  Now Under Control\""
-date: 2024-05-18T14:22:57.578Z
-updated: 2024-05-19T14:22:57.578Z
+date: 2024-05-20T00:49:32.844Z
+updated: 2024-05-21T00:49:32.844Z
 tags: 
   - screen-recording
   - ai video
@@ -287,4 +287,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-mastering-fcp-x-green-screen-magic-in-minutes/"><u>Updated In 2024, Mastering FCP X Green Screen Magic in Minutes</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Lava Blaze Curve 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

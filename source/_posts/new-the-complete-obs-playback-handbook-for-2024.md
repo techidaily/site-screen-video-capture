@@ -1,7 +1,7 @@
 ---
 title: "[New] The Complete OBS Playback Handbook for 2024"
-date: 2024-05-18T14:23:49.702Z
-updated: 2024-05-19T14:23:49.702Z
+date: 2024-05-20T00:49:35.302Z
+updated: 2024-05-21T00:49:35.302Z
 tags: 
   - screen-recording
   - ai video
@@ -404,4 +404,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Nokia 105 Classic | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-y27s-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo Y27s Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

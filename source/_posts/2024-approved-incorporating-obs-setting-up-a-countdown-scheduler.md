@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Incorporating OBS  Setting Up A Countdown Scheduler\""
-date: 2024-05-18T14:24:43.124Z
-updated: 2024-05-19T14:24:43.124Z
+date: 2024-05-20T00:49:37.928Z
+updated: 2024-05-21T00:49:37.928Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-poco-c50-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Poco C50 | Dr.fone</u></a></li>
 </ul></div>
+
 

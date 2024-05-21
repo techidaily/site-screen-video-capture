@@ -803,3 +803,4 @@ Developing GIFs is the ultimate fun to watch. If you're using MAC, Chrome, or Wi
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-step-by-step-to-resize-video-in-davinci-resolve/"><u>Updated 2024 Approved Step by Step to Resize Video in Davinci Resolve</u></a></li>
 </ul></div>
 
+

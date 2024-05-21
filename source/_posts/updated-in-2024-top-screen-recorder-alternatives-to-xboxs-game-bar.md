@@ -1030,3 +1030,4 @@ After reading this article you must have been awarded of the top alternatives to
 <li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-samsung-galaxy-s23-ultra-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Samsung Galaxy S23 Ultra?</u></a></li>
 </ul></div>
 
+

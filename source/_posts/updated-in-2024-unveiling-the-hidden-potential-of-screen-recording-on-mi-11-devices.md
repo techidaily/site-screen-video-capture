@@ -569,3 +569,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-tecno-spark-10c-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Tecno Spark 10C to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
 
+

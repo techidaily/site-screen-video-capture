@@ -268,3 +268,4 @@ We have stated all the different ways to record the screen of your Dell laptop. 
 <li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-tecno-pova-5-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Tecno Pova 5.</u></a></li>
 </ul></div>
 
+

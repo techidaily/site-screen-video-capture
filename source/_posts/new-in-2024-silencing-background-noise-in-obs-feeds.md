@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Silencing Background Noise in OBS Feeds"
-date: 2024-05-18T14:36:23.240Z
-updated: 2024-05-19T14:36:23.240Z
+date: 2024-05-20T00:50:11.470Z
+updated: 2024-05-21T00:50:11.470Z
 tags: 
   - screen-recording
   - ai video
@@ -542,4 +542,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your OnePlus 12R | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-need-a-virtualdub-replacement-check-out-these-amazing-options/"><u>Updated 2024 Approved Need a VirtualDub Replacement? Check Out These Amazing Options</u></a></li>
 </ul></div>
+
 

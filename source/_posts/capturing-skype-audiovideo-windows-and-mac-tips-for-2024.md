@@ -1,7 +1,7 @@
 ---
 title: "\"Capturing Skype Audio/Video  Windows & Mac Tips for 2024\""
-date: 2024-05-18T14:39:45.293Z
-updated: 2024-05-19T14:39:45.293Z
+date: 2024-05-20T00:50:21.662Z
+updated: 2024-05-21T00:50:21.662Z
 tags: 
   - screen-recording
   - ai video
@@ -631,4 +631,5 @@ Follow @Max Wales
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Nokia C22 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/2024-approved-the-ultimate-list-of-free-video-compressors-for-windows-10-2023-edition/"><u>2024 Approved The Ultimate List of Free Video Compressors for Windows 10 (2023 Edition)</u></a></li>
 </ul></div>
+
 

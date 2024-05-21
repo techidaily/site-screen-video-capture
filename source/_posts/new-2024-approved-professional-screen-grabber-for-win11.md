@@ -568,3 +568,4 @@ If you are confused if you should install Screen Recorder Pro to record your scr
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-lava-blaze-2-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Lava Blaze 2? Here Are All Fixes | Dr.fone</u></a></li>
 </ul></div>
 
+

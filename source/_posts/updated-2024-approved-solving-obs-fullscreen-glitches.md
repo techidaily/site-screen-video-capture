@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Solving OBS Fullscreen Glitches\""
-date: 2024-05-18T14:29:20.050Z
-updated: 2024-05-19T14:29:20.050Z
+date: 2024-05-20T00:49:51.321Z
+updated: 2024-05-21T00:49:51.321Z
 tags: 
   - screen-recording
   - ai video
@@ -265,4 +265,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ai-video-editing.techidaily.com/do-you-wish-to-create-the-best-video-collages-no-problem-because-wondershare-filmora-will-help-you-make-the-best-video-collages-for-2024/"><u>Do You Wish to Create the Best Video Collages ? No Problem, because Wondershare Filmora Will Help You Make the Best Video Collages for 2024</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-xiaomi-redmi-note-13-pro-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Xiaomi Redmi Note 13 Pro 5G? </u></a></li>
 </ul></div>
+
 

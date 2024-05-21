@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] DirectScreen W11  Instant Recording on Windows 11\""
-date: 2024-05-18T14:23:54.628Z
-updated: 2024-05-19T14:23:54.628Z
+date: 2024-05-20T00:49:35.489Z
+updated: 2024-05-21T00:49:35.489Z
 tags: 
   - screen-recording
   - ai video
@@ -453,4 +453,5 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://howto.techidaily.com/why-your-infinix-note-30-vip-racing-edition-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Infinix Note 30 VIP Racing Edition Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-tecno-spark-20c-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Tecno Spark 20C</u></a></li>
 </ul></div>
+
 

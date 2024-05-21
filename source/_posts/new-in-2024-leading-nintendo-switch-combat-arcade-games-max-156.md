@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Leading Nintendo Switch Combat Arcade Games (Max 156)"
-date: 2024-05-18T14:43:49.010Z
-updated: 2024-05-19T14:43:49.010Z
+date: 2024-05-20T00:50:33.676Z
+updated: 2024-05-21T00:50:33.676Z
 tags: 
   - screen-recording
   - ai video
@@ -780,4 +780,5 @@ For macOS 10.12 or later
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-google-pixel-8mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Google Pixel 8Mirror Share to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

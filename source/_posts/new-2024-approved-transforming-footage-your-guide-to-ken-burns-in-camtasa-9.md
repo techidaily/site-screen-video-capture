@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Transforming Footage  Your Guide to Ken Burns in Camtasa 9\""
-date: 2024-05-18T14:33:11.124Z
-updated: 2024-05-19T14:33:11.124Z
+date: 2024-05-20T00:50:02.560Z
+updated: 2024-05-21T00:50:02.560Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Follow @Max Wales
 <li><a href="https://ios-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 14 Pro | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-infinix-zero-30-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Infinix Zero 30 5G? Try These Fixes</u></a></li>
 </ul></div>
+
 

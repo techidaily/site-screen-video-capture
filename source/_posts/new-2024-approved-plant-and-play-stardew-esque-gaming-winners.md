@@ -290,3 +290,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/how-to-factory-reset-tecno-pop-8-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pop 8 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
 
+

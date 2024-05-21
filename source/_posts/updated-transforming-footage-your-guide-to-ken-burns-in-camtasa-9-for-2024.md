@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transforming Footage  Your Guide to Ken Burns in Camtasa 9 for 2024\""
-date: 2024-05-18T14:47:04.968Z
-updated: 2024-05-19T14:47:04.968Z
+date: 2024-05-20T00:50:42.821Z
+updated: 2024-05-21T00:50:42.821Z
 tags: 
   - screen-recording
   - ai video
@@ -333,4 +333,5 @@ Follow @Max Wales
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>Updated 2024 Approved Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-10-free-linux-video-editors-that-rival-adobe-premiere-for-2024/"><u>New 10 Free Linux Video Editors That Rival Adobe Premiere for 2024</u></a></li>
 </ul></div>
+
 

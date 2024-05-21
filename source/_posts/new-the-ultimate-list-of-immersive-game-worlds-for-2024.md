@@ -893,3 +893,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/have-you-ever-applied-the-gaussian-blur-effect-to-your-videos-read-this-article-to-find-a-reliable-and-convenient-tool-to-generate-the-gaussian-blur-effect./"><u>Have You Ever Applied the Gaussian Blur Effect to Your Videos? Read This Article to Find a Reliable and Convenient Tool to Generate the Gaussian Blur Effect</u></a></li>
 </ul></div>
 
+

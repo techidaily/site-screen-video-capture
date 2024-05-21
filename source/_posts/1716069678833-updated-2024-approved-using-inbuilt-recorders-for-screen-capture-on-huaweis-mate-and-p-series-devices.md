@@ -382,3 +382,4 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-oppo-a2-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Oppo A2 Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
 
+

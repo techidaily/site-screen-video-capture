@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Full Page Screen Capture  How to Capture Screenshots of a Full Page for 2024\""
-date: 2024-05-18T14:29:47.572Z
-updated: 2024-05-19T14:29:47.572Z
+date: 2024-05-20T00:49:52.947Z
+updated: 2024-05-21T00:49:52.947Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ Follow @Max Wales
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Realme 11 Pro Bootloader Easily</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-zte-nubia-z60-ultra-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on ZTE Nubia Z60 Ultra FRP Bypass</u></a></li>
 </ul></div>
+
 

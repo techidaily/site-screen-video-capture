@@ -212,3 +212,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-nubia-red-magic-8s-proplus-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Nubia Red Magic 8S Pro+? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 </ul></div>
 
+

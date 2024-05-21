@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Guide to Restoring OBS's Audio Functionality"
-date: 2024-05-18T14:32:38.581Z
-updated: 2024-05-19T14:32:38.581Z
+date: 2024-05-20T00:50:01.080Z
+updated: 2024-05-21T00:50:01.080Z
 tags: 
   - screen-recording
   - ai video
@@ -556,4 +556,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-discover-the-best-gaming-intro-software-top-10-picks-for-windows-and-mac-users/"><u>Updated 2024 Approved Discover the Best Gaming Intro Software Top 10 Picks for Windows and Mac Users</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 14 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

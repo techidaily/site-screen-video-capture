@@ -1134,3 +1134,4 @@ To record video on Mac, you need a screen recorder. There are free and premium r
 <li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-z-flip-5-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -685,3 +685,4 @@ Follow @Liza Brown
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-transform-your-footage-a-cinematic-color-grading-guide-for-fcpx/"><u>New In 2024, Transform Your Footage A Cinematic Color Grading Guide for FCPX</u></a></li>
 </ul></div>
 
+

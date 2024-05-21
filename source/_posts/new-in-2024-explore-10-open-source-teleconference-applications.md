@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Explore 10 Open Source Teleconference Applications"
-date: 2024-05-18T14:27:24.873Z
-updated: 2024-05-19T14:27:24.873Z
+date: 2024-05-20T00:49:45.931Z
+updated: 2024-05-21T00:49:45.931Z
 tags: 
   - screen-recording
   - ai video
@@ -664,4 +664,5 @@ Follow @Richard Bennett
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-asus-rog-phone-8-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Asus ROG Phone 8</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-2024-approved-track-down-virtual-quest-music-and-effects/"><u>New 2024 Approved Track Down Virtual Quest Music and Effects</u></a></li>
 </ul></div>
+
 

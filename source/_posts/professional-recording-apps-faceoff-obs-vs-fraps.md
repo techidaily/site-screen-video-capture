@@ -1,7 +1,7 @@
 ---
 title: "Professional Recording Apps Faceoff – OBS vs Fraps"
-date: 2024-05-18T14:33:30.250Z
-updated: 2024-05-19T14:33:30.250Z
+date: 2024-05-20T00:50:03.469Z
+updated: 2024-05-21T00:50:03.469Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://video-creation-software.techidaily.com/new-the-countdown-begins-3-simple-steps-to-fcpx-timer-success/"><u>New The Countdown Begins 3 Simple Steps to FCPX Timer Success</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/text-to-voice-powered-by-ai-bounty-of-speech-creation-tools-all-complimentary-in-2024/"><u>Text-to-Voice Powered by AI Bounty of Speech Creation Tools – All Complimentary, In 2024</u></a></li>
 </ul></div>
+
 

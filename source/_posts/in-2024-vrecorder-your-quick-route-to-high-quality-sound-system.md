@@ -402,3 +402,4 @@ V Recorder is a powerful app for recording videos of your smartphone's screen in
 <li><a href="https://techidaily.com/different-methods-for-resetting-tecno-spark-10-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Spark 10 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
 </ul></div>
 
+

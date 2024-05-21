@@ -287,3 +287,4 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia C32 | Dr.fone</u></a></li>
 </ul></div>
 
+

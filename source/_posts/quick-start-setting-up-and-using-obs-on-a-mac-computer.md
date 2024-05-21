@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Start  Setting Up and Using OBS on a Mac Computer\""
-date: 2024-05-18T14:43:39.091Z
-updated: 2024-05-19T14:43:39.091Z
+date: 2024-05-20T00:50:33.210Z
+updated: 2024-05-21T00:50:33.210Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-xiaomi-redmi-note-12t-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Xiaomi Redmi Note 12T Pro Phones with/without a PC</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-realme-gt-5-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Realme GT 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

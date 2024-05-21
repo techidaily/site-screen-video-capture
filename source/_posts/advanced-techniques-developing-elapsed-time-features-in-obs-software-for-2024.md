@@ -1,7 +1,7 @@
 ---
 title: "\"Advanced Techniques  Developing Elapsed Time Features in OBS Software for 2024\""
-date: 2024-05-18T14:33:30.797Z
-updated: 2024-05-19T14:33:30.797Z
+date: 2024-05-20T00:50:03.500Z
+updated: 2024-05-21T00:50:03.500Z
 tags: 
   - screen-recording
   - ai video
@@ -294,4 +294,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y56-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo Y56 5G</u></a></li>
 <li><a href="https://howto.techidaily.com/why-does-my-lava-yuva-2-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Lava Yuva 2 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Guide to Skype Call Audio & Video Capture Windows/OS X for 2024"
-date: 2024-05-18T14:33:23.975Z
-updated: 2024-05-19T14:33:23.975Z
+date: 2024-05-20T00:50:03.165Z
+updated: 2024-05-21T00:50:03.165Z
 tags: 
   - screen-recording
   - ai video
@@ -584,4 +584,5 @@ Follow @Max Wales
 <li><a href="https://video-content-creator.techidaily.com/updated-screen-format-options-on-amazon-prime-for-2024/"><u>Updated Screen Format Options on Amazon Prime for 2024</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-14-pro-max-5-ways-to-get-into-a-locked-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 14 Pro Max? 5 Ways to get into a Locked iPhone 14 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 

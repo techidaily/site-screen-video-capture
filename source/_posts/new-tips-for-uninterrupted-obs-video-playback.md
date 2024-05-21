@@ -1,7 +1,7 @@
 ---
 title: "[New] Tips for Uninterrupted OBS Video Playback"
-date: 2024-05-18T14:29:12.766Z
-updated: 2024-05-19T14:29:12.766Z
+date: 2024-05-20T00:49:51.028Z
+updated: 2024-05-21T00:49:51.028Z
 tags: 
   - screen-recording
   - ai video
@@ -586,4 +586,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-itel-p55t-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Itel P55T Phone? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-asus-rog-phone-7-ultimate-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Asus ROG Phone 7 Ultimate to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Efficient Setup  PS4 Streaming and Recording via OBS\""
-date: 2024-05-18T14:37:40.359Z
-updated: 2024-05-19T14:37:40.359Z
+date: 2024-05-20T00:50:14.841Z
+updated: 2024-05-21T00:50:14.841Z
 tags: 
   - screen-recording
   - ai video
@@ -387,4 +387,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme C67 4G | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-like-a-pro-fcp-audio-editing-techniques-for-video-creators/"><u>In 2024, Edit Like a Pro FCP Audio Editing Techniques for Video Creators</u></a></li>
 </ul></div>
+
 

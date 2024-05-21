@@ -498,3 +498,4 @@ Follow @Max Wales
 <li><a href="https://audio-shaping.techidaily.com/2024-approved-streamlining-audio-management-for-filmmakers-the-ins-and-outs-of-automated-ducking-with-final-cut-pro-x-2023/"><u>2024 Approved Streamlining Audio Management for Filmmakers The Ins and Outs of Automated Ducking with Final Cut Pro X 2023</u></a></li>
 </ul></div>
 
+

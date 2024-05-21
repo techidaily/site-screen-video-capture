@@ -719,3 +719,4 @@ The vast majority accept the nature of their recorded video would be as old as i
 <li><a href="https://howto.techidaily.com/why-your-itel-p40-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Itel P40 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
+

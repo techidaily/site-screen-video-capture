@@ -1,7 +1,7 @@
 ---
 title: "\"[New] OBS Issue Resolved - Camera Fix for 2024\""
-date: 2024-05-18T14:39:21.809Z
-updated: 2024-05-19T14:39:21.809Z
+date: 2024-05-20T00:50:20.228Z
+updated: 2024-05-21T00:50:20.228Z
 tags: 
   - screen-recording
   - ai video
@@ -263,4 +263,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://ai-driven-video-production.techidaily.com/new-mp4-video-editing-for-beginners-a-friendly-tutorial-for-mac-and-windows-users-for-2024/"><u>New MP4 Video Editing for Beginners A Friendly Tutorial for Mac and Windows Users for 2024</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-top-5-guitar-recording-software-for-2024/"><u>Updated Top 5 Guitar Recording Software for 2024</u></a></li>
 </ul></div>
+
 

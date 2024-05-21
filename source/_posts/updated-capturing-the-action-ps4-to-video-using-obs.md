@@ -393,3 +393,4 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://sound-tweaking.techidaily.com/updated-audacity-pro-audio-recording-techniques-focusing-on-computer-sounds-for-2024/"><u>Updated Audacity Pro Audio Recording Techniques Focusing on Computer Sounds for 2024</u></a></li>
 </ul></div>
 
+
