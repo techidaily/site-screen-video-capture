@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quick Guide to Planning Google Meet Sessions"
-date: 2024-05-20T00:49:43.520Z
-updated: 2024-05-21T00:49:43.520Z
+date: 2024-06-09T17:59:29.202Z
+updated: 2024-06-10T17:59:29.202Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Quick Guide to Planning Google Meet Sessions"
 excerpt: "This Article Describes [Updated] Quick Guide to Planning Google Meet Sessions"
 keywords: "Quick Plan Meet Sessions,Google Meet Session Guide,Hosting Effective Meets,Efficient Google Meeting,Scheduling Meet Google,Planning Google Chat Events,Streamlined Online Gatherings"
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## Quick Guide to Planning Google Meet Sessions

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Timeless Titans  A List of the Top 10 Classic Adventure Games\""
-date: 2024-05-18T14:53:49.744Z
-updated: 2024-05-19T14:53:49.744Z
+date: 2024-06-09T17:59:30.125Z
+updated: 2024-06-10T17:59:30.125Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Timeless Titans: A List of the Top 10 Classic Adventure Games\""
 excerpt: "\"This Article Describes [Updated] Timeless Titans: A List of the Top 10 Classic Adventure Games\""
 keywords: "Timeless Titan Gaming,Classics Adventure Games,Top Adventure Game Hits,Vintage Adventure Titans,Retro Adventure Game List,Classic Gaming Quests,Legendary Adventure RPGs"
-thumbnail: https://www.lifewire.com/thmb/U4MhHoz9AdQJe4tEoeV-ONBuCas=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-ps5-d3975e63d2ff47e6ac4e81768b79801c.jpg
+thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f0c8ef179d1c62c13237705d.jpg
 ---
 
 ## Timeless Titans: A List of the Top 10 Classic Adventure Games

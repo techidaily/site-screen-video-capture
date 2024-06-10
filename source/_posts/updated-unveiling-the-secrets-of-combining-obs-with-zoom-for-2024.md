@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling the Secrets of Combining OBS with Zoom for 2024"
-date: 2024-05-18T15:24:51.698Z
-updated: 2024-05-19T15:24:51.698Z
+date: 2024-06-09T17:59:28.178Z
+updated: 2024-06-10T17:59:28.178Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Unveiling the Secrets of Combining OBS with Zoom for 2024"
 excerpt: "This Article Describes [Updated] Unveiling the Secrets of Combining OBS with Zoom for 2024"
 keywords: "Zoom + OBS Merge,OBS Zoom Integration,Combine OBS & Zoom,Stream Using OBS+Zoom,Linking OBS with Zoom,Unite OBS and Zoom,Blend OBS + Zoom"
-thumbnail: https://www.lifewire.com/thmb/gzHpHKbSd5o6D_hdSTFod8z3AV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-769729481-5bd367dcc9e77c007c015257.jpg
+thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6ed8b5f1e4a621d2eef1f390.jpg
 ---
 
 ## Unveiling the Secrets of Combining OBS with Zoom

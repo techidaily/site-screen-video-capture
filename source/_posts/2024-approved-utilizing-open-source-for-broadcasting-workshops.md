@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Utilizing Open-Source for Broadcasting Workshops\""
-date: 2024-05-18T14:57:20.327Z
-updated: 2024-05-19T14:57:20.327Z
+date: 2024-06-09T17:59:25.427Z
+updated: 2024-06-10T17:59:25.427Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Utilizing Open-Source for Broadcasting Workshops\""
 excerpt: "\"This Article Describes 2024 Approved: Utilizing Open-Source for Broadcasting Workshops\""
 keywords: "\"Open-Source Broadcasting,Free Broadcast Tools,OSS Broadcast Tech,Broadcast Workshop OS,Open Source TV Education,OpenTools for TV,OpenTech Broadcasting\""
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## Utilizing Open-Source for Broadcasting Workshops

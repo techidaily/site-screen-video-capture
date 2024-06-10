@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, From Spoken Word to Memo  IPhone Audio Guidance\""
-date: 2024-05-18T15:18:44.763Z
-updated: 2024-05-19T15:18:44.763Z
+date: 2024-06-09T17:59:27.642Z
+updated: 2024-06-10T17:59:27.642Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, From Spoken Word to Memo: IPhone Audio Guidance\""
 excerpt: "\"This Article Describes [New] In 2024, From Spoken Word to Memo: IPhone Audio Guidance\""
 keywords: "\"IPhone Audio Guidance,Spoken Word Transition,Memo Recording Tips,IPad Audio Lessons,Voice-to-Text Guide,Audio Memos for iPhones,Transcribing Spoken Words\""
-thumbnail: https://www.lifewire.com/thmb/9P6TB9sqO-6Yq23O2BOj91c-Cvg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541365354-5c8ad42246e0fb00014a9687.jpg
+thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9fefb2b304db02c765d66484d.jpg
 ---
 
 ## From Spoken Word to Memo: IPhone Audio Guidance

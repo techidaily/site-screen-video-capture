@@ -1,7 +1,7 @@
 ---
 title: "Exceptional Top Ten Nintendo Switch Combat Games (Max 156)"
-date: 2024-05-18T15:21:51.005Z
-updated: 2024-05-19T15:21:51.005Z
+date: 2024-06-09T17:59:26.561Z
+updated: 2024-06-10T17:59:26.561Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Exceptional Top Ten Nintendo Switch Combat Games (Max 156)"
 excerpt: "This Article Describes Exceptional Top Ten Nintendo Switch Combat Games (Max 156)"
 keywords: "Switch Fight Games,Top Combat Titles,Nintendo Switch Gaming,Best Switch Combat,Switch Warfare Games,Leading Switch Fighters,Elite Nintendo Gameplay"
-thumbnail: https://www.lifewire.com/thmb/NOc5RCOPURestyDsC5sxK7KzGY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-971165690-1e0af1d9299f4fdba1225c2d20c739f2.jpg
+thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89ced90101624b46320eed1514.jpg
 ---
 
 ## Exceptional Top Ten Nintendo Switch Combat Games (Max 156)

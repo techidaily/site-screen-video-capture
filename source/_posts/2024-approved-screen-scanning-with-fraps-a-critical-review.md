@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Screen Scanning with Fraps  A Critical Review\""
-date: 2024-05-20T00:50:07.306Z
-updated: 2024-05-21T00:50:07.306Z
+date: 2024-06-09T17:59:24.632Z
+updated: 2024-06-10T17:59:24.632Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Screen Scanning with Fraps: A Critical Review\""
 excerpt: "\"This Article Describes 2024 Approved: Screen Scanning with Fraps: A Critical Review\""
 keywords: "Fraps Screen Review,Screen Capture Critique,Screen Scan Analysis,Video Scanner Evaluation,Capture Tech Critique,Frame Rate Scrutiny,Scanning Software Assessment"
-thumbnail: https://www.lifewire.com/thmb/yPXnCagYB7bKT7uol-AGPozLSS0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Air-5-e11857a8d117450e9e09d770e300a872.jpg
+thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068cc6322414a1134e31c0876a0.jpg
 ---
 
 ## Screen Scanning with Fraps: A Critical Review

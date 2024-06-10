@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfect Your Videography Skills with Our Expert Tutorial Series"
-date: 2024-05-20T00:49:43.480Z
-updated: 2024-05-21T00:49:43.480Z
+date: 2024-06-09T17:59:30.828Z
+updated: 2024-06-10T17:59:30.828Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Perfect Your Videography Skills with Our Expert Tutorial Series"
 excerpt: "This Article Describes [Updated] Perfect Your Videography Skills with Our Expert Tutorial Series"
 keywords: "Video Tech Mastery,Pro Photog Skills,Videography Training,Expert Cinematography Guide,Film Education Series,Tutorial for Videographers,Video Production Learning"
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## Perfect Your Videography Skills with Our Expert Tutorial Series

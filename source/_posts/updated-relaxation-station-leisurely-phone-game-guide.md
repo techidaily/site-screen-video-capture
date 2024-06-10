@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Relaxation Station  Leisurely Phone Game Guide\""
-date: 2024-05-20T00:49:35.572Z
-updated: 2024-05-21T00:49:35.572Z
+date: 2024-06-09T17:59:24.282Z
+updated: 2024-06-10T17:59:24.282Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Relaxation Station: Leisurely Phone Game Guide\""
 excerpt: "\"This Article Describes [Updated] Relaxation Station: Leisurely Phone Game Guide\""
 keywords: "\"Phone Game Relax,Leisure Games Tips,Phone Chill Hours,Stress-Free Gaming,Phone Fun Zone,Casual Gamer's Guide,Easy Gaming Pleasure\""
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## Relaxation Station: Leisurely Phone Game Guide

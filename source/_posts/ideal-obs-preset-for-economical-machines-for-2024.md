@@ -1,7 +1,7 @@
 ---
 title: "Ideal OBS Preset for Economical Machines for 2024"
-date: 2024-05-18T14:54:17.751Z
-updated: 2024-05-19T14:54:17.751Z
+date: 2024-06-09T17:59:25.709Z
+updated: 2024-06-10T17:59:25.709Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Ideal OBS Preset for Economical Machines for 2024"
 excerpt: "This Article Describes Ideal OBS Preset for Economical Machines for 2024"
 keywords: "\"Economy OBS Setting,Efficient BIOS,Cost-Saving BIOS,Low-Cost BIOS Optimization,Affordable System Configs,Budget-Friendly BIOS,Frugal PC Setup\""
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## Ideal OBS Preset for Economical Machines

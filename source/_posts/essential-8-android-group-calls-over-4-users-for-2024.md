@@ -1,7 +1,7 @@
 ---
 title: "\"Essential 8 Android Group Calls  Over 4 Users for 2024\""
-date: 2024-05-20T00:49:41.665Z
-updated: 2024-05-21T00:49:41.665Z
+date: 2024-06-09T17:59:28.331Z
+updated: 2024-06-10T17:59:28.331Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Essential 8 Android Group Calls: Over 4 Users for 2024\""
 excerpt: "\"This Article Describes Essential 8 Android Group Calls: Over 4 Users for 2024\""
 keywords: "\"Multi-User Group Calls,Android Large Group Call,Group Calling on Android,Android Video Conference,Android Group Chat,Android Multiple Line Calls,Android Group Video Meetings\""
-thumbnail: https://www.lifewire.com/thmb/0eladF6N0frE-HtBzdDkcGHF4eU=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-a-ps5-5088641-1bcc6bca24cd460bb2b276fdeb6cb830.jpg
+thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece4c292665e0f6b95fb5f60be.jpg
 ---
 
 ## Essential 8 Android Group Calls: Over 4 Users

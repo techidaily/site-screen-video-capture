@@ -1,7 +1,7 @@
 ---
 title: "[New] Exclusive Window Snapshot Suite"
-date: 2024-05-18T15:26:25.554Z
-updated: 2024-05-19T15:26:25.554Z
+date: 2024-06-09T17:59:27.865Z
+updated: 2024-06-10T17:59:27.865Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Exclusive Window Snapshot Suite"
 excerpt: "This Article Describes [New] Exclusive Window Snapshot Suite"
 keywords: "\"Live Gaming Snapshot,Fraps Game Analysis,Real-Time Gaming Capture,Gameplay Fraps Report,Gaming Performance Stats,Snapshot with Fraps Tool,Video Game Speed Test\""
-thumbnail: https://www.lifewire.com/thmb/eYcaBBIZ1vACwviFbibN_RqgtSY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-measuring-tv-size-102761115-getty-5bf8513246e0fb008321de5f.jpg
+thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed98794f1ba27d0b681ad3c785.jpg
 ---
 
 ## Exclusive Window Snapshot Suite

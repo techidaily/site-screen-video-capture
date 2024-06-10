@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering OBS  Installation and Usage on Mac Systems\""
-date: 2024-05-20T00:49:36.219Z
-updated: 2024-05-21T00:49:36.219Z
+date: 2024-06-09T17:59:29.514Z
+updated: 2024-06-10T17:59:29.514Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Mastering OBS: Installation and Usage on Mac Systems\""
 excerpt: "\"This Article Describes [New] Mastering OBS: Installation and Usage on Mac Systems\""
 keywords: "Mac OBS Setup Guide,OBS on macOS,ObsUtilizeMac,Mac OBS Configuration,OS X OBS Use,Mastering OBS Mac,OBS Mac Installation"
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## Mastering OBS: Installation and Usage on Mac Systems

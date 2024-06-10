@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Tranquil Escapes  Top 12 PC Titles\""
-date: 2024-05-18T14:57:54.789Z
-updated: 2024-05-19T14:57:54.789Z
+date: 2024-06-09T17:59:23.811Z
+updated: 2024-06-10T17:59:23.811Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Tranquil Escapes: Top 12 PC Titles\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Tranquil Escapes: Top 12 PC Titles\""
 keywords: "PC TITLE Escapes,Top PC Games,Escapes in Gaming,PC Game Guide,Classic PC Titles,Best PC Adventures,Peaceful PC Play"
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## Tranquil Escapes: Top 12 PC Titles

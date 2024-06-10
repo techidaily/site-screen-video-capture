@@ -1,7 +1,7 @@
 ---
 title: "[New] Freeze Whole Panel of Content for 2024"
-date: 2024-05-20T00:49:58.287Z
-updated: 2024-05-21T00:49:58.287Z
+date: 2024-06-09T17:59:25.669Z
+updated: 2024-06-10T17:59:25.669Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Freeze Whole Panel of Content for 2024"
 excerpt: "This Article Describes [New] Freeze Whole Panel of Content for 2024"
 keywords: "\"Freeze Content Panel,Whole Page Freezing,Content Panel Lock,Preserve Content Wholesale,Zero-Copy Whole Panel,Temporarily Freeze Content,Unfreeze Entire Page\""
-thumbnail: https://www.lifewire.com/thmb/EVPMwUvvJxpJdiKeU4q7SREScME=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mothersday_NataliaCampbell_Getty-5a4baef6c7822d00371e56cd.jpg
+thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d920b7ae31f5d249d448106c6d.jpg
 ---
 
 ## Freeze Whole Panel of Content

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Affordable, Sturdy Backpacks & Bags for Gamers on the Move for 2024"
-date: 2024-05-18T14:51:45.637Z
-updated: 2024-05-19T14:51:45.637Z
+date: 2024-06-09T17:59:27.918Z
+updated: 2024-06-10T17:59:27.918Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Affordable, Sturdy Backpacks & Bags for Gamers on the Move for 2024"
 excerpt: "This Article Describes [Updated] Affordable, Sturdy Backpacks & Bags for Gamers on the Move for 2024"
 keywords: "Budget Gamer Packs,Durable Travel Bags,Mobile Gaming Sacks,Econo Gamer Backpacks,Sturdy Game Bag,Economical Gamers' Case,Portable PG Bags"
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## Affordable, Sturdy Backpacks & Bags for Gamers on the Move

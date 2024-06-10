@@ -1,7 +1,7 @@
 ---
 title: "[New] Joint Monitor Capture Procedure"
-date: 2024-05-18T15:25:41.945Z
-updated: 2024-05-19T15:25:41.945Z
+date: 2024-06-09T17:59:23.481Z
+updated: 2024-06-10T17:59:23.481Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Joint Monitor Capture Procedure"
 excerpt: "This Article Describes [New] Joint Monitor Capture Procedure"
 keywords: "Joint Monitoring Basics,Capture Procedures,Professional Monitoring,Healthcare Monitoring,Monitoring Standards,Patient Safety Protocols,Clinical Observation Techniques"
-thumbnail: https://www.lifewire.com/thmb/EAqZr-HjkZo5i0jwoEEUqZxRCpc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1437209125-b47ae60035f248e2b01b781f50f919c1.jpg
+thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c2584c8d35c887e62fae8bb62c7.jpg
 ---
 
 ## Joint Monitor Capture Procedure

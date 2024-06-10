@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Conquer the Shadows  5 Ways to Fix Black Screen with OBS\""
-date: 2024-05-18T14:57:36.614Z
-updated: 2024-05-19T14:57:36.614Z
+date: 2024-06-09T17:59:25.915Z
+updated: 2024-06-10T17:59:25.915Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Conquer the Shadows: 5 Ways to Fix Black Screen with OBS\""
 excerpt: "\"This Article Describes [New] In 2024, Conquer the Shadows: 5 Ways to Fix Black Screen with OBS\""
 keywords: "Fix Black OBS Screen,Overcome OBS Darkness,Resolve OBS Blackout,Eliminate OBS Shadows,Troubleshoot Black OBS,Clear Black OBS Display,Solve OBS Black Outage"
-thumbnail: https://www.lifewire.com/thmb/DAL-N3_Lno5FbRim9sd78EkulLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jens-kreuter-85328-c5ada5fb87224444a49aaa4ad1e16897.jpg
+thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5cc36ff257194dcf6821d1ac.jpg
 ---
 
 ## Conquer the Shadows: 5 Ways to Fix Black Screen with OBS

@@ -1,7 +1,7 @@
 ---
 title: "\"Action-Packed Escapades - The Next Big Things Post-GTA V\""
-date: 2024-05-18T15:24:53.044Z
-updated: 2024-05-19T15:24:53.044Z
+date: 2024-06-09T17:59:25.565Z
+updated: 2024-06-10T17:59:25.565Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Action-Packed Escapades - The Next Big Things Post-GTA V\""
 excerpt: "\"This Article Describes Action-Packed Escapades - The Next Big Things Post-GTA V\""
 keywords: "\"GTA V Escape Hunt,Action Games Unleashed,Post-Videogame Adventures,Thrilling Escapades Series,Next Big Titles Gaming,AfterGTA Excursions,New Gaming Experiences\""
-thumbnail: https://www.lifewire.com/thmb/gOgqwLvt0rf3-WdwEBSByMeqIHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1353420724-65161751b9924195880d3273e327cb54.jpg
+thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
 ---
 
 ## Action-Packed Escapades - The Next Big Things Post-GTA V

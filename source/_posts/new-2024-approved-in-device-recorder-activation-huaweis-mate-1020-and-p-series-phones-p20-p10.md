@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  In-Device Recorder Activation  Huawei's Mate 10/20 & P Series Phones (P20, P10)\""
-date: 2024-05-18T15:10:35.128Z
-updated: 2024-05-19T15:10:35.128Z
+date: 2024-06-09T17:59:28.594Z
+updated: 2024-06-10T17:59:28.594Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: In-Device Recorder Activation: Huawei's Mate 10/20 & P Series Phones (P20, P10)\""
 excerpt: "\"This Article Describes [New] 2024 Approved: In-Device Recorder Activation: Huawei's Mate 10/20 & P Series Phones (P20, P10)\""
 keywords: "\"Mate 10 Recorder,P20 In-Device Rec,Huawei Mate Record,P Series Device Cam,Huawei P10 Recording,Mate 20 Rec Activity,P Series Phones Sync\""
-thumbnail: https://www.lifewire.com/thmb/-_m0G8vbbxxIlkvVQDjlQ1eCN-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541916248-593842a43df78c537be2cf44.jpg
+thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc35052e19faef90f3eeabcd3dc4.jpg
 ---
 
 ## In-Device Recorder Activation: Huawei's Mate 10/20 & P Series Phones (P20, P10)
