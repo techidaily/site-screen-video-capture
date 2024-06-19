@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Hunt & Beat  Top 10 Games Inspired by Ghost of Tsushima\""
-date: 2024-05-18T14:56:01.039Z
-updated: 2024-05-19T14:56:01.039Z
+date: 2024-06-18T15:37:02.731Z
+updated: 2024-06-19T15:37:02.731Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Hunt & Beat: Top 10 Games Inspired by Ghost of Tsushima\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Hunt & Beat: Top 10 Games Inspired by Ghost of Tsushima\""
 keywords: "\"Tsushima Game Inspirations,Ghosts of Tsushima Series,Beat Ghost Adventures,Top Tsushima-Inspired Games,Hunt & Beat: Ghostly Runs,Top Ten Ghost Warfare,Tsushima Horror Quest\""
-thumbnail: https://www.lifewire.com/thmb/Upemm_83fheu5JnASUVL9rXiGqw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheOscarsStatue-33f6c30d7ffd4694a4dd1d1113de57f5.jpg
+thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6f572fe9945c7d91985d72b7.jpg
 ---
 
 ## Hunt & Beat: Top 10 Games Inspired by Ghost of Tsushima

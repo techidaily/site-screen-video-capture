@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating Google Meet's Virtual Whiteboards Across Apple/Android & Laptops"
-date: 2024-05-18T14:50:23.870Z
-updated: 2024-05-19T14:50:23.870Z
+date: 2024-06-18T15:37:04.430Z
+updated: 2024-06-19T15:37:04.430Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Navigating Google Meet's Virtual Whiteboards Across Apple/Android & Laptops"
 excerpt: "This Article Describes [Updated] Navigating Google Meet's Virtual Whiteboards Across Apple/Android & Laptops"
 keywords: "\"Google Meet Virtual Boards,Android Whiteboard Google,Apple Google Meet Boarding,Laptop Google Meet WB,Cross-Platform Meet Boards,Mobile Whiteboards Meet,Integrated Meet Desktop\""
-thumbnail: https://www.lifewire.com/thmb/wnN-qVO61jMEVKBE1HStiKTk2xY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-guide-1800-x-0f720f6afeb842c299c88baa42f3bd88.jpg
+thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
 ---
 
 ## Navigating Google Meet's Virtual Whiteboards Across Apple/Android & Laptops

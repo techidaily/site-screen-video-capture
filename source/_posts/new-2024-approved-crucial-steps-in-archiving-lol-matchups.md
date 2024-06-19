@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Crucial Steps in Archiving LOL Matchups\""
-date: 2024-05-18T15:17:34.162Z
-updated: 2024-05-19T15:17:34.162Z
+date: 2024-06-18T15:36:58.698Z
+updated: 2024-06-19T15:36:58.698Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Crucial Steps in Archiving LOL Matchups\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Crucial Steps in Archiving LOL Matchups\""
 keywords: "LOL Archive Basics,Matchup Preservation,LOL Historical Keeping,Digital Game Records,Save LOL Gaming,Key Archiving Steps,Essential Gaming Archive"
-thumbnail: https://www.lifewire.com/thmb/r5-nbFpZcg3uV6IKilx2-E6xQtA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-185223738-56a691fd5f9b58b7d0e3a1d9.jpg
+thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa28f7cfc8442056063114a14.jpg
 ---
 
 ## Crucial Steps in Archiving LOL Matchups

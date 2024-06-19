@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamlining Your Live Broadcast  PS4 Recording via OBS Studio for 2024\""
-date: 2024-05-18T14:53:57.585Z
-updated: 2024-05-19T14:53:57.585Z
+date: 2024-06-18T15:36:58.136Z
+updated: 2024-06-19T15:36:58.136Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Streamlining Your Live Broadcast: PS4 Recording via OBS Studio for 2024\""
 excerpt: "\"This Article Describes [Updated] Streamlining Your Live Broadcast: PS4 Recording via OBS Studio for 2024\""
 keywords: "OBS Live Stream,PS4 Record HD,OBS Studio Guide,Stream TV PS4,Live Broadcast OBS,PS4 Broadcasting,OBS Recording Tips"
-thumbnail: https://www.lifewire.com/thmb/HNtneePKuJeaZXX7qZjEwvmSz6M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flora_and_Son-f6517d3de531487e89f5e0e99192d13f.jpg
+thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0ecbd12c41105ddecee78795.jpg
 ---
 
 ## Streamlining Your Live Broadcast: PS4 Recording via OBS Studio

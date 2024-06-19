@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate User-Friendly Guide to Starting an Effective Group Chat on Skype Across Multiple Platforms.\""
-date: 2024-05-18T14:56:58.841Z
-updated: 2024-05-19T14:56:58.841Z
+date: 2024-06-18T15:37:08.666Z
+updated: 2024-06-19T15:37:08.666Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes The Ultimate User-Friendly Guide to Starting an Effective Group Chat on Skype Across Multiple Platforms.\""
 excerpt: "\"This Article Describes The Ultimate User-Friendly Guide to Starting an Effective Group Chat on Skype Across Multiple Platforms.\""
 keywords: "\"Skype Group Chat Basics,Start Multiplatform Chats,User-Friendly Skype Guide,Effective Online Grouping,Skype Across Platforms Tips,CrossPlatform Communication,Easy Chat Room Setup\""
-thumbnail: https://www.lifewire.com/thmb/dXcXyOjh5f14j9Nzv8d0qtr4jHE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-850120538-4d2af54c23a641c8a5f2e00ef7a9aa37.jpg
+thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364beb1c1710fc99d1f9d71ae26e.jpg
 ---
 
 ## The Ultimate User-Friendly Guide to Starting an Effective Group Chat on Skype Across Multiple Platforms

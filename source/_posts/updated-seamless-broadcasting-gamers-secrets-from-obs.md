@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Seamless Broadcasting  Gamers' Secrets From OBS\""
-date: 2024-05-18T15:03:01.833Z
-updated: 2024-05-19T15:03:01.833Z
+date: 2024-06-18T15:37:02.790Z
+updated: 2024-06-19T15:37:02.790Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Seamless Broadcasting: Gamers' Secrets From OBS\""
 excerpt: "\"This Article Describes [Updated] Seamless Broadcasting: Gamers' Secrets From OBS\""
 keywords: "Gamers' OBS Secrets,Seamless Broadcasting,OBS Gaming Tips,Streaming Gameplay Ease,Video OBS Gamers,Broadcast Simplicity,Efficient OBS Streaming"
-thumbnail: https://www.lifewire.com/thmb/xgo6tGI-HONOfys81EHMpcUqTKU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325d71d7edbcfdaf185bcde8ae.jpg
 ---
 
 ## Seamless Broadcasting: Gamers' Secrets From OBS

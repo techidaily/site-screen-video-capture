@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Avoiding Pitfalls in Low-Light Portrait Photography\""
-date: 2024-05-18T15:16:01.008Z
-updated: 2024-05-19T15:16:01.008Z
+date: 2024-06-18T15:37:12.219Z
+updated: 2024-06-19T15:37:12.219Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Avoiding Pitfalls in Low-Light Portrait Photography\""
 excerpt: "\"This Article Describes [New] In 2024, Avoiding Pitfalls in Low-Light Portrait Photography\""
 keywords: "PPT Recording Tips,Avoiding PPT Errors,PPT Session Optimization,Common PPT Mistakes,Effective PPT Recordings,PPT Quality Control,Best Practices for PPT"
-thumbnail: https://www.lifewire.com/thmb/UtN0GE8QhLupWXrar0DikfJdamQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cq5dam.web.1280.1280-3-5c2a5dc746e0fb0001d115f0.jpeg
+thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325695bb2b5c751424b8cb1104.jpeg
 ---
 
 ## Avoiding Pitfalls in Low-Light Portrait Photography

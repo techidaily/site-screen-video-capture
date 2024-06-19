@@ -1,7 +1,7 @@
 ---
 title: "\"Chilly Cinematography  Comprehensive Ice Cream Monitoring Tutorial for 2024\""
-date: 2024-05-18T15:09:20.497Z
-updated: 2024-05-19T15:09:20.497Z
+date: 2024-06-18T15:37:09.932Z
+updated: 2024-06-19T15:37:09.932Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Chilly Cinematography: Comprehensive Ice Cream Monitoring Tutorial for 2024\""
 excerpt: "\"This Article Describes Chilly Cinematography: Comprehensive Ice Cream Monitoring Tutorial for 2024\""
 keywords: "\"Ice Cream Temp Monitoring,Cold Film Technique,Frozen Scene Setup,Sweet Ice Art Cinematography,Arctic Visuals Tutorial,Chill-Effect Camera Work,Cool Shots Guide\""
-thumbnail: https://www.lifewire.com/thmb/Upemm_83fheu5JnASUVL9rXiGqw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheOscarsStatue-33f6c30d7ffd4694a4dd1d1113de57f5.jpg
+thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6f572fe9945c7d91985d72b7.jpg
 ---
 
 ## Chilly Cinematography: Comprehensive Ice Cream Monitoring Tutorial

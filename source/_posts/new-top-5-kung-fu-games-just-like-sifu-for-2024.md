@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 5 Kung Fu Games Just Like Sifu for 2024"
-date: 2024-05-18T15:25:21.188Z
-updated: 2024-05-19T15:25:21.188Z
+date: 2024-06-18T15:37:14.829Z
+updated: 2024-06-19T15:37:14.829Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Top 5 Kung Fu Games Just Like Sifu for 2024"
 excerpt: "This Article Describes [New] Top 5 Kung Fu Games Just Like Sifu for 2024"
 keywords: "\"Kung Fu Gaming,Fitness Martial Arts Games,Mastery Fighting Games,Authentic Kung-Fu Titles,Sifu Inspired Gameplay,Traditional Martial Arts Videogames,Realistic Kung Fu Arcade,Kung Fu Videogames,Martial Arts Gaming,Fighting Game Mastery,Authentic Martial Arcade,Sifu-Inspired Titles,Fitness Fighter Games,Traditional Martial Games\""
-thumbnail: https://www.lifewire.com/thmb/-_m0G8vbbxxIlkvVQDjlQ1eCN-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541916248-593842a43df78c537be2cf44.jpg
+thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc35052e19faef90f3eeabcd3dc4.jpg
 ---
 
 ## Five Must-Play Street Fighter Clones

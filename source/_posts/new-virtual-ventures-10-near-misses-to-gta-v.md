@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Virtual Ventures  10 Near-Misses to GTA V\""
-date: 2024-05-18T15:23:05.592Z
-updated: 2024-05-19T15:23:05.592Z
+date: 2024-06-18T15:37:01.820Z
+updated: 2024-06-19T15:37:01.820Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Virtual Ventures: 10 Near-Misses to GTA V\""
 excerpt: "\"This Article Describes [New] Virtual Ventures: 10 Near-Misses to GTA V\""
 keywords: "GTA V Mishaps,Virtual Game Risks,GTAdventure CloseShots,Virtual Gaming Hazards,Near Miss in GTA World,GTA V Cautionary Tales,VideoGame NarrowEscape"
-thumbnail: https://www.lifewire.com/thmb/u__p9PWL3Uvoj7yKh73LTAz8p1I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphonedefaultalerttone-15a2b7bd66de41878765af23bd0d6c6f.png
+thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb44504b07d25f967a878becd.png
 ---
 
 ## Virtual Ventures: 10 Near-Misses to GTA V

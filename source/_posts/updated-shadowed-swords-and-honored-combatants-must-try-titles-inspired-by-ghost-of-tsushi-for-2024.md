@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Shadowed Swords & Honored Combatants  Must-Try Titles Inspired by Ghost of Tsushi for 2024\""
-date: 2024-05-18T15:17:22.402Z
-updated: 2024-05-19T15:17:22.402Z
+date: 2024-06-18T15:37:13.798Z
+updated: 2024-06-19T15:37:13.798Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Shadowed Swords & Honored Combatants: Must-Try Titles Inspired by Ghost of Tsushi for 2024\""
 excerpt: "\"This Article Describes [Updated] Shadowed Swords & Honored Combatants: Must-Try Titles Inspired by Ghost of Tsushi for 2024\""
 keywords: "ShadowedSwordCombat,GhostTsushiTitles,HonoredFightersQuest,InspiredGhostTales,TsushiShadowsBattle,CombatantHonorGame,MustTrySwordSeries"
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## Shadowed Swords & Honored Combatants: Must-Try Titles Inspired by Ghost of Tsushi

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Unveiling Superior Screen Recording  OBS vs Fraps Face-Off\""
-date: 2024-05-20T00:50:22.987Z
-updated: 2024-05-21T00:50:22.987Z
+date: 2024-06-18T15:37:09.714Z
+updated: 2024-06-19T15:37:09.714Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Unveiling Superior Screen Recording: OBS vs Fraps Face-Off\""
 excerpt: "\"This Article Describes [Updated] In 2024, Unveiling Superior Screen Recording: OBS vs Fraps Face-Off\""
 keywords: "\"OBS vs Fraps,Screen Recording Showdown,Best OBS Competitor,Fraps Comparison Test,Optimal Screen Capture,High-Quality ScreenRec,Top ScreenCapture Software\""
-thumbnail: https://www.lifewire.com/thmb/orCGFYNFlEan1uKR5h12Vm8mASA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kids-ipad-580f65635f9b58564cc0fc91-5c5cbb6ac9e77c0001d92aa4.jpg
+thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b33fad191c1a3f8c1897f172.jpg
 ---
 
 ## Unveiling Superior Screen Recording: OBS vs Fraps Face-Off

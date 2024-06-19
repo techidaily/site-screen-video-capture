@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] OBS Studio Explained  Capturing PS4 Playthroughs for 2024\""
-date: 2024-05-20T00:49:47.434Z
-updated: 2024-05-21T00:49:47.434Z
+date: 2024-06-18T15:36:58.196Z
+updated: 2024-06-19T15:36:58.196Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] OBS Studio Explained: Capturing PS4 Playthroughs for 2024\""
 excerpt: "\"This Article Describes [Updated] OBS Studio Explained: Capturing PS4 Playthroughs for 2024\""
 keywords: "OBS Gameplay Streaming,PS4 Live Broadcast,OBS Recording PS4,PS4 Video Editing,OBS Studio PS4,Capturing Gaming Playthroughs,PS4 Screen Record with OBS"
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## OBS Studio Explained: Capturing PS4 Playthroughs

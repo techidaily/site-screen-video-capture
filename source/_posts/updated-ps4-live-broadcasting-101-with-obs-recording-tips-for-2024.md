@@ -1,7 +1,7 @@
 ---
 title: "[Updated] PS4 Live Broadcasting 101 with OBS Recording Tips for 2024"
-date: 2024-05-18T15:22:37.890Z
-updated: 2024-05-19T15:22:37.890Z
+date: 2024-06-18T15:37:02.962Z
+updated: 2024-06-19T15:37:02.962Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] PS4 Live Broadcasting 101 with OBS Recording Tips for 2024"
 excerpt: "This Article Describes [Updated] PS4 Live Broadcasting 101 with OBS Recording Tips for 2024"
 keywords: "PS4 Broadcast Basics,OBS For PS4,Streaming PS4 Tips,OBS PS4 Guide,Live Stream PS4,PS4 Recording Tech,OBS Broadcast PS4"
-thumbnail: https://www.lifewire.com/thmb/UchI0OfcFuiZjMJhTw31h6uHSHQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Race-982fb219114a48fb96b9c5a2c6f93847.jpg
+thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce093f59dcdf2b6479e3403f82d.jpg
 ---
 
 ## PS4 Live Broadcasting 101 with OBS Recording Tips

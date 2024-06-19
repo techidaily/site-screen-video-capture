@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How to Archive Your Favorite Movies  Mac Screenshots for Netflix\""
-date: 2024-05-18T15:13:33.151Z
-updated: 2024-05-19T15:13:33.151Z
+date: 2024-06-18T15:37:02.266Z
+updated: 2024-06-19T15:37:02.266Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] How to Archive Your Favorite Movies: Mac Screenshots for Netflix\""
 excerpt: "\"This Article Describes [New] How to Archive Your Favorite Movies: Mac Screenshots for Netflix\""
 keywords: "Netflix Movie Screens,Mac Archiving Tips,Capture Film Shots,Streaming Show Preps,Save Screen Timeout,Quick Video Backup,DVD to Digital Conversion"
-thumbnail: https://www.lifewire.com/thmb/dlXSXWUVnvtFpXfW22z68Mqdr1g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TwitterVideoDownload-5b605aaac9e77c002c3a42f3.jpg
+thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c84a7394663cf2c5a8a40dbef.jpg
 ---
 
 ## How to Archive Your Favorite Movies: Mac Screenshots for Netflix

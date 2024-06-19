@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  LightweightScreenCapture - No Fuss, Just Fun\""
-date: 2024-05-20T00:49:51.705Z
-updated: 2024-05-21T00:49:51.705Z
+date: 2024-06-18T15:37:08.305Z
+updated: 2024-06-19T15:37:08.305Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: LightweightScreenCapture - No Fuss, Just Fun\""
 excerpt: "\"This Article Describes 2024 Approved: LightweightScreenCapture - No Fuss, Just Fun\""
 keywords: "\"Screen Capture Light,Fun Screen Recorder,Easy Image Save,Simple Screenshot,Low-Fuss Scratch,No Hassle Capture,Joyful Screen Grab\""
-thumbnail: https://www.lifewire.com/thmb/tP3PGqv5XalObxjPn5UrSpbUwa0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/preaknessstakes-5c804f1b46e0fb00019b8ee0.jpg
+thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be090a3ce22bfc91cc23bb5f7.jpg
 ---
 
 ## LightweightScreenCapture - No Fuss, Just Fun

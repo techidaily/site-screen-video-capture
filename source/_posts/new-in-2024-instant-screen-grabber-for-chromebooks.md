@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Instant Screen Grabber for Chromebooks"
-date: 2024-05-20T00:50:27.219Z
-updated: 2024-05-21T00:50:27.219Z
+date: 2024-06-18T15:37:11.437Z
+updated: 2024-06-19T15:37:11.437Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Instant Screen Grabber for Chromebooks"
 excerpt: "This Article Describes [New] In 2024, Instant Screen Grabber for Chromebooks"
 keywords: "\"Chromebook Screen Grab,Instant Grab Screenshot,Fast Chromebook Capture,Quickscreen Chromebook,On-the-Fly Chromebook Snip,Immediate Chromebook Snapshot,Rapid Chromebook Screenshot\""
-thumbnail: https://www.lifewire.com/thmb/uOuMw8_e1pBrdfuZB3txnHBxmfk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sofya-NomETWcv2Fo-unsplash-be3fc2855a7e477db0273993fd22e822.jpg
+thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735f93f6027b47c78945bb4e75.jpg
 ---
 
 ## Instant Screen Grabber for Chromebooks
@@ -93,7 +93,7 @@ Another amazing Google extension for screen recording that is used widely is Nim
 
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record computer screen and webcam
 

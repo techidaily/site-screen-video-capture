@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Windows/Mac  Recording Skype Chats & Calls\""
-date: 2024-05-20T00:49:56.057Z
-updated: 2024-05-21T00:49:56.057Z
+date: 2024-06-18T15:37:16.354Z
+updated: 2024-06-19T15:37:16.354Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Windows/Mac: Recording Skype Chats & Calls\""
 excerpt: "\"This Article Describes [New] Windows/Mac: Recording Skype Chats & Calls\""
 keywords: "Skype Call Record Windows,Mac Skype Voice Logs,Skype Audio Capture on PC,Windows Skype Transcript,Mac Screen Share Recording,Windows/Mac Skype Chat Save,Mac Skype Video Archive"
-thumbnail: https://www.lifewire.com/thmb/ADwMZAl5AjJaezwcgc229Y2W9FU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1558254975-0a8ae81a4cd04f3eba064dd56ba8b030.jpg
+thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f83678c9c2635006dd72b341f.jpg
 ---
 
 ## Windows/Mac: Recording Skype Chats & Calls

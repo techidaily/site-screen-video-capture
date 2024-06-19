@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Precision Recording of Skype Calls via OBS Network"
-date: 2024-05-20T00:50:02.088Z
-updated: 2024-05-21T00:50:02.088Z
+date: 2024-06-18T15:37:13.951Z
+updated: 2024-06-19T15:37:13.951Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Precision Recording of Skype Calls via OBS Network"
 excerpt: "This Article Describes [Updated] Precision Recording of Skype Calls via OBS Network"
 keywords: "\"Skype Call OBS Capture,OBS Audio Streaming,OBS Skype Recording,High-Quality OBS VoIP,Skype Calls in OBS,Live OBS Skype Session,OBS Network Call Recording\""
-thumbnail: https://www.lifewire.com/thmb/Y6Usxgxc9PdsrK9dH2LfUO8QJRY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-849896688-6d69f22bcf0a4ff092f444abe6e1c19f.jpg
+thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd2abed16461ddf6c80bb2da9.jpg
 ---
 
 ## Precision Recording of Skype Calls via OBS Network

@@ -1,7 +1,7 @@
 ---
 title: "\"Election Enthusiasts' Essentials  Quintessential Voting Games\""
-date: 2024-05-20T00:50:12.373Z
-updated: 2024-05-21T00:50:12.373Z
+date: 2024-06-18T15:36:59.609Z
+updated: 2024-06-19T15:36:59.609Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Election Enthusiasts' Essentials: Quintessential Voting Games\""
 excerpt: "\"This Article Describes Election Enthusiasts' Essentials: Quintessential Voting Games\""
 keywords: "Election Vote Games,Political Gaming Tips,Quiz Voting Fun,Polls & Puzzles Game,Civics Board Play,Electoral Challenge,Voter Party Games"
-thumbnail: https://www.lifewire.com/thmb/0xgLnS3M6CP4FiP4I-VE1zFOiLo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-ps5-controller-on-your-pc-or-mac-5089439-b56739aa27bd48858200878a6b64f952.jpg
+thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
 ## Election Enthusiasts' Essentials: Quintessential Voting Games

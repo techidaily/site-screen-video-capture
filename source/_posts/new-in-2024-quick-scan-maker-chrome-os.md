@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Quick Scan Maker (Chrome OS)"
-date: 2024-05-20T00:49:40.800Z
-updated: 2024-05-21T00:49:40.800Z
+date: 2024-06-18T15:37:06.929Z
+updated: 2024-06-19T15:37:06.929Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Quick Scan Maker (Chrome OS)"
 excerpt: "This Article Describes [New] In 2024, Quick Scan Maker (Chrome OS)"
 keywords: "Quick Scan Chrome OS,Chromebook SpeedScan,Fast Chrome Scanning,Rapid OS Scanner,ChromeOS QuickView,Speedy Chrome Maker,Lightweight OS Snapshot"
-thumbnail: https://www.lifewire.com/thmb/RHk5CzUskZEHtVQS5Kba30nHhvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-kindle-unlimited-worth-it-fda01dceb923406a8524c64d2b72693e.jpg
+thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc218886423e579644f1092e23638fe5.jpg
 ---
 
 ## Quick Scan Maker (Chrome OS)
@@ -93,7 +93,7 @@ Another amazing Google extension for screen recording that is used widely is Nim
 
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record computer screen and webcam
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Your Gateway to Digital Proficiency  Understanding Screen Capture on MacBook Air\""
-date: 2024-05-18T14:57:35.794Z
-updated: 2024-05-19T14:57:35.794Z
+date: 2024-06-18T15:37:06.112Z
+updated: 2024-06-19T15:37:06.112Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Your Gateway to Digital Proficiency: Understanding Screen Capture on MacBook Air\""
 excerpt: "\"This Article Describes [Updated] Your Gateway to Digital Proficiency: Understanding Screen Capture on MacBook Air\""
 keywords: "MacCapture Skills,MacProficiency Guide,ScreenShot MacBrief,DigitalCapture MAC,TechSavvyCapture MAC,ProficientMacCapture,DigitalMAC Mastery"
-thumbnail: https://www.lifewire.com/thmb/jYmIoXAzWYI6-krphnPX46os0Yg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tablets-vs-laptops-832333-93961eb085ff44d99d3836a0d0fa486a.png
+thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d3949b489b0214f6877268e346.png
 ---
 
 ## Your Gateway to Digital Proficiency: Understanding Screen Capture on MacBook Air

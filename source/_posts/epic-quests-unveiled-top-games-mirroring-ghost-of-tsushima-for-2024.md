@@ -1,7 +1,7 @@
 ---
 title: "\"Epic Quests Unveiled  Top Games Mirroring Ghost of Tsushima for 2024\""
-date: 2024-05-18T15:17:40.890Z
-updated: 2024-05-19T15:17:40.890Z
+date: 2024-06-18T15:37:02.108Z
+updated: 2024-06-19T15:37:02.108Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Epic Quests Unveiled: Top Games Mirroring Ghost of Tsushima for 2024\""
 excerpt: "\"This Article Describes Epic Quests Unveiled: Top Games Mirroring Ghost of Tsushima for 2024\""
 keywords: "\"Tsushima Game Quest,Epic Journeys Gaming,Ghost Quest Inspirations,Modern Quest Titles,Top Adventure Games,High-Stakes Gaming,Mythical Quest Strategy\""
-thumbnail: https://www.lifewire.com/thmb/ADwMZAl5AjJaezwcgc229Y2W9FU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1558254975-0a8ae81a4cd04f3eba064dd56ba8b030.jpg
+thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f83678c9c2635006dd72b341f.jpg
 ---
 
 ## Epic Quests Unveiled: Top Games Mirroring Ghost of Tsushima

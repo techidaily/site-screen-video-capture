@@ -1,7 +1,7 @@
 ---
 title: "\"LightweightScreenCapture - No Fuss, Just Fun for 2024\""
-date: 2024-05-20T00:49:28.531Z
-updated: 2024-05-21T00:49:28.531Z
+date: 2024-06-18T15:37:06.031Z
+updated: 2024-06-19T15:37:06.031Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes LightweightScreenCapture - No Fuss, Just Fun for 2024\""
 excerpt: "\"This Article Describes LightweightScreenCapture - No Fuss, Just Fun for 2024\""
 keywords: "\"Screen Capture Light,Fun Screen Recorder,Easy Image Save,Simple Screenshot,Low-Fuss Scratch,No Hassle Capture,Joyful Screen Grab\""
-thumbnail: https://www.lifewire.com/thmb/5m3PFyS3dMrqXFE2iOSfA4BUn2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-smart-tv-12dcac76114b4747b9b3db8bb3551ddc.jpg
+thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d8ff765825e636a33b833fec.jpg
 ---
 
 ## LightweightScreenCapture - No Fuss, Just Fun

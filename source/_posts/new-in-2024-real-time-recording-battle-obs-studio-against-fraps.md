@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Real-Time Recording Battle  OBS Studio Against Fraps\""
-date: 2024-05-20T00:49:40.852Z
-updated: 2024-05-21T00:49:40.852Z
+date: 2024-06-18T15:37:15.113Z
+updated: 2024-06-19T15:37:15.114Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Real-Time Recording Battle: OBS Studio Against Fraps\""
 excerpt: "\"This Article Describes [New] In 2024, Real-Time Recording Battle: OBS Studio Against Fraps\""
 keywords: "\"OBS Vs. Fraps Live Streaming,Real-Time Video Capture,OBS Studio Showdown,Fraps Comparison Analysis,Live Recording Tools Battle,Real-Time Screen Recorder,Professional Screen Capture Software\""
-thumbnail: https://www.lifewire.com/thmb/TtsVrd32qSZ-IgZ8x0AB3dHyQVs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-make-a-song-your-ringtone-on-android-4777573-5d571b57c5a5436e91ebb7fcae1c2b6b.jpg
+thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca322a8100dfaafbd0ac4bcb97.jpg
 ---
 
 ## Real-Time Recording Battle: OBS Studio Against Fraps
