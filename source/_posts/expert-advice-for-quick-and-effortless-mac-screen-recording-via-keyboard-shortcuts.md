@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice for Quick and Effortless Mac Screen Recording via Keyboard Shortcuts"
-date: 2024-05-18T15:19:05.612Z
-updated: 2024-05-19T15:19:05.612Z
+date: 2024-06-26T07:31:38.560Z
+updated: 2024-06-27T07:31:38.560Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Expert Advice for Quick and Effortless Mac Screen Recording via Keyboard Shortcuts"
 excerpt: "This Article Describes Expert Advice for Quick and Effortless Mac Screen Recording via Keyboard Shortcuts"
 keywords: "Mac Screen Record Fast,Keyboard Mac Recorder,Effortless Mac Screen Capture,Simple Mac Screen Record,Quick Mac Recording Tips,Shortcuts for Mac Screenshot,Mac Screen Save Trick"
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## Expert Advice for Quick and Effortless Mac Screen Recording via Keyboard Shortcuts

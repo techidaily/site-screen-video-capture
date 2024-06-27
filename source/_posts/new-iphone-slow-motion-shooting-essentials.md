@@ -1,7 +1,7 @@
 ---
 title: "[New] IPhone Slow Motion Shooting Essentials"
-date: 2024-05-20T00:49:54.363Z
-updated: 2024-05-21T00:49:54.363Z
+date: 2024-06-26T07:31:33.622Z
+updated: 2024-06-27T07:31:33.622Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] IPhone Slow Motion Shooting Essentials"
 excerpt: "This Article Describes [New] IPhone Slow Motion Shooting Essentials"
 keywords: "IOS Screenshot Guide,IPhone Image Capture,Snap iPhone Pics,Photo iPad Touchscreen,Mobile Screen Grab,Phone Shot Tips,IOS Snapping Steps"
-thumbnail: https://www.lifewire.com/thmb/KrjxcoVkV9vT3cQ3C-URm7mlpcM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-917461864-7141ebd3ec944ce6a431b8d485cc9cdb.jpg
+thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed46c02973b8fefdc10e6507c.jpg
 ---
 
 ## IPhone Slow Motion Shooting Essentials

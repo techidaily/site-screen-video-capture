@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Zoom Chat  How to Chat in Zoom Meeting? [Tips & Tricks]\""
-date: 2024-05-20T00:50:19.955Z
-updated: 2024-05-21T00:50:19.955Z
+date: 2024-06-26T07:31:35.413Z
+updated: 2024-06-27T07:31:35.413Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Zoom Chat: How to Chat in Zoom Meeting? [Tips & Tricks]\""
 excerpt: "\"This Article Describes [Updated] Zoom Chat: How to Chat in Zoom Meeting? [Tips & Tricks]\""
 keywords: "Zoom Chatting Basics,Tips for ZM Chats,Zoom Meetings Etiquette,Effective Zoom Conversations,Mastering ZOOM Chat,Tricks for ZM Dialogues,Navigating ZOOM Discussions"
-thumbnail: https://www.lifewire.com/thmb/9P6TB9sqO-6Yq23O2BOj91c-Cvg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541365354-5c8ad42246e0fb00014a9687.jpg
+thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9fefb2b304db02c765d66484d.jpg
 ---
 
 ## Zoom Chat: How to Chat in Zoom Meeting? [Tips & Tricks]
@@ -95,9 +95,7 @@ Launch your favorite browser, sign in to the web portal of your Zoom account, go
 
 Click the **+** icon, in the available field type the email address(es) of the user(s) you want to allow to send or receive the announcements and click **Add** to add the participant(s) once found. Next, you can now safely sign out of the web portal of your Zoom account, and proceed to the next step.
 
-#### Step 3: Send Announcements
-
-![Zoom Meeting Chat  Announcements](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-announcement.jpg)
+#### Step 3: Send Announcements ![Zoom Meeting Chat  Announcements](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-announcement.jpg)
 
 Launch Zoom app and sign into your account. Click the **Chat** icon from the top, click **Announcements** from the left bar, type a message in the text box in the right and/or attach a file if need be. Press **Enter** to send the message/attachment as an announcement to all the recipients.
 
@@ -153,7 +151,7 @@ During a meeting session, click the **Chat** icon from the bottom of the interfa
 
 Click the **More** icon from the bottom-right area of the pane you enabled, and from the menu that appears next, click **Host Only** or **No One** to allow users to chat only with the host of the meeting (you in this case) or prevent them from chatting at all respectively.
 
-![Disable Zoom Meeting Chat ](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting.jpg)
+![Disable Zoom Meeting Chat](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting.jpg)
 
 ### 2\. How to Permanently Disable Zoom Chats?
 
@@ -161,9 +159,7 @@ Click the **More** icon from the bottom-right area of the pane you enabled, and 
 
 Open an Internet browser, sign in to your Zoom account on the web, click **Settings** from under the **PERSONAL** category from the left bar, and click **In Meeting (Basic)** from the middle pane.
 
-#### Step 2: Permanently Disable Chat
-
-![Disable Zoom Meeting Chat ](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting-settings.jpg)
+#### Step 2: Permanently Disable Chat ![Disable Zoom Meeting Chat](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting-settings.jpg)
 
 Turn off the **Chat** toggle switch, and on the **Turn OFF for “Chat”** box that pops up next, click **Turn Off** to disable all types of chats and the related features, i.e. including **Zoom private chat** and auto saving.
 
@@ -277,9 +273,7 @@ Launch your favorite browser, sign in to the web portal of your Zoom account, go
 
 Click the **+** icon, in the available field type the email address(es) of the user(s) you want to allow to send or receive the announcements and click **Add** to add the participant(s) once found. Next, you can now safely sign out of the web portal of your Zoom account, and proceed to the next step.
 
-#### Step 3: Send Announcements
-
-![Zoom Meeting Chat  Announcements](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-announcement.jpg)
+#### Step 3: Send Announcements ![Zoom Meeting Chat  Announcements](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-announcement.jpg)
 
 Launch Zoom app and sign into your account. Click the **Chat** icon from the top, click **Announcements** from the left bar, type a message in the text box in the right and/or attach a file if need be. Press **Enter** to send the message/attachment as an announcement to all the recipients.
 
@@ -335,7 +329,7 @@ During a meeting session, click the **Chat** icon from the bottom of the interfa
 
 Click the **More** icon from the bottom-right area of the pane you enabled, and from the menu that appears next, click **Host Only** or **No One** to allow users to chat only with the host of the meeting (you in this case) or prevent them from chatting at all respectively.
 
-![Disable Zoom Meeting Chat ](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting.jpg)
+![Disable Zoom Meeting Chat](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting.jpg)
 
 ### 2\. How to Permanently Disable Zoom Chats?
 
@@ -343,9 +337,7 @@ Click the **More** icon from the bottom-right area of the pane you enabled, and 
 
 Open an Internet browser, sign in to your Zoom account on the web, click **Settings** from under the **PERSONAL** category from the left bar, and click **In Meeting (Basic)** from the middle pane.
 
-#### Step 2: Permanently Disable Chat
-
-![Disable Zoom Meeting Chat ](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting-settings.jpg)
+#### Step 2: Permanently Disable Chat ![Disable Zoom Meeting Chat](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting-settings.jpg)
 
 Turn off the **Chat** toggle switch, and on the **Turn OFF for “Chat”** box that pops up next, click **Turn Off** to disable all types of chats and the related features, i.e. including **Zoom private chat** and auto saving.
 
@@ -459,9 +451,7 @@ Launch your favorite browser, sign in to the web portal of your Zoom account, go
 
 Click the **+** icon, in the available field type the email address(es) of the user(s) you want to allow to send or receive the announcements and click **Add** to add the participant(s) once found. Next, you can now safely sign out of the web portal of your Zoom account, and proceed to the next step.
 
-#### Step 3: Send Announcements
-
-![Zoom Meeting Chat  Announcements](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-announcement.jpg)
+#### Step 3: Send Announcements ![Zoom Meeting Chat  Announcements](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-announcement.jpg)
 
 Launch Zoom app and sign into your account. Click the **Chat** icon from the top, click **Announcements** from the left bar, type a message in the text box in the right and/or attach a file if need be. Press **Enter** to send the message/attachment as an announcement to all the recipients.
 
@@ -517,7 +507,7 @@ During a meeting session, click the **Chat** icon from the bottom of the interfa
 
 Click the **More** icon from the bottom-right area of the pane you enabled, and from the menu that appears next, click **Host Only** or **No One** to allow users to chat only with the host of the meeting (you in this case) or prevent them from chatting at all respectively.
 
-![Disable Zoom Meeting Chat ](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting.jpg)
+![Disable Zoom Meeting Chat](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting.jpg)
 
 ### 2\. How to Permanently Disable Zoom Chats?
 
@@ -525,9 +515,7 @@ Click the **More** icon from the bottom-right area of the pane you enabled, and 
 
 Open an Internet browser, sign in to your Zoom account on the web, click **Settings** from under the **PERSONAL** category from the left bar, and click **In Meeting (Basic)** from the middle pane.
 
-#### Step 2: Permanently Disable Chat
-
-![Disable Zoom Meeting Chat ](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting-settings.jpg)
+#### Step 2: Permanently Disable Chat ![Disable Zoom Meeting Chat](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting-settings.jpg)
 
 Turn off the **Chat** toggle switch, and on the **Turn OFF for “Chat”** box that pops up next, click **Turn Off** to disable all types of chats and the related features, i.e. including **Zoom private chat** and auto saving.
 
@@ -641,9 +629,7 @@ Launch your favorite browser, sign in to the web portal of your Zoom account, go
 
 Click the **+** icon, in the available field type the email address(es) of the user(s) you want to allow to send or receive the announcements and click **Add** to add the participant(s) once found. Next, you can now safely sign out of the web portal of your Zoom account, and proceed to the next step.
 
-#### Step 3: Send Announcements
-
-![Zoom Meeting Chat  Announcements](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-announcement.jpg)
+#### Step 3: Send Announcements ![Zoom Meeting Chat  Announcements](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-announcement.jpg)
 
 Launch Zoom app and sign into your account. Click the **Chat** icon from the top, click **Announcements** from the left bar, type a message in the text box in the right and/or attach a file if need be. Press **Enter** to send the message/attachment as an announcement to all the recipients.
 
@@ -699,7 +685,7 @@ During a meeting session, click the **Chat** icon from the bottom of the interfa
 
 Click the **More** icon from the bottom-right area of the pane you enabled, and from the menu that appears next, click **Host Only** or **No One** to allow users to chat only with the host of the meeting (you in this case) or prevent them from chatting at all respectively.
 
-![Disable Zoom Meeting Chat ](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting.jpg)
+![Disable Zoom Meeting Chat](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting.jpg)
 
 ### 2\. How to Permanently Disable Zoom Chats?
 
@@ -707,9 +693,7 @@ Click the **More** icon from the bottom-right area of the pane you enabled, and 
 
 Open an Internet browser, sign in to your Zoom account on the web, click **Settings** from under the **PERSONAL** category from the left bar, and click **In Meeting (Basic)** from the middle pane.
 
-#### Step 2: Permanently Disable Chat
-
-![Disable Zoom Meeting Chat ](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting-settings.jpg)
+#### Step 2: Permanently Disable Chat ![Disable Zoom Meeting Chat](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting-settings.jpg)
 
 Turn off the **Chat** toggle switch, and on the **Turn OFF for “Chat”** box that pops up next, click **Turn Off** to disable all types of chats and the related features, i.e. including **Zoom private chat** and auto saving.
 

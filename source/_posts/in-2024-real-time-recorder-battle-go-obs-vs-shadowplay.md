@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Real-Time Recorder Battle  Go OBS! Vs. ShadowPlay\""
-date: 2024-06-18T15:38:29.148Z
-updated: 2024-06-19T15:38:29.148Z
+date: 2024-06-26T07:31:35.545Z
+updated: 2024-06-27T07:31:35.545Z
 tags: 
   - screen-recording
   - ai video
@@ -27,9 +27,7 @@ OBS and ShadowPlay are both completely free to use for recording your gameplay a
 
 ShadowPlay comes from Nvidia which is the largest manufacturer for GPU. That is why gamers who prefer Nvidia GPU, they have a special preference for ShadowPlay. Here are the key features of OBS and ShadowPlay you should be aware of.
 
-### OBS Studio
-
-![obs studio](https://images.wondershare.com/filmora/article-images/record-sims4-obs.jpg)
+### OBS Studio ![obs studio](https://images.wondershare.com/filmora/article-images/record-sims4-obs.jpg)
 
 **Screen Capture** \- You can capture high-quality gameplay when you play games on your computer as well as on a gaming console. You can tweak the parameters on video quality so that you can get the recording just like you want.
 
@@ -43,9 +41,7 @@ ShadowPlay comes from Nvidia which is the largest manufacturer for GPU. That is 
 
 Most importantly, you can live stream your gameplay on almost any online video streaming platform.
 
-### Nvidia ShadowPlay
-
-![shadowplay](https://images.wondershare.com/filmora/article-images/shadowplay-record.jpg)
+### Nvidia ShadowPlay ![shadowplay](https://images.wondershare.com/filmora/article-images/shadowplay-record.jpg)
 
 **Gameplay Capture** \- ShadowPlay lets you record gameplay at 8K with 30FPS. This is unmatched by any free video recording software. You can also record gameplay at 4K HDR with 60FPS. It comes with hardware acceleration to ensure the performance does not get affected while recording in the background.
 

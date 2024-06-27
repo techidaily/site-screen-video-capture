@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Diagnostic Criteria for Fetal Alcohol Syndrome for 2024"
-date: 2024-05-20T00:50:09.477Z
-updated: 2024-05-21T00:50:09.478Z
+date: 2024-06-26T07:31:41.508Z
+updated: 2024-06-27T07:31:41.508Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Diagnostic Criteria for Fetal Alcohol Syndrome for 2024"
 excerpt: "This Article Describes [Updated] Diagnostic Criteria for Fetal Alcohol Syndrome for 2024"
 keywords: "\"FAS Diagnosis Criteria,Fetal Alcohol Effects,Alcohol-Related Birth Disorder,AAFS Detection Methods,Preventing Fetal Alcohol Syndrome,Fetal Impact of Drinking,Early Signs of FAS\""
-thumbnail: https://www.lifewire.com/thmb/eYcaBBIZ1vACwviFbibN_RqgtSY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-measuring-tv-size-102761115-getty-5bf8513246e0fb008321de5f.jpg
+thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed98794f1ba27d0b681ad3c785.jpg
 ---
 
 ## Diagnostic Criteria for Fetal Alcohol Syndrome
@@ -131,9 +131,7 @@ Click apps and then click G suite. Select Google Meet from the list.
 
 #### Step 3: Enable recording
 
-Click **Recording** from the options showing up on the screen
-
-![enable record feature on Google Meet video](https://images.wondershare.com/filmora/article-images/enable-recording-feature-google-meet.jpg)
+Click **Recording** from the options showing up on the screen ![enable record feature on Google Meet video](https://images.wondershare.com/filmora/article-images/enable-recording-feature-google-meet.jpg)
 
 ## Part 5: Where do Google Meet Recordings Go?
 
@@ -335,9 +333,7 @@ Click apps and then click G suite. Select Google Meet from the list.
 
 #### Step 3: Enable recording
 
-Click **Recording** from the options showing up on the screen
-
-![enable record feature on Google Meet video](https://images.wondershare.com/filmora/article-images/enable-recording-feature-google-meet.jpg)
+Click **Recording** from the options showing up on the screen ![enable record feature on Google Meet video](https://images.wondershare.com/filmora/article-images/enable-recording-feature-google-meet.jpg)
 
 ## Part 5: Where do Google Meet Recordings Go?
 
@@ -539,9 +535,7 @@ Click apps and then click G suite. Select Google Meet from the list.
 
 #### Step 3: Enable recording
 
-Click **Recording** from the options showing up on the screen
-
-![enable record feature on Google Meet video](https://images.wondershare.com/filmora/article-images/enable-recording-feature-google-meet.jpg)
+Click **Recording** from the options showing up on the screen ![enable record feature on Google Meet video](https://images.wondershare.com/filmora/article-images/enable-recording-feature-google-meet.jpg)
 
 ## Part 5: Where do Google Meet Recordings Go?
 
@@ -743,9 +737,7 @@ Click apps and then click G suite. Select Google Meet from the list.
 
 #### Step 3: Enable recording
 
-Click **Recording** from the options showing up on the screen
-
-![enable record feature on Google Meet video](https://images.wondershare.com/filmora/article-images/enable-recording-feature-google-meet.jpg)
+Click **Recording** from the options showing up on the screen ![enable record feature on Google Meet video](https://images.wondershare.com/filmora/article-images/enable-recording-feature-google-meet.jpg)
 
 ## Part 5: Where do Google Meet Recordings Go?
 

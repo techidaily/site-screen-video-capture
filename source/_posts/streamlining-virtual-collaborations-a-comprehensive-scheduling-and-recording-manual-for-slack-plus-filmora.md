@@ -1,7 +1,7 @@
 ---
 title: "\"Streamlining Virtual Collaborations  A Comprehensive Scheduling & Recording Manual for Slack + Filmora\""
-date: 2024-05-18T15:26:10.544Z
-updated: 2024-05-19T15:26:10.544Z
+date: 2024-06-26T07:31:37.328Z
+updated: 2024-06-27T07:31:37.328Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "\"This Article Describes Streamlining Virtual Collaborations: A Comprehensive Scheduling & Recording Manual for Slack + Filmora\""
 excerpt: "\"This Article Describes Streamlining Virtual Collaborations: A Comprehensive Scheduling & Recording Manual for Slack + Filmora\""
 keywords: "Slack Schedule Guide,Filmora Video Planning,Virtual Team Coordination,Slack Meeting Records,Collaboration Scheduling Manual,Filmora Recording Tips,Streamlined Slack Workflows"
-thumbnail: https://www.lifewire.com/thmb/UgZFn1LjdiPD7yj2MRRWCGpAQWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d-link-default-password-list-2619152-d6281a924f45426f879c8707220ce92d.png
+thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01fc1cf31d37490fb679a3c33d.png
 ---
 
 ## Streamlining Virtual Collaborations: A Comprehensive Scheduling & Recording Manual for Slack + Filmora
 
-# How to Schedule and Record a Meeting on Slack-Wondershare Filmora
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+# How to Schedule and Record a Meeting on Slack-Wondershare Filmora ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
 

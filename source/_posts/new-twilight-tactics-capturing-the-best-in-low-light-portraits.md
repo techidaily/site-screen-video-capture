@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Twilight Tactics  Capturing the Best in Low Light Portraits\""
-date: 2024-05-18T15:19:24.563Z
-updated: 2024-05-19T15:19:24.563Z
+date: 2024-06-26T07:31:29.576Z
+updated: 2024-06-27T07:31:29.576Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Twilight Tactics: Capturing the Best in Low Light Portraits\""
 excerpt: "\"This Article Describes [New] Twilight Tactics: Capturing the Best in Low Light Portraits\""
 keywords: "\"Minecraft MAC Capture,High-Quality Minecraft Screenshot,MacOS Minecraft Guide,Best Minecraft Images for Mac,Saving Minecraft Videos on Mac,Capture Minecraft in High Quality,Ultimate Minecraft Photo Tips Mac\""
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## Twilight Tactics: Capturing the Best in Low Light Portraits

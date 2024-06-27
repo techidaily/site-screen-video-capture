@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Capture Audio Waveforms & Vocal Tracks"
-date: 2024-05-18T15:26:00.646Z
-updated: 2024-05-19T15:26:00.646Z
+date: 2024-06-26T07:31:39.249Z
+updated: 2024-06-27T07:31:39.249Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Capture Audio Waveforms & Vocal Tracks"
 excerpt: "This Article Describes [New] In 2024, Capture Audio Waveforms & Vocal Tracks"
 keywords: "Mac Screen Recorder,Audio Capture App,Innovative Capture Tech,Creative Recording Software,Quick Mac Recording,Efficient Screen Capture,Advanced Audio Grabber"
-thumbnail: https://www.lifewire.com/thmb/_atXbVpqt-bBP3NhxI9aFSkiOqU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1305200685-e977d0ca4e9a47e2b006e5b32a9922fd.jpg
+thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f8bfa2b570a90a8bfa430bd1.jpg
 ---
 
 ## Capture Audio Waveforms & Vocal Tracks
@@ -25,9 +25,7 @@ These programs allow users to record the computer screen, computer sounds, and m
 
 integration with your computer to make this possible.
 
-## 1\. Use Stereo Mix
-
-![stereo mix](https://images.wondershare.com/filmora/article-images/stereo-mix.jpg)
+## 1\. Use Stereo Mix ![stereo mix](https://images.wondershare.com/filmora/article-images/stereo-mix.jpg)
 
 **Step 1: Access the sound control center.**
 
@@ -47,7 +45,7 @@ To this far you are almost there! You can now use a microphone to feed into the 
 
 This being the final step, you will have to launch the recorder you are using to start the recording, and then select the Stereo Mix Device from the microphone icon. This will allow your recorder to record PC sound and microphone at the same time.
 
-## 2\. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## 2\. Filmora
 
 You may be interested in adding your voice to a video, making a voice-over demo for your social media networks, or even when preparing an important staff that requires your demonstration. Using Wondershare Filmora Editor, you can successfully combine your microphone voice with other computer sounds. This is because Filmora software has a voiceover function that allows you to record your voice or add voice-over files to a video. You can also use this function to customize the pitch, speech, and volume of the recorded voiceover. There are two options for incorporating sound in the other recordings using Filmora; you can edit your video first and then record the voiceover after. Or, start with recording the voiceover and then edit the video. in any of these ways, you need to prepare the script for smooth recording.
 

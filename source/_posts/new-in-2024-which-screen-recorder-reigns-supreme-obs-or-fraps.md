@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Which Screen Recorder Reigns Supreme  OBS or Fraps?\""
-date: 2024-05-18T14:55:37.509Z
-updated: 2024-05-19T14:55:37.509Z
+date: 2024-06-26T07:31:32.689Z
+updated: 2024-06-27T07:31:32.689Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Which Screen Recorder Reigns Supreme: OBS or Fraps?\""
 excerpt: "\"This Article Describes [New] In 2024, Which Screen Recorder Reigns Supreme: OBS or Fraps?\""
 keywords: "OBS Vs Fraps,Best Screen Capture,Screen Recorders Comparison,OBS Top Choice,Fraps vs OBS Benchmark,Premium Screen Recording,Screen Recorder Leader"
-thumbnail: https://www.lifewire.com/thmb/8JZwZGtr8caBDhoilBDj6iOR2TI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungappstore-c0194a478ba54e90a798b3bb5ff4f6d5.jpg
+thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
 ---
 
 ## Which Screen Recorder Reigns Supreme: OBS or Fraps?

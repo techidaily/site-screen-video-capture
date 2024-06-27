@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Navigating Board Usage  A Universal Guide for iOS, Android & Windows Platforms\""
-date: 2024-06-09T17:59:22.495Z
-updated: 2024-06-10T17:59:22.495Z
+date: 2024-06-26T07:31:41.340Z
+updated: 2024-06-27T07:31:41.340Z
 tags: 
   - screen-recording
   - ai video
@@ -17,9 +17,7 @@ thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595
 
 ## Navigating Board Usage: A Universal Guide for iOS, Android & Windows Platforms
 
-# How to Use a Whiteboard in Google Meet
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+# How to Use a Whiteboard in Google Meet ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Streaming via OBS Into Social Networks"
-date: 2024-05-18T15:01:00.530Z
-updated: 2024-05-19T15:01:00.530Z
+date: 2024-06-26T07:31:42.943Z
+updated: 2024-06-27T07:31:42.943Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Mastering the Art of Streaming via OBS Into Social Networks"
 excerpt: "This Article Describes Mastering the Art of Streaming via OBS Into Social Networks"
 keywords: "Streaming with OBS,OBS Social Integration,Live OBS Broadcasting,Social Media OBS,OBS for Streaming,OBS Network Streams,Social Sharing via OBS"
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## Mastering the Art of Streaming via OBS Into Social Networks

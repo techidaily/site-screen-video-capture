@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Simple Routines for Documenting Digital Dialogues on OS X/PC for 2024"
-date: 2024-05-18T15:16:22.959Z
-updated: 2024-05-19T15:16:22.959Z
+date: 2024-06-26T07:31:44.669Z
+updated: 2024-06-27T07:31:44.669Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Simple Routines for Documenting Digital Dialogues on OS X/PC for 2024"
 excerpt: "This Article Describes [Updated] Simple Routines for Documenting Digital Dialogues on OS X/PC for 2024"
 keywords: "Digital Dialogue Logs,OS X/PC Documentation,PC File Conversations,Simple OS X Records,Routines for OSX Notes,Digital Dialogue Tracks,OSX/PC Documentation Tips"
-thumbnail: https://www.lifewire.com/thmb/NOc5RCOPURestyDsC5sxK7KzGY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-971165690-1e0af1d9299f4fdba1225c2d20c739f2.jpg
+thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89ced90101624b46320eed1514.jpg
 ---
 
 ## Simple Routines for Documenting Digital Dialogues on OS X/PC

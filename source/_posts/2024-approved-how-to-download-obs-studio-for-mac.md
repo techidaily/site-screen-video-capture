@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Download OBS Studio for Mac\""
-date: 2024-05-18T15:15:52.303Z
-updated: 2024-05-19T15:15:52.303Z
+date: 2024-06-26T07:31:31.754Z
+updated: 2024-06-27T07:31:31.754Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: How to Download OBS Studio for Mac\""
 excerpt: "\"This Article Describes 2024 Approved: How to Download OBS Studio for Mac\""
 keywords: "Mac OBS Studio Download Guide,OBS Studio Mac Installation,Free OBS Studio macOS,Obs Studio macDownload Tips,OBS Studio macSetup,Accessing OBS on Mac,How to Obtain OBS Studio (Mac)"
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## How to Download OBS Studio for Mac
