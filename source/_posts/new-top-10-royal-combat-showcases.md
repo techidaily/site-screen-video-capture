@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 10 Royal Combat Showcases"
-date: 2024-05-20T00:50:44.251Z
-updated: 2024-05-21T00:50:44.251Z
+date: 2024-07-05T15:04:56.053Z
+updated: 2024-07-06T15:04:56.053Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Top 10 Royal Combat Showcases"
 excerpt: "This Article Describes [New] Top 10 Royal Combat Showcases"
 keywords: "Top Royals Fights,Combat Royale List,Royal Battle Highlights,Leading Warriors Showdown,Elite Royals Combat,Premier Royalties Skirmish,Best Royal Fight Spectacle"
-thumbnail: https://www.lifewire.com/thmb/yPXnCagYB7bKT7uol-AGPozLSS0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Air-5-e11857a8d117450e9e09d770e300a872.jpg
+thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068cc6322414a1134e31c0876a0.jpg
 ---
 
 ## Top 10 Royal Combat Showcases

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Tech-Savvy Academics  Recording Education Talks with MacOS\""
-date: 2024-05-18T15:16:15.997Z
-updated: 2024-05-19T15:16:15.997Z
+date: 2024-07-05T15:05:01.925Z
+updated: 2024-07-06T15:05:01.925Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Tech-Savvy Academics: Recording Education Talks with MacOS\""
 excerpt: "\"This Article Describes [Updated] Tech-Savvy Academics: Recording Education Talks with MacOS\""
 keywords: "Educational Talk Recording,MacBook Screen Record,Tech in Academia,Learning Tech Tools,Academic Presentation MAC,EdTech with Apple,Savvy Scholars MACOS"
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## Tech-Savvy Academics: Recording Education Talks with MacOS

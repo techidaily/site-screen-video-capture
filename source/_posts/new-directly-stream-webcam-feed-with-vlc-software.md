@@ -1,7 +1,7 @@
 ---
 title: "[New] Directly Stream Webcam Feed with VLC Software"
-date: 2024-05-20T00:50:44.980Z
-updated: 2024-05-21T00:50:44.980Z
+date: 2024-07-05T15:04:56.685Z
+updated: 2024-07-06T15:04:56.685Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Directly Stream Webcam Feed with VLC Software"
 excerpt: "This Article Describes [New] Directly Stream Webcam Feed with VLC Software"
 keywords: "VLC LiveStreaming,VLC WebCam View,VLC DirectStreaming,VLC VideoWebcam,VLC StreamFeeds,VLC WebCam Media,VLC LiveCameraView"
-thumbnail: https://www.lifewire.com/thmb/r5-nbFpZcg3uV6IKilx2-E6xQtA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-185223738-56a691fd5f9b58b7d0e3a1d9.jpg
+thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa28f7cfc8442056063114a14.jpg
 ---
 
 ## Directly Stream Webcam Feed with VLC Software

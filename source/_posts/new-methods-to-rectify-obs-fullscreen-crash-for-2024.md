@@ -1,7 +1,7 @@
 ---
 title: "[New] Methods to Rectify OBS Fullscreen Crash for 2024"
-date: 2024-05-20T00:49:59.816Z
-updated: 2024-05-21T00:49:59.816Z
+date: 2024-07-05T15:04:58.669Z
+updated: 2024-07-06T15:04:58.669Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Methods to Rectify OBS Fullscreen Crash for 2024"
 excerpt: "This Article Describes [New] Methods to Rectify OBS Fullscreen Crash for 2024"
 keywords: "Fixing OBS Fullscreen Crash,OBS Glitch Resolution,Stop OBS Screen Freeze,Correcting OBS Display Error,End OBS Lag Issue,Solve OBS Blackout Problem,Eliminate OBS Distortion"
-thumbnail: https://www.lifewire.com/thmb/UtN0GE8QhLupWXrar0DikfJdamQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cq5dam.web.1280.1280-3-5c2a5dc746e0fb0001d115f0.jpeg
+thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325695bb2b5c751424b8cb1104.jpeg
 ---
 
 ## Methods to Rectify OBS Fullscreen Crash

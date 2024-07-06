@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Iconic Nintendo Switch Combat Games Compilation (Max 156)"
-date: 2024-05-18T15:15:22.223Z
-updated: 2024-05-19T15:15:22.223Z
+date: 2024-07-05T15:05:00.391Z
+updated: 2024-07-06T15:05:00.391Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Iconic Nintendo Switch Combat Games Compilation (Max 156)"
 excerpt: "This Article Describes [Updated] Iconic Nintendo Switch Combat Games Compilation (Max 156)"
 keywords: "Nintendo Switch Fighters,Switch Gaming Battles,Switch Combat RPGs,Switch Arcade Classics,Limited Fight Games (Switch),Switch VR Combat Games,Classic Nintendo Battle Collection"
-thumbnail: https://www.lifewire.com/thmb/3tobj7wbVapRfa4KsiobKg3Nu40=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-184415451-9f59b82b64ac421cad0f28540a515b5f.jpg
+thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10f0ed6607a3b7c4f98575dff.jpg
 ---
 
 ## Iconic Nintendo Switch Combat Games Compilation (Max 156)

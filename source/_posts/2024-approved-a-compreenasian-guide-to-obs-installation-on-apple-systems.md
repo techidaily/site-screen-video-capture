@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  A Compreenasian Guide to OBS Installation on Apple Systems\""
-date: 2024-05-18T15:10:41.528Z
-updated: 2024-05-19T15:10:41.528Z
+date: 2024-07-05T15:04:54.231Z
+updated: 2024-07-06T15:04:54.231Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: A Compreenasian Guide to OBS Installation on Apple Systems\""
 excerpt: "\"This Article Describes 2024 Approved: A Compreenasian Guide to OBS Installation on Apple Systems\""
 keywords: "OBS Mac Setup,OBS for iPhones,OBS in iOS,OBS MacOS Install,OBS Guide Apple,OBS on macOS,Apple OBS Instructions"
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## A Compreenasian Guide to OBS Installation on Apple Systems

@@ -1,7 +1,7 @@
 ---
 title: "Decreasing OBS Stream Quality for 2024"
-date: 2024-05-20T00:50:07.907Z
-updated: 2024-05-21T00:50:07.907Z
+date: 2024-07-05T15:05:00.357Z
+updated: 2024-07-06T15:05:00.357Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Decreasing OBS Stream Quality for 2024"
 excerpt: "This Article Describes Decreasing OBS Stream Quality for 2024"
 keywords: "Lowering Video Quality,Reducing Stream Clarity,Declining Broadcast Image,Diminishing OBS Resolution,Improving Stream Performance,Boosting OBS Quality,Enhancing Screen Output,Quality Improvement OBS (if We Allow up to 50 Characters)"
-thumbnail: https://www.lifewire.com/thmb/rmV5FQdusxtcDMfMN-dk_OtLxwI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MorningShow-aed160f9cfd448cc8034b23bb3073314.jpg
+thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4a9660ef6c59333c64bce5cd.jpg
 ---
 
 ## Decreasing OBS Stream Quality

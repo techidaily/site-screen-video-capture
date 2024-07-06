@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Elevate Gaming on TV - OBS Guide\""
-date: 2024-05-18T15:23:59.372Z
-updated: 2024-05-19T15:23:59.372Z
+date: 2024-07-05T15:04:54.857Z
+updated: 2024-07-06T15:04:54.857Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Elevate Gaming on TV - OBS Guide\""
 excerpt: "\"This Article Describes In 2024, Elevate Gaming on TV - OBS Guide\""
 keywords: "Gaming OBS Tips,Elevate Game Streaming,Enhanced Gaming View,Optimal OBS Settings,Premium Gaming Broadcast,TV Gaming with OBS,Ultimate Gaming Guide OBS"
-thumbnail: https://www.lifewire.com/thmb/NOc5RCOPURestyDsC5sxK7KzGY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-971165690-1e0af1d9299f4fdba1225c2d20c739f2.jpg
+thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89ced90101624b46320eed1514.jpg
 ---
 
 ## Elevate Gaming on TV - OBS Guide

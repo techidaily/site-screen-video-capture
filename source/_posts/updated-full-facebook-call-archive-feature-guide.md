@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Full-Facebook Call Archive Feature Guide\""
-date: 2024-05-18T15:15:52.034Z
-updated: 2024-05-19T15:15:52.034Z
+date: 2024-07-05T15:05:01.774Z
+updated: 2024-07-06T15:05:01.774Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Full-Facebook Call Archive Feature Guide\""
 excerpt: "\"This Article Describes [Updated] Full-Facebook Call Archive Feature Guide\""
 keywords: "FaceBook Calls Archive,Full Facebook Call Guide,Phone Archive in FB,Facebook Call Logs,FB Call Archive Tips,Archiving FB Conversations,Comprehensive FB Call Guide"
-thumbnail: https://www.lifewire.com/thmb/x3esfFmI2Y55OmmlRvMWAY3TioM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-98471373-56a9ff935f9b58b7d0006b1a.jpg
+thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aacdfd70319b10cdaec65e638.jpg
 ---
 
 ## Full-Facebook Call Archive Feature Guide

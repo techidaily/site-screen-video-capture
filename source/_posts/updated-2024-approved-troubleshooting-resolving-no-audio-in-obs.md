@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Troubleshooting  Resolving No Audio in OBS\""
-date: 2024-05-18T15:24:16.849Z
-updated: 2024-05-19T15:24:16.849Z
+date: 2024-07-05T15:04:54.830Z
+updated: 2024-07-06T15:04:54.830Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Troubleshooting: Resolving No Audio in OBS\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Troubleshooting: Resolving No Audio in OBS\""
 keywords: "OBS Lag Fix,Live Stream Optimize,Video Pause Issue,OBS Stability Boost,Broadcast Interruptions,OBS Performance Tips,Live Stream Quality Improve"
-thumbnail: https://www.lifewire.com/thmb/V0mVc7hXHyanE76GvodfwiaKNvE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-966273172-fbc5e7e0e68a48f69a1a5ddc0d6df827.jpg
+thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761cee72b14ccd455aec2a0df5c4.jpg
 ---
 
 ## Troubleshooting: Resolving No Audio in OBS
@@ -514,7 +514,7 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-cost-free-chromebook-video-capturing-leaders/"><u>"\"[Updated] In 2024, Cost-Free Chromebook Video Capturing Leaders\""</u></a></li>
 <li><a href="https://screen-video-capture.techidaily.com/new-expert-advice-for-capturing-evening-images-for-2024/"><u>"[New] Expert Advice for Capturing Evening Images for 2024"</u></a></li>
 <li><a href="https://screen-video-capture.techidaily.com/updated-easyrecorder-straightforward-windows-10-tool-for-2024/"><u>"\"[Updated] EasyRecorder - Straightforward Windows 10 Tool for 2024\""</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-how-quicktime-screen-recording-with-audio-for-2024/"><u>"[New] [How] QuickTime Screen Recording with Audio for 2024"</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-quicktime-screen-recording-with-audio-for-2024/"><u>"[New][How] QuickTime Screen Recording with Audio for 2024"</u></a></li>
 <li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamlining-the-capture-process-in-competitive-rl-gaming/"><u>"\"[New] 2024 Approved  Streamlining the Capture Process in Competitive RL Gaming\""</u></a></li>
 <li><a href="https://screen-video-capture.techidaily.com/2024-approved-lightweightscreencapture-no-fuss-just-fun/"><u>"\"2024 Approved  LightweightScreenCapture - No Fuss, Just Fun\""</u></a></li>
 <li><a href="https://screen-video-capture.techidaily.com/new-in-2024-avoiding-pitfalls-in-low-light-portrait-photography/"><u>"\"[New] In 2024, Avoiding Pitfalls in Low-Light Portrait Photography\""</u></a></li>

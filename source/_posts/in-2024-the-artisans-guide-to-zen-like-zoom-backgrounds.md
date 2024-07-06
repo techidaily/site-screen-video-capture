@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Artisan's Guide to Zen-Like Zoom Backgrounds\""
-date: 2024-05-20T00:50:02.960Z
-updated: 2024-05-21T00:50:02.960Z
+date: 2024-07-05T15:04:57.578Z
+updated: 2024-07-06T15:04:57.578Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, The Artisan's Guide to Zen-Like Zoom Backgrounds\""
 excerpt: "\"This Article Describes In 2024, The Artisan's Guide to Zen-Like Zoom Backgrounds\""
 keywords: "Zen Zoom Backdrop Tips,Artisan Zen Zooming,Crafting Peaceful Zooms,Zen Zoom Decor,Sewn Zen Backgrounds,Zoom Ambiance Creation,Zenish Zoom Setups"
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## The Artisan's Guide to Zen-Like Zoom Backgrounds

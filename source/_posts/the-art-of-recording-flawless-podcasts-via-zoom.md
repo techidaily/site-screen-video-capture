@@ -1,7 +1,7 @@
 ---
 title: "The Art of Recording Flawless Podcasts via Zoom"
-date: 2024-05-18T15:01:15.332Z
-updated: 2024-05-19T15:01:15.332Z
+date: 2024-07-05T15:04:54.355Z
+updated: 2024-07-06T15:04:54.355Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes The Art of Recording Flawless Podcasts via Zoom"
 excerpt: "This Article Describes The Art of Recording Flawless Podcasts via Zoom"
 keywords: "OBS Record Essence,OBS Full Capability,Comprehensive OBS,OBS Complete Guide,Extensive OBS Usage,Detailed OBS Functions,OBS Versatility Explained"
-thumbnail: https://www.lifewire.com/thmb/hXsx55Jq_t9VhBh8GdAq7SriZ7k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-ram-in-android-5192499-8e8b91b6d94b4ab98c3bfa9ba41a4f66.jpg
+thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
 ---
 
 ## The Art of Recording Flawless Podcasts via Zoom

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Art of Freezing the Action in Win OS"
-date: 2024-06-18T15:37:34.442Z
-updated: 2024-06-19T15:37:34.442Z
+date: 2024-07-05T15:04:53.668Z
+updated: 2024-07-06T15:04:53.668Z
 tags: 
   - screen-recording
   - ai video
@@ -46,7 +46,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## Method 1: Using the Screen Sketch App to Take Screenshots on Windows 10
 
