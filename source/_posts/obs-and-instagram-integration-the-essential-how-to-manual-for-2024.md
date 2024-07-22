@@ -1,7 +1,7 @@
 ---
 title: "\"OBS and Instagram Integration  The Essential How To Manual for 2024\""
-date: 2024-05-18T15:18:18.458Z
-updated: 2024-05-19T15:18:18.458Z
+date: 2024-07-21T16:39:51.429Z
+updated: 2024-07-22T16:39:51.429Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes OBS and Instagram Integration: The Essential How To Manual for 2024\""
 excerpt: "\"This Article Describes OBS and Instagram Integration: The Essential How To Manual for 2024\""
 keywords: "\"OBS+Insta Guide,Instagram-OBS Integration,OBS on Instagram,Video Editing with OBS & Insta,OBS Tutorial for Instagram,Streaming to Instagram Using OBS,Integrate OBS and Instagram\""
-thumbnail: https://www.lifewire.com/thmb/HNtneePKuJeaZXX7qZjEwvmSz6M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flora_and_Son-f6517d3de531487e89f5e0e99192d13f.jpg
+thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0ecbd12c41105ddecee78795.jpg
 ---
 
 ## OBS and Instagram Integration: The Essential How To Manual
@@ -50,6 +50,102 @@ Step 1: Open OBS Studio on your computer.
 
 Step 2: Go to Profile> New and name it as “OBS Studio Instagram live“. You might get an auto-configuration wizard which you need to skip as you will have to set the settings manually.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
+![obs studio instagram live](https://images.wondershare.com/filmora/article-images/obs-studio-instagram-live.jpg)
+
+Step 3: Click on Settings button located at the bottom-right corner.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+![obs click on settings button](https://images.wondershare.com/filmora/article-images/obs-click-on-settings-button.jpg)
+
+Step 4: From Settings window, go to Video tab. Change the Base Resolution and Output Resolution so that the aspect ratio becomes 16:9\. You can tweak the other parameters as per your requirements. Finally, click on Apply and OK buttons.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![obs go to video tab](https://images.wondershare.com/filmora/article-images/obs-go-to-video-tab.jpg)
+
+Step 5: Now, it is time to add the video source. Make sure the webcam is connected properly. Go to Sources tab located at the bottom left corner. Click on “+” icon and select your Video Capture Device.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![obs make sure the webcam](https://images.wondershare.com/filmora/article-images/obs-make-sure-the-webcam.jpg)
+
+Step 6: Add a label and select the device and setup up the parameters as per your preference.
+
+![obs add a label](https://images.wondershare.com/filmora/article-images/obs-add-a-label.jpg)
+
+Step 7: The label will appear under Sources. You can right-click on that and go to Transform and rotate to change the mode for convenient live streaming.
+
+![obs go to transform](https://images.wondershare.com/filmora/article-images/obs-go-to-transform.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2\. Live Stream Instagram with OBS
+
+Now you are ready for Instagram live OBS Studio with all the configurations perfectly set. It is time to connect OBS Studio with your Instagram account for live streaming. That is where Streamon comes into the scene. Here are the steps you have to follow to live stream Instagram OBS Studio.
+
+Step 1: Open Streamon and you need to sign into your Instagram account.
+
+Step 2: After you have logged in, click on Start Live Stream option. You will get the required Stream URL and Stream key which are needed for OBS Studio to connect with your Instagram account.
+
+![obs click on start stream option](https://images.wondershare.com/filmora/article-images/obs-click-on-start-stream-option.jpg)
+
+Step 3: Go back to OBS Studio and click on Settings button at the bottom-right corner.
+
+Step 4: Go to Stream tab. For Service, select Custom option and for Server, paste the Stream URL from Streamon. Similarly, copy Stream Key from Streamon and paste on OBS Studio. Click on Apply and OK button.
+
+![obs go to stream tab](https://images.wondershare.com/filmora/article-images/obs-go-to-stream-tab.jpg)
+
+Step 5: Finally, click on Start Streaming button. Thereafter, go to Streamon app quickly and click on Go Live button. Now, you are live on Instagram through OBS Studio.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![obs start streaming](https://images.wondershare.com/filmora/article-images/obs-start-streaming.jpg)
+
+On Streamon, you will see a Speech Bubble icon where you can check the live chat messages and manage them accordingly. In order to check if your live stream is going correctly, you can open your web browser and go to “www.instagram.com/USERNAME/live” where you have to replace USERNAME with your Instagram username.
+
+![obs speech bubble icon](https://images.wondershare.com/filmora/article-images/obs-speech-bubble-icon.jpg)
+
+Step 6: To stop live streaming on Instagram through OBS Studio, click on Stop Streaming. Then go to Streamon app and click on Stop Live Stream as well.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
+## Conclusion
+
+If you want to live stream on Instagram from your computer, you can do it easily with OBS Studio. You will need Streamon app for OBS to Instagram live connection setup. Thereafter, you can live stream from OBS Studio like you do on all other video streaming platforms from your studio. You can even manage live chats from Streamon app and make sure you follow the steps minutely.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Part 1\. Setup OBS Studio
+
+OBS Studio is a live video stream software platform for computer users. You can live stream on almost any video streaming platform as long as you have the stream URL and stream key. On the other hand, Instagram only allows Instagram Live feature from its app. Therefore, you need a third-party app to obtain the stream URL and stream key so that you can connect OBS Studio with Instagram for live stream.
+
+There are various third-party apps available to setup OBS Instagram live stream session. We recommend Streamon The application is also available for Windows, Mac and Linux users, just like OBS Studio. Before getting started, you should have the following ready.
+
+* An Instagram account where you want to live stream from your computer.
+* Live streaming gadgets such as webcam, external microphone, lights as per your requirements.
+* Download and install Streamon as per your operating system.
+* Download and install OBS Studio on your computer.
+
+Here are the steps you have to take to setup OBS Instagram link to start live streaming.
+
+Step 1: Open OBS Studio on your computer.
+
+Step 2: Go to Profile> New and name it as “OBS Studio Instagram live“. You might get an auto-configuration wizard which you need to skip as you will have to set the settings manually.
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![obs studio instagram live](https://images.wondershare.com/filmora/article-images/obs-studio-instagram-live.jpg)
 
 Step 3: Click on Settings button located at the bottom-right corner.
@@ -58,6 +154,106 @@ Step 3: Click on Settings button located at the bottom-right corner.
 
 Step 4: From Settings window, go to Video tab. Change the Base Resolution and Output Resolution so that the aspect ratio becomes 16:9\. You can tweak the other parameters as per your requirements. Finally, click on Apply and OK buttons.
 
+![obs go to video tab](https://images.wondershare.com/filmora/article-images/obs-go-to-video-tab.jpg)
+
+Step 5: Now, it is time to add the video source. Make sure the webcam is connected properly. Go to Sources tab located at the bottom left corner. Click on “+” icon and select your Video Capture Device.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+![obs make sure the webcam](https://images.wondershare.com/filmora/article-images/obs-make-sure-the-webcam.jpg)
+
+Step 6: Add a label and select the device and setup up the parameters as per your preference.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+![obs add a label](https://images.wondershare.com/filmora/article-images/obs-add-a-label.jpg)
+
+Step 7: The label will appear under Sources. You can right-click on that and go to Transform and rotate to change the mode for convenient live streaming.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+![obs go to transform](https://images.wondershare.com/filmora/article-images/obs-go-to-transform.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
+## Part 2\. Live Stream Instagram with OBS
+
+Now you are ready for Instagram live OBS Studio with all the configurations perfectly set. It is time to connect OBS Studio with your Instagram account for live streaming. That is where Streamon comes into the scene. Here are the steps you have to follow to live stream Instagram OBS Studio.
+
+Step 1: Open Streamon and you need to sign into your Instagram account.
+
+Step 2: After you have logged in, click on Start Live Stream option. You will get the required Stream URL and Stream key which are needed for OBS Studio to connect with your Instagram account.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![obs click on start stream option](https://images.wondershare.com/filmora/article-images/obs-click-on-start-stream-option.jpg)
+
+Step 3: Go back to OBS Studio and click on Settings button at the bottom-right corner.
+
+Step 4: Go to Stream tab. For Service, select Custom option and for Server, paste the Stream URL from Streamon. Similarly, copy Stream Key from Streamon and paste on OBS Studio. Click on Apply and OK button.
+
+![obs go to stream tab](https://images.wondershare.com/filmora/article-images/obs-go-to-stream-tab.jpg)
+
+Step 5: Finally, click on Start Streaming button. Thereafter, go to Streamon app quickly and click on Go Live button. Now, you are live on Instagram through OBS Studio.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+![obs start streaming](https://images.wondershare.com/filmora/article-images/obs-start-streaming.jpg)
+
+On Streamon, you will see a Speech Bubble icon where you can check the live chat messages and manage them accordingly. In order to check if your live stream is going correctly, you can open your web browser and go to “www.instagram.com/USERNAME/live” where you have to replace USERNAME with your Instagram username.
+
+![obs speech bubble icon](https://images.wondershare.com/filmora/article-images/obs-speech-bubble-icon.jpg)
+
+Step 6: To stop live streaming on Instagram through OBS Studio, click on Stop Streaming. Then go to Streamon app and click on Stop Live Stream as well.
+
+## Conclusion
+
+If you want to live stream on Instagram from your computer, you can do it easily with OBS Studio. You will need Streamon app for OBS to Instagram live connection setup. Thereafter, you can live stream from OBS Studio like you do on all other video streaming platforms from your studio. You can even manage live chats from Streamon app and make sure you follow the steps minutely.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1\. Setup OBS Studio
+
+OBS Studio is a live video stream software platform for computer users. You can live stream on almost any video streaming platform as long as you have the stream URL and stream key. On the other hand, Instagram only allows Instagram Live feature from its app. Therefore, you need a third-party app to obtain the stream URL and stream key so that you can connect OBS Studio with Instagram for live stream.
+
+There are various third-party apps available to setup OBS Instagram live stream session. We recommend Streamon The application is also available for Windows, Mac and Linux users, just like OBS Studio. Before getting started, you should have the following ready.
+
+* An Instagram account where you want to live stream from your computer.
+* Live streaming gadgets such as webcam, external microphone, lights as per your requirements.
+* Download and install Streamon as per your operating system.
+* Download and install OBS Studio on your computer.
+
+Here are the steps you have to take to setup OBS Instagram link to start live streaming.
+
+Step 1: Open OBS Studio on your computer.
+
+Step 2: Go to Profile> New and name it as “OBS Studio Instagram live“. You might get an auto-configuration wizard which you need to skip as you will have to set the settings manually.
+
+![obs studio instagram live](https://images.wondershare.com/filmora/article-images/obs-studio-instagram-live.jpg)
+
+Step 3: Click on Settings button located at the bottom-right corner.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+![obs click on settings button](https://images.wondershare.com/filmora/article-images/obs-click-on-settings-button.jpg)
+
+Step 4: From Settings window, go to Video tab. Change the Base Resolution and Output Resolution so that the aspect ratio becomes 16:9\. You can tweak the other parameters as per your requirements. Finally, click on Apply and OK buttons.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs go to video tab](https://images.wondershare.com/filmora/article-images/obs-go-to-video-tab.jpg)
 
 Step 5: Now, it is time to add the video source. Make sure the webcam is connected properly. Go to Sources tab located at the bottom left corner. Click on “+” icon and select your Video Capture Device.
@@ -72,6 +268,9 @@ Step 7: The label will appear under Sources. You can right-click on that and go 
 
 ![obs go to transform](https://images.wondershare.com/filmora/article-images/obs-go-to-transform.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Part 2\. Live Stream Instagram with OBS
 
 Now you are ready for Instagram live OBS Studio with all the configurations perfectly set. It is time to connect OBS Studio with your Instagram account for live streaming. That is where Streamon comes into the scene. Here are the steps you have to follow to live stream Instagram OBS Studio.
@@ -94,6 +293,9 @@ Step 5: Finally, click on Start Streaming button. Thereafter, go to Streamon app
 
 On Streamon, you will see a Speech Bubble icon where you can check the live chat messages and manage them accordingly. In order to check if your live stream is going correctly, you can open your web browser and go to “www.instagram.com/USERNAME/live” where you have to replace USERNAME with your Instagram username.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs speech bubble icon](https://images.wondershare.com/filmora/article-images/obs-speech-bubble-icon.jpg)
 
 Step 6: To stop live streaming on Instagram through OBS Studio, click on Stop Streaming. Then go to Streamon app and click on Stop Live Stream as well.
@@ -137,6 +339,9 @@ Step 5: Now, it is time to add the video source. Make sure the webcam is connect
 
 Step 6: Add a label and select the device and setup up the parameters as per your preference.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs add a label](https://images.wondershare.com/filmora/article-images/obs-add-a-label.jpg)
 
 Step 7: The label will appear under Sources. You can right-click on that and go to Transform and rotate to change the mode for convenient live streaming.
@@ -165,148 +370,9 @@ Step 5: Finally, click on Start Streaming button. Thereafter, go to Streamon app
 
 On Streamon, you will see a Speech Bubble icon where you can check the live chat messages and manage them accordingly. In order to check if your live stream is going correctly, you can open your web browser and go to “www.instagram.com/USERNAME/live” where you have to replace USERNAME with your Instagram username.
 
-![obs speech bubble icon](https://images.wondershare.com/filmora/article-images/obs-speech-bubble-icon.jpg)
-
-Step 6: To stop live streaming on Instagram through OBS Studio, click on Stop Streaming. Then go to Streamon app and click on Stop Live Stream as well.
-
-## Conclusion
-
-If you want to live stream on Instagram from your computer, you can do it easily with OBS Studio. You will need Streamon app for OBS to Instagram live connection setup. Thereafter, you can live stream from OBS Studio like you do on all other video streaming platforms from your studio. You can even manage live chats from Streamon app and make sure you follow the steps minutely.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Part 1\. Setup OBS Studio
-
-OBS Studio is a live video stream software platform for computer users. You can live stream on almost any video streaming platform as long as you have the stream URL and stream key. On the other hand, Instagram only allows Instagram Live feature from its app. Therefore, you need a third-party app to obtain the stream URL and stream key so that you can connect OBS Studio with Instagram for live stream.
-
-There are various third-party apps available to setup OBS Instagram live stream session. We recommend Streamon The application is also available for Windows, Mac and Linux users, just like OBS Studio. Before getting started, you should have the following ready.
-
-* An Instagram account where you want to live stream from your computer.
-* Live streaming gadgets such as webcam, external microphone, lights as per your requirements.
-* Download and install Streamon as per your operating system.
-* Download and install OBS Studio on your computer.
-
-Here are the steps you have to take to setup OBS Instagram link to start live streaming.
-
-Step 1: Open OBS Studio on your computer.
-
-Step 2: Go to Profile> New and name it as “OBS Studio Instagram live“. You might get an auto-configuration wizard which you need to skip as you will have to set the settings manually.
-
-![obs studio instagram live](https://images.wondershare.com/filmora/article-images/obs-studio-instagram-live.jpg)
-
-Step 3: Click on Settings button located at the bottom-right corner.
-
-![obs click on settings button](https://images.wondershare.com/filmora/article-images/obs-click-on-settings-button.jpg)
-
-Step 4: From Settings window, go to Video tab. Change the Base Resolution and Output Resolution so that the aspect ratio becomes 16:9\. You can tweak the other parameters as per your requirements. Finally, click on Apply and OK buttons.
-
-![obs go to video tab](https://images.wondershare.com/filmora/article-images/obs-go-to-video-tab.jpg)
-
-Step 5: Now, it is time to add the video source. Make sure the webcam is connected properly. Go to Sources tab located at the bottom left corner. Click on “+” icon and select your Video Capture Device.
-
-![obs make sure the webcam](https://images.wondershare.com/filmora/article-images/obs-make-sure-the-webcam.jpg)
-
-Step 6: Add a label and select the device and setup up the parameters as per your preference.
-
-![obs add a label](https://images.wondershare.com/filmora/article-images/obs-add-a-label.jpg)
-
-Step 7: The label will appear under Sources. You can right-click on that and go to Transform and rotate to change the mode for convenient live streaming.
-
-![obs go to transform](https://images.wondershare.com/filmora/article-images/obs-go-to-transform.jpg)
-
-## Part 2\. Live Stream Instagram with OBS
-
-Now you are ready for Instagram live OBS Studio with all the configurations perfectly set. It is time to connect OBS Studio with your Instagram account for live streaming. That is where Streamon comes into the scene. Here are the steps you have to follow to live stream Instagram OBS Studio.
-
-Step 1: Open Streamon and you need to sign into your Instagram account.
-
-Step 2: After you have logged in, click on Start Live Stream option. You will get the required Stream URL and Stream key which are needed for OBS Studio to connect with your Instagram account.
-
-![obs click on start stream option](https://images.wondershare.com/filmora/article-images/obs-click-on-start-stream-option.jpg)
-
-Step 3: Go back to OBS Studio and click on Settings button at the bottom-right corner.
-
-Step 4: Go to Stream tab. For Service, select Custom option and for Server, paste the Stream URL from Streamon. Similarly, copy Stream Key from Streamon and paste on OBS Studio. Click on Apply and OK button.
-
-![obs go to stream tab](https://images.wondershare.com/filmora/article-images/obs-go-to-stream-tab.jpg)
-
-Step 5: Finally, click on Start Streaming button. Thereafter, go to Streamon app quickly and click on Go Live button. Now, you are live on Instagram through OBS Studio.
-
-![obs start streaming](https://images.wondershare.com/filmora/article-images/obs-start-streaming.jpg)
-
-On Streamon, you will see a Speech Bubble icon where you can check the live chat messages and manage them accordingly. In order to check if your live stream is going correctly, you can open your web browser and go to “www.instagram.com/USERNAME/live” where you have to replace USERNAME with your Instagram username.
-
-![obs speech bubble icon](https://images.wondershare.com/filmora/article-images/obs-speech-bubble-icon.jpg)
-
-Step 6: To stop live streaming on Instagram through OBS Studio, click on Stop Streaming. Then go to Streamon app and click on Stop Live Stream as well.
-
-## Conclusion
-
-If you want to live stream on Instagram from your computer, you can do it easily with OBS Studio. You will need Streamon app for OBS to Instagram live connection setup. Thereafter, you can live stream from OBS Studio like you do on all other video streaming platforms from your studio. You can even manage live chats from Streamon app and make sure you follow the steps minutely.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Part 1\. Setup OBS Studio
-
-OBS Studio is a live video stream software platform for computer users. You can live stream on almost any video streaming platform as long as you have the stream URL and stream key. On the other hand, Instagram only allows Instagram Live feature from its app. Therefore, you need a third-party app to obtain the stream URL and stream key so that you can connect OBS Studio with Instagram for live stream.
-
-There are various third-party apps available to setup OBS Instagram live stream session. We recommend Streamon The application is also available for Windows, Mac and Linux users, just like OBS Studio. Before getting started, you should have the following ready.
-
-* An Instagram account where you want to live stream from your computer.
-* Live streaming gadgets such as webcam, external microphone, lights as per your requirements.
-* Download and install Streamon as per your operating system.
-* Download and install OBS Studio on your computer.
-
-Here are the steps you have to take to setup OBS Instagram link to start live streaming.
-
-Step 1: Open OBS Studio on your computer.
-
-Step 2: Go to Profile> New and name it as “OBS Studio Instagram live“. You might get an auto-configuration wizard which you need to skip as you will have to set the settings manually.
-
-![obs studio instagram live](https://images.wondershare.com/filmora/article-images/obs-studio-instagram-live.jpg)
-
-Step 3: Click on Settings button located at the bottom-right corner.
-
-![obs click on settings button](https://images.wondershare.com/filmora/article-images/obs-click-on-settings-button.jpg)
-
-Step 4: From Settings window, go to Video tab. Change the Base Resolution and Output Resolution so that the aspect ratio becomes 16:9\. You can tweak the other parameters as per your requirements. Finally, click on Apply and OK buttons.
-
-![obs go to video tab](https://images.wondershare.com/filmora/article-images/obs-go-to-video-tab.jpg)
-
-Step 5: Now, it is time to add the video source. Make sure the webcam is connected properly. Go to Sources tab located at the bottom left corner. Click on “+” icon and select your Video Capture Device.
-
-![obs make sure the webcam](https://images.wondershare.com/filmora/article-images/obs-make-sure-the-webcam.jpg)
-
-Step 6: Add a label and select the device and setup up the parameters as per your preference.
-
-![obs add a label](https://images.wondershare.com/filmora/article-images/obs-add-a-label.jpg)
-
-Step 7: The label will appear under Sources. You can right-click on that and go to Transform and rotate to change the mode for convenient live streaming.
-
-![obs go to transform](https://images.wondershare.com/filmora/article-images/obs-go-to-transform.jpg)
-
-## Part 2\. Live Stream Instagram with OBS
-
-Now you are ready for Instagram live OBS Studio with all the configurations perfectly set. It is time to connect OBS Studio with your Instagram account for live streaming. That is where Streamon comes into the scene. Here are the steps you have to follow to live stream Instagram OBS Studio.
-
-Step 1: Open Streamon and you need to sign into your Instagram account.
-
-Step 2: After you have logged in, click on Start Live Stream option. You will get the required Stream URL and Stream key which are needed for OBS Studio to connect with your Instagram account.
-
-![obs click on start stream option](https://images.wondershare.com/filmora/article-images/obs-click-on-start-stream-option.jpg)
-
-Step 3: Go back to OBS Studio and click on Settings button at the bottom-right corner.
-
-Step 4: Go to Stream tab. For Service, select Custom option and for Server, paste the Stream URL from Streamon. Similarly, copy Stream Key from Streamon and paste on OBS Studio. Click on Apply and OK button.
-
-![obs go to stream tab](https://images.wondershare.com/filmora/article-images/obs-go-to-stream-tab.jpg)
-
-Step 5: Finally, click on Start Streaming button. Thereafter, go to Streamon app quickly and click on Go Live button. Now, you are live on Instagram through OBS Studio.
-
-![obs start streaming](https://images.wondershare.com/filmora/article-images/obs-start-streaming.jpg)
-
-On Streamon, you will see a Speech Bubble icon where you can check the live chat messages and manage them accordingly. In order to check if your live stream is going correctly, you can open your web browser and go to “www.instagram.com/USERNAME/live” where you have to replace USERNAME with your Instagram username.
-
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![obs speech bubble icon](https://images.wondershare.com/filmora/article-images/obs-speech-bubble-icon.jpg)
 
 Step 6: To stop live streaming on Instagram through OBS Studio, click on Stop Streaming. Then go to Streamon app and click on Stop Live Stream as well.
@@ -340,3 +406,52 @@ If you want to live stream on Instagram from your computer, you can do it easily
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-command-line-and-gui-mastering-windowsmacos-srt-file-handling/"><u>[New] 2024 Approved  Command Line & GUI  Mastering Windows/MacOS SRT File Handling</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-quick-ways-to-retain-live-chat-transcripts/"><u>[New] 2024 Approved  Quick Ways to Retain Live Chat Transcripts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-quicksnap-hd-pro-logging-kit/"><u>[New] 2024 Approved  QuickSnap HD Pro Logging Kit</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-editors-toolkit-using-markers-in-professional-editing/"><u>[New] 2024 Approved  The Editor's Toolkit  Using Markers in Professional Editing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-future-of-iptv-screening-and-preservation-techniques/"><u>[New] 2024 Approved  The Future of IPTV Screening and Preservation Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-exciting-auto-play-hits-for-children/"><u>[New] Exciting Auto-Play Hits for Children</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-harmonizing-words-and-images-the-essence-of-ppt-voiceovers/"><u>[New] Harmonizing Words & Images  The Essence of PPT Voiceovers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-take-your-imagery-to-new-heights-photoshops-3d-text-technique/"><u>[New] Take Your Imagery to New Heights  Photoshop’s 3D Text Technique</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-best-water-and-liquid-worlds-you-can-play/"><u>[New] The Best Water & Liquid Worlds You Can Play</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-most-caring-android-solutions-for-3ds-games-for-2024/"><u>[New] The Most Caring Android Solutions for 3DS Games for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-profitability-with-innovative-fb-animation-techniques-for-2024/"><u>[New] Unleashing Profitability with Innovative FB Animation Techniques for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unpacking-tunefab-written-review-on-latest-tech-for-screen-recording/"><u>[Updated] 2024 Approved  Unpacking Tunefab' Written Review on Latest Tech for Screen Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-clearing-up-confusion-understanding-digital-rights-management-drm-for-2024/"><u>[Updated] Clearing Up Confusion  Understanding Digital Rights Management (DRM) for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-eyeonfox-screenshots-and-recordings/"><u>[Updated] EyeOnFox Screenshots & Recordings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-log-your-favorites-6-proven-methods-for-webcast-capture-for-2024/"><u>[Updated] How to Log Your Favorites  6 Proven Methods for Webcast Capture for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-prime-video-hits-on-twitter-the-most-popular-watches-of-23/"><u>[Updated] In 2024, Prime Video Hits on Twitter  The Most Popular Watches of '23</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-secrets-from-the-pros-high-quality-roblox-recordings-mac-edition/"><u>[Updated] In 2024, Secrets From the Pros  High-Quality Roblox Recordings (Mac Edition)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-instructor-friendly-screen-recording-software-guide/"><u>[Updated] Instructor-Friendly Screen Recording Software Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-is-splitcam-the-ultimate-in-video-capture/"><u>[Updated] Is SplitCam The Ultimate in Video Capture?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-leading-apps-top-10-choices-for-seamless-vimeo-file-extraction/"><u>[Updated] Leading Apps  Top 10 Choices for Seamless Vimeo File Extraction</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-master-techniques-for-live-sport-broadcast-recording/"><u>[Updated] Master Techniques for Live Sport Broadcast Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-prime-nintendo-switch-fighting-game-guide-max-156-for-2024/"><u>[Updated] Prime Nintendo Switch Fighting Game Guide (Max 156) for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-stand-out-as-an-elite-gamer-on-youtube/"><u>[Updated] Stand Out as an Elite Gamer on Youtube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-webcam-video-mastery-edit-enhance-and-distribute-for-2024/"><u>[Updated] Webcam Video Mastery  Edit, Enhance & Distribute for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-excellent-online-screen-recorders-ranked-1plus/"><u>2024 Approved  Excellent Online Screen Recorders Ranked #1+</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ideal-pairings-prime-mac-software-for-video-snatching/"><u>2024 Approved  Ideal Pairings  Prime Mac Software for Video Snatching</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-secure-your-webcam-with-these-10-tips/"><u>2024 Approved  Secure Your Webcam with These 10 Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-superior-web-based-recording-tools-the-leaders-2023/"><u>2024 Approved  Superior Web-Based Recording Tools - The Leaders 2023</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/aligning-apple-android-and-computer-schedules-for-zoom-syncing-for-2024/"><u>Aligning Apple, Android, and Computer Schedules for Zoom Syncing for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-zoom-transcription-software/"><u>Best Zoom Transcription Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/comparing-screen-recorders-the-leader-vs-contenders-for-2024/"><u>Comparing Screen Recorders  The Leader Vs. Contenders for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/crafting-an-ideal-speech-translation-experience-in-google-for-2024/"><u>Crafting an Ideal Speech Translation Experience in Google for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-record-switch-gameplay-for-2024/"><u>How To Record Switch Gameplay for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ice-cream-recording-tech-deep-dive-analysis/"><u>Ice Cream Recording Tech Deep Dive Analysis</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-converting-your-cellphone-to-a-diy-video-recorder/"><u>In 2024, Converting Your Cellphone to a DIY Video Recorder</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-g2-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo G2</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-path-to-viewership-victory-video-tips/"><u>In 2024, The Path to Viewership Victory  Video Tips</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-the-top-10-effective-srt-editors-online/"><u>In 2024, The Top 10 Effective SRT Editors Online</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/inexpensive-pc-playback-solutions/"><u>Inexpensive PC Playback Solutions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/perfecting-the-art-of-saving-gameplay-footage-on-android/"><u>Perfecting the Art of Saving Gameplay Footage on Android</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/pixels-and-players-advanced-tactics-for-recording-gaming-for-2024/"><u>Pixels and Players  Advanced Tactics for Recording Gaming for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-5-psone-emulators-perfect-play-on-your-pc/"><u>Top 5 PsOne Emulators  Perfect Play on Your PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-gamesnapper-strategies-for-captures/"><u>Ultimate GameSnapper Strategies for Captures</u></a></li>
+</ul></div>

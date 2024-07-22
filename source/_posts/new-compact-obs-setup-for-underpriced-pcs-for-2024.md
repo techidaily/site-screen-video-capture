@@ -1,7 +1,7 @@
 ---
 title: "[New] Compact OBS Setup for Underpriced PCs for 2024"
-date: 2024-05-18T14:56:15.087Z
-updated: 2024-05-19T14:56:15.087Z
+date: 2024-07-21T15:01:30.400Z
+updated: 2024-07-22T15:01:30.400Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Compact OBS Setup for Underpriced PCs for 2024"
 excerpt: "This Article Describes [New] Compact OBS Setup for Underpriced PCs for 2024"
 keywords: "\"Compact OBS Gear,Cheap PC OBS,OBS Portable Devices,Affordable OBS Equipment,Low-Cost OBS Setup,Budget-Friendly OBS Accessories,Small-Scale OBS Systems\""
-thumbnail: https://www.lifewire.com/thmb/reiA5q9g7RC-d0IhGypCqLpbhbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-microphone-on-an-android-phone-5184530-372d01459baa44978ef72242d007992a.jpg
+thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
 ---
 
 ## Compact OBS Setup for Underpriced PCs
@@ -31,6 +31,9 @@ First, you will need to launch your OBS software. On the main menu, you have to 
 
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Settings That You Should Keep
 
 Starting with base resolution, it is the video resolution that we are going to send to the people who are going to watch our stream. So for the best one, click on it and choose **1280\*720**.
@@ -41,10 +44,16 @@ Output tab, which is the resolution of the video that the people will watch. For
 
 After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 3: Output Settings
 
 Once you are done with the general video settings now it's time you should come to the output settings. For that, you will need to choose the output from the main vertical tab as shown in the figure below in 1\. You will see a new window appears with a variety of settings. Now it's time to choose the advanced setting as shown in 2 in the figure to see all settings to be edited.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![obs output settings edited](https://images.wondershare.com/filmora/article-images/obs-output-settings-edited.jpg)
 
 Let's move towards the detail settings for the output video for your audience it's best to choose the settings shown in the figure and below for lag-free and jitter-free video.
@@ -75,16 +84,25 @@ By default, the profile option is disabled and you should keep these settings as
 
 So that’s it for the video settings. These are all the settings that you need to adjust before streaming. After doing it so you just need to click apply button below and bingo it is done.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## 2\. Audio Settings
 
 For a clear and better audio performance, it's also necessary you keep the optimum settings for the audio too. Well, you don’t have to worry now about the audio too. After reading this article you should keep the same audio settings here for your PC or Laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Output Audio
 
 The audio settings can be adjusted from two places. Let us discuss the first one. For that, you will need to select the output in the vertical tab and go to audio as shown in the figure below. You will see multiple tracks in these windows. It contains the audio settings for multiple sources. However, if you are using a single it's good to choose 320 in track one. For multiple, there is no need to change the audio track but to keep the same 320\. These are the perfect settings for most cases of the audio settings for your computer.
 
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Step 2: Audio Tab Settings
 
 ![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
@@ -113,12 +131,18 @@ Finally, the rest of the options should be kept as default since being a streame
 
 Here are the streaming settings that you just need to follow for your streaming videos. The streaming tab consists of settings for the platform you are going to stream your video. Let's begin with step-by-step procedures to follow for the best streaming settings for your low-end PCs or laptops.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Stream Tab
 
 The streaming tab can be accessed from the main vertical tab. After going to the main “stream” tab you will see a bunch of options.
 
 ![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Streaming Settings
 
 **Service:**
@@ -196,3 +220,52 @@ There may be a lot of other software which serve the same purpose but the best o
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-a-comprehensive-look-at-youtuber-snippets/"><u>[New] 2024 Approved  A Comprehensive Look at Youtuber Snippets</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-elevate-engagement-crafting-high-impact-snaps-for-your-brand-for-2024/"><u>[New] Elevate Engagement  Crafting High-Impact Snaps for Your Brand for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-backtracking-visual-vectors-techniques-for-tracking-originals-in-instagram-posts/"><u>[New] In 2024, Backtracking Visual Vectors  Techniques for Tracking Originals in Instagram Posts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grab-free-video-profile-backgrounds/"><u>[Updated] 2024 Approved  Grab Free Video Profile Backgrounds</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-ascending-with-asmr-top-strategies-for-video-creation/"><u>[Updated] In 2024, Ascending with ASMR  Top Strategies for Video Creation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-video-perfection-choosing-the-ultimate-5-enhancers/"><u>[Updated] Video Perfection  Choosing the Ultimate 5 Enhancers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-haptic-realities-now/"><u>2024 Approved  Haptic Realities Now</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-secrets-unveiled-the-ultimate-guide-to-recording-games/"><u>2024 Approved  Secrets Unveiled  The Ultimate Guide to Recording Games</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-by-step-tutorial-engaging-in-a-call-on-snapchat/"><u>2024 Approved  Step-By-Step Tutorial  Engaging in a Call on Snapchat</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-swift-solution-for-clownfish-vocal-alteration-on-pc-systems/"><u>2024 Approved  Swift Solution for Clownfish Vocal Alteration on PC Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-a1x-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo A1x 5G</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/a-user-friendly-guide-to-seamless-collaboration-across-different-operating-systems-via-skype-group-chats/"><u>A User-Friendly Guide to Seamless Collaboration Across Different Operating Systems via Skype Group Chats</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/academic-anchors-identifying-top-10-lecture-preservation-tools/"><u>Academic Anchors  Identifying Top 10 Lecture Preservation Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/acclaimed-pc-emulators-for-vintage-ps1-titles/"><u>Acclaimed PC Emulators for Vintage PS1 Titles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/accurate-mac-photography-mastery-of-five-proven-snapshot-ways/"><u>Accurate Mac Photography  Mastery of Five Proven Snapshot Ways</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/action-packed-escapades-the-next-big-things-post-gta-v-for-2024/"><u>Action-Packed Escapades - The Next Big Things Post-GTA V for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/advanced-editing-techniques-that-maximize-obs-potential/"><u>Advanced Editing Techniques That Maximize OBS Potential</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/advanced-guide-to-clear-cut-and-ship-video-for-2024/"><u>Advanced Guide to Clear, Cut, and Ship Video for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/advanced-techniques-for-mov-file-editing-in-win-11-for-2024/"><u>Advanced Techniques for MOV File Editing in Win 11 for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/advanced-techniques-with-obs-studio-for-android/"><u>Advanced Techniques with OBS Studio for Android</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/advanced-tricks-for-ios-screenshots-just-got-updated-for-2024/"><u>Advanced Tricks for iOS Screenshots - Just Got Updated for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/affordable-gaming-wonders-keyboards-under-100-reviewed/"><u>Affordable Gaming Wonders  Keyboards Under $100 Reviewed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/agriculture-adventures-the-ultimate-farmers-game-guide-for-2024/"><u>Agriculture Adventures  The Ultimate Farmer's Game Guide for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/all-inclusive-screen-recorder-azs-app-analysis-for-2024/"><u>All-Inclusive Screen Recorder - AZ's App Analysis for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/all-purpose-capture-software-azs-app-critiques-for-2024/"><u>All-Purpose Capture Software - AZ's App Critiques for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/android-and-ios-leading-titles-mimicking-playstation-games-for-2024/"><u>Android & iOS  Leading Titles Mimicking PlayStation Games for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/android-screenshots-made-simple-top-8-free-applications-revealed/"><u>Android Screenshots Made Simple – Top 8 Free Applications Revealed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/androids-premier-animal-experience-compilation-for-2024/"><u>Android's Premier Animal Experience Compilation for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/androids-virtual-frontier-the-best-15-game-experiences/"><u>Android's Virtual Frontier  The Best 15 Game Experiences</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/az-capture-extraordinaire-thorough-app-reviews-for-2024/"><u>AZ Capture Extraordinaire  Thorough App Reviews for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/background-screen-video-recording-full-guide-for-2024/"><u>Background Screen Video Recording Full Guide for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/bandicam-vs-camtasia-which-is-better/"><u>Bandicam vs Camtasia, Which Is Better?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/beat-stress-away-the-ultimate-gaming-list-for-2024/"><u>Beat Stress Away  The Ultimate Gaming List for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/become-an-instagram-broadcast-pro-learning-through-obs/"><u>Become an Instagram Broadcast Pro  Learning Through OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-approaches-to-non-sound-media/"><u>Best Approaches to Non-Sound Media</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-beams-microphones-for-education-for-2024/"><u>Best Beams  Microphones for Education for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/comprehensive-zoom-streaming-tutorial-on-youtube-for-2024/"><u>Comprehensive Zoom Streaming Tutorial on YouTube for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-mac-vlc-trimmer-the-best-way-to-shorten-videos-without-sacrificing-quality/"><u>In 2024, Mac VLC Trimmer The Best Way to Shorten Videos Without Sacrificing Quality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-mastering-video-capture-a-deep-dive-into-tunefab-products/"><u>In 2024, Mastering Video Capture  A Deep Dive Into Tunefab Products</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mastering-mac-screenshots-five-efficient-ways/"><u>Mastering Mac Screenshots  Five Efficient Ways</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-breaking-free-from-quik-exploring-the-best-pc-video-editors-for-gopro-users/"><u>New In 2024, Breaking Free From Quik Exploring the Best PC Video Editors for GoPro Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nail-design-101-for-video-promotion-on-youtube/"><u>Thumbnail Design 101 for Video Promotion on YouTube</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-from-jump-cuts-to-smooth-moves-3-final-cut-pro-transition-methods-for-2024/"><u>Updated From Jump Cuts to Smooth Moves 3 Final Cut Pro Transition Methods for 2024</u></a></li>
+</ul></div>

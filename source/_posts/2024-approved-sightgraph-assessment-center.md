@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  SightGraph Assessment Center\""
-date: 2024-05-20T00:49:47.185Z
-updated: 2024-05-21T00:49:47.185Z
+date: 2024-07-21T12:55:18.054Z
+updated: 2024-07-22T12:55:18.054Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: SightGraph Assessment Center\""
 excerpt: "\"This Article Describes 2024 Approved: SightGraph Assessment Center\""
 keywords: "SightGraph Testing Center,Graph Assessment Clinic,Visual Diagnostics Center,SightGraph Evaluation Hub,Vision Analysis Facility,SightGraph Examination Site,Graphical Perception Lab"
-thumbnail: https://www.lifewire.com/thmb/-_m0G8vbbxxIlkvVQDjlQ1eCN-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541916248-593842a43df78c537be2cf44.jpg
+thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc35052e19faef90f3eeabcd3dc4.jpg
 ---
 
 ## SightGraph Assessment Center
@@ -21,6 +21,9 @@ If you are looking for an online screen recorder that works on all operating sys
 
 Screencast-O-Matic screen recorder allows you to draw shapes and graphics in real-time while recording. Starting from adding graphics, changing speed, adding transitions to blurring scenes, trimming parts, and inserting clips, you can edit your videos on Screencast-O-Matic. But is it truly the best screen recorder available? Does its price justify the features it offers? Find out everything you need to know by going through our complete Screencast-O-Matic review.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How To Record Screen With Screencast-O-Matic
 
 Screencast-O-Matic can be used directly from your web browser through its web launcher application. There is also Screencast-O-Matic chrome extension if you prefer an extension over an online screen recording launcher. Besides, there is dedicated Screencast-O-Matic app available for Android and iOS users. Here are the steps on how to record screen Screencast-O-Matic online recorder. Here are the steps to install the web launcher of Screencast-O-Matic.
@@ -31,6 +34,9 @@ Step 1: Visit “screencast-o-matic.com” from your web browser. Click on Recor
 
 Step 2: Click on Launch Free Recorder and you will have to download the web launcher for the online tool to work. Allow the web launcher to get downloaded on your device when prompted.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screencast launch free recorder](https://images.wondershare.com/filmora/article-images/screencast-launch-free-recorder.jpg)
 
 Step 3\. Once Screencast-O-Matic download is complete, click on WebLauncherRecorder.exe for the web launcher to get installed on your computer. Thereafter, you can start recording with Screencast-O-Matic.
@@ -39,6 +45,9 @@ Here are the steps on how to record screen Screencast-O-Matic online recorder.
 
 Step 1: Visit “screencast-o-matic.com/screen-recorder” from your web browser. Click on Launch Free Recorder.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screencast o-matic com](https://images.wondershare.com/filmora/article-images/screencast-o-matic-com.jpg)
 
 Step 2: You should now have Screencast-O-Matic on your screen. If you want to record screen, select Screen option. You can also select Webcam if you want to record webcam video only. If you want to record screen as well as webcam, click on Both.
@@ -51,10 +60,16 @@ Step 3: Go to Size and select the screen dimensions or area you want to record. 
 
 Step 4: Finally, click on Rec button at the top-left corner to start recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![screencast click on rec button](https://images.wondershare.com/filmora/article-images/screencast-click-on-rec-button.jpg)
 
 Step 5: To stop recording, click on Pause button and thereafter, click on Done button. You can save or upload the recorder video as well as edit it before saving.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![screencast pause](https://images.wondershare.com/filmora/article-images/screencast-pause.jpg)
 
 ## Part 2\. Key Features of Screencast-O-Matic Screen Recorder
@@ -94,6 +109,9 @@ Hence, the free version of Screencast-O-Matic is more like a demo version. You n
 
 3\. Business Team - $5 per month for 3 users: You get all the features on Solo Deluxe and Premier. Additionally, you get to collaborate with team members, get advanced admin panel to manage user roles and manage content as well as get different integrations.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. Alternative Way To Record Screen Videos
 
 There are several limitations of premium Screencast-O-Matic as well. You always need an active internet connection to record your screen. The file format for saving the video is limited to MP4 only. The useful editing options are still limited in comparison to a professional video editor. That is why there are many who look for a better alternative to Screencast-O-Matic screen recorder. We recommend Wondershare Filmora which is a premium [video recorder](https://tools.techidaily.com/wondershare/filmora/download/) with inbuilt video editor.
@@ -118,6 +136,9 @@ Step 2: Customize the recording screen area and select the audio sources. You ca
 
 Step 3: Click on Record button to start recording. To stop recording, press F9 key. You can edit the recorded video and export instantly in the desired file format.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 ## Conclusion
@@ -158,6 +179,9 @@ Step 3: Click on Record button to start recording. To stop recording, press F9 k
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In our complete review of Screencast-O-Matic, we have provided you with Screencast-O-Matic tutorial on how to install and use the screen recorder. We have stated all the key features that make the recorder stand out. You are also aware of the plans of the screen recorder and we have recommended a better alternative which is Wondershare Filmora where you get better features and functionalities for perfect recording and editing.
@@ -186,6 +210,9 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora. It is available for Windows as well as Mac users. Launch the application and select PC Screen option to record the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 Step 2: Customize the recording screen area and select the audio sources. You can select system audio as well as external audio for recording. Turn on Record the Camera Stream option in order to record webcam video alongside screen recording.
@@ -194,6 +221,9 @@ Step 2: Customize the recording screen area and select the audio sources. You ca
 
 Step 3: Click on Record button to start recording. To stop recording, press F9 key. You can edit the recorded video and export instantly in the desired file format.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 ## Conclusion
@@ -224,14 +254,23 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora. It is available for Windows as well as Mac users. Launch the application and select PC Screen option to record the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 Step 2: Customize the recording screen area and select the audio sources. You can select system audio as well as external audio for recording. Turn on Record the Camera Stream option in order to record webcam video alongside screen recording.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 Step 3: Click on Record button to start recording. To stop recording, press F9 key. You can edit the recorded video and export instantly in the desired file format.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 ## Conclusion
@@ -263,3 +302,38 @@ In our complete review of Screencast-O-Matic, we have provided you with Screenca
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-the-mechanics-of-voice-over-production-in-videos/"><u>[New] Mastering the Mechanics of Voice Over Production in Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-quick-guide-capturing-moments-with-snap-in-real-time-conferencing/"><u>[New] Quick Guide  Capturing Moments with Snap in Real-Time Conferencing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-complementing-core-shots-with-b-roll/"><u>[New] Strategies for Complementing Core Shots with B-Roll</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-streamline-your-pc-screens-free-app/"><u>[New] Streamline Your PC Screens, Free App</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-this-video-will-get-you-100000-views-on-youtube-for-2024/"><u>[New] This Video Will Get You 100000 Views on YouTube for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-accelerate-your-retro-play-with-best-ps2-android-emulators/"><u>[Updated] Accelerate Your Retro Play with Best Ps2 Android Emulators</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-saving-on-space-tips-for-storing-mov-in-windows-10-devices/"><u>[Updated] Saving on Space  Tips for Storing .mov in Windows 10 Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screen-recorder-showdown-top-choices-explored/"><u>[Updated] Screen Recorder Showdown  Top Choices Explored</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-speech-clarity-mastering-googles-translation-technology/"><u>[Updated] Speech Clarity  Mastering Google’s Translation Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-power-of-photo-editing-techniques-to-add-text-in-windowsmacos/"><u>[Updated] Unveiling the Power of Photo Editing  Techniques to Add Text in Windows/MacOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/a-beginners-approach-to-nvidia-screen-capture-for-2024/"><u>A Beginner's Approach to NVIDIA Screen Capture for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/apowersoft-screen-recorder-testimony-for-2024/"><u>Apowersoft Screen Recorder Testimony for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/commencing-your-google-meet-experience/"><u>Commencing Your Google Meet Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elevate-your-gaming-experience-mastering-steam-recordings/"><u>Elevate Your Gaming Experience - Mastering Steam Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/exclusive-access-to-top-15-android-virtualization-apps-mac-and-pc/"><u>Exclusive Access to Top 15 Android Virtualization Apps (Mac & PC)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/exploring-whether-itop-fits-your-tech-needs/"><u>Exploring Whether ITop Fits Your Tech Needs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-hot-40-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Hot 40 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-essential-screen-capture-best-mac-apps-reviewed-and-rated/"><u>In 2024, Essential Screen Capture  Best Mac Apps Reviewed & Rated</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-essential-zoom-substitutes-for-pcs-tablets/"><u>In 2024, Essential Zoom Substitutes for PCs, Tablets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-from-simple-to-sophisticated-mastering-zd-softs-video-recording-techniques/"><u>In 2024, From Simple to Sophisticated  Mastering ZD Soft's Video Recording Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-maximize-your-google-meet-experience-with-effective-use-of-digital-boards-on-any-os/"><u>In 2024, Maximize Your Google Meet Experience with Effective Use of Digital Boards on Any OS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-maximizing-audio-quality-in-lectures-with-macos/"><u>In 2024, Maximizing Audio Quality in Lectures with MacOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovative-tools-for-high-definition-gaming-logging-beyond-fbx/"><u>Innovative Tools for High-Definition Gaming Logging Beyond FBX</u></a></li>
+<li><a href="https://driver-install.techidaily.com/logitech-webcam-driver-uncompromised/"><u>Logitech Webcam Driver - Uncompromised</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/narratives-unleashed-10-adventure-games-reviewed-for-2024/"><u>Narratives Unleashed  #10 Adventure Games Reviewed for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-15-amazing-gif-splitter-examples-you-need-to-bookmark/"><u>New In 2024, 15 Amazing GIF Splitter Examples You Need to Bookmark</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-macbook-users-learn-how-to-download-and-install-videoleap/"><u>New In 2024, MacBook Users Learn How to Download and Install Videoleap</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/revolutionize-your-viewing-habits-with-these-6-advanced-netflix-recording-steps-on-macos/"><u>Revolutionize Your Viewing Habits with These 6 Advanced Netflix Recording Steps on macOS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stepwise-installation-of-intels-ie-management/"><u>Stepwise Installation of Intel's IE Management</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-blending-photos-and-tunes-for-free-a-guide-to-enhancing-imagery-with-music-on-computers-and-smartphones/"><u>Updated 2024 Approved Blending Photos and Tunes for Free A Guide to Enhancing Imagery with Music on Computers & Smartphones</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-high-quality-audio-extraction-proven-methods-for-video-to-mp3-conversion/"><u>Updated In 2024, High-Quality Audio Extraction Proven Methods for Video to MP3 Conversion</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Discontinuing Instant Recording on QuickTime for 2024"
-date: 2024-05-18T15:06:23.563Z
-updated: 2024-05-19T15:06:23.563Z
+date: 2024-07-21T15:46:35.657Z
+updated: 2024-07-22T15:46:35.657Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Discontinuing Instant Recording on QuickTime for 2024"
 excerpt: "This Article Describes Discontinuing Instant Recording on QuickTime for 2024"
 keywords: "\"Quit QuickTime Recording,End Instant QuickTime,Stop QuickTime Live Record,Discontinue QuickTime Capture,Halt QuickTime Real-Time,Pause QuickTime Recording,Ending Quick Recording Mode\""
-thumbnail: https://www.lifewire.com/thmb/tog6m8Yd2L1pQ_0Pktyl-fbgcRs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/camera-56e0976d3df78c5ba0566b37.jpg
+thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a94f5e0b261b4ccf5f3207b46.jpg
 ---
 
 ## Discontinuing Instant Recording on QuickTime
@@ -33,6 +33,112 @@ Edit videos with thousands of effects and tools
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+## 1\. Direct Way to Stop QuickTime Recording
+
+Under normal circumstances, you start recording with QuickTime by clicking on Record button on the top menu bar or on the Record button on the Recording bar.
+
+![stop quicktime recording](https://images.wondershare.com/filmora/article-images/start-recording-quicktime.jpg)
+
+In the same way, you need to stop recording by clicking on the Stop button either on the top menu bar or the Recording bar. If this normal way of QuickTime Player stop screen recording does not work, you have to try out the following ways.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
+## 2\. Use Keyboard Shortcut to Stop QuickTime Recording
+
+The best way to operate any screen recorder is by using the keyboard shortcuts. This is because when you record a screen with an application, the overlay bar stays hidden and if you move the mouse cursor to get the overlay bar, the cursor movement also gets recorded. Therefore, the best way to stop a recording is by pressing the default keyboard shortcut.
+
+Coming to QuickTime Player, this method of QuickTime stop screen recording shortcut is only applicable when QuickTime Player has not frozen. If it is frozen, you have to force quit the application. Here are the steps to start recording normally and stop QuickTime recording using keyboard shortcut.
+
+Step 1: Launch QuickTime Player and go to File> New Screen Recording. Instead of that, you can press Ctrl + Command + N keys together on your Mac keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![new recording quicktime](https://images.wondershare.com/filmora/article-images/quicktime-new-recording.jpg)
+
+Step 2: You will see the Recording bar where you can set the settings and click on Red button to start recording.
+
+![start screen recording quicktime](https://images.wondershare.com/filmora/article-images/quicktime-start-screen-recording.jpg)
+
+Step 3: If you want to stop recording and you cannot find the Recording bar to click on Stop button, you have to press Esc for Recording bar to reappear and then click on Stop button. However, you can use the keyboard shortcut of Ctrl + Command + Esc keys together to stop recording immediately.
+
+![save screen recording](https://images.wondershare.com/filmora/article-images/save-screen-record.jpg)
+
+Step 4: Once the recording stops, you can go to File> Save to export the recording in proper file format.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
+## 3\. Force Quit to Stop QuickTime Recording
+
+If you cannot stop the recording in the normal way as well as with the keyboard shortcut, you have to force quit QuickTime Player. This is because the application might have got frozen for some reason and force quit is the only option available. It is important to note that when you force quit QuickTime, the latest recording will not be saved anywhere. Here are the steps to follow force quit to stop QuickTime screen recording.
+
+Step 1: Click on Apple menu and then click on Force Quit option.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+![force quit quicktime](https://images.wondershare.com/filmora/article-images/force-quit-menu.jpg)
+
+Step 2: You will see a pop-up window where you have to select QuickTime Player. Finally, click on Force Quit button.
+
+![force quit application](https://images.wondershare.com/filmora/article-images/force-quit-quicktime.jpg)
+
+Step 3: You can also use keyboard shortcut to force quit QuickTime. You have to press Option + Common + Esc keys together. This will bring up Force Quit Application window where you have to select QuickTime and click on Force Quit button.
+
+## 4\. End Screen Recording in Activity Monitor
+
+Just like Windows has Task Manager, Mac has Activity Monitor where you can see all the running applications. Similarly, you can terminate any running application directly from Activity Monitor. Therefore, if you terminate QuickTime Player from Activity Monitor, the application will terminate and the recording will stop. However, you will lose the recording as it does not get saved. Here are the steps to follow to stop screen recording QuickTime.
+
+Step 1: On your Mac, go to Finder > Applications > Utilities > and finally select Activity Monitor.
+
+Otherwise, you can go to Spotlight Search to search for Activity Monitor.
+
+Step 2: Once Activity Monitor opens, select QuickTime Player.
+
+![mac activity monitor](https://images.wondershare.com/filmora/article-images/mac-activity-minitor.jpg)
+
+Step 3: Click on Quit button and QuickTime Player will terminate and the recording will stop automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
+## 5\. Best Alternative to QuickTime for Recording
+
+Even though QuickTime Player is more for playing media files, it gets the job of screen recording done swiftly. However, there are times when you can find the application getting frozen, and you cannot stop recording. But if this has become a common occurrence, you can think about switching from QuickTime to a dedicated [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/). Wondershare Filmora for Mac is a versatile screen recorder for beginners as well as professionals.
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+![start screen recording](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
+
+With Filmora, you can record not only the screen but also the webcam simultaneously. There are over unlimited visual effects available to insert into the recording to make the video professional as well as interesting to watch. Besides, there are different modes available such as Blending mode, Green Screen mode which are very useful.
+
+Thanks to hardware acceleration, Filmora does not slow down Mac, and performance stays at the pro-level. Most importantly, the recording quality is stunning for uploading for different social media and video streaming platforms.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+## The Conclusion
+
+QuickTime Player is the ideal application on Mac for playing audio and video. It is also quite capable of recording the screen comfortably. However, users often face issue of QuickTime stop screen recording. If you are facing the same, go for keyboard shortcut. If that does not work, you have to force stop QuickTime. If the issue is frequently occurring, you can consider Wondershare Filmora to replace QuickTime Player for screen recording. It is a professional screen recording and video editing software available for both Mac and Windows users.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Direct Way to Stop QuickTime Recording
 
 Under normal circumstances, you start recording with QuickTime by clicking on Record button on the top menu bar or on the Record button on the Recording bar.
@@ -53,6 +159,9 @@ Step 1: Launch QuickTime Player and go to File> New Screen Recording. Instead of
 
 Step 2: You will see the Recording bar where you can set the settings and click on Red button to start recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![start screen recording quicktime](https://images.wondershare.com/filmora/article-images/quicktime-start-screen-recording.jpg)
 
 Step 3: If you want to stop recording and you cannot find the Recording bar to click on Stop button, you have to press Esc for Recording bar to reappear and then click on Stop button. However, you can use the keyboard shortcut of Ctrl + Command + Esc keys together to stop recording immediately.
@@ -61,6 +170,9 @@ Step 3: If you want to stop recording and you cannot find the Recording bar to c
 
 Step 4: Once the recording stops, you can go to File> Save to export the recording in proper file format.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Force Quit to Stop QuickTime Recording
 
 If you cannot stop the recording in the normal way as well as with the keyboard shortcut, you have to force quit QuickTime Player. This is because the application might have got frozen for some reason and force quit is the only option available. It is important to note that when you force quit QuickTime, the latest recording will not be saved anywhere. Here are the steps to follow force quit to stop QuickTime screen recording.
@@ -113,14 +225,24 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Direct Way to Stop QuickTime Recording
 
 Under normal circumstances, you start recording with QuickTime by clicking on Record button on the top menu bar or on the Record button on the Recording bar.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![stop quicktime recording](https://images.wondershare.com/filmora/article-images/start-recording-quicktime.jpg)
 
 In the same way, you need to stop recording by clicking on the Stop button either on the top menu bar or the Recording bar. If this normal way of QuickTime Player stop screen recording does not work, you have to try out the following ways.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Use Keyboard Shortcut to Stop QuickTime Recording
 
 The best way to operate any screen recorder is by using the keyboard shortcuts. This is because when you record a screen with an application, the overlay bar stays hidden and if you move the mouse cursor to get the overlay bar, the cursor movement also gets recorded. Therefore, the best way to stop a recording is by pressing the default keyboard shortcut.
@@ -129,10 +251,16 @@ Coming to QuickTime Player, this method of QuickTime stop screen recording short
 
 Step 1: Launch QuickTime Player and go to File> New Screen Recording. Instead of that, you can press Ctrl + Command + N keys together on your Mac keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![new recording quicktime](https://images.wondershare.com/filmora/article-images/quicktime-new-recording.jpg)
 
 Step 2: You will see the Recording bar where you can set the settings and click on Red button to start recording.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![start screen recording quicktime](https://images.wondershare.com/filmora/article-images/quicktime-start-screen-recording.jpg)
 
 Step 3: If you want to stop recording and you cannot find the Recording bar to click on Stop button, you have to press Esc for Recording bar to reappear and then click on Stop button. However, you can use the keyboard shortcut of Ctrl + Command + Esc keys together to stop recording immediately.
@@ -169,6 +297,9 @@ Step 2: Once Activity Monitor opens, select QuickTime Player.
 
 Step 3: Click on Quit button and QuickTime Player will terminate and the recording will stop automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Best Alternative to QuickTime for Recording
 
 Even though QuickTime Player is more for playing media files, it gets the job of screen recording done swiftly. However, there are times when you can find the application getting frozen, and you cannot stop recording. But if this has become a common occurrence, you can think about switching from QuickTime to a dedicated [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/). Wondershare Filmora for Mac is a versatile screen recorder for beginners as well as professionals.
@@ -187,6 +318,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Conclusion
 
 QuickTime Player is the ideal application on Mac for playing audio and video. It is also quite capable of recording the screen comfortably. However, users often face issue of QuickTime stop screen recording. If you are facing the same, go for keyboard shortcut. If that does not work, you have to force stop QuickTime. If the issue is frequently occurring, you can consider Wondershare Filmora to replace QuickTime Player for screen recording. It is a professional screen recording and video editing software available for both Mac and Windows users.
@@ -197,10 +331,16 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 
 Under normal circumstances, you start recording with QuickTime by clicking on Record button on the top menu bar or on the Record button on the Recording bar.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stop quicktime recording](https://images.wondershare.com/filmora/article-images/start-recording-quicktime.jpg)
 
 In the same way, you need to stop recording by clicking on the Stop button either on the top menu bar or the Recording bar. If this normal way of QuickTime Player stop screen recording does not work, you have to try out the following ways.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Use Keyboard Shortcut to Stop QuickTime Recording
 
 The best way to operate any screen recorder is by using the keyboard shortcuts. This is because when you record a screen with an application, the overlay bar stays hidden and if you move the mouse cursor to get the overlay bar, the cursor movement also gets recorded. Therefore, the best way to stop a recording is by pressing the default keyboard shortcut.
@@ -213,6 +353,9 @@ Step 1: Launch QuickTime Player and go to File> New Screen Recording. Instead of
 
 Step 2: You will see the Recording bar where you can set the settings and click on Red button to start recording.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start screen recording quicktime](https://images.wondershare.com/filmora/article-images/quicktime-start-screen-recording.jpg)
 
 Step 3: If you want to stop recording and you cannot find the Recording bar to click on Stop button, you have to press Esc for Recording bar to reappear and then click on Stop button. However, you can use the keyboard shortcut of Ctrl + Command + Esc keys together to stop recording immediately.
@@ -227,6 +370,9 @@ If you cannot stop the recording in the normal way as well as with the keyboard 
 
 Step 1: Click on Apple menu and then click on Force Quit option.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![force quit quicktime](https://images.wondershare.com/filmora/article-images/force-quit-menu.jpg)
 
 Step 2: You will see a pop-up window where you have to select QuickTime Player. Finally, click on Force Quit button.
@@ -249,6 +395,9 @@ Step 2: Once Activity Monitor opens, select QuickTime Player.
 
 Step 3: Click on Quit button and QuickTime Player will terminate and the recording will stop automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Best Alternative to QuickTime for Recording
 
 Even though QuickTime Player is more for playing media files, it gets the job of screen recording done swiftly. However, there are times when you can find the application getting frozen, and you cannot stop recording. But if this has become a common occurrence, you can think about switching from QuickTime to a dedicated [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/). Wondershare Filmora for Mac is a versatile screen recorder for beginners as well as professionals.
@@ -267,86 +416,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-## The Conclusion
-
-QuickTime Player is the ideal application on Mac for playing audio and video. It is also quite capable of recording the screen comfortably. However, users often face issue of QuickTime stop screen recording. If you are facing the same, go for keyboard shortcut. If that does not work, you have to force stop QuickTime. If the issue is frequently occurring, you can consider Wondershare Filmora to replace QuickTime Player for screen recording. It is a professional screen recording and video editing software available for both Mac and Windows users.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## 1\. Direct Way to Stop QuickTime Recording
-
-Under normal circumstances, you start recording with QuickTime by clicking on Record button on the top menu bar or on the Record button on the Recording bar.
-
-![stop quicktime recording](https://images.wondershare.com/filmora/article-images/start-recording-quicktime.jpg)
-
-In the same way, you need to stop recording by clicking on the Stop button either on the top menu bar or the Recording bar. If this normal way of QuickTime Player stop screen recording does not work, you have to try out the following ways.
-
-## 2\. Use Keyboard Shortcut to Stop QuickTime Recording
-
-The best way to operate any screen recorder is by using the keyboard shortcuts. This is because when you record a screen with an application, the overlay bar stays hidden and if you move the mouse cursor to get the overlay bar, the cursor movement also gets recorded. Therefore, the best way to stop a recording is by pressing the default keyboard shortcut.
-
-Coming to QuickTime Player, this method of QuickTime stop screen recording shortcut is only applicable when QuickTime Player has not frozen. If it is frozen, you have to force quit the application. Here are the steps to start recording normally and stop QuickTime recording using keyboard shortcut.
-
-Step 1: Launch QuickTime Player and go to File> New Screen Recording. Instead of that, you can press Ctrl + Command + N keys together on your Mac keyboard.
-
-![new recording quicktime](https://images.wondershare.com/filmora/article-images/quicktime-new-recording.jpg)
-
-Step 2: You will see the Recording bar where you can set the settings and click on Red button to start recording.
-
-![start screen recording quicktime](https://images.wondershare.com/filmora/article-images/quicktime-start-screen-recording.jpg)
-
-Step 3: If you want to stop recording and you cannot find the Recording bar to click on Stop button, you have to press Esc for Recording bar to reappear and then click on Stop button. However, you can use the keyboard shortcut of Ctrl + Command + Esc keys together to stop recording immediately.
-
-![save screen recording](https://images.wondershare.com/filmora/article-images/save-screen-record.jpg)
-
-Step 4: Once the recording stops, you can go to File> Save to export the recording in proper file format.
-
-## 3\. Force Quit to Stop QuickTime Recording
-
-If you cannot stop the recording in the normal way as well as with the keyboard shortcut, you have to force quit QuickTime Player. This is because the application might have got frozen for some reason and force quit is the only option available. It is important to note that when you force quit QuickTime, the latest recording will not be saved anywhere. Here are the steps to follow force quit to stop QuickTime screen recording.
-
-Step 1: Click on Apple menu and then click on Force Quit option.
-
-![force quit quicktime](https://images.wondershare.com/filmora/article-images/force-quit-menu.jpg)
-
-Step 2: You will see a pop-up window where you have to select QuickTime Player. Finally, click on Force Quit button.
-
-![force quit application](https://images.wondershare.com/filmora/article-images/force-quit-quicktime.jpg)
-
-Step 3: You can also use keyboard shortcut to force quit QuickTime. You have to press Option + Common + Esc keys together. This will bring up Force Quit Application window where you have to select QuickTime and click on Force Quit button.
-
-## 4\. End Screen Recording in Activity Monitor
-
-Just like Windows has Task Manager, Mac has Activity Monitor where you can see all the running applications. Similarly, you can terminate any running application directly from Activity Monitor. Therefore, if you terminate QuickTime Player from Activity Monitor, the application will terminate and the recording will stop. However, you will lose the recording as it does not get saved. Here are the steps to follow to stop screen recording QuickTime.
-
-Step 1: On your Mac, go to Finder > Applications > Utilities > and finally select Activity Monitor.
-
-Otherwise, you can go to Spotlight Search to search for Activity Monitor.
-
-Step 2: Once Activity Monitor opens, select QuickTime Player.
-
-![mac activity monitor](https://images.wondershare.com/filmora/article-images/mac-activity-minitor.jpg)
-
-Step 3: Click on Quit button and QuickTime Player will terminate and the recording will stop automatically.
-
-## 5\. Best Alternative to QuickTime for Recording
-
-Even though QuickTime Player is more for playing media files, it gets the job of screen recording done swiftly. However, there are times when you can find the application getting frozen, and you cannot stop recording. But if this has become a common occurrence, you can think about switching from QuickTime to a dedicated [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/). Wondershare Filmora for Mac is a versatile screen recorder for beginners as well as professionals.
-
-![start screen recording](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
-
-With Filmora, you can record not only the screen but also the webcam simultaneously. There are over unlimited visual effects available to insert into the recording to make the video professional as well as interesting to watch. Besides, there are different modes available such as Blending mode, Green Screen mode which are very useful.
-
-Thanks to hardware acceleration, Filmora does not slow down Mac, and performance stays at the pro-level. Most importantly, the recording quality is stunning for uploading for different social media and video streaming platforms.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Conclusion
 
 QuickTime Player is the ideal application on Mac for playing audio and video. It is also quite capable of recording the screen comfortably. However, users often face issue of QuickTime stop screen recording. If you are facing the same, go for keyboard shortcut. If that does not work, you have to force stop QuickTime. If the issue is frequently occurring, you can consider Wondershare Filmora to replace QuickTime Player for screen recording. It is a professional screen recording and video editing software available for both Mac and Windows users.
@@ -376,3 +448,47 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-iphones-video-fix-combat-blurry-facebook-videos/"><u>[New] 2024 Approved  IPhone's Video Fix  Combat Blurry Facebook Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-screencastify-a-comprehensive-recording-how-to/"><u>[New] 2024 Approved  Screencastify  A Comprehensive Recording How-To</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-selecting-the-top-cameras-for-smooth-twitch-broadcasts/"><u>[New] 2024 Approved  Selecting the Top Cameras for Smooth Twitch Broadcasts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-ethical-editors-handbook-on-sensitive-content/"><u>[New] 2024 Approved  The Ethical Editor's Handbook on Sensitive Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-list-of-affordable-os-recording-tools/"><u>[New] 2024 Approved  Ultimate List of Affordable OS Recording Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-harnessing-youtube-and-fb-techniques-for-maximum-engagement/"><u>[New] Harnessing YouTube & FB Techniques for Maximum Engagement</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-screencast-with-ezvide-maker-tool/"><u>[New] In 2024, Mastering Screencast with EZvide Maker Tool</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-optimizing-youtube-and-twitch-with-obs-streaming-techniques/"><u>[New] In 2024, Optimizing YouTube & Twitch with OBS Streaming Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-talking-audio-log-audit/"><u>[New] In 2024, Talking Audio Log Audit</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ticklish-titles-laugh-out-loud-gaming-for-children/"><u>[New] In 2024, Ticklish Titles  Laugh-Out-Loud Gaming for Children</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-transforming-facebook-streams-into-flawless-records/"><u>[New] In 2024, Transforming Facebook Streams Into Flawless Records</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-steps-to-record-a-timelapse-video-on-ipad-for-2024/"><u>[New] Steps to Record a Timelapse Video on iPad for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-6-straightforward-abodes-blueprints-in-mc-world-for-2024/"><u>[New] Top 6 Straightforward Abodes Blueprints in MC World for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-crafting-captivating-discord-pfps/"><u>[Updated] 2024 Approved  Mastering the Art of Crafting Captivating Discord Pfps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-maximizing-game-capture-with-bandicam-essentials-for-the-year-2023/"><u>[Updated] 2024 Approved  Maximizing Game Capture with Bandicam - Essentials for the Year 2023</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1716069200311-updated-2024-approved-offline-android-delights-top-screen-free-game-list-you-must-play/"><u>[Updated] 2024 Approved  Offline Android Delights  Top Screen-Free Game List You Must Play!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-step-by-step-guide-to-the-best-game-editing-apps/"><u>[Updated] 2024 Approved  Step-by-Step Guide to the Best Game Editing Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-tinyframe-videotaker-assessment-with-alternatives/"><u>[Updated] 2024 Approved  TinyFrame Videotaker Assessment with Alternatives</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-breakthrough-strategies-to-maximize-impact-on-snapchat/"><u>[Updated] In 2024, Breakthrough Strategies to Maximize Impact on Snapchat</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-innovative-methods-for-effective-screen-capture/"><u>[Updated] In 2024, Innovative Methods for Effective Screen Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-innovative-ways-to-record-and-preserve-streaming-sounds-online/"><u>[Updated] In 2024, Innovative Ways to Record and Preserve Streaming Sounds Online</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-survivals-tightrope-ranking-the-top-8-zombie-adventures/"><u>[Updated] In 2024, Survival's Tightrope  Ranking the Top 8 Zombie Adventures</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-ultimate-guide-to-webinar-archiving/"><u>[Updated] In 2024, The Ultimate Guide to Webinar Archiving</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-rated-mp4-video-save-and-review/"><u>[Updated] In 2024, Top-Rated MP4 Video Save & Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-metamorphose-into-the-metaverse-an-easy-avatar-guide/"><u>[Updated] Metamorphose Into the Metaverse  An Easy Avatar Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-visual-simplification-in-hybrid-workspaces-with-zoom-and-google-meet-for-2024/"><u>[Updated] Visual Simplification in Hybrid Workspaces with Zoom & Google Meet for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-cutting-edge-strategies-for-recording-slideshows/"><u>2024 Approved  Cutting-Edge Strategies for Recording Slideshows</u></a></li>
+<li><a href="https://win11.techidaily.com/7-innovative-uses-for-windows-11-god-mode/"><u>7 Innovative Uses for Windows 11 God Mode</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-motorola-edge-40-neo-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Motorola Edge 40 Neo to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone SE (2022) Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-xiaomi-redmi-k70-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Xiaomi Redmi K70 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-compre-cookies-guide-to-marketing-magic-with-20-terms/"><u>In 2024, A Compre Cookie's Guide to Marketing Magic with 20 Terms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-insta-self-portraits-are-they-truly-accurate/"><u>In 2024, Insta Self-Portraits  Are They Truly Accurate?</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-11x-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme 11X 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-blending-sounds-and-visuals-expert-strategies-for-adding-audio-to-ae-projects/"><u>New 2024 Approved Blending Sounds and Visuals Expert Strategies for Adding Audio to AE Projects</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-key-considerations-to-put-together-an-invaluable-audiovisual-treasure-trove-on-youtube/"><u>New 2024 Approved Key Considerations to Put Together an Invaluable Audiovisual Treasure Trove on YouTube</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-fix-avidemux-audio-issues-latest-solutions-for-2024/"><u>New Fix Avidemux Audio Issues Latest Solutions for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-windows-movie-maker-substitutes/"><u>The Ultimate List of Windows Movie Maker Substitutes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-gt-neo-5-se-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme GT Neo 5 SE Device</u></a></li>
+</ul></div>

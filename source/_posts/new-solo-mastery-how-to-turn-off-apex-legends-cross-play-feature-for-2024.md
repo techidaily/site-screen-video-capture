@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Solo Mastery  How to Turn Off Apex Legends' Cross-Play Feature for 2024\""
-date: 2024-05-20T00:50:08.371Z
-updated: 2024-05-21T00:50:08.371Z
+date: 2024-07-21T13:28:43.833Z
+updated: 2024-07-22T13:28:43.833Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Solo Mastery: How to Turn Off Apex Legends' Cross-Play Feature for 2024\""
 excerpt: "\"This Article Describes [New] Solo Mastery: How to Turn Off Apex Legends' Cross-Play Feature for 2024\""
 keywords: "\"Apex Legends Crossplay Disable,Apex Legends Solo Play,Mastering Solo Mode,Apex Legends One Player,Turn Off Apex Legends Play,Eliminating Cross-Play Feature,Solo in Apex Legends Gameplay\""
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## Solo Mastery: How to Turn Off Apex Legends' Cross-Play Feature
@@ -49,6 +49,9 @@ There is a ring around the battleground that shrinks after fixed short intervals
 
 One thing that you must keep in mind while playing this game is that killing an opponent is a bit longer than other FPS (First Person Shooting) games. To kill an opponent, you may need to rely on several headshots, your legends' unique ability, and the support of your teammates.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Although this game is free of cost, it offers several in-game purchases. You can purchase Apex Coins, which is an in-game currency. ![](https://images.wondershare.com/filmora/article-images/Apex-ingame-purchase.jpg)
 
 You can use it to purchase loot boxes that contain skins and costumes. There are two locked characters in the game also, and you need to purchase them with Apex coins. So, you can get the maximum out of this game by spending some money and giving time to this game.
@@ -65,8 +68,14 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
 
 #### **Does it have cross-progression?**
@@ -134,6 +143,9 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -148,6 +160,9 @@ Follow @Richard Bennett
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/apex-poster.png)
 
 From the past few months, a few questions are asked: Can we crossplay in Apex Legends? How to disable crossplay? How about cross-progression? Further, which platform is the best to play on? What's the difference between Steam and Origin?
@@ -162,6 +177,9 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -188,6 +206,14 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
@@ -210,6 +236,9 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Xbox Series X and S**
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/xbox-seriesx.jpg)Xbox series S and X are the latest generations of Xbox. They rival their competitor PS5 and offer competitive performance when you compare these consoles with a PS5\. They do offer better gaming performance and better graphics. But, the question is, Can you play Apex on the latest generations of Xbox? The answer is yes. You will get better performance in terms of graphics and FPS but currently, the game isn't fully optimized for the latest generations. In the coming days it is expected that the game will be optimized for the latest consoles and you can enjoy the game to the fullest. Currently, you can enjoy 1440p gaming on these consoles and can get up to 120fps.
 
 **Sony PlayStation 4**
@@ -239,6 +268,9 @@ PC Requirements For Apex Legends:
 
 **Nintendo Switch**
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![](https://images.wondershare.com/filmora/article-images/Apex-switch.png)
 
 On March 9, 2021, EA released a version of this game for Nintendo switch. Currently, it is playable on the switch, and you can only match up with switch players, but soon it will be available to play with cross-platform support. It is a big achievement for EA to make this game playable on a small screen.
@@ -257,8 +289,14 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -292,3 +330,56 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-techniques-for-concurrent-webcam-and-screen-recordings/"><u>[New] 2024 Approved  Techniques for Concurrent Webcam & Screen Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unparalleled-audio-capture-top-9-online-microphone-systems-in-23/"><u>[New] 2024 Approved  Unparalleled Audio Capture  Top 9 Online Microphone Systems in '23</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-7-essential-audio-tools-for-personal-vocal-customization/"><u>[New] 7 Essential Audio Tools for Personal Vocal Customization</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-advanced-strategies-for-rl-capture-success/"><u>[New] Advanced Strategies for RL Capture Success</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-expert-guide-streaming-and-saving-hulu-seasons-flawlessly/"><u>[New] Expert Guide  Streaming and Saving Hulu Seasons Flawlessly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-high-quality-passport-pictures-download-and-print-in-seconds/"><u>[New] Free High-Quality Passport Pictures - Download & Print in Seconds</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-screen-recording-simplified-top-techniques-unveiled/"><u>[New] In 2024, Screen Recording Simplified  Top Techniques Unveiled</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-simplify-your-virtual-experience-modifying-status-and-images-on-discord/"><u>[New] In 2024, Simplify Your Virtual Experience  Modifying Status & Images on Discord</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-stream-your-webcam-in-real-time-using-vlc-software/"><u>[New] In 2024, Stream Your Webcam in Real Time Using VLC Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-optimal-screen-record-settings-for-facetime-conversations/"><u>[New] Optimal Screen Record Settings for FaceTime Conversations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-smooth-soundscape-fading-techniques-with-lumafusion/"><u>[New] Smooth Soundscape  Fading Techniques with Lumafusion</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unveil-the-power-of-vrecorder-installs-demystified/"><u>[New] Unveil the Power of VRecorder  Installs Demystified</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boost-your-blogging-bravery-following-youtuber-leaders/"><u>[Updated] 2024 Approved  Boost Your Blogging Bravery  Following YouTuber Leaders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-quick-guide-to-enhanced-video-capturing-in-vlc/"><u>[Updated] 2024 Approved  Quick Guide to Enhanced Video Capturing in VLC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-picks-8-economical-video-conferencing-tools-compatible-with-mac-and-pc/"><u>[Updated] 2024 Approved  Top Picks  8 Economical Video Conferencing Tools Compatible with Mac & PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unmatched-hd-capture-selecting-the-best-recorder-brands/"><u>[Updated] 2024 Approved  Unmatched HD Capture  Selecting the Best Recorder Brands</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-record-with-nvidia-screen-recorder/"><u>[Updated] How to Record with NVIDIA Screen Recorder</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-transform-your-team-sessions-masterful-use-of-slack-and-filmora-tools/"><u>[Updated] In 2024, Transform Your Team Sessions  Masterful Use of Slack & Filmora Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-infinite-screensaver-solutions-top-12-apps-no-cutoff/"><u>[Updated] Infinite Screensaver Solutions - Top 12 Apps (No Cutoff)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-premium-tools-for-capturing-your-pcmac-screen-for-2024/"><u>[Updated] Premium Tools for Capturing Your PC/Mac Screen for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-prime-visual-screenshots-on-apple-systems-max-length-156-for-2024/"><u>[Updated] Prime Visual Screenshots on Apple Systems (Max Length  156) for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-seamlessly-integrate-your-switch-pro-into-steam-gaming/"><u>[Updated] Seamlessly Integrate Your Switch Pro Into Steam Gaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-screenrecorder-comprehensive-step-by-step-guide-for-2024/"><u>[Updated] Ultimate ScreenRecorder  Comprehensive, Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-best-9-online-mic-recorders/"><u>2024 Approved  Best 9 Online Mic Recorders</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-top-20-strategies-for-boosting-fb-ads-via-video-content/"><u>2024 Approved  Top 20 Strategies for Boosting FB Ads via Video Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/affordable-sturdy-backpacks-and-bags-for-gamers-on-the-move-for-2024/"><u>Affordable, Sturdy Backpacks & Bags for Gamers on the Move for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/all-embracing-audit-evaluating-the-gecata-game-monitor/"><u>All-Embracing Audit  Evaluating the Gecata Game Monitor</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/audio-enthusiasts-guide-to-the-best-10-spotify-recorders/"><u>Audio Enthusiast's Guide to the Best 10 Spotify Recorders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/behind-the-curtain-exclusive-review-of-apeaksofts-tech-advancements/"><u>Behind the Curtain  Exclusive Review of Apeaksoft's Tech Advancements</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/freemacos-the-ultimate-screen-logger/"><u>FreeMacOS  The Ultimate Screen Logger</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-ensure-consistent-frame-rates-in-multi-camera-setups/"><u>How to Ensure Consistent Frame Rates in Multi-Camera Setups</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y36-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y36 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ideal-chat-and-meetup-tools-for-large-groups-for-2024/"><u>Ideal Chat & Meetup Tools for Large Groups for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oppo-a79-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Oppo A79 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-y200-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo Y200 Phone?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-quickscreenrecorder-easy-captures-anytime/"><u>In 2024, QuickScreenRecorder  Easy Captures, Anytime</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-screencaptureapps-recording-your-next-google-meet/"><u>In 2024, ScreenCaptureApps  Recording Your Next Google Meet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-streamlining-obs-studio-edits-top-5-proven-productivity-hacks/"><u>In 2024, Streamlining OBS Studio Edits  Top 5 Proven Productivity Hacks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-trim-cut-and-split-avi-files-like-a-pro-updated/"><u>New In 2024, Trim, Cut, and Split AVI Files Like a Pro Updated</u></a></li>
+<li><a href="https://fox-access.techidaily.com/perfecting-your-srt-craft-a-compreran-guide-to-tips-and-tricks-for-2024/"><u>Perfecting Your SRT Craft  A Compreran Guide to Tips & Tricks for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/quick-steps-to-elevate-low-quality-webcam-vids/"><u>Quick Steps to Elevate Low-Quality WebCam Vids</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/screen-capture-mastery-on-mac-top-10-apps-reviewed-and-rated-for-2024/"><u>Screen Capture Mastery on Mac  Top 10 Apps Reviewed & Rated for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/sky-high-snapshot-5-top-screen-recorders/"><u>Sky High Snapshot - 5 Top Screen Recorders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/streamlining-your-gaming-experience-windows-11-edition-for-2024/"><u>Streamlining Your Gaming Experience  Windows 11 Edition for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/tinysnap-capture-assessment-with-variants-for-2024/"><u>TinySnap Capture Assessment with Variants for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-15-free-screen-recorders-for-windows-and-mac/"><u>Top 15 Free Screen Recorders for Windows and Mac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-8-cost-free-android-video-recording-software-for-2024/"><u>Top 8 Cost-Free Android Video Recording Software for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-free-mp4-video-cutter-software-for-windows-and-mac/"><u>Top Free MP4 Video Cutter Software for Windows and Mac</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-printing-perfection-new-hp-drivers-available/"><u>Windows 11 Printing Perfection - New HP Drivers Available</u></a></li>
+</ul></div>

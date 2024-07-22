@@ -1,7 +1,7 @@
 ---
 title: "[New] 4 Methods to Record Gameplay on Xbox One for 2024"
-date: 2024-05-20T00:50:39.220Z
-updated: 2024-05-21T00:50:39.220Z
+date: 2024-07-21T14:15:01.950Z
+updated: 2024-07-22T14:15:01.950Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] 4 Methods to Record Gameplay on Xbox One for 2024"
 excerpt: "This Article Describes [New] 4 Methods to Record Gameplay on Xbox One for 2024"
 keywords: "Xbox Gameplay Recording,Xbox Playback Tactics,Xbox Live Gaming Capture,Xbox Console Screen Recorder,Xbox One Gameplay Logs,Xbox Recordings Techniques,Xbox Screencasting Methods"
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## How to Record Gameplay on Xbox One
@@ -39,6 +39,9 @@ Step 2: Whenever you can to record your gameplay, press Xbox button on the conso
 
 Step 3: Navigate to Capture & Share menu and select Start Recording option. This will start recording immediately in the background.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![xbox one start recording](https://images.wondershare.com/filmora/article-images/xbox-start-recording.jpg)
 
 Step 4: When you want to stop recording, open the guide again by pressing Xbox button and press “X” button on your gaming console. You can view the recorded video from Recent Captures.
@@ -77,10 +80,127 @@ Step 4: Select the recording screen size. Select the audio sources to record gam
 
 Step 5: Start your game on Xbox One and click on the Record button to start recording the gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![recording vr game with filmora](https://images.wondershare.com/filmora/article-images/recording-vr-game-filmora.jpg)
 
 You will get a few seconds to start playing your game before recording starts. Press F9 on your keyboard to stop recording.
 
+## Way 3\. Use Windows Game DVR
+
+If you want to record a short clip of your gameplay instantly and share on YouTube or other online platform, you can do it easily with Game DVR option available on Xbox One. Game DVR automatically records gameplay in the background and keep them in the buffer so that you can save any recent happening in your gameplay. Otherwise, the recording will get discarded automatically. However, there are many who disable Game DVR feature because it uses system resources significantly. Here are the steps on how to record gameplay on Xbox One.
+
+Step 1: While you are playing a game on Xbox One, press Xbox button twice.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![game dvr](https://images.wondershare.com/filmora/article-images/game-dvr-xbox.png)
+
+Step 2: From the sidebar, go to Snap an App option.
+
+Step 3: Navigate downwards and select Game DVR.
+
+Step 4: The recording will start and when you need to end recording, select End Clip Now option.
+
+## Way 4\. Use Elgato Game Capture HD60 S
+
+Elgato Game Capture HD60 S is an extremely popular capture card among Xbox One owners. You do not need any external software to record your gameplay as Elgato Game Capture has its inbuilt software for recording. The software has various settings to record Xbox one gameplay as per your requirement. You can live stream your gameplay at 1080p and 60fps. Here are the steps on how to record Xbox gameplay with Elgato Game Capture HD60 S.
+
+Step 1: Connect Elgato Game Capture HD60 S to your Xbox One through HDMI cable.
+
+Step 2: Connect Elgato Game Capture HD60 S to your computer and TV monitor.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+![elgato capture card](https://images.wondershare.com/filmora/article-images/elgato-capture-card.jpg)
+
+Step 3: Download the compatible Elgato Game Capture software for Elgato Game Capture HD60 S from the official website.
+
+Step 4: Start your gameplay and start recording from Elgato Game Capture HD software.
+
+## Conclusion
+
+We have stated all the possible ways on how to record gameplay on Xbox One. If you do not want to use a computer, you can record directly from Xbox One and share on YouTube. You can also use Game DVR feature for recording short clips. The best way is to use a game capture card and record your gameplay with Wondershare Filmora and edit it out before publishing on online platforms.
+
+Way 2. [Use A Recorder with Capture Card](#part2)
+
+Way 3. [Use Windows Game DVR](#part3)
+
+Way 4. [Use Elgato Game Capture HD60 S](#part4)
+
+## Way 1\. Use Xbox One Built-In Feature
+
+If you are playing on Xbox One by connecting it to your TV screen, you can record Xbox gameplay with its built-in feature. Apart from recording your gameplay, you can record screenshot of your gameplay at any time. In fact, Xbox One allows you to save the recording of your gameplay that has happened in the last 30 seconds at any moment in your gameplay. Here are the steps on how to record Xbox gameplay.
+
+Step 1: Turn on your Xbox gaming console and start playing any game.
+
+Step 2: Whenever you can to record your gameplay, press Xbox button on the console. You will see a guide appear on the TV screen.
+
+Step 3: Navigate to Capture & Share menu and select Start Recording option. This will start recording immediately in the background.
+
+![xbox one start recording](https://images.wondershare.com/filmora/article-images/xbox-start-recording.jpg)
+
+Step 4: When you want to stop recording, open the guide again by pressing Xbox button and press “X” button on your gaming console. You can view the recorded video from Recent Captures.
+
+## Way 2\. Use A Recorder with Capture Card
+
+When you use Xbox One directly to record your gameplay, you can record only for a limited time based on the available storage space. Besides, you have to transfer the recorded video to your computer for editing and uploading on various online platforms. Therefore, it is better that you capture your gameplay on your computer and you will need a capture card for high-quality recording. A capture card is necessary for connecting a computer with a gaming console. Once you buy a compatible capture card, here are the steps to follow.
+
+Step 1: Connect Xbox One, capture card and your computer through HDMI cable.
+
+Step 2: Connect Xbox One to your TV and connect capture card to your computer through USB or data cable.
+
+Step 3: Turn on Xbox One and press Xbox button. From the guide, go to Profile & System> Settings on your TV screen. From Settings, go to System> Console Info to check if Xbox One system is updated.
+
+This will ensure that what you see on your TV screen is also displayed on your computer. Now, you will need a professional [screen recorder application](https://tools.techidaily.com/wondershare/filmora/download/) to record your gameplay as well as edit it out before publishing on any platform. We recommend Wondershare Filmora which is both a professional screen recorder as well as video editor. You can record your gameplay with webcam and microphone as well. Here are the steps to follow on how to record Xbox one gameplay with voice.
+
+Step 1: Download and install Wondershare Filmora.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 2: Launch Filmora and click on New Project option.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+Step 3: Navigate to Record > Record PC Screen option.
+
+Step 4: Select the recording screen size. Select the audio sources to record game sound as well as your voice through microphone. If you want to record webcam as well, turn on Record Camera Stream.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![select vr game recording area](https://images.wondershare.com/filmora/article-images/vr-game-area-filmora.jpg)
+
+Step 5: Start your game on Xbox One and click on the Record button to start recording the gameplay.
+
+![recording vr game with filmora](https://images.wondershare.com/filmora/article-images/recording-vr-game-filmora.jpg)
+
+You will get a few seconds to start playing your game before recording starts. Press F9 on your keyboard to stop recording.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Way 3\. Use Windows Game DVR
 
 If you want to record a short clip of your gameplay instantly and share on YouTube or other online platform, you can do it easily with Game DVR option available on Xbox One. Game DVR automatically records gameplay in the background and keep them in the buffer so that you can save any recent happening in your gameplay. Otherwise, the recording will get discarded automatically. However, there are many who disable Game DVR feature because it uses system resources significantly. Here are the steps on how to record gameplay on Xbox One.
@@ -95,6 +215,9 @@ Step 3: Navigate downwards and select Game DVR.
 
 Step 4: The recording will start and when you need to end recording, select End Clip Now option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 4\. Use Elgato Game Capture HD60 S
 
 Elgato Game Capture HD60 S is an extremely popular capture card among Xbox One owners. You do not need any external software to record your gameplay as Elgato Game Capture has its inbuilt software for recording. The software has various settings to record Xbox one gameplay as per your requirement. You can live stream your gameplay at 1080p and 60fps. Here are the steps on how to record Xbox gameplay with Elgato Game Capture HD60 S.
@@ -171,6 +294,9 @@ Step 5: Start your game on Xbox One and click on the Record button to start reco
 
 You will get a few seconds to start playing your game before recording starts. Press F9 on your keyboard to stop recording.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Way 3\. Use Windows Game DVR
 
 If you want to record a short clip of your gameplay instantly and share on YouTube or other online platform, you can do it easily with Game DVR option available on Xbox One. Game DVR automatically records gameplay in the background and keep them in the buffer so that you can save any recent happening in your gameplay. Otherwise, the recording will get discarded automatically. However, there are many who disable Game DVR feature because it uses system resources significantly. Here are the steps on how to record gameplay on Xbox One.
@@ -193,12 +319,18 @@ Step 1: Connect Elgato Game Capture HD60 S to your Xbox One through HDMI cable.
 
 Step 2: Connect Elgato Game Capture HD60 S to your computer and TV monitor.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![elgato capture card](https://images.wondershare.com/filmora/article-images/elgato-capture-card.jpg)
 
 Step 3: Download the compatible Elgato Game Capture software for Elgato Game Capture HD60 S from the official website.
 
 Step 4: Start your gameplay and start recording from Elgato Game Capture HD software.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We have stated all the possible ways on how to record gameplay on Xbox One. If you do not want to use a computer, you can record directly from Xbox One and share on YouTube. You can also use Game DVR feature for recording short clips. The best way is to use a game capture card and record your gameplay with Wondershare Filmora and edit it out before publishing on online platforms.
@@ -209,6 +341,9 @@ Way 3. [Use Windows Game DVR](#part3)
 
 Way 4. [Use Elgato Game Capture HD60 S](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Way 1\. Use Xbox One Built-In Feature
 
 If you are playing on Xbox One by connecting it to your TV screen, you can record Xbox gameplay with its built-in feature. Apart from recording your gameplay, you can record screenshot of your gameplay at any time. In fact, Xbox One allows you to save the recording of your gameplay that has happened in the last 30 seconds at any moment in your gameplay. Here are the steps on how to record Xbox gameplay.
@@ -219,10 +354,16 @@ Step 2: Whenever you can to record your gameplay, press Xbox button on the conso
 
 Step 3: Navigate to Capture & Share menu and select Start Recording option. This will start recording immediately in the background.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![xbox one start recording](https://images.wondershare.com/filmora/article-images/xbox-start-recording.jpg)
 
 Step 4: When you want to stop recording, open the guide again by pressing Xbox button and press “X” button on your gaming console. You can view the recorded video from Recent Captures.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Way 2\. Use A Recorder with Capture Card
 
 When you use Xbox One directly to record your gameplay, you can record only for a limited time based on the available storage space. Besides, you have to transfer the recorded video to your computer for editing and uploading on various online platforms. Therefore, it is better that you capture your gameplay on your computer and you will need a capture card for high-quality recording. A capture card is necessary for connecting a computer with a gaming console. Once you buy a compatible capture card, here are the steps to follow.
@@ -247,6 +388,9 @@ For macOS 10.12 or later
 
 Step 2: Launch Filmora and click on New Project option.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 3: Navigate to Record > Record PC Screen option.
@@ -257,6 +401,9 @@ Step 4: Select the recording screen size. Select the audio sources to record gam
 
 Step 5: Start your game on Xbox One and click on the Record button to start recording the gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![recording vr game with filmora](https://images.wondershare.com/filmora/article-images/recording-vr-game-filmora.jpg)
 
 You will get a few seconds to start playing your game before recording starts. Press F9 on your keyboard to stop recording.
@@ -283,102 +430,18 @@ Step 1: Connect Elgato Game Capture HD60 S to your Xbox One through HDMI cable.
 
 Step 2: Connect Elgato Game Capture HD60 S to your computer and TV monitor.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![elgato capture card](https://images.wondershare.com/filmora/article-images/elgato-capture-card.jpg)
 
 Step 3: Download the compatible Elgato Game Capture software for Elgato Game Capture HD60 S from the official website.
 
 Step 4: Start your gameplay and start recording from Elgato Game Capture HD software.
 
-## Conclusion
-
-We have stated all the possible ways on how to record gameplay on Xbox One. If you do not want to use a computer, you can record directly from Xbox One and share on YouTube. You can also use Game DVR feature for recording short clips. The best way is to use a game capture card and record your gameplay with Wondershare Filmora and edit it out before publishing on online platforms.
-
-Way 2. [Use A Recorder with Capture Card](#part2)
-
-Way 3. [Use Windows Game DVR](#part3)
-
-Way 4. [Use Elgato Game Capture HD60 S](#part4)
-
-## Way 1\. Use Xbox One Built-In Feature
-
-If you are playing on Xbox One by connecting it to your TV screen, you can record Xbox gameplay with its built-in feature. Apart from recording your gameplay, you can record screenshot of your gameplay at any time. In fact, Xbox One allows you to save the recording of your gameplay that has happened in the last 30 seconds at any moment in your gameplay. Here are the steps on how to record Xbox gameplay.
-
-Step 1: Turn on your Xbox gaming console and start playing any game.
-
-Step 2: Whenever you can to record your gameplay, press Xbox button on the console. You will see a guide appear on the TV screen.
-
-Step 3: Navigate to Capture & Share menu and select Start Recording option. This will start recording immediately in the background.
-
-![xbox one start recording](https://images.wondershare.com/filmora/article-images/xbox-start-recording.jpg)
-
-Step 4: When you want to stop recording, open the guide again by pressing Xbox button and press “X” button on your gaming console. You can view the recorded video from Recent Captures.
-
-## Way 2\. Use A Recorder with Capture Card
-
-When you use Xbox One directly to record your gameplay, you can record only for a limited time based on the available storage space. Besides, you have to transfer the recorded video to your computer for editing and uploading on various online platforms. Therefore, it is better that you capture your gameplay on your computer and you will need a capture card for high-quality recording. A capture card is necessary for connecting a computer with a gaming console. Once you buy a compatible capture card, here are the steps to follow.
-
-Step 1: Connect Xbox One, capture card and your computer through HDMI cable.
-
-Step 2: Connect Xbox One to your TV and connect capture card to your computer through USB or data cable.
-
-Step 3: Turn on Xbox One and press Xbox button. From the guide, go to Profile & System> Settings on your TV screen. From Settings, go to System> Console Info to check if Xbox One system is updated.
-
-This will ensure that what you see on your TV screen is also displayed on your computer. Now, you will need a professional [screen recorder application](https://tools.techidaily.com/wondershare/filmora/download/) to record your gameplay as well as edit it out before publishing on any platform. We recommend Wondershare Filmora which is both a professional screen recorder as well as video editor. You can record your gameplay with webcam and microphone as well. Here are the steps to follow on how to record Xbox one gameplay with voice.
-
-Step 1: Download and install Wondershare Filmora.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 2: Launch Filmora and click on New Project option.
-
-![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-Step 3: Navigate to Record > Record PC Screen option.
-
-Step 4: Select the recording screen size. Select the audio sources to record game sound as well as your voice through microphone. If you want to record webcam as well, turn on Record Camera Stream.
-
-![select vr game recording area](https://images.wondershare.com/filmora/article-images/vr-game-area-filmora.jpg)
-
-Step 5: Start your game on Xbox One and click on the Record button to start recording the gameplay.
-
-![recording vr game with filmora](https://images.wondershare.com/filmora/article-images/recording-vr-game-filmora.jpg)
-
-You will get a few seconds to start playing your game before recording starts. Press F9 on your keyboard to stop recording.
-
-## Way 3\. Use Windows Game DVR
-
-If you want to record a short clip of your gameplay instantly and share on YouTube or other online platform, you can do it easily with Game DVR option available on Xbox One. Game DVR automatically records gameplay in the background and keep them in the buffer so that you can save any recent happening in your gameplay. Otherwise, the recording will get discarded automatically. However, there are many who disable Game DVR feature because it uses system resources significantly. Here are the steps on how to record gameplay on Xbox One.
-
-Step 1: While you are playing a game on Xbox One, press Xbox button twice.
-
-![game dvr](https://images.wondershare.com/filmora/article-images/game-dvr-xbox.png)
-
-Step 2: From the sidebar, go to Snap an App option.
-
-Step 3: Navigate downwards and select Game DVR.
-
-Step 4: The recording will start and when you need to end recording, select End Clip Now option.
-
-## Way 4\. Use Elgato Game Capture HD60 S
-
-Elgato Game Capture HD60 S is an extremely popular capture card among Xbox One owners. You do not need any external software to record your gameplay as Elgato Game Capture has its inbuilt software for recording. The software has various settings to record Xbox one gameplay as per your requirement. You can live stream your gameplay at 1080p and 60fps. Here are the steps on how to record Xbox gameplay with Elgato Game Capture HD60 S.
-
-Step 1: Connect Elgato Game Capture HD60 S to your Xbox One through HDMI cable.
-
-Step 2: Connect Elgato Game Capture HD60 S to your computer and TV monitor.
-
-![elgato capture card](https://images.wondershare.com/filmora/article-images/elgato-capture-card.jpg)
-
-Step 3: Download the compatible Elgato Game Capture software for Elgato Game Capture HD60 S from the official website.
-
-Step 4: Start your gameplay and start recording from Elgato Game Capture HD software.
-
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We have stated all the possible ways on how to record gameplay on Xbox One. If you do not want to use a computer, you can record directly from Xbox One and share on YouTube. You can also use Game DVR feature for recording short clips. The best way is to use a game capture card and record your gameplay with Wondershare Filmora and edit it out before publishing on online platforms.
@@ -408,3 +471,78 @@ We have stated all the possible ways on how to record gameplay on Xbox One. If y
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-capture-and-record-a-new-era-of-iphoneipad-recording/"><u>[New] 2024 Approved  Capture & Record  A New Era of iPhone/iPad Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-cutting-edge-tools-the-best-9-gif-recorders-for-animated-windows-content/"><u>[New] 2024 Approved  Cutting-Edge Tools  The Best 9 GIF Recorders for Animated Windows Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-insta-influencing-techniques-for-scaling-your-following-quickly/"><u>[New] 2024 Approved  Insta Influencing  Techniques for Scaling Your Following Quickly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-leading-the-charge-in-sustainable-filmmaking/"><u>[New] 2024 Approved  Leading the Charge in Sustainable Filmmaking</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-obs-video-magic-top-5-editing-secrets-revealed/"><u>[New] 2024 Approved  OBS Video Magic  Top 5 Editing Secrets Revealed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-screensnap-2023-the-new-standard-in-recording/"><u>[New] 2024 Approved  ScreenSnap 2023 – The New Standard in Recording</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-disable-desktop-discords/"><u>[New] 2024 Approved  The Ultimate Guide to Disable Desktop Discords</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-addressing-mute-problems-in-obs-live-recording/"><u>[New] Addressing Mute Problems in OBS Live Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-adjusting-visuals-in-teams-conversations-at-any-time-for-2024/"><u>[New] Adjusting Visuals in Teams Conversations at Any Time for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-affordable-leading-chromeos-screen-recorders/"><u>[New] Affordable Leading ChromeOS Screen Recorders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-best-console-to-pc-conversion-top-5-ps1-emulators-for-2024/"><u>[New] Best Console-to-PC Conversion  Top 5 PS1 Emulators for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-cutting-edge-screen-shifting-for-editors-for-2024/"><u>[New] Cutting-Edge Screen Shifting for Editors for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-10-best-zero-cost-videochats-collaboration-at-your-desk/"><u>[New] In 2024, 10 Best Zero-Cost Videochats  Collaboration at Your Desk</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-choosing-your-stage-obs-or-twitch-pro/"><u>[New] In 2024, Choosing Your Stage  OBS or Twitch Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-direct-methods-to-record-virtual-meetings/"><u>[New] In 2024, Direct Methods to Record Virtual Meetings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-exclusive-nintendo-switch-fighter-lineups-max-156/"><u>[New] In 2024, Exclusive Nintendo Switch Fighter Lineups (Max 156)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-gamers-secrets-to-effective-playback-logging/"><u>[New] In 2024, Gamers' Secrets to Effective Playback Logging</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-intensive-investigation-the-gecata-game-logger/"><u>[New] In 2024, Intensive Investigation  The Gecata Game Logger</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quick-scan-maker-chrome-os/"><u>[New] In 2024, Quick Scan Maker (Chrome OS)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-real-time-recording-battle-obs-studio-against-fraps/"><u>[New] In 2024, Real-Time Recording Battle  OBS Studio Against Fraps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-recording-webinars/"><u>[New] In 2024, Recording Webinars</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-secure-again-combating-2023s-facebook-vulnerability/"><u>[New] In 2024, Secure Again  Combating 2023'S Facebook Vulnerability</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-virtuverse-video-vault/"><u>[New] In 2024, VirtuVerse Video Vault</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-youtube-standard-studio-or-beta-progress/"><u>[New] Mastering YouTube  Standard Studio or Beta Progress</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-strategies-for-effective-storage-of-chats-and-calls-on-facebook/"><u>[New] Strategies for Effective Storage of Chats and Calls on Facebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-stream-like-a-pro-3-key-strategies-for-lol-gamers/"><u>[New] Stream Like a Pro  3 Key Strategies for LOL Gamers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-superior-online-multimedia-collaboration-tools/"><u>[New] Superior Online Multimedia Collaboration Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-best-way-to-use-obs-live-stream-to-facebook-for-2024/"><u>[New] The Best Way to Use OBS Live Stream to Facebook for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unintended-tiktok-update-how-to-recover-for-2024/"><u>[New] Unintended TikTok Update – How to Recover for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-w10-ultimate-screen-replay-suite-for-2024/"><u>[New] W10 Ultimate Screen Replay Suite for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-conversations-google-meet-essentials/"><u>[Updated] 2024 Approved  Mastering Conversations  Google Meet Essentials</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-maximize-memories-overwatch-game-footage/"><u>[Updated] 2024 Approved  Maximize Memories  Overwatch Game Footage</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-10-farming-games-to-kill-time-and-play-with-friends/"><u>[Updated] 2024 Approved  Top 10 Farming Games to Kill Time and Play with Friends</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-your-first-sound-recording-guide-in-audacity-on-a-mac/"><u>[Updated] 2024 Approved  Your First Sound Recording Guide in Audacity on a Mac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-bandicam-uncovered-a-critical-review-for-tech-enthusiasts-for-2024/"><u>[Updated] Bandicam Uncovered  A Critical Review for Tech Enthusiasts for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-colormorph-pro-searching-for-lightroom-equals/"><u>[Updated] ColorMorph Pro  Searching for Lightroom Equals</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-commanders-canvas-painting-victory-in-the-top-7-total-wars/"><u>[Updated] In 2024, Commanders' Canvas  Painting Victory in the Top 7 Total Wars</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-innovative-tech-trends-leading-online-screen-capture-apps/"><u>[Updated] In 2024, Innovative Tech Trends  Leading Online Screen Capture Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-streamlining-and-organizing-your-itunes-video-files/"><u>[Updated] In 2024, Streamlining and Organizing Your iTunes Video Files</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instantaneously-combine-photos-into-facebook-stories/"><u>[Updated] Instantaneously Combine Photos Into Facebook Stories</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-miui-screen-recorder-review-and-alternatives-for-2024/"><u>[Updated] MIUI Screen Recorder Review and Alternatives for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-podcast-openings-unveiled-scripted-appeals/"><u>[Updated] Podcast Openings Unveiled  Scripted Appeals</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-scrutinizing-splitcam-a-leader-in-video-tech-for-2024/"><u>[Updated] Scrutinizing SplitCam - A Leader in Video Tech for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-seamless-social-media-video-extraction-2023-app-for-2024/"><u>[Updated] Seamless Social Media Video Extraction - 2023 App for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-setting-up-your-phone-as-a-home-based-webcam-for-2024/"><u>[Updated] Setting Up Your Phone as a Home-Based Webcam for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-streamlined-strategies-for-powerpoint-recordings/"><u>[Updated] Streamlined Strategies for PowerPoint Recordings</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-synchronized-soundtracks-the-years-most-recurring-tiktok-songs-for-2024/"><u>[Updated] Synchronized Soundtracks  The Year’s Most Recurring TikTok Songs for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-guide-to-scheduling-zoom-events-for-2024/"><u>[Updated] The Ultimate Guide to Scheduling Zoom Events for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-techniques-for-capturing-virtual-reality-gaming-for-2024/"><u>[Updated] Top Techniques for Capturing Virtual Reality Gaming for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-solve-facebook-videos-are-partially-muted/"><u>2024 Approved  How to Solve Facebook Videos Are Partially Muted?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-mastering-tiktoks-best-and-secret-emojis-guide/"><u>2024 Approved  Mastering TikTok's Best & Secret Emojis Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-windows-10-essential-knowledge/"><u>2024 Approved  Mastering Windows 10  Essential Knowledge</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-optimizing-your-fb-video-ads-20-best-tips-for-success/"><u>2024 Approved  Optimizing Your FB Video Ads  20 Best Tips for Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-30-psd-text-files-unrestricted-zero-price/"><u>2024 Approved  Top 30 PSD Text Files  Unrestricted, Zero Price</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unparalleled-online-success-stories-from-youtube/"><u>2024 Approved  Unparalleled Online Success Stories From YouTube</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-honor-70-lite-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/apples-global-hit-todays-app/"><u>Apple's Global Hit: Today's App</u></a></li>
+<li><a href="https://windows11.techidaily.com/corrective-measures-for-discord-search-dysfunction/"><u>Corrective Measures for Discord Search Dysfunction</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166414935-fix-computer-issues-embrace-new-nvidia-drivers-today/"><u>Fix Computer Issues: Embrace New Nvidia Drivers Today</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-12-pro-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone 12 Pro If Youve Tried Everything</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-apple-iphone-12-mini-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from Apple iPhone 12 mini Safe and Legal</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-maximizing-chromes-capabilities-for-tiktok-postings/"><u>In 2024, Maximizing Chrome's Capabilities for TikTok Postings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-zooms-capabilities-for-effective-facebook-live/"><u>In 2024, Perfecting Zoom's Capabilities for Effective Facebook LIVE</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-watch-videos-in-quicktime-with-subtitles-in-your-desired-language-here-are-different-ways-to-add-subtitles-in-quicktime-pla/"><u>New 2024 Approved Do You Want to Watch Videos in QuickTime with Subtitles in Your Desired Language? Here Are Different Ways to Add Subtitles in QuickTime Player</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-motion-mastery-essential-apps-for-tracking-your-movements/"><u>New Motion Mastery Essential Apps for Tracking Your Movements</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/nine-high-performance-audio-recorders-you-cant-overlook-for-live-events-for-2024/"><u>Nine High-Performance Audio Recorders You Cant Overlook for Live Events for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/realtimevid-recorder-overview-for-2024/"><u>RealTimeVid Recorder Overview for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/stepwise-approach-to-mastering-vimeo-recording-for-2024/"><u>Stepwise Approach to Mastering Vimeo Recording for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-windows-8-video-editing-software-edit-mp4-files-like-a-pro/"><u>Updated 2024 Approved Windows 8 Video Editing Software Edit MP4 Files Like a Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-generate-tones-with-ease-5-free-online-options-for-2024/"><u>Updated Generate Tones with Ease 5 Free Online Options for 2024</u></a></li>
+</ul></div>

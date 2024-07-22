@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Haunting Horrors  The Ultimate List of Engaging Zombie Games\""
-date: 2024-05-20T00:49:36.488Z
-updated: 2024-05-21T00:49:36.488Z
+date: 2024-07-21T12:39:55.200Z
+updated: 2024-07-22T12:39:55.200Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Haunting Horrors: The Ultimate List of Engaging Zombie Games\""
 excerpt: "\"This Article Describes [New] In 2024, Haunting Horrors: The Ultimate List of Engaging Zombie Games\""
 keywords: "Zombie Game Guide,Haunted Gaming,Undead Video Games,Spooky Zombie Games,Horror Gaming Lists,Engaging Zombie Play,Ultimate Zombie Tactics"
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## Haunting Horrors: The Ultimate List of Engaging Zombie Games
@@ -23,6 +23,9 @@ There are a lot of zombie enemies in the zombie games, and they enjoy eating bra
 
 Here are the greatest zombie videogames you can play right now, starting with number 10 and working your way up to our top one pick. Our list of zombie games contains tales with repercussions, resource management, traditional Capcom danger, and more. You'll be able to discover your new zombie-filled adventure here since it covers a wide range of genres.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1.Worldwar Z
 
 ![worldwar-z-poster](https://images.wondershare.com/filmora/article-images/worldwar-z-poster.jpg)
@@ -31,8 +34,14 @@ There isn't much to World War Z by itself, but there isn't a better game for mow
 
 It is undeniably influenced by the Left 4 Dead series (RIP). It does, however, have several modern game mainstays like selectable classes & permanent progression. You may choose to play as a Horror flick, who gets extra health by rapidly killing enemies, a Fixer, who places traps in safe areas, or even one of four additional classes. Whatever character you select to level up first, you'll get to fire a lot of lead into sliding walls of decaying flesh.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### 2.Dying Light: The Following
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dying-light-the-following-poster](https://images.wondershare.com/filmora/article-images/dying-light-the-following-poster.jpg)
 
 Running over zombies has never been more fun. The Foregoing is really a DLC for Dying Light that eliminates much of the parkour again from the original game and instead places you behind the wheel of a car across a stretch of nearly spotless countryside. Splatter zombies spewing gore and leave tire tracks in their guts as you drive across the fields, attempting daring jumps. Just make sure you don't get a monster head caught in your wipers.
@@ -59,6 +68,9 @@ In the remake of Resident Evil 2, the perfect aim isn't enough to ensure your li
 
 You play Lee Everett, a convicted murderer who takes in an orphaned young girl called Clementine as his charge. You'll make choices that will have significant repercussions for your group members when you meet more survivors. The worst part is that you develop feelings for the people in your group. As a consequence, when bad things happen, you'll feel as though you've just seen a real-life buddy being eaten rather than a video game character. People will die, unexpected events will occur, and choices will need to be made. You'll have to live with the repercussions.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 6.The HD Remaster of Resident Evil
 
 ![remaster-of-resident-evil-poster](https://images.wondershare.com/filmora/article-images/remaster-of-resident-evil-poster.png)
@@ -69,6 +81,9 @@ The Resident Evil update isn't just one of the best zombie games because of its 
 
 ### 7.The Last of Us
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the-last-of-us-poster](https://images.wondershare.com/filmora/article-images/the-last-of-us-poster.jpg)
 
 The Last of Us, which won the game of Year in 2013, is still the best zombie game ever made over six years later. It sends you on a perilous cross-country journey across a largely post-human America. The planet is filled with desperate weapon survivalists, a totalitarian government, and violent rebel groups, apart from mushroom-brained undead with fangs eager to tear your jugular out. The greatest part is that you have to do it all with a sassy young woman who alternates between making fun of you and rescuing your life.
@@ -87,6 +102,9 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://neveragain.allstatics.com/2019/assets/image/box/filmora-9.png)
 
 There isn't much to World War Z by itself, but there isn't a better game for mow down dozens, if not hundreds, of zombies with a group of friends or strangers. It's based in part on the Brad Pitt film from 2013\. Nonetheless, it's mainly an excuse to repeat the film's one distinguishing attribute: swarms of monsters that rush down streets and crash around curves like a torrent through a breached dam.
@@ -95,6 +113,9 @@ It is undeniably influenced by the Left 4 Dead series (RIP). It does, however, h
 
 ### 2.Dying Light: The Following
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dying-light-the-following-poster](https://images.wondershare.com/filmora/article-images/dying-light-the-following-poster.jpg)
 
 Running over zombies has never been more fun. The Foregoing is really a DLC for Dying Light that eliminates much of the parkour again from the original game and instead places you behind the wheel of a car across a stretch of nearly spotless countryside. Splatter zombies spewing gore and leave tire tracks in their guts as you drive across the fields, attempting daring jumps. Just make sure you don't get a monster head caught in your wipers.
@@ -115,6 +136,9 @@ Resident Evil 2's sequel treads a thin line between the sluggish horror of the o
 
 In the remake of Resident Evil 2, the perfect aim isn't enough to ensure your life. The most essential element is caution since you save ammunition by firing to stun rather than kill. You could even decide the zombies can take the passageway while you retain the ammunition. It's still not as terrifying as the other major Resident Evil remake in terms of sheer dread. However, the Resident Evil 2's remake is undoubtedly more enjoyable to play, earning it a place on our list of zombie games.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5.The Walking Dead
 
 ![the-walking-dead-poster](https://images.wondershare.com/filmora/article-images/the-walking-dead-poster.jpg)
@@ -131,12 +155,22 @@ The Resident Evil update isn't just one of the best zombie games because of its 
 
 ### 7.The Last of Us
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the-last-of-us-poster](https://images.wondershare.com/filmora/article-images/the-last-of-us-poster.jpg)
 
 The Last of Us, which won the game of Year in 2013, is still the best zombie game ever made over six years later. It sends you on a perilous cross-country journey across a largely post-human America. The planet is filled with desperate weapon survivalists, a totalitarian government, and violent rebel groups, apart from mushroom-brained undead with fangs eager to tear your jugular out. The greatest part is that you have to do it all with a sassy young woman who alternates between making fun of you and rescuing your life.
 
 The journey of Joel and Ellie would be both dark and terrifying. The decaying, gloomy surroundings set the tone for the stealth/survival action, making the tension almost unbearable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### 8.Back 4 Blood
 
 ![back4blood-poster](https://images.wondershare.com/filmora/article-images/back4blood-poster.jpg)
@@ -155,6 +189,9 @@ There isn't much to World War Z by itself, but there isn't a better game for mow
 
 It is undeniably influenced by the Left 4 Dead series (RIP). It does, however, have several modern game mainstays like selectable classes & permanent progression. You may choose to play as a Horror flick, who gets extra health by rapidly killing enemies, a Fixer, who places traps in safe areas, or even one of four additional classes. Whatever character you select to level up first, you'll get to fire a lot of lead into sliding walls of decaying flesh.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.Dying Light: The Following
 
 ![dying-light-the-following-poster](https://images.wondershare.com/filmora/article-images/dying-light-the-following-poster.jpg)
@@ -163,6 +200,9 @@ Running over zombies has never been more fun. The Foregoing is really a DLC for 
 
 ### 3.State of the Decay 2
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![state-of-the-decay-2-poster](https://images.wondershare.com/filmora/article-images/state-of-the-decay-2-poster.jpg)
 
 Unlike Project Zomboid, which concentrates primarily on the concept of being an ordinary person in an unfair position, the States of Decay series tries to keep you amused with the beautiful midwestern countryside and Gorey entertaining combat even while your supplies run out and zombies smash down your gate.
@@ -171,12 +211,18 @@ The introduction of multiplayer in States of Decay 2 is probably the most intrig
 
 ### 4.Resident Evil 2 (remake of 2019)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![resident-evil-2-poster](https://images.wondershare.com/filmora/article-images/resident-evil-2-poster.jpg)
 
 Resident Evil 2's sequel treads a thin line between the sluggish horror of the original Resident Evil game and the quicker (but still methodical) action of the post-Resident Evil 7 period. It succeeds in being both a worthy homage to the first Resident Evil 2 and the most important, playable RE games in years as a result of this. The key is the zombies, as you'd expect from a game that ranks among the zombie games. Even while the remake's mobility and shooting controls seem to be more contemporary and streamlined, each zombie can only take so many shots - even headshot - before resurrecting. Even immediately in front of your eyes, or perhaps a few minutes later, when you believe you are secure.
 
 In the remake of Resident Evil 2, the perfect aim isn't enough to ensure your life. The most essential element is caution since you save ammunition by firing to stun rather than kill. You could even decide the zombies can take the passageway while you retain the ammunition. It's still not as terrifying as the other major Resident Evil remake in terms of sheer dread. However, the Resident Evil 2's remake is undoubtedly more enjoyable to play, earning it a place on our list of zombie games.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### 5.The Walking Dead
 
 ![the-walking-dead-poster](https://images.wondershare.com/filmora/article-images/the-walking-dead-poster.jpg)
@@ -199,8 +245,15 @@ The Last of Us, which won the game of Year in 2013, is still the best zombie gam
 
 The journey of Joel and Ellie would be both dark and terrifying. The decaying, gloomy surroundings set the tone for the stealth/survival action, making the tension almost unbearable.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 8.Back 4 Blood
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![back4blood-poster](https://images.wondershare.com/filmora/article-images/back4blood-poster.jpg)
 
 Back 4 Blood is an action-packed cooperative first-person action from the highly popular Left 4 Dead series developers. You're smack dab in the middle of a battle with the Ridden. That once hosts of a terrible infection have evolved into frightening monsters intent on eating civilization's ruins. It's up to you and your allies to take the battle to the enemy, eliminate the Ridden, and recapture the planet, with humanity's extinction on the line.
@@ -217,6 +270,9 @@ There isn't much to World War Z by itself, but there isn't a better game for mow
 
 It is undeniably influenced by the Left 4 Dead series (RIP). It does, however, have several modern game mainstays like selectable classes & permanent progression. You may choose to play as a Horror flick, who gets extra health by rapidly killing enemies, a Fixer, who places traps in safe areas, or even one of four additional classes. Whatever character you select to level up first, you'll get to fire a lot of lead into sliding walls of decaying flesh.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.Dying Light: The Following
 
 ![dying-light-the-following-poster](https://images.wondershare.com/filmora/article-images/dying-light-the-following-poster.jpg)
@@ -225,26 +281,58 @@ Running over zombies has never been more fun. The Foregoing is really a DLC for 
 
 ### 3.State of the Decay 2
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![state-of-the-decay-2-poster](https://images.wondershare.com/filmora/article-images/state-of-the-decay-2-poster.jpg)
 
 Unlike Project Zomboid, which concentrates primarily on the concept of being an ordinary person in an unfair position, the States of Decay series tries to keep you amused with the beautiful midwestern countryside and Gorey entertaining combat even while your supplies run out and zombies smash down your gate.
 
 The introduction of multiplayer in States of Decay 2 is probably the most intriguing new feature. Inviting people to help protect and hunt for your village greatly expands the scope of procedurally produced tales. It also enables you to put to the test all of those zombie outbreak survival tactics you've spent way too much time talking with your pals.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ### 4.Resident Evil 2 (remake of 2019)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![resident-evil-2-poster](https://images.wondershare.com/filmora/article-images/resident-evil-2-poster.jpg)
 
 Resident Evil 2's sequel treads a thin line between the sluggish horror of the original Resident Evil game and the quicker (but still methodical) action of the post-Resident Evil 7 period. It succeeds in being both a worthy homage to the first Resident Evil 2 and the most important, playable RE games in years as a result of this. The key is the zombies, as you'd expect from a game that ranks among the zombie games. Even while the remake's mobility and shooting controls seem to be more contemporary and streamlined, each zombie can only take so many shots - even headshot - before resurrecting. Even immediately in front of your eyes, or perhaps a few minutes later, when you believe you are secure.
 
 In the remake of Resident Evil 2, the perfect aim isn't enough to ensure your life. The most essential element is caution since you save ammunition by firing to stun rather than kill. You could even decide the zombies can take the passageway while you retain the ammunition. It's still not as terrifying as the other major Resident Evil remake in terms of sheer dread. However, the Resident Evil 2's remake is undoubtedly more enjoyable to play, earning it a place on our list of zombie games.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 5.The Walking Dead
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the-walking-dead-poster](https://images.wondershare.com/filmora/article-images/the-walking-dead-poster.jpg)
 
 You play Lee Everett, a convicted murderer who takes in an orphaned young girl called Clementine as his charge. You'll make choices that will have significant repercussions for your group members when you meet more survivors. The worst part is that you develop feelings for the people in your group. As a consequence, when bad things happen, you'll feel as though you've just seen a real-life buddy being eaten rather than a video game character. People will die, unexpected events will occur, and choices will need to be made. You'll have to live with the repercussions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### 6.The HD Remaster of Resident Evil
 
 ![remaster-of-resident-evil-poster](https://images.wondershare.com/filmora/article-images/remaster-of-resident-evil-poster.png)
@@ -255,6 +343,9 @@ The Resident Evil update isn't just one of the best zombie games because of its 
 
 ### 7.The Last of Us
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![the-last-of-us-poster](https://images.wondershare.com/filmora/article-images/the-last-of-us-poster.jpg)
 
 The Last of Us, which won the game of Year in 2013, is still the best zombie game ever made over six years later. It sends you on a perilous cross-country journey across a largely post-human America. The planet is filled with desperate weapon survivalists, a totalitarian government, and violent rebel groups, apart from mushroom-brained undead with fangs eager to tear your jugular out. The greatest part is that you have to do it all with a sassy young woman who alternates between making fun of you and rescuing your life.
@@ -263,6 +354,9 @@ The journey of Joel and Ellie would be both dark and terrifying. The decaying, g
 
 ### 8.Back 4 Blood
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![back4blood-poster](https://images.wondershare.com/filmora/article-images/back4blood-poster.jpg)
 
 Back 4 Blood is an action-packed cooperative first-person action from the highly popular Left 4 Dead series developers. You're smack dab in the middle of a battle with the Ridden. That once hosts of a terrible infection have evolved into frightening monsters intent on eating civilization's ruins. It's up to you and your allies to take the battle to the enemy, eliminate the Ridden, and recapture the planet, with humanity's extinction on the line.
@@ -300,3 +394,58 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-capture-and-record-a-new-era-of-iphoneipad-recording/"><u>[New] 2024 Approved  Capture & Record  A New Era of iPhone/iPad Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-cutting-edge-tools-the-best-9-gif-recorders-for-animated-windows-content/"><u>[New] 2024 Approved  Cutting-Edge Tools  The Best 9 GIF Recorders for Animated Windows Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-effective-replacements-beyond-obs-for-video-capture/"><u>[New] 2024 Approved  Effective Replacements Beyond OBS for Video Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-leading-the-charge-in-sustainable-filmmaking/"><u>[New] 2024 Approved  Leading the Charge in Sustainable Filmmaking</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-obs-video-magic-top-5-editing-secrets-revealed/"><u>[New] 2024 Approved  OBS Video Magic  Top 5 Editing Secrets Revealed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-adjusting-visuals-in-teams-conversations-at-any-time-for-2024/"><u>[New] Adjusting Visuals in Teams Conversations at Any Time for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-best-console-to-pc-conversion-top-5-ps1-emulators-for-2024/"><u>[New] Best Console-to-PC Conversion  Top 5 PS1 Emulators for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-cutting-edge-screen-shifting-for-editors-for-2024/"><u>[New] Cutting-Edge Screen Shifting for Editors for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-10-best-zero-cost-videochats-collaboration-at-your-desk/"><u>[New] In 2024, 10 Best Zero-Cost Videochats  Collaboration at Your Desk</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-choosing-your-stage-obs-or-twitch-pro/"><u>[New] In 2024, Choosing Your Stage  OBS or Twitch Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-direct-methods-to-record-virtual-meetings/"><u>[New] In 2024, Direct Methods to Record Virtual Meetings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-exclusive-nintendo-switch-fighter-lineups-max-156/"><u>[New] In 2024, Exclusive Nintendo Switch Fighter Lineups (Max 156)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-gamers-secrets-to-effective-playback-logging/"><u>[New] In 2024, Gamers' Secrets to Effective Playback Logging</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-intensive-investigation-the-gecata-game-logger/"><u>[New] In 2024, Intensive Investigation  The Gecata Game Logger</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quick-scan-maker-chrome-os/"><u>[New] In 2024, Quick Scan Maker (Chrome OS)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-real-time-recording-battle-obs-studio-against-fraps/"><u>[New] In 2024, Real-Time Recording Battle  OBS Studio Against Fraps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-recording-webinars/"><u>[New] In 2024, Recording Webinars</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-innovative-recording-solutions-for-dynamic-ppts-webcam-edition/"><u>[New] Innovative Recording Solutions for Dynamic PPTs, Webcam Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-navigate-nature-androids-animated-adventure-series/"><u>[New] Navigate Nature  Android’s Animated Adventure Series</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-premium-video-collaboration-software-guides/"><u>[New] Premium Video Collaboration Software Guides</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-strategies-for-effective-storage-of-chats-and-calls-on-facebook/"><u>[New] Strategies for Effective Storage of Chats and Calls on Facebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-stream-like-a-pro-3-key-strategies-for-lol-gamers/"><u>[New] Stream Like a Pro  3 Key Strategies for LOL Gamers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-superior-online-multimedia-collaboration-tools/"><u>[New] Superior Online Multimedia Collaboration Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-10-filmora-editing-traits-for-fan-loyalty/"><u>[New] Top 10 Filmora Editing Traits for Fan Loyalty</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-conversations-google-meet-essentials/"><u>[Updated] 2024 Approved  Mastering Conversations  Google Meet Essentials</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-maximize-memories-overwatch-game-footage/"><u>[Updated] 2024 Approved  Maximize Memories  Overwatch Game Footage</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-quicktweetgrabber-swiftly-secure-tweets-videos-on-iphone/"><u>[Updated] 2024 Approved  QuickTweetGrabber  Swiftly Secure Tweets' Videos on iPhone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-bandicam-uncovered-a-critical-review-for-tech-enthusiasts-for-2024/"><u>[Updated] Bandicam Uncovered  A Critical Review for Tech Enthusiasts for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-free-high-quality-desktop-video-encoding-software/"><u>[Updated] Free, High-Quality Desktop Video Encoding Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-commanders-canvas-painting-victory-in-the-top-7-total-wars/"><u>[Updated] In 2024, Commanders' Canvas  Painting Victory in the Top 7 Total Wars</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-innovative-tech-trends-leading-online-screen-capture-apps/"><u>[Updated] In 2024, Innovative Tech Trends  Leading Online Screen Capture Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-miui-screen-recorder-review-and-alternatives-for-2024/"><u>[Updated] MIUI Screen Recorder Review and Alternatives for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-photoquarter-analysis/"><u>[Updated] PhotoQuarter Analysis</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-sizzling-stories-whos-cooking-up-the-trends-in-2024/"><u>[Updated] Sizzling Stories  Who's Cooking Up the Trends, In 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-streamlined-strategies-for-powerpoint-recordings/"><u>[Updated] Streamlined Strategies for PowerPoint Recordings</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-the-ultimate-list-of-video-joiner-alternatives/"><u>2024 Approved The Ultimate List of Video Joiner Alternatives</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/harness-the-power-of-video-editing-cropping-to-perfect-instagram-posts-for-2024/"><u>Harness the Power of Video Editing  Cropping to Perfect Instagram Posts for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-camon-20-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Camon 20 Pro 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-nubia-flip-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock ZTE Nubia Flip 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ice-cream-capture-technology-reviewed-deeply-for-2024/"><u>Ice Cream Capture Technology Reviewed Deeply for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-3gp-video-rotator-review-top-rated-options/"><u>In 2024, Free 3GP Video Rotator Review Top-Rated Options</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-f14-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy F14 5G Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-innovative-mac-screen-recorders-top-picks-and-features-explored/"><u>In 2024, Innovative Mac Screen Recorders  Top Picks & Features Explored</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-simplifying-the-art-of-creating-your-tiktok-doppelganger/"><u>In 2024, Simplifying the Art of Creating Your TikTok Doppelgänger</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-vivo-v30-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo V30 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/monetizing-video-content-8-essentials-for-novices-for-2024/"><u>Monetizing Video Content - 8 Essentials for Novices for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/newfrontiersincameratech-for-2024/"><u>NewFrontiersInCameraTech for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/realtimevid-recorder-overview-for-2024/"><u>RealTimeVid Recorder Overview for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/stepwise-approach-to-mastering-vimeo-recording-for-2024/"><u>Stepwise Approach to Mastering Vimeo Recording for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-smart-way-to-store-video-meetings-on-devices/"><u>The Smart Way to Store Video Meetings on Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-discover-the-best-free-and-paid-subtitle-edit-alternatives-for-mac-for-2024/"><u>Updated Discover the Best Free and Paid Subtitle Edit Alternatives for Mac for 2024</u></a></li>
+</ul></div>

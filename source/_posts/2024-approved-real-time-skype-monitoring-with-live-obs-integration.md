@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Real-Time Skype Monitoring with Live OBS Integration\""
-date: 2024-05-20T00:49:30.033Z
-updated: 2024-05-21T00:49:30.033Z
+date: 2024-07-21T12:30:44.195Z
+updated: 2024-07-22T12:30:44.195Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Real-Time Skype Monitoring with Live OBS Integration\""
 excerpt: "\"This Article Describes 2024 Approved: Real-Time Skype Monitoring with Live OBS Integration\""
 keywords: "\"Skype Monitoring Real-Time,OBS Skype Integration,Live Skype Tracking,OBS Stream Capture,Skype Video Surveillance,OBS Live Connect,Immediate Skype Viewing\""
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## Real-Time Skype Monitoring with Live OBS Integration
@@ -31,16 +31,26 @@ Now to setup the environment for screen recording we have to follow the followin
 
 Initially, you’ll be required to have skype installed on your desktop along with the up-to-date version of OBS software. After installing skype you first have to make a secondary/backup account on skype. After that you require a secondary camera as well to record yourself because your webcam can be in demand elsewhere, so you would not be able to record yourself or even the guests wouldn’t be able to see you. And then turn on the given command in skype i-e: skype>settings>calling>advanced>’allow NDI usage’ as shown in the picture. This command allows OBS to access skype videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![skype calling settings advanced calling](https://images.wondershare.com/filmora/article-images/skype-calling-settings-advanced-calling.jpg)
 
 After this you have to open the OBS program and set it up for skype calls, firs thing is to create a new scene, then you're going to hit the plus button and select the capture device. Now you can see yourself on camera and screen can easily be cropped, while holding ‘Alt’, on OBS so fix it according to your liking. Then press ‘lock’ using the NDI plug-in.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![obs program set up for skype](https://images.wondershare.com/filmora/article-images/obs-program-set-up-for-skype.jpg)
 
 ![obs vlc videos source](https://images.wondershare.com/filmora/article-images/obs-vlc-videos-source.jpg)
 
 To setup NDI plugin you have to visit <https://github.com/Palakis/obs-ndi/releases/tag/4.9.1> and check for the compatible version with your operating system. On this website the plugin is available for windows, mac and Linux.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![obc ndi plugin visit](https://images.wondershare.com/filmora/article-images/obc-ndi-plugin-visit.jpg)
 
 And after addition of plug in you would want to click on ‘+’ again and select NDI plugin and you can select the source video which is going to be the received video.
@@ -49,6 +59,9 @@ And after addition of plug in you would want to click on ‘+’ again and selec
 
 And clicking on it will open a new window where you have to select the guest feed, which will be possible once the call has begun. The call connected will appear on the NDI plugin window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![obs new window select the guest feed](https://images.wondershare.com/filmora/article-images/obs-new-window-select-the-guest-feed.jpg)
 
 As you receive the call from the reciever you will see the incoming feed of him as shown in the figure.
@@ -57,10 +70,19 @@ As you receive the call from the reciever you will see the incoming feed of him 
 
 So you can just resize it similarly as you did yours earlier and pressing the lock icon will stop you from mistakenly modify or change the video screen settings. Now to record the video you have to click on record button and your desktop starts recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![obs resize it similarly](https://images.wondershare.com/filmora/article-images/obs-resize-it-similarly.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Part 2: OBS Alternative to Record Skype
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Filmora
 
 Filmora is a very popular and perfect [video recorder](https://tools.techidaily.com/wondershare/filmora/download/) and editor designed by Wondershare. Wondershare is software house created in 2003\. This software was designed by professional video makers. It has an easy to use and a friendly environment, and easy to understand commands. This software is available for free and compatible with windows and MAC both. This tool can help you connect in a better way with your audience since it allows a wide range of functions, varying from editing and cutting to screen detection, auto-crop and fisheye correction.
@@ -82,6 +104,10 @@ For macOS 10.12 or later
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
@@ -90,6 +116,9 @@ For macOS 10.12 or later
 
 * After the configuration, you can click on the big red button to start the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs Regarding Skype Recording
 
 **How do I add Skype video on OBS?**
@@ -184,6 +213,9 @@ For macOS 10.12 or later
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
@@ -235,6 +267,18 @@ For macOS 10.12 or later
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
@@ -299,3 +343,46 @@ So form the above discussion it can be concluded that OBS for screen recording c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-agriculture-adventures-with-comrades-top-10-farmers-craft-for-2024/"><u>[New] Agriculture Adventures with Comrades  Top 10 Farmer's Craft for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-best-in-class-tunefab-screen-recording-for-2024/"><u>[New] Best in Class  Tunefab Screen Recording for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-cost-efficient-sky-companions-drone-guide-(500/"><u>[New] Cost-Efficient Sky Companions  Drone Guide <$500</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-invisible-to-irresistible-10-must-know-solutions-for-video-views/"><u>[New] From Invisible to Irresistible  10 Must-Know Solutions for Video Views</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-recording-the-virtual-realm/"><u>[New] Recording the Virtual Realm</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-a-detailed-guide-to-streamlabs-obs/"><u>[Updated] 2024 Approved  A Detailed Guide to Streamlabs OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-cutting-edge-screen-recorders-our-10-best-selections/"><u>[Updated] Cutting-Edge Screen Recorders  Our 10 Best Selections</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-discovering-top-5-methods-for-turning-tiktok-videos-into-gifs-for-2024/"><u>[Updated] Discovering Top 5 Methods for Turning TikTok Videos Into GIFs for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gratitude-freepaid-outro-template-selections/"><u>[Updated] Gratitude  Free/Paid Outro Template Selections</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-most-innovative-voice-altering-mobile-apps/"><u>[Updated] Most Innovative Voice-Altering Mobile Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-navigating-the-nuances-of-ppt-voiceover-performance/"><u>[Updated] Navigating the Nuances of PPT Voiceover Performance</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-optimal-speech-recognition-the-google-methodology/"><u>[Updated] Optimal Speech Recognition  The Google Methodology</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pro-grade-mac-video-plus-audiophile-recorder/"><u>[Updated] Pro-Grade Mac Video + Audiophile Recorder</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-screen-capturer-comparison-guide/"><u>[Updated] The Ultimate Screen Capturer Comparison Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-honor-magic-vs-2-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Honor Magic Vs 2 Activity | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-standard-to-spectacular-your-guide-to-choosing-a-high-res-screen/"><u>2024 Approved  From Standard to Spectacular  Your Guide to Choosing a High-Res Screen</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-peak-procurement-of-lecture-captures/"><u>2024 Approved  Peak Procurement of Lecture Captures</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-quick-and-easy-mac-screen-captures-utilizing-keyboard-shortcuts/"><u>2024 Approved  Quick and Easy Mac Screen Captures  Utilizing Keyboard Shortcuts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/creating-a-seamless-visual-experience-in-meetings-for-2024/"><u>Creating a Seamless Visual Experience in Meetings for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/deciphering-the-status-of-splitcam-as-a-recorder-for-2024/"><u>Deciphering the Status of SplitCam as a Recorder for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-pdf-v15-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Free electronic signature for PDF v1.5 document</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-2020-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone SE (2020) Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-copyright-rules-for-screenshotting-and-archiving-youtube-videos/"><u>In 2024, Copyright Rules for Screenshotting and Archiving YouTube Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-datasafe-experts-assessment/"><u>In 2024, DataSafe Experts Assessment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715860395616-in-2024-engaging-recorders-within-huawei-mate-and-p-series-for-video-capture/"><u>In 2024, Engaging Recorders Within Huawei Mate and P-Series for Video Capture.</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-implementing-the-virtual-screen-grid-in-google-meet/"><u>In 2024, Implementing the Virtual Screen Grid in Google Meet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-inclusivity-in-tech-the-expert-take-on-easeus/"><u>In 2024, Inclusivity in Tech  The Expert Take on EaseUS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-photoflex-max-best-windowsmac-picture-editors/"><u>In 2024, PhotoFlex Max  Best Windows/Mac Picture Editors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-saving-pc-views-with-a-single-click-win/"><u>In 2024, Saving PC Views with a Single Click (Win)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-10-online-screen-video-recorders/"><u>In 2024, Top 10 Online Screen Video Recorders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-voice-log-retrieval-content-scrutiny/"><u>In 2024, Voice Log Retrieval, Content Scrutiny</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-find-free-online-slideshow-maker-with-no-watermark/"><u>New In 2024, How to Find Free Online Slideshow Maker with No Watermark</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-essential-guide-to-free-user-friendly-digital-audio-workstations-for-aspiring-musicians-for-2024/"><u>New The Essential Guide to Free, User-Friendly Digital Audio Workstations for Aspiring Musicians for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/simplify-lenovo-screen-casting-today-for-2024/"><u>Simplify Lenovo Screen Casting Today for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-newcomers-notebook-navigating-through-pixel-perfect-videos-for-2024/"><u>The Newcomer’s Notebook  Navigating Through Pixel-Perfect Videos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-5-ios-platforms-for-experiencing-classic-psp-games-for-2024/"><u>Top 5 iOS Platforms for Experiencing Classic PSP Games for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-iphone-15-pro-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your iPhone 15 Pro in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unlocking-youtube-simplified-methods-for-cc-and-subtitle-integration/"><u>Unlocking YouTube  Simplified Methods for CC and Subtitle Integration</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nokia 150 (2023) | Dr.fone</u></a></li>
+</ul></div>

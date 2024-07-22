@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Essential Steps for YouTube Video Preservation"
-date: 2024-06-18T15:37:02.392Z
-updated: 2024-06-19T15:37:02.392Z
+date: 2024-07-21T15:00:48.645Z
+updated: 2024-07-22T15:00:48.645Z
 tags: 
   - screen-recording
   - ai video
@@ -47,10 +47,228 @@ First of all, download and install Wondershare Filmora for Windows.
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**Method 1:** Select "Record Screen Recorder" on the Startup Window.
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![filmora screen recorder](https://images.wondershare.com/filmora/guide/guide-win/optimized-screen-recording-1.jpg)
+
+**Method 2:** Enter the player panel, click "File" > "Record Media", and choose the record option you prefer from "Record from Webcam", "Record PC Screen", or "Record Voiceover".
+
+![filmora screen recorder](https://images.wondershare.com/filmora/guide/guide-win/optimized-screen-recording-2.jpg)
+
+**Method 3:** On the Search Media bar below the menu bar, click "Record", and three record options will be expanded: Record from Webcam, Record PC Screen, and Record Voiceover.
+
+![wondershare screen recorder](https://images.wondershare.com/filmora/guide/guide-win/optimized-screen-recording-3.jpg)
+
+You will get a few seconds to start YouTube video before Filmora starts recording the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Part 2 How to Record YouTube Videos on Mac
+
+Here, we would like to recommend a tool for making screen recordings for YouTube videos. [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) can easily capture and record the operation on a Mac. Below are the 3 steps to start record YouTube videos. Now download and install Filmora on Mac first, then keep reading.
+
+[Try YouTube Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+[Try YouTube Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Here are 3 entrances you can find on Filmora to launch the Screen Recorder function:
+
+**1:** From the Start Interface
+
+While you launch Filmora, you will see "**Screen Recorder**" tab directly. Just click on it.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
+![launch filmora screen recorder from main menu](https://images.wondershare.com/filmora/guide/guide-mac/screen-recording-in-mac-1.jpg)
+
+**2:** From the Top Toolbar
+
+Enter Filmora and navigate towards the "**Files**" > "**Record Media**". You will see 3 options for recording.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![launch filmora screen recorder from the top toolbar](https://images.wondershare.com/filmora/guide/guide-mac/screen-recording-in-mac-2.jpg)
+
+**3:** From the Search Bar Menu
+
+Enter Filmora then find the search bar, the "**Record**" option just next to it. Select a suitable recording option. Then you can start the recording.
+
+![launch filmora screen recorder from the search bar](https://images.wondershare.com/filmora/guide/guide-mac/screen-recording-in-mac-3.jpg)
+
+**Guide:** After selecting the screen recorder option, customize the recording settings you like, then click the "**Red**" button to start screen recording on Mac.
+
+![screen recorder bar of filmora mac](https://images.wondershare.com/filmora/article-images/screen-recorder-bar-of-filmora-mac.jpg)
+
+[Make Screen Record and Snapshot on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+[Make Screen Record and Snapshot on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+## Part 3 How to Record YouTube Videos on iPhone
+
+Recording YouTube videos on iPhone is the easiest because there is no need for a screen recorder for YouTube videos. This is because iOS 11 or later comes with an inbuilt screen recorder option with which you can record YouTube live stream and any video on YouTube. First, you have to enable screen recording feature on your iPhone. Here are the steps you need to follow.
+
+![iphone screen recording](https://images.wondershare.com/filmora/article-images/iphone-screen-recording.jpg)
+
+Step 1: Open Settings app and tap on Control Centre.
+
+Step 2: Go to Customize Controls and from the list, find Screen Recording option and enable it.
+
+Step 3: Open YouTube app and open the video that you want to record.
+
+Step 4: Bring up the Control Centre by swiping down or up as per your iPhone model.
+
+Step 5: Tap on Screen recording icon to start recording. This will start recording and you will see a red bar on the screen. When you are done, you can stop recording from this red bar or blob as you see on your screen.
+
+## Part 4 How to Record YouTube Videos on Android
+
+Unlike iPhone, Android does not come with an inbuilt YouTube screen recorder. That is why you will need to install an external screen recording app to capture YouTube videos. We recommend AZ Screen Recorder to capture YouTube videos instantly. Here are all the steps you need to take.
+
+![az screen recorder](https://images.wondershare.com/filmora/article-images/az-screen-recorder.jpg)
+
+Step 1: Go to Play Store and install AZ Screen Recorder.
+
+Step 2: Launch AZ Screen Recorder and you will see an overlay bar on the screen.
+
+Step 3: Open YouTube app and open the video that you want to record.
+
+Step 4: On AZ Screen Recorder, tap on Record icon. You will get 3 seconds of buffer time to start playing your YouTube video before recording starts.
+
+Step 5: When you are done recording, tap on Stop icon on AZ Screen Recorder. The recorded video file will be saved directly on Gallery.
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 5 How to Record YouTube Videos Online
+
+If you do not want to install any app on your phone or you do not want to install any software on your computer, you can opt for an online video capturing tool. This is useful for those who are not tech-savvy and want to capture YouTube video on the go. We recommend Screen Capture which is a YouTube recorder and screen capturing online tool.
+
+Along with video, it can record audio from speakers as well as microphone. The only drawback is that it puts a watermark on the recorded video. To remove the watermark, you have to purchase a premium plan. Here are the simple steps to record any YouTube video with Screen Capture.
+
+Step 1: Open the web browser on your device.
+
+Step 2: Visit [www.screencapture.com](http://www.screencapture.com) and turn on Sound option.
+
+![screen capture](https://images.wondershare.com/filmora/article-images/screen-capture-recorder-free.jpg)
+
+Step 3: Open a new tab and open YouTube video that you want to capture.
+
+Step 4: Come back to Screen Capture and click on Start Recording option.
+
+Step 5: Select Chrome Tab option and select the tab where you have YouTube video. Click on Share button.
+
+Step 6: When you are done recording, click on Stop Recording. Review the recorded video and click on Download button to save the video on your hard drive.
+
+## Conclusion
+
+Depending on the device you are using, you have to follow the specific method on how to record YouTube videos. For iPhone users, screen recording feature comes inbuilt, and you just need to activate it to capture YouTube video. Android users can use AZ Screen Recorder app. If you are looking for an online tool, Screen Capture is great provided you opt for its premium plan to remove watermark. For Windows PC and Mac, you can use Wondershare Filmora to capture YouTube video and edit it out as required.
+
+Part 2. [How to Record YouTube Videos on Mac](#part2)
+
+Part 3. [How to Record YouTube Videos on iPhone](#part3)
+
+Part 4. [How to Record YouTube Videos on Android](#part4)
+
+Part 5. [How to Record YouTube Videos Online](#part5)
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+## Part 1 How to Record YouTube Videos on PC
+
+Are you looking for an easy and reliable way to record Youtube videos on your PC? Look no further than Filmora. This is a powerful and capable [video recording software](https://tools.techidaily.com/wondershare/filmora/download/), particularly created with advanced yet novice users in mind. Here’s a guide on how to use Filmora to record Youtube videos on your PC (Windows&Mac).
+
+First of all, download and install Wondershare Filmora for Windows.
+
+[Try YouTube Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+[Try YouTube Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
+[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -65,22 +283,35 @@ First of all, download and install Wondershare Filmora for Windows.
 
 **Method 3:** On the Search Media bar below the menu bar, click "Record", and three record options will be expanded: Record from Webcam, Record PC Screen, and Record Voiceover.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare screen recorder](https://images.wondershare.com/filmora/guide/guide-win/optimized-screen-recording-3.jpg)
 
 You will get a few seconds to start YouTube video before Filmora starts recording the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2 How to Record YouTube Videos on Mac
 
 Here, we would like to recommend a tool for making screen recordings for YouTube videos. [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) can easily capture and record the operation on a Mac. Below are the 3 steps to start record YouTube videos. Now download and install Filmora on Mac first, then keep reading.
 
 [Try YouTube Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Try YouTube Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -161,6 +392,9 @@ Step 4: On AZ Screen Recorder, tap on Record icon. You will get 3 seconds of buf
 
 Step 5: When you are done recording, tap on Stop icon on AZ Screen Recorder. The recorded video file will be saved directly on Gallery.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5 How to Record YouTube Videos Online
 
 If you do not want to install any app on your phone or you do not want to install any software on your computer, you can opt for an online video capturing tool. This is useful for those who are not tech-savvy and want to capture YouTube video on the go. We recommend Screen Capture which is a YouTube recorder and screen capturing online tool.
@@ -171,6 +405,9 @@ Step 1: Open the web browser on your device.
 
 Step 2: Visit [www.screencapture.com](http://www.screencapture.com) and turn on Sound option.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen capture](https://images.wondershare.com/filmora/article-images/screen-capture-recorder-free.jpg)
 
 Step 3: Open a new tab and open YouTube video that you want to capture.
@@ -181,6 +418,10 @@ Step 5: Select Chrome Tab option and select the tab where you have YouTube video
 
 Step 6: When you are done recording, click on Stop Recording. Review the recorded video and click on Download button to save the video on your hard drive.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Depending on the device you are using, you have to follow the specific method on how to record YouTube videos. For iPhone users, screen recording feature comes inbuilt, and you just need to activate it to capture YouTube video. Android users can use AZ Screen Recorder app. If you are looking for an online tool, Screen Capture is great provided you opt for its premium plan to remove watermark. For Windows PC and Mac, you can use Wondershare Filmora to capture YouTube video and edit it out as required.
@@ -193,6 +434,9 @@ Part 4. [How to Record YouTube Videos on Android](#part4)
 
 Part 5. [How to Record YouTube Videos Online](#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1 How to Record YouTube Videos on PC
 
 Are you looking for an easy and reliable way to record Youtube videos on your PC? Look no further than Filmora. This is a powerful and capable [video recording software](https://tools.techidaily.com/wondershare/filmora/download/), particularly created with advanced yet novice users in mind. Here’s a guide on how to use Filmora to record Youtube videos on your PC (Windows&Mac).
@@ -201,6 +445,9 @@ First of all, download and install Wondershare Filmora for Windows.
 
 [Try YouTube Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Try YouTube Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -211,12 +458,18 @@ First of all, download and install Wondershare Filmora for Windows.
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Method 1:** Select "Record Screen Recorder" on the Startup Window.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/guide/guide-win/optimized-screen-recording-1.jpg)
 
 **Method 2:** Enter the player panel, click "File" > "Record Media", and choose the record option you prefer from "Record from Webcam", "Record PC Screen", or "Record Voiceover".
@@ -225,6 +478,9 @@ First of all, download and install Wondershare Filmora for Windows.
 
 **Method 3:** On the Search Media bar below the menu bar, click "Record", and three record options will be expanded: Record from Webcam, Record PC Screen, and Record Voiceover.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare screen recorder](https://images.wondershare.com/filmora/guide/guide-win/optimized-screen-recording-3.jpg)
 
 You will get a few seconds to start YouTube video before Filmora starts recording the screen.
@@ -241,6 +497,11 @@ Here, we would like to recommend a tool for making screen recordings for YouTube
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -255,6 +516,9 @@ Here are 3 entrances you can find on Filmora to launch the Screen Recorder funct
 
 While you launch Filmora, you will see "**Screen Recorder**" tab directly. Just click on it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![launch filmora screen recorder from main menu](https://images.wondershare.com/filmora/guide/guide-mac/screen-recording-in-mac-1.jpg)
 
 **2:** From the Top Toolbar
@@ -275,6 +539,9 @@ Enter Filmora then find the search bar, the "**Record**" option just next to it.
 
 [Make Screen Record and Snapshot on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Make Screen Record and Snapshot on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -285,6 +552,9 @@ Enter Filmora then find the search bar, the "**Record**" option just next to it.
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -331,6 +601,9 @@ Step 1: Open the web browser on your device.
 
 Step 2: Visit [www.screencapture.com](http://www.screencapture.com) and turn on Sound option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![screen capture](https://images.wondershare.com/filmora/article-images/screen-capture-recorder-free.jpg)
 
 Step 3: Open a new tab and open YouTube video that you want to capture.
@@ -341,6 +614,9 @@ Step 5: Select Chrome Tab option and select the tab where you have YouTube video
 
 Step 6: When you are done recording, click on Stop Recording. Review the recorded video and click on Download button to save the video on your hard drive.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Depending on the device you are using, you have to follow the specific method on how to record YouTube videos. For iPhone users, screen recording feature comes inbuilt, and you just need to activate it to capture YouTube video. Android users can use AZ Screen Recorder app. If you are looking for an online tool, Screen Capture is great provided you opt for its premium plan to remove watermark. For Windows PC and Mac, you can use Wondershare Filmora to capture YouTube video and edit it out as required.
@@ -353,6 +629,9 @@ Part 4. [How to Record YouTube Videos on Android](#part4)
 
 Part 5. [How to Record YouTube Videos Online](#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Part 1 How to Record YouTube Videos on PC
 
 Are you looking for an easy and reliable way to record Youtube videos on your PC? Look no further than Filmora. This is a powerful and capable [video recording software](https://tools.techidaily.com/wondershare/filmora/download/), particularly created with advanced yet novice users in mind. Here’s a guide on how to use Filmora to record Youtube videos on your PC (Windows&Mac).
@@ -361,22 +640,34 @@ First of all, download and install Wondershare Filmora for Windows.
 
 [Try YouTube Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Try YouTube Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Method 1:** Select "Record Screen Recorder" on the Startup Window.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/guide/guide-win/optimized-screen-recording-1.jpg)
 
 **Method 2:** Enter the player panel, click "File" > "Record Media", and choose the record option you prefer from "Record from Webcam", "Record PC Screen", or "Record Voiceover".
@@ -405,6 +696,9 @@ Here, we would like to recommend a tool for making screen recordings for YouTube
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -421,12 +715,18 @@ While you launch Filmora, you will see "**Screen Recorder**" tab directly. Just 
 
 Enter Filmora and navigate towards the "**Files**" > "**Record Media**". You will see 3 options for recording.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![launch filmora screen recorder from the top toolbar](https://images.wondershare.com/filmora/guide/guide-mac/screen-recording-in-mac-2.jpg)
 
 **3:** From the Search Bar Menu
 
 Enter Filmora then find the search bar, the "**Record**" option just next to it. Select a suitable recording option. Then you can start the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![launch filmora screen recorder from the search bar](https://images.wondershare.com/filmora/guide/guide-mac/screen-recording-in-mac-3.jpg)
 
 **Guide:** After selecting the screen recorder option, customize the recording settings you like, then click the "**Red**" button to start screen recording on Mac.
@@ -435,6 +735,9 @@ Enter Filmora then find the search bar, the "**Record**" option just next to it.
 
 [Make Screen Record and Snapshot on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Make Screen Record and Snapshot on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -449,6 +752,9 @@ Enter Filmora then find the search bar, the "**Record**" option just next to it.
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3 How to Record YouTube Videos on iPhone
 
 Recording YouTube videos on iPhone is the easiest because there is no need for a screen recorder for YouTube videos. This is because iOS 11 or later comes with an inbuilt screen recorder option with which you can record YouTube live stream and any video on YouTube. First, you have to enable screen recording feature on your iPhone. Here are the steps you need to follow.
@@ -469,166 +775,9 @@ Step 5: Tap on Screen recording icon to start recording. This will start recordi
 
 Unlike iPhone, Android does not come with an inbuilt YouTube screen recorder. That is why you will need to install an external screen recording app to capture YouTube videos. We recommend AZ Screen Recorder to capture YouTube videos instantly. Here are all the steps you need to take.
 
-![az screen recorder](https://images.wondershare.com/filmora/article-images/az-screen-recorder.jpg)
-
-Step 1: Go to Play Store and install AZ Screen Recorder.
-
-Step 2: Launch AZ Screen Recorder and you will see an overlay bar on the screen.
-
-Step 3: Open YouTube app and open the video that you want to record.
-
-Step 4: On AZ Screen Recorder, tap on Record icon. You will get 3 seconds of buffer time to start playing your YouTube video before recording starts.
-
-Step 5: When you are done recording, tap on Stop icon on AZ Screen Recorder. The recorded video file will be saved directly on Gallery.
-
-## Part 5 How to Record YouTube Videos Online
-
-If you do not want to install any app on your phone or you do not want to install any software on your computer, you can opt for an online video capturing tool. This is useful for those who are not tech-savvy and want to capture YouTube video on the go. We recommend Screen Capture which is a YouTube recorder and screen capturing online tool.
-
-Along with video, it can record audio from speakers as well as microphone. The only drawback is that it puts a watermark on the recorded video. To remove the watermark, you have to purchase a premium plan. Here are the simple steps to record any YouTube video with Screen Capture.
-
-Step 1: Open the web browser on your device.
-
-Step 2: Visit [www.screencapture.com](http://www.screencapture.com) and turn on Sound option.
-
-![screen capture](https://images.wondershare.com/filmora/article-images/screen-capture-recorder-free.jpg)
-
-Step 3: Open a new tab and open YouTube video that you want to capture.
-
-Step 4: Come back to Screen Capture and click on Start Recording option.
-
-Step 5: Select Chrome Tab option and select the tab where you have YouTube video. Click on Share button.
-
-Step 6: When you are done recording, click on Stop Recording. Review the recorded video and click on Download button to save the video on your hard drive.
-
-## Conclusion
-
-Depending on the device you are using, you have to follow the specific method on how to record YouTube videos. For iPhone users, screen recording feature comes inbuilt, and you just need to activate it to capture YouTube video. Android users can use AZ Screen Recorder app. If you are looking for an online tool, Screen Capture is great provided you opt for its premium plan to remove watermark. For Windows PC and Mac, you can use Wondershare Filmora to capture YouTube video and edit it out as required.
-
-Part 2. [How to Record YouTube Videos on Mac](#part2)
-
-Part 3. [How to Record YouTube Videos on iPhone](#part3)
-
-Part 4. [How to Record YouTube Videos on Android](#part4)
-
-Part 5. [How to Record YouTube Videos Online](#part5)
-
-## Part 1 How to Record YouTube Videos on PC
-
-Are you looking for an easy and reliable way to record Youtube videos on your PC? Look no further than Filmora. This is a powerful and capable [video recording software](https://tools.techidaily.com/wondershare/filmora/download/), particularly created with advanced yet novice users in mind. Here’s a guide on how to use Filmora to record Youtube videos on your PC (Windows&Mac).
-
-First of all, download and install Wondershare Filmora for Windows.
-
-[Try YouTube Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
-
-[Try YouTube Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
-
-[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**Method 1:** Select "Record Screen Recorder" on the Startup Window.
-
-![filmora screen recorder](https://images.wondershare.com/filmora/guide/guide-win/optimized-screen-recording-1.jpg)
-
-**Method 2:** Enter the player panel, click "File" > "Record Media", and choose the record option you prefer from "Record from Webcam", "Record PC Screen", or "Record Voiceover".
-
-![filmora screen recorder](https://images.wondershare.com/filmora/guide/guide-win/optimized-screen-recording-2.jpg)
-
-**Method 3:** On the Search Media bar below the menu bar, click "Record", and three record options will be expanded: Record from Webcam, Record PC Screen, and Record Voiceover.
-
-![wondershare screen recorder](https://images.wondershare.com/filmora/guide/guide-win/optimized-screen-recording-3.jpg)
-
-You will get a few seconds to start YouTube video before Filmora starts recording the screen.
-
-## Part 2 How to Record YouTube Videos on Mac
-
-Here, we would like to recommend a tool for making screen recordings for YouTube videos. [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) can easily capture and record the operation on a Mac. Below are the 3 steps to start record YouTube videos. Now download and install Filmora on Mac first, then keep reading.
-
-[Try YouTube Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
-
-[Try YouTube Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
-
-[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Here are 3 entrances you can find on Filmora to launch the Screen Recorder function:
-
-**1:** From the Start Interface
-
-While you launch Filmora, you will see "**Screen Recorder**" tab directly. Just click on it.
-
-![launch filmora screen recorder from main menu](https://images.wondershare.com/filmora/guide/guide-mac/screen-recording-in-mac-1.jpg)
-
-**2:** From the Top Toolbar
-
-Enter Filmora and navigate towards the "**Files**" > "**Record Media**". You will see 3 options for recording.
-
-![launch filmora screen recorder from the top toolbar](https://images.wondershare.com/filmora/guide/guide-mac/screen-recording-in-mac-2.jpg)
-
-**3:** From the Search Bar Menu
-
-Enter Filmora then find the search bar, the "**Record**" option just next to it. Select a suitable recording option. Then you can start the recording.
-
-![launch filmora screen recorder from the search bar](https://images.wondershare.com/filmora/guide/guide-mac/screen-recording-in-mac-3.jpg)
-
-**Guide:** After selecting the screen recorder option, customize the recording settings you like, then click the "**Red**" button to start screen recording on Mac.
-
-![screen recorder bar of filmora mac](https://images.wondershare.com/filmora/article-images/screen-recorder-bar-of-filmora-mac.jpg)
-
-[Make Screen Record and Snapshot on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
-
-[Make Screen Record and Snapshot on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
-
-[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Part 3 How to Record YouTube Videos on iPhone
-
-Recording YouTube videos on iPhone is the easiest because there is no need for a screen recorder for YouTube videos. This is because iOS 11 or later comes with an inbuilt screen recorder option with which you can record YouTube live stream and any video on YouTube. First, you have to enable screen recording feature on your iPhone. Here are the steps you need to follow.
-
-![iphone screen recording](https://images.wondershare.com/filmora/article-images/iphone-screen-recording.jpg)
-
-Step 1: Open Settings app and tap on Control Centre.
-
-Step 2: Go to Customize Controls and from the list, find Screen Recording option and enable it.
-
-Step 3: Open YouTube app and open the video that you want to record.
-
-Step 4: Bring up the Control Centre by swiping down or up as per your iPhone model.
-
-Step 5: Tap on Screen recording icon to start recording. This will start recording and you will see a red bar on the screen. When you are done, you can stop recording from this red bar or blob as you see on your screen.
-
-## Part 4 How to Record YouTube Videos on Android
-
-Unlike iPhone, Android does not come with an inbuilt YouTube screen recorder. That is why you will need to install an external screen recording app to capture YouTube videos. We recommend AZ Screen Recorder to capture YouTube videos instantly. Here are all the steps you need to take.
-
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![az screen recorder](https://images.wondershare.com/filmora/article-images/az-screen-recorder.jpg)
 
 Step 1: Go to Play Store and install AZ Screen Recorder.
@@ -690,3 +839,47 @@ Depending on the device you are using, you have to follow the specific method on
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-optimizing-your-video-conferencing-process-with-slack-and-filmora-tools/"><u>[New] 2024 Approved  Optimizing Your Video Conferencing Process with Slack and Filmora Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamlining-the-capture-process-in-competitive-rl-gaming/"><u>[New] 2024 Approved  Streamlining the Capture Process in Competitive RL Gaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-exclusive-selection-best-10-cameras-for-win-11-recording/"><u>[New] Exclusive Selection  Best 10 Cameras for Win 11 Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-exclusive-window-snapshot-suite/"><u>[New] Exclusive Window Snapshot Suite</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-openscreens-the-unchained-gamers-screen-record/"><u>[New] In 2024, OpenScreens  The Unchained Gamer's Screen Record</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quick-and-easy-techniques-for-iphone-sound-recording/"><u>[New] In 2024, Quick and Easy Techniques for iPhone Sound Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-screen-commanders-face-off/"><u>[New] In 2024, Screen Commanders Face-Off</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-top-10-affectionate-emulators-for-android-and-3ds/"><u>[New] In 2024, Top 10 Affectionate Emulators for Android and 3DS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-master-list-of-10-best-video-chat-programs-today-for-2024/"><u>[New] Master List of 10 Best Video Chat Programs Today for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ps1-reimagined-the-best-emulators-for-game-revival-on-pc-for-2024/"><u>[New] PS1 Reimagined  The Best Emulators for Game Revival on PC for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-insider-look-at-ios-video-recording-tools-for-2024/"><u>[New] The Insider Look at IO's Video Recording Tools for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-guide-top-10-gratis-mmo-rpgs-for-2024/"><u>[New] Ultimate Guide  Top 10 Gratis MMO RPGs for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-valheims-optimal-seed-selection-strategies-for-2024/"><u>[New] Valheim's Optimal Seed Selection Strategies for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-revolutionizing-video-creation-with-magix-video-pro-x/"><u>[Updated] 2024 Approved  Revolutionizing Video Creation with Magix Video Pro X</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-savvy-screenshot-tactics-for-netflix-on-mac-a-complete-guide-of-six-ways/"><u>[Updated] 2024 Approved  Savvy Screenshot Tactics for Netflix on Mac - A Complete Guide of Six Ways</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-call-customization-applications-ranked/"><u>[Updated] Essential Call Customization Applications Ranked</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-flawless-filming-efficient-laptop-screen-recordings/"><u>[Updated] Flawless Filming  Efficient Laptop Screen Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mac-acoustic-arena-deep-dive/"><u>[Updated] In 2024, Mac Acoustic Arena  Deep Dive</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-pioneering-open-worlds-worth-your-time/"><u>[Updated] In 2024, Pioneering Open Worlds Worth Your Time</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-premium-enhancements-guide-to-superior-terria/"><u>[Updated] In 2024, Premium Enhancements Guide to Superior Terria</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-screensnapper-prox-the-premier-pc-screen-recorder-by-apowersoft/"><u>[Updated] In 2024, ScreenSnapper ProX  The Premier PC Screen Recorder by Apowersoft</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-low-cost-pc-screen-grabbing-options-ranked-for-2024/"><u>[Updated] Low-Cost PC Screen Grabbing Options Ranked for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pixels-and-players-advanced-tactics-for-recording-gaming-for-2024/"><u>[Updated] Pixels and Players  Advanced Tactics for Recording Gaming for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-synchronous-capture-for-webcam-and-display-for-2024/"><u>[Updated] Synchronous Capture for Webcam and Display for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-expert-shortcuts-for-savvy-screen-capture-on-your-pc/"><u>2024 Approved  Expert Shortcuts for Savvy Screen Capture on Your PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-full-assessment-razers-hd-webcam/"><u>2024 Approved  Full Assessment  Razer's HD Webcam</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-prime-recording-option-elevate-your-youtube-channel/"><u>2024 Approved  Prime Recording Option  Elevate Your YouTube Channel</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-stabilize-your-videos-for-free-8-best-online-tools-and-a-step-by-step-guide/"><u>2024 Approved Stabilize Your Videos for Free 8 Best Online Tools and a Step-by-Step Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/drive-sales-through-smart-use-of-snapchats-tools-for-2024/"><u>Drive Sales Through Smart Use of Snapchat's Tools for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-elevate-your-video-conferencing-mastering-zoom-filters/"><u>In 2024, Elevate Your Video Conferencing  Mastering Zoom Filters</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-enhancing-mac-use-top-5-recommended-sniping-apps/"><u>In 2024, Enhancing Mac Use  Top 5 Recommended Sniping Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-fastest-video-speed-controllers-for-windows-and-macos/"><u>In 2024, Fastest Video Speed Controllers for Windows and macOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-from-dream-to-documentation-essential-ways-to-record-your-sims-epic-quests-in-sims-4/"><u>In 2024, From Dream to Documentation  Essential Ways to Record Your Sims' Epic Quests in Sims 4</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-13-pro-max-to-pc-via-usb-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 13 Pro Max to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-leading-audio-enhancement-platforms-for-professional-soundscapes/"><u>In 2024, Leading Audio Enhancement Platforms for Professional Soundscapes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-techniques-in-documentary-scripting/"><u>In 2024, Pioneering Techniques in Documentary Scripting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/loop-engineers-assembly-for-2024/"><u>Loop Engineer's Assembly for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-size-matters-how-aspect-ratio-influences-your-youtube-videos-engagement/"><u>New In 2024, Size Matters How Aspect Ratio Influences Your YouTube Videos Engagement</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-taming-the-wildscape-techniques-for-subtracting-unwanted-audio-disturbances/"><u>Updated In 2024, Taming The Wildscape Techniques for Subtracting Unwanted Audio Disturbances</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-quieting-the-cinematic-chaos-techniques-for-audio-trimming-in-imovie-videos/"><u>Updated Quieting the Cinematic Chaos Techniques for Audio Trimming in iMovie Videos</u></a></li>
+</ul></div>

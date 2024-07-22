@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Addressing Over-Encoded OBS Media\""
-date: 2024-05-20T00:50:00.473Z
-updated: 2024-05-21T00:50:00.473Z
+date: 2024-07-21T13:16:24.039Z
+updated: 2024-07-22T13:16:24.039Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Addressing Over-Encoded OBS Media\""
 excerpt: "\"This Article Describes [Updated] In 2024, Addressing Over-Encoded OBS Media\""
 keywords: "\"OBS Media Encoding Tips,Optimal Media Compression,Avoiding Over-Coding in Broadcasts,Streamlining OBS Video Content,Reducing Data In OBS Footage,Efficient OBS Media Processing,Minimizing OBS Encoding Size\""
-thumbnail: https://www.lifewire.com/thmb/gzHpHKbSd5o6D_hdSTFod8z3AV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-769729481-5bd367dcc9e77c007c015257.jpg
+thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6ed8b5f1e4a621d2eef1f390.jpg
 ---
 
 ## Addressing Over-Encoded OBS Media
@@ -47,6 +47,9 @@ Step 3: If it is set to 60, you have to bring it down to 30\. Basically, you hav
 
 Step 4: Click on Apply and Ok button to save the new setting. Restart your computer and resume your OBS operation.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![obs click on apply and ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-apply-and-ok-button.jpg)
 
 ## Way 3\. Change Encoder Preset
@@ -65,6 +68,9 @@ Step 5: Click on Apply and Ok button. Restart your computer and perform your act
 
 ![obs change encoder preset](https://images.wondershare.com/filmora/article-images/obs-change-encoder-preset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 4\. Try Hardware Encoding
 
 You can try out different hardware encoders available such as Quicksync, AMF, or NVENC. The availability of different hardware encoders depends on your computer hardware configuration. These hardware encoders are better than the default x264 encoder as they use less CPU resources. Since the issue is primarily with encoder, you should try changing the encoder and see if the problem is fixed.
@@ -81,6 +87,9 @@ Step 5: Click on Apply and Ok to save the settings. Restart your computer and pe
 
 ![obs restart your computer and perform your operation](https://images.wondershare.com/filmora/article-images/obs-restart-your-computer-and-perform-your-operation.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Way 5\. Change Some Advanced Settings
 
 If you are still facing OBS high encoding problem, you need to change some advanced settings in order to fix this encoder overloaded issue. You can change the keyframe interval so that your processor gets enough time for rendering. Similarly, you can change Rate Control from Constant to Variable so that the video does not demand high bandwidth.
@@ -97,6 +106,10 @@ Step 5: Change Profile from None to Main.
 
 Step 6: Click on Apply and Ok button to save the changes. Restart your computer and check if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![obs open and go to settings](https://images.wondershare.com/filmora/article-images/obs-open-and-go-to-settings.jpg)
 
 ## Way 6\. Use OBS Alternative
@@ -137,16 +150,27 @@ For macOS 10.12 or later
 
 Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Filmora and click on PC Screen to record your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 ## Conclusion
@@ -163,12 +187,27 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 ## Conclusion
@@ -185,12 +224,18 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 ## Conclusion
@@ -222,3 +267,50 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-leading-low-cost-audio-tools-1-to-10-desktop-recorder-guide/"><u>[New] 2024 Approved  Leading Low-Cost Audio Tools  #1 to #10 Desktop Recorder Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-prime-screen-snaps-on-apple-devices-max-length-156/"><u>[New] 2024 Approved  Prime Screen Snaps on Apple Devices (Max Length  156)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-seamless-guide-to-utilizing-mobizen-screen-recorder/"><u>[New] 2024 Approved  Seamless Guide to Utilizing Mobizen Screen Recorder</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-sonic-boom-new-technology-reviewed/"><u>[New] 2024 Approved  Sonic Boom  New Technology Reviewed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streaming-success-recorded-google-chats/"><u>[New] 2024 Approved  Streaming Success  Recorded Google Chats</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-mac-screen-capturing-tips-unveiling-5-efficient-techniques/"><u>[New] 2024 Approved  Ultimate Mac Screen Capturing Tips  Unveiling 5 Efficient Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unrivaled-selection-of-top-10-mobile-video-calling-apps/"><u>[New] 2024 Approved  Unrivaled Selection of Top 10 Mobile Video Calling Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-audiophiles-choice-best-microphones-for-podcasting/"><u>[New] Audiophile's Choice  Best Microphones for Podcasting</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-farmers-fields-the-essential-10-agriculture-titles-for-playmates/"><u>[New] Farmers' Fields  The Essential 10 Agriculture Titles for Playmates</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-from-stills-to-motion-creating-engaging-timelapse-videos-on-ipad/"><u>[New] From Stills to Motion  Creating Engaging Timelapse Videos on iPad</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-game-on-compile-your-collection-of-the-top-12-pc-clickers-for-2024/"><u>[New] Game On  Compile Your Collection of the Top 12 PC Clickers for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-guide-to-effective-video-capturing-via-screencastify-for-2024/"><u>[New] Guide to Effective Video Capturing via Screencastify for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-screenpause-recorder-tutorial-for-2024/"><u>[New] ScreenPause Recorder Tutorial for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-for-beyond-sharex-review-for-2024/"><u>[New] The Ultimate Guide for Beyond-ShareX Review for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-6-masterpieces-designing-mc-village-homes-for-2024/"><u>[New] Top 6 Masterpieces  Designing MC Village Homes for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-free-windows-and-mac-screen-saver-software-with-full-control/"><u>[Updated] 2024 Approved  Free Windows & Mac Screen Saver Software with Full Control</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-experts-choice-best-6-video-grabber-tools-for-mac/"><u>[Updated] Expert's Choice  Best 6 Video Grabber Tools for Mac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-use-your-phone-as-a-webcam-to-record-videos-for-2024/"><u>[Updated] How to Use Your Phone as A Webcam to Record Videos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-art-of-interaction-in-online-google-meet-spaces/"><u>[Updated] In 2024, The Art of Interaction in Online Google Meet Spaces</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unlocking-your-potential-with-these-top-10-affordable-web-conferencing-services/"><u>[Updated] In 2024, Unlocking Your Potential with These Top 10 Affordable Web Conferencing Services</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-lightweight-obs-adjustments-for-thriftier-systems-for-2024/"><u>[Updated] Lightweight OBS Adjustments for Thriftier Systems for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-streamline-your-gameplay-memory-with-these-6-steps-for-2024/"><u>[Updated] Streamline Your Gameplay Memory with These 6 Steps for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-transform-virtual-engagements-the-10-free-applications-you-need-for-2024/"><u>[Updated] Transform Virtual Engagements  The 10 Free Applications You Need for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-valheims-optimal-seed-selection-strategies-for-2024/"><u>[Updated] Valheim's Optimal Seed Selection Strategies for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-3d-text-techniques-in-ai/"><u>2024 Approved  Advanced 3D Text Techniques in AI</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-direct-engagement-broadcast-from-twitch-to-facebook-friends/"><u>2024 Approved  Direct Engagement  Broadcast From Twitch to Facebook Friends</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-exchanging-visuals-android-iphone-content-transfer/"><u>2024 Approved  Exchanging Visuals  Android-iPhone Content Transfer</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-5-ios-tools-to-download-facebook-movies-and-clips/"><u>2024 Approved  Top 5 iOS Tools to Download Facebook Movies & Clips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/advanced-facecam-recording-techniques-unveiled-for-2024/"><u>Advanced Facecam Recording Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-narzo-n53-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme Narzo N53 Fingerprint Lock</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/expert-tips-on-removing-audio-fuzziness-for-crystal-clear-video-production-for-2024/"><u>Expert Tips on Removing Audio Fuzziness for Crystal-Clear Video Production for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-14-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 14 Pro Max Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone 14 Pro</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-delving-into-the-advantages-and-disadvantages-of-youtube-premium/"><u>In 2024, Delving Into the Advantages and Disadvantages of YouTube Premium</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-enhancing-visual-flow-effortless-fade-tricks/"><u>In 2024, Enhancing Visual Flow  Effortless Fade Tricks</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-storm-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-fix-guide-reviving-dead-or-slow-moving-airdrop-links/"><u>In 2024, Quick Fix Guide  Reviving Dead or Slow-Moving Airdrop Links</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-the-battle-for-video-editing-supremacy-sony-vegas-pro-vs-adobe-premiere-pro/"><u>In 2024, The Battle for Video Editing Supremacy Sony Vegas Pro vs Adobe Premiere Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-v30-lite-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo V30 Lite 5G Phones</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-sound-integration-enhancing-videos-with-adobe-premiere-pro/"><u>Updated 2024 Approved Mastering Sound Integration Enhancing Videos with Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-steps-to-denoise-in-final-cut-pro-reduce-video-and-audio-noise/"><u>Updated Steps to Denoise in Final Cut Pro – Reduce Video and Audio Noise</u></a></li>
+</ul></div>

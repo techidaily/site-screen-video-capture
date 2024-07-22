@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Fight Like a Warrior  5 Intense Martial Arts RPGs\""
-date: 2024-05-18T15:07:04.643Z
-updated: 2024-05-19T15:07:04.643Z
+date: 2024-07-21T15:49:35.490Z
+updated: 2024-07-22T15:49:35.490Z
 tags: 
   - screen-recording
   - ai video
@@ -12,13 +12,22 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Fight Like a Warrior: 5 Intense Martial Arts RPGs\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Fight Like a Warrior: 5 Intense Martial Arts RPGs\""
 keywords: "Warrior MArtial Quests,Intensity RPG Fights,MArtial Games Heroic,RPG Combat Warrior,Strong Martial Arts RPGs,Epic Combat Quests RPG,Intense Fighter RPG Games"
-thumbnail: https://www.lifewire.com/thmb/d3vhzprgAOfQkZJVlCom44MR-q8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-best-parental-control-apps-of-2019-featured-c5b50932ab9c4c0fbc0757665e46b6b2.jpg
+thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410ddebad9670bd4cad45f7263474.jpg
 ---
 
 ## Fight Like a Warrior: 5 Intense Martial Arts RPGs
 
 # Top 5 Kung Fu Games Just Like Sifu
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -38,6 +47,9 @@ To begin with, many of you might wonder the right way to say the word "sifu." It
 _Platform: Playstation4, Playstation5_  
 _Price: [Coming soon](https://www.epicgames.com/store/en-US/p/sifu)_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 Is one life enough to have Kung Fu?![](https://images.wondershare.com/filmora/article-images/sifu-beard.jpg)
 
 Sifu is a single-player martial arts game. This game is developed by Sloclap, the team of the legendary martial arts game Absolver.Sifu is based on the journey of a young Kungfu student to becoming a Kungfu Master for the vengeance of death of his family from mysterious assassins. The only purpose of his life is to make those assassins pay the price of their cruelty, who are involved in the murder of his family. After preparing for eight years to take vengeance, finally, the day has arrived. He will not stop until he takes down all his rivals, whoever comes in his way toward his revenge. He can overcome death with the help of a magical pendant whenever he dies. But this return from death has a cost to be paid in the form of age. Whenever he comes back to life, he becomes older. Will he be able to take his revenge without getting old enough for a fight? This journey of revenge goes through different phases and locations like hallways, clubs, suburbs, and more. Everything on his way can be used as a tool to fight enemies like objects, weapons, chairs, and tables. As soon as the player gets closer to the victory, he discovers more and more skills and powers.
@@ -101,6 +113,9 @@ It is a single-player action-adventure hardcore game. With its focus on Monster-
 
 [Wondershare's Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a multipurpose video software tool with a built-in webcam recorder that allows you to easily capture with your webcam. Audio recording is also made easy, perfect for game players who want to showcase their favorite games with their followers. It offers built-in converters and a video editor supporting converting and editing many different video formats shot either with your camcorder or iPhone or Android. Wondershare Filmora is different from some of the others on the market as it not only allows [screen recording](https://tools.techidaily.com/wondershare/filmora/download/) but also provides a handful of video editing, video uploading choices, and it works with multiple devices. This program has a high-speed processor and lots of varied settings, and a simple and user-friendly interface, along with exceptional video editing tools to make your recording fun and easy.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -119,6 +134,9 @@ Follow @Richard Bennett
 
 To begin with, many of you might wonder the right way to say the word "sifu." It is pronounced as "sea fool" rather than "sign fool." By the way, "sifu" means master in Chinese/Cantonese, especially in the martial art field and some craftsmanship field. For example, you can call the teacher who teaches you to make perfect ramen a "sifu."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  **![](https://images.wondershare.com/filmora/article-images/ramen-teacher.jpg)**
 
 ---
@@ -128,6 +146,9 @@ To begin with, many of you might wonder the right way to say the word "sifu." It
 _Platform: Playstation4, Playstation5_  
 _Price: [Coming soon](https://www.epicgames.com/store/en-US/p/sifu)_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 Is one life enough to have Kung Fu?![](https://images.wondershare.com/filmora/article-images/sifu-beard.jpg)
 
 Sifu is a single-player martial arts game. This game is developed by Sloclap, the team of the legendary martial arts game Absolver.Sifu is based on the journey of a young Kungfu student to becoming a Kungfu Master for the vengeance of death of his family from mysterious assassins. The only purpose of his life is to make those assassins pay the price of their cruelty, who are involved in the murder of his family. After preparing for eight years to take vengeance, finally, the day has arrived. He will not stop until he takes down all his rivals, whoever comes in his way toward his revenge. He can overcome death with the help of a magical pendant whenever he dies. But this return from death has a cost to be paid in the form of age. Whenever he comes back to life, he becomes older. Will he be able to take his revenge without getting old enough for a fight? This journey of revenge goes through different phases and locations like hallways, clubs, suburbs, and more. Everything on his way can be used as a tool to fight enemies like objects, weapons, chairs, and tables. As soon as the player gets closer to the victory, he discovers more and more skills and powers.
@@ -193,6 +214,9 @@ It is a single-player action-adventure hardcore game. With its focus on Monster-
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -226,3 +250,60 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-battle-for-bushido-next-level-titles-echoing-tsushis-spirit/"><u>[New] Battle for Bushido  Next-Level Titles Echoing Tsushi's Spirit</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-essential-chromes-leading-fb-video-grabs/"><u>[New] Essential Chromes  Leading FB Video Grabs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-experience-ultra-clarity-in-xiaomis-screen-capture-technology/"><u>[New] Experience Ultra Clarity in Xiaomi's Screen Capture Technology</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-key-techniques-for-smooth-screen-sharing-on-mobiledesktop/"><u>[New] Key Techniques for Smooth Screen Sharing on Mobile/Desktop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-professional-techniques-for-home-based-podcast-capture/"><u>[New] Professional Techniques for Home-Based Podcast Capture</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-protecting-content-avoiding-premature-deletions-for-2024/"><u>[New] Protecting Content  Avoiding Premature Deletions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategic-wordplay-crafting-engaging-blurbs/"><u>[New] Strategic Wordplay  Crafting Engaging Blurbs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-framework-for-exceptional-ppt-video-documentation/"><u>[New] The Framework for Exceptional PPT Video Documentation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2023-complete-guide-twitter-reaction-videos-for-2024/"><u>[Updated] 2023 Complete Guide | Twitter Reaction Videos for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-breaking-the-monotony-innovative-yt-playlist-shuffling/"><u>[Updated] 2024 Approved  Breaking the Monotony  Innovative YT Playlist Shuffling</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-android-internal-sound-record-without-root-access/"><u>[Updated] Android Internal Sound Record Without Root Access</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-dive-into-makers-earnings-exploring-youtube-shorts-revenue-structure/"><u>[Updated] Dive Into Maker's Earnings  Exploring YouTube Shorts Revenue Structure</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-seamless-screens-and-cameras-recording-methods/"><u>[Updated] Seamless Screens & Cameras Recording Methods</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-stream-success-starts-here-choosing-the-right-camera-for-twitch/"><u>[Updated] Stream Success Starts Here  Choosing the Right Camera for Twitch</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-superior-console-emulation-best-ps1-games-for-your-pc/"><u>[Updated] Superior Console Emulation  Best PS1 Games for Your PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-to-record-video-on-google-hangouts/"><u>2024 Approved  How to Record Video on Google Hangouts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-innovative-approaches-to-capturing-rl-experiences/"><u>2024 Approved  Innovative Approaches to Capturing RL Experiences</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-leverage-the-best-free-pc-sound-capturer-x-recorder/"><u>2024 Approved  Leverage the Best Free Pc Sound Capturer – X-Recorder</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-overcoming-the-barriers-to-distance-podcasting/"><u>2024 Approved  Overcoming the Barriers to Distance Podcasting</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-screen-capturing-mastery-top-techniques-for-filmmakers/"><u>2024 Approved  Screen Capturing Mastery  Top Techniques for Filmmakers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-techniques-to-archivalize-chat-communication-in-whatsapp/"><u>2024 Approved  Techniques to Archivalize Chat Communication in WhatsApp</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-complete-playbook-for-team-call-recording-desktopmobile/"><u>2024 Approved  The Complete Playbook for Team Call Recording (Desktop/Mobile)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unveiling-the-top-10-mobile-battle-strategies/"><u>2024 Approved  Unveiling the Top 10 Mobile Battle Strategies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/affordable-aaa-gaming-websites-and-streaming-services-for-2024/"><u>Affordable AAA Gaming Websites and Streaming Services for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-blurry-win7-visuals/"><u>Banishing Blurry Win7 Visuals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-camcorder-selections-for-snowboardingskiing/"><u>Best Camcorder Selections for Snowboarding/Skiing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-windows-10-screen-capture-software-for-2024/"><u>Best Windows 10 Screen Capture Software for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-11-pro-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 11 Pro to iPad? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-redmi-note-12-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-15-best-sites-to-find-and-download-royalty-free-music-for-youtube/"><u>In 2024, 15 Best Sites to Find & Download Royalty-Free Music for YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-an-impartial-appraisal-the-power-of-recordcast/"><u>In 2024, An Impartial Appraisal  The Power of RecordCast</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-honor-90-gt-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Honor 90 GT FRP In 3 Different Ways</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-master-switch-pro-controller-gaming-in-steam/"><u>In 2024, How to Master Switch Pro Controller Gaming in Steam</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-roguelikes-traditional-tactics-vs-modern-mechanics/"><u>In 2024, Roguelike's Traditional Tactics Vs. Modern Mechanics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-approach-for-stellar-gopro-videos/"><u>In 2024, Step-By-Step Approach for Stellar GoPro Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-future-of-iptv-screening-and-preservation-techniques/"><u>In 2024, The Future of IPTV Screening and Preservation Techniques</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-ultimate-guide-to-converting-text-to-speech-in-mp3-format/"><u>In 2024, The Ultimate Guide to Converting Text to Speech in MP3 Format</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/leading-mac-snipper-programs-analyzed-for-2024/"><u>Leading Mac Snipper Programs Analyzed for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/leading-software-guide-top-15-cost-free-windows-and-mac-capture-apps-for-2024/"><u>Leading Software Guide  Top 15 Cost-Free Windows & Mac Capture Apps for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/masterful-motorsports-discover-the-5-leading-racers-simulators-for-2024/"><u>Masterful Motorsports  Discover the 5 Leading Racers Simulators for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mastering-zoom-on-windows-10-a-step-by-step-guide-for-2024/"><u>Mastering Zoom on Windows 10  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/perfect-recording-companion-10-best-on-spotify-platforms-for-2024/"><u>Perfect Recording Companion  10 Best on Spotify Platforms for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-magic-6-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Magic 6.</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/premium-apps-for-capturing-crystal-clear-android-screenshots/"><u>Premium Apps for Capturing Crystal Clear Android Screenshots</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/pro-audio-insight-expertly-selected-9-mic-recorder-devices/"><u>Pro Audio Insight  Expertly Selected 9 Mic Recorder Devices</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/reputed-tiktok-follower-brokering-services-for-2024/"><u>Reputed TikTok Follower Brokering Services for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-integration-12-stream-app-experience/"><u>Seamless Integration  12 Stream App Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/simplify-your-multitasking-using-shortcut-keys-for-macs-screen-capture-for-2024/"><u>Simplify Your Multitasking  Using Shortcut Keys for Mac's Screen Capture for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-art-of-live-recording-sporting-events-on-screen/"><u>The Art of Live Recording  Sporting Events on Screen</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-filmmakers-guide-to-capturing-exceptional-vo-recordings/"><u>The Filmmaker's Guide to Capturing Exceptional VO Recordings</u></a></li>
+<li><a href="https://win11.techidaily.com/the-hidden-art-of-photo-transformation-in-windows/"><u>The Hidden Art of Photo Transformation in Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-family-vehicle-entertainment-adventures-for-2024/"><u>Top Family Vehicle Entertainment Adventures for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-top-7-audio-workstation-software-alternatives-to-audacity-for-your-android-smartphone-for-2024/"><u>Updated Top 7 Audio Workstation Software Alternatives to Audacity for Your Android Smartphone for 2024</u></a></li>
+</ul></div>

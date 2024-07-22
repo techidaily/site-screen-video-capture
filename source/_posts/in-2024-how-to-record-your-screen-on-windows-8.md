@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How To Record Your Screen On Windows 8"
-date: 2024-05-18T15:20:04.925Z
-updated: 2024-05-19T15:20:04.925Z
+date: 2024-07-21T16:47:33.317Z
+updated: 2024-07-22T16:47:33.317Z
 tags: 
   - screen-recording
   - ai video
@@ -12,13 +12,16 @@ categories:
 description: "This Article Describes In 2024, How To Record Your Screen On Windows 8"
 excerpt: "This Article Describes In 2024, How To Record Your Screen On Windows 8"
 keywords: "WIN8 Screenshot Tips,Windows Recording Guide,Capture Screenscreen Windows,Saving Screen Content Windows 8,Workscreen Save Windows Procedures,Windows 8 Screen Capture Techniques,Windows 8 Screensaver Options"
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## Top-Rated Apps for Taking Screenshots in Windows 8
 
 # How To Record Your Screen On Windows 8
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -40,6 +43,121 @@ Filmora is an editing tool for professional [video recorders](https://tools.tech
 
 In terms of what videos you can import and edit etc. On its newest release of Filmora, it will no longer just be a video editor but it will have a screen recording function added to it as well, as well as a video stabiliser and reverse tool. Best thing about this is current users of the software will be able to download this update complete free of charge. So, how could this function be used?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ **Step 1:**  Download & Install the programme. Once opened on the upper left corner of the interface you will notice a record button, click this. Here you can either record from webcam or record computer screen.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+![filmora record screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+ **Step 2:**  Select what recording mode you want, what audio output, drag the icon to choose what are you want to record. Choose more options bottom right if necessary. Including implementing hotkeys
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![filmora recording mode](https://images.wondershare.com/filmora/guide/recording-05.png)
+
+ **Step 3:**  Click record icon. If you think it's OK. Stop recording. Video is automatically saved to the software timeline for you to edit and save.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
+## Part 2: How to Record Screen with Steps Recorder on Windows 8
+
+If you don't want to download any software, the build-in Step Recorder is a tool that you can use. However, the recorded outcome is the exact steps, not video, so if you want to have video, just skip this part, and go to next part on Windows 8.
+
+**Step 1**: Press **Start** button on keyboard, and then click **Accessories** \> **Problem Steps Recorder** \> **Start Record** on Windows 8.
+
+**Step 2**: Now, start doing what you want to be recorded. During recording, you can choose **Add Comment** to input texts. Then click **OK**.
+
+![step recorder](https://images.wondershare.com/filmora/article-images/record-steps-recorder.jpg)
+
+**Step 3**: If you want finished, select **Stop Record**. The recorder file is a zip folder on Windows 8.
+
+## Part 3: Use Free Chrome Extension
+
+[Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) is a service that works via Google Chrome and is very much one of the top rated screen capture & image annotation tools available to the public.
+
+They have done something for their user base in the form of removing all in-app purchases and making all features including those that were previously premium features. Free for all to use on Windows 8.
+
+Due to the fact that it is a Google Chrome extension it is for capturing web pages - any part of a web page at that. From comments and annotations, to blurring sensitive information it can all be done with extension.
+
+![awesome-screenshot](https://images.wondershare.com/filmora/article-images/awesome-screenshot.jpg)
+
+Steps to download and use it to record computer screen:
+
+ **Step 1:**  Download and Install Awesome Screen Shot from the Chrome store
+
+ **Step 2:**  Capture your video - You can decide what section of the screen if not the whole screen. Supports both PNG and horizontal scrolling, can capture desktop screen.
+
+ **Step 3:**  Annotate & Edit - You can add comments, shapes and annotate how you like, you can then edit the video and share a screenshot to social media.
+
+ **Step 4:**  Save & Share - Save to your local disk, once uploaded to the Awesome Screenshot website they will provide a shareable link.
+
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
+## Part 4: Use Free Recording Software
+
+Ezvid Free Screen Recorders (<https://www.ezvid.com/>) is one of the best free screen recording software on Windows 8\. Ezvid records computer screens but not just websites but games and everything else you may want to record. It has very many features that include a facecam, voice synthesis and screen drawing.
+
+Below is the tutorial video on how to record computer screen:
+
+Here's the stpes:
+
+ **Step 1:**  Download and Install Ezvid Free Screen Recorders latest version on Windows 8\. Open the software.
+
+ **Step 2:**  Click capture screen button (Make sure you have applied the settings you need). Stop recording when ready - Automatically saves to timeline
+
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![ezvid record screen](https://images.wondershare.com/filmora/article-images/record-videos-ezvid.jpg)
+
+ **Step 3:**  Edit the video. You can add marks, lines and color to highlight the area that you think it is important.
+
+ **Step 4:**  Save & Upload - The software has an upload to YouTube button. Clik upload diectly to share your recorded video to YouTube.
+
+## Conclusion
+
+These are just a few extensions and software that can be used to record computer screens for your Windows 8 device. They are also the highest voted recording softwares in their fields. Those being chrome extension, free downloadable software, advanced software and build-in tool. Recording your screen on a Windows 8 device need not be complicated and depending on your personal needs one of these three could really help you.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+There can be many reasons as to why you need to record computer screen on your Windows 8 PC. Whether you want to record your screen for revision purposes, whether you want to have a particular video or movie on your computer save list, or even if you are the proud owner of a gaming page on YouTube and need to record your gameplay. Recording your screen on Windows 8 does not need to be something that is difficult. And there are extensions and softwares in place to aid you in recording on Windows 8.
+
+* [Part 1: Use Advanced Software For Pro Recorders](#part1)
+* [Part 2: Use Build-in Steps Recorder on Windows 8](#part2)
+* [Part 3: Use Free Chrome Extension](#part3)
+* [Part 4: Use Free Recording Software](#part4)
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1: Use Advanced Software For Pro Recorders
+
+Filmora is an editing tool for professional [video recorders](https://tools.techidaily.com/wondershare/filmora/download/) and editors. Voted 4 out of 5 stars it can be used as a brilliant alternative editing software to Windows Movie Maker and iMovie for those on Macs. As a user of Filmora Wondershare there is no doubt that you will be impressed with the number of functions that are available with the software and also the general capability of it.
+
+In terms of what videos you can import and edit etc. On its newest release of Filmora, it will no longer just be a video editor but it will have a screen recording function added to it as well, as well as a video stabiliser and reverse tool. Best thing about this is current users of the software will be able to download this update complete free of charge. So, how could this function be used?
+
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
  **Step 1:**  Download & Install the programme. Once opened on the upper left corner of the interface you will notice a record button, click this. Here you can either record from webcam or record computer screen.
@@ -48,6 +166,9 @@ In terms of what videos you can import and edit etc. On its newest release of Fi
 
  **Step 2:**  Select what recording mode you want, what audio output, drag the icon to choose what are you want to record. Choose more options bottom right if necessary. Including implementing hotkeys
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![filmora recording mode](https://images.wondershare.com/filmora/guide/recording-05.png)
 
  **Step 3:**  Click record icon. If you think it's OK. Stop recording. Video is automatically saved to the software timeline for you to edit and save.
@@ -72,6 +193,13 @@ They have done something for their user base in the form of removing all in-app 
 
 Due to the fact that it is a Google Chrome extension it is for capturing web pages - any part of a web page at that. From comments and annotations, to blurring sensitive information it can all be done with extension.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![awesome-screenshot](https://images.wondershare.com/filmora/article-images/awesome-screenshot.jpg)
 
 Steps to download and use it to record computer screen:
@@ -127,6 +255,9 @@ There can be many reasons as to why you need to record computer screen on your W
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Part 1: Use Advanced Software For Pro Recorders
 
 Filmora is an editing tool for professional [video recorders](https://tools.techidaily.com/wondershare/filmora/download/) and editors. Voted 4 out of 5 stars it can be used as a brilliant alternative editing software to Windows Movie Maker and iMovie for those on Macs. As a user of Filmora Wondershare there is no doubt that you will be impressed with the number of functions that are available with the software and also the general capability of it.
@@ -141,6 +272,13 @@ In terms of what videos you can import and edit etc. On its newest release of Fi
 
  **Step 2:**  Select what recording mode you want, what audio output, drag the icon to choose what are you want to record. Choose more options bottom right if necessary. Including implementing hotkeys
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![filmora recording mode](https://images.wondershare.com/filmora/guide/recording-05.png)
 
  **Step 3:**  Click record icon. If you think it's OK. Stop recording. Video is automatically saved to the software timeline for you to edit and save.
@@ -153,10 +291,18 @@ If you don't want to download any software, the build-in Step Recorder is a tool
 
 **Step 2**: Now, start doing what you want to be recorded. During recording, you can choose **Add Comment** to input texts. Then click **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![step recorder](https://images.wondershare.com/filmora/article-images/record-steps-recorder.jpg)
 
 **Step 3**: If you want finished, select **Stop Record**. The recorder file is a zip folder on Windows 8.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Use Free Chrome Extension
 
 [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) is a service that works via Google Chrome and is very much one of the top rated screen capture & image annotation tools available to the public.
@@ -195,6 +341,9 @@ Here's the stpes:
 
  **Step 4:**  Save & Upload - The software has an upload to YouTube button. Clik upload diectly to share your recorded video to YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 These are just a few extensions and software that can be used to record computer screens for your Windows 8 device. They are also the highest voted recording softwares in their fields. Those being chrome extension, free downloadable software, advanced software and build-in tool. Recording your screen on a Windows 8 device need not be complicated and depending on your personal needs one of these three could really help you.
@@ -226,14 +375,24 @@ Filmora is an editing tool for professional [video recorders](https://tools.tech
 
 In terms of what videos you can import and edit etc. On its newest release of Filmora, it will no longer just be a video editor but it will have a screen recording function added to it as well, as well as a video stabiliser and reverse tool. Best thing about this is current users of the software will be able to download this update complete free of charge. So, how could this function be used?
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
  **Step 1:**  Download & Install the programme. Once opened on the upper left corner of the interface you will notice a record button, click this. Here you can either record from webcam or record computer screen.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![filmora record screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
  **Step 2:**  Select what recording mode you want, what audio output, drag the icon to choose what are you want to record. Choose more options bottom right if necessary. Including implementing hotkeys
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora recording mode](https://images.wondershare.com/filmora/guide/recording-05.png)
 
  **Step 3:**  Click record icon. If you think it's OK. Stop recording. Video is automatically saved to the software timeline for you to edit and save.
@@ -250,6 +409,9 @@ If you don't want to download any software, the build-in Step Recorder is a tool
 
 **Step 3**: If you want finished, select **Stop Record**. The recorder file is a zip folder on Windows 8.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## Part 3: Use Free Chrome Extension
 
 [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) is a service that works via Google Chrome and is very much one of the top rated screen capture & image annotation tools available to the public.
@@ -292,99 +454,9 @@ Here's the stpes:
 
 These are just a few extensions and software that can be used to record computer screens for your Windows 8 device. They are also the highest voted recording softwares in their fields. Those being chrome extension, free downloadable software, advanced software and build-in tool. Recording your screen on a Windows 8 device need not be complicated and depending on your personal needs one of these three could really help you.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
-There can be many reasons as to why you need to record computer screen on your Windows 8 PC. Whether you want to record your screen for revision purposes, whether you want to have a particular video or movie on your computer save list, or even if you are the proud owner of a gaming page on YouTube and need to record your gameplay. Recording your screen on Windows 8 does not need to be something that is difficult. And there are extensions and softwares in place to aid you in recording on Windows 8.
-
-* [Part 1: Use Advanced Software For Pro Recorders](#part1)
-* [Part 2: Use Build-in Steps Recorder on Windows 8](#part2)
-* [Part 3: Use Free Chrome Extension](#part3)
-* [Part 4: Use Free Recording Software](#part4)
-
----
-
-## Part 1: Use Advanced Software For Pro Recorders
-
-Filmora is an editing tool for professional [video recorders](https://tools.techidaily.com/wondershare/filmora/download/) and editors. Voted 4 out of 5 stars it can be used as a brilliant alternative editing software to Windows Movie Maker and iMovie for those on Macs. As a user of Filmora Wondershare there is no doubt that you will be impressed with the number of functions that are available with the software and also the general capability of it.
-
-In terms of what videos you can import and edit etc. On its newest release of Filmora, it will no longer just be a video editor but it will have a screen recording function added to it as well, as well as a video stabiliser and reverse tool. Best thing about this is current users of the software will be able to download this update complete free of charge. So, how could this function be used?
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
- **Step 1:**  Download & Install the programme. Once opened on the upper left corner of the interface you will notice a record button, click this. Here you can either record from webcam or record computer screen.
-
-![filmora record screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
- **Step 2:**  Select what recording mode you want, what audio output, drag the icon to choose what are you want to record. Choose more options bottom right if necessary. Including implementing hotkeys
-
-![filmora recording mode](https://images.wondershare.com/filmora/guide/recording-05.png)
-
- **Step 3:**  Click record icon. If you think it's OK. Stop recording. Video is automatically saved to the software timeline for you to edit and save.
-
-## Part 2: How to Record Screen with Steps Recorder on Windows 8
-
-If you don't want to download any software, the build-in Step Recorder is a tool that you can use. However, the recorded outcome is the exact steps, not video, so if you want to have video, just skip this part, and go to next part on Windows 8.
-
-**Step 1**: Press **Start** button on keyboard, and then click **Accessories** \> **Problem Steps Recorder** \> **Start Record** on Windows 8.
-
-**Step 2**: Now, start doing what you want to be recorded. During recording, you can choose **Add Comment** to input texts. Then click **OK**.
-
-![step recorder](https://images.wondershare.com/filmora/article-images/record-steps-recorder.jpg)
-
-**Step 3**: If you want finished, select **Stop Record**. The recorder file is a zip folder on Windows 8.
-
-## Part 3: Use Free Chrome Extension
-
-[Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) is a service that works via Google Chrome and is very much one of the top rated screen capture & image annotation tools available to the public.
-
-They have done something for their user base in the form of removing all in-app purchases and making all features including those that were previously premium features. Free for all to use on Windows 8.
-
-Due to the fact that it is a Google Chrome extension it is for capturing web pages - any part of a web page at that. From comments and annotations, to blurring sensitive information it can all be done with extension.
-
-![awesome-screenshot](https://images.wondershare.com/filmora/article-images/awesome-screenshot.jpg)
-
-Steps to download and use it to record computer screen:
-
- **Step 1:**  Download and Install Awesome Screen Shot from the Chrome store
-
- **Step 2:**  Capture your video - You can decide what section of the screen if not the whole screen. Supports both PNG and horizontal scrolling, can capture desktop screen.
-
- **Step 3:**  Annotate & Edit - You can add comments, shapes and annotate how you like, you can then edit the video and share a screenshot to social media.
-
- **Step 4:**  Save & Share - Save to your local disk, once uploaded to the Awesome Screenshot website they will provide a shareable link.
-
-## Part 4: Use Free Recording Software
-
-Ezvid Free Screen Recorders (<https://www.ezvid.com/>) is one of the best free screen recording software on Windows 8\. Ezvid records computer screens but not just websites but games and everything else you may want to record. It has very many features that include a facecam, voice synthesis and screen drawing.
-
-Below is the tutorial video on how to record computer screen:
-
-Here's the stpes:
-
- **Step 1:**  Download and Install Ezvid Free Screen Recorders latest version on Windows 8\. Open the software.
-
- **Step 2:**  Click capture screen button (Make sure you have applied the settings you need). Stop recording when ready - Automatically saves to timeline
-
-![ezvid record screen](https://images.wondershare.com/filmora/article-images/record-videos-ezvid.jpg)
-
- **Step 3:**  Edit the video. You can add marks, lines and color to highlight the area that you think it is important.
-
- **Step 4:**  Save & Upload - The software has an upload to YouTube button. Clik upload diectly to share your recorded video to YouTube.
-
-## Conclusion
-
-These are just a few extensions and software that can be used to record computer screens for your Windows 8 device. They are also the highest voted recording softwares in their fields. Those being chrome extension, free downloadable software, advanced software and build-in tool. Recording your screen on a Windows 8 device need not be complicated and depending on your personal needs one of these three could really help you.
-
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -418,3 +490,49 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-amplify-volume-for-twitters-silent-videos-for-2024/"><u>[New] Amplify Volume for Twitter's Silent Videos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-beginning-usage-of-google-meet-services/"><u>[New] Beginning Usage of Google Meet Services</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-capture-perfection-reviewing-the-best-5-hd-webcams-with-audio/"><u>[New] Capture Perfection  Reviewing The Best 5 HD Webcams with Audio</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-sustainable-design-in-action-the-huawei-p10s-environmental-approach/"><u>[New] In 2024, Sustainable Design in Action  The Huawei P10’s Environmental Approach</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-is-splitcam-the-pinnacle-of-recording-capabilities/"><u>[New] Is SplitCam The Pinnacle of Recording Capabilities?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-leading-zero-cost-online-remote-display-tools-for-teams/"><u>[New] Leading Zero-Cost Online Remote Display Tools for Teams</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-organizing-information-mastery-seamless-integration-of-chapters-in-youtube-videos/"><u>[New] Organizing Information Mastery  Seamless Integration of Chapters in YouTube Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-perfecting-obs-broadcasts-for-facebook-audience/"><u>[New] Perfecting OBS Broadcasts for Facebook Audience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-zooming-into-clarity-a-blueprint-for-crisp-screenshots-for-2024/"><u>[New] Zooming Into Clarity  A Blueprint for Crisp Screenshots for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-a-world-beyond-men-top-10-inspirational-youtube-stars/"><u>[Updated] A World Beyond Men  Top 10 Inspirational YouTube Stars</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-apowersoft-unveils-new-pc-screen-capture-tech/"><u>[Updated] Apowersoft Unveils New PC Screen Capture Tech</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-cutting-edge-solutions-for-webmicrone-capture-with-these-9-tools-23/"><u>[Updated] Cutting-Edge Solutions for Webmicrone Capture with These 9 Tools ('23)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-guide-to-preserving-screen-chats/"><u>[Updated] Essential Guide to Preserving Screen Chats</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-frame-by-frame-findings-insightful-recorder-analysis/"><u>[Updated] Frame by Frame Findings  Insightful Recorder Analysis</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-highest-rated-10-non-game-screenshot-tools/"><u>[Updated] Highest Rated 10 Non-Game Screenshot Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unwind-the-mind-the-ultimate-chill-list/"><u>[Updated] In 2024, Unwind the Mind  The Ultimate Chill List</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mp4-capture-and-analysis-toolkit/"><u>[Updated] MP4 Capture & Analysis Toolkit</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-precision-play-mastering-steams-switch-controllers/"><u>[Updated] Precision Play  Mastering Steam's Switch Controllers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capture-and-share-the-discord-live-stream-method/"><u>2024 Approved  Capture and Share  The Discord Live Stream Method</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-harness-your-screen-with-screencastify-recorder/"><u>2024 Approved  Harness Your Screen with Screencastify Recorder</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-optimize-media-storage-tips-and-tricks-for-mov-on-windows-pcs/"><u>2024 Approved  Optimize Media Storage  Tips & Tricks for .mov on Windows PCs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-platform-prowess-finding-your-future-in-obstwitch/"><u>2024 Approved  Platform Prowess  Finding Your Future in OBS/Twitch</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-honor-80-pro-straight-screen-edition-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Honor 80 Pro Straight Screen Edition Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-lava-yuva-2-device-sim-by-drfone-android/"><u>Easily Unlock Your Lava Yuva 2 Device SIM</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/employing-inbuilt-screen-recording-tools-on-mate-p-models-p20-p10/"><u>Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/enhancing-switch-gaming-with-top-cards/"><u>Enhancing Switch Gaming with Top Cards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-on-configuring-the-taskbar-for-windows-11-slate-devices/"><u>Expert Advice on Configuring the Taskbar for Windows 11 Slate Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/harvest-heartbeats-top-farming-games-for-togetherness/"><u>Harvest Heartbeats  Top Farming Games for Togetherness</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-tecno-spark-20-proplus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Tecno Spark 20 Pro+ Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-craft-the-perfect-twitch-livestream-experience-5-must-try-methods/"><u>In 2024, Craft the Perfect Twitch Livestream Experience  5 Must-Try Methods</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-decoding-veiled-content-on-youtube/"><u>In 2024, Decoding Veiled Content on YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-discovering-the-ultimate-14-stardew-valley-upgrades/"><u>In 2024, Discovering the Ultimate 14  Stardew Valley Upgrades</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-easy-steps-to-securely-record-your-virtual-gatherings-with-google/"><u>In 2024, Easy Steps to Securely Record Your Virtual Gatherings with Google</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-essentials-of-excellence-superior-editing-tips-for-obs-studios/"><u>In 2024, Essentials of Excellence  Superior Editing Tips for OBS Studios</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-analysis-of-yuneecs-typhoon-h-drone-technology/"><u>In 2024, In-Depth Analysis of Yuneec's Typhoon H Drone Technology</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-game-recorder-faceoff-for-2024/"><u>In-Game Recorder Faceoff for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovative-listening-techniques-for-students-with-macs-for-2024/"><u>Innovative Listening Techniques for Students with Macs for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/inside-the-tech-a-comprehensive-review-of-apowersofts-recorder/"><u>Inside the Tech  A Comprehensive Review of Apowersoft’s Recorder</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-top-rated-free-online-libraries-for-guitarists-high-quality-melodies-and-visuals/"><u>New 2024 Approved Top-Rated FREE Online Libraries for Guitarists High-Quality Melodies & Visuals</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-essential-audacity-manual-for-mac-audio-capture/"><u>The Essential Audacity Manual for Mac Audio Capture</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transform-your-pictures-the-leaderboard-of-phone-sticker-enhancers/"><u>Transform Your Pictures - The Leaderboard of Phone Sticker-Enhancers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-comprehensive-guide-to-vimeo-videos-exploring-aspect-ratios-and-their-impact/"><u>Updated In 2024, Comprehensive Guide to Vimeo Videos Exploring Aspect Ratios and Their Impact</u></a></li>
+</ul></div>

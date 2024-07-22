@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Unlocking Google Meet's Whiteboard Capabilities on Diverse Tech Ecosystems\""
-date: 2024-06-26T07:31:42.016Z
-updated: 2024-06-27T07:31:42.016Z
+date: 2024-07-21T17:09:00.053Z
+updated: 2024-07-22T17:09:00.053Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,14 @@ If you are interested in using this fantastic tool, the following article will c
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## **Part 1: What is Jamboard or Whiteboard on Google Meet?**
 
 Google Meet has been a useful video communication facility for professionals and students. Google Meet integrates Jamboard, an online tool that enables you to brainstorm ideas during the virtual meet-up. The meeting host can easily activate Jamboard after starting a meeting. This makes **Google Meet Whiteboarding** easily accessible for all participants during the live session. In this way, students can collaborate with instructors or other students very clearly. Moreover, the whiteboard feature also allows them to answer questions and review notes. Let’s know how to use a whiteboard in Google Meet and how it works.
@@ -61,8 +69,148 @@ Click on the **start a new whiteboard** option**.**
 
 **Note:** This will create a Jam that can be used to visualize ideas on a whiteboard. The link to the Jam can be copied and sent to all participants.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
 
+## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
+
+Unfortunately, you cannot access the **Google Meet Whiteboarding** feature when using Google Meet through its website on your smartphone. Thus, it is recommended to use third-party tools for using the whiteboard feature. In this case, you have to share your screen in the Google Meet session and then navigate to the third-party app having a built-in whiteboard. However, the participants will not be able to make any changes on the whiteboard, and they can only watch the visuals of your screen. Are you an iPhone user and want to use whiteboard apps? If yes, the following step-by-step guide will help you.
+
+**Step 1: Download the Microsoft whiteboard app**
+
+Navigate the Microsoft app in the app store and click install.
+
+**Step 2: Join Google meeting room and share screen**
+
+Click three dots at the bottom and select share screen. Press the **start sharing** button to confirm the action.
+
+**Step 3: Use whiteboard in the Microsoft app**
+
+Go to your home page and launch the Microsoft Whiteboard.
+
+**Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
+
+Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Android devices. Even if you try accessing Google Meet from the browser on your android phone, you are likely to be redirected to Google Meet, where there is no whiteboard option. So, the only way out is to download an external whiteboard app from Playstore and use its whiteboard. Your whiteboard activity will be visible to other participants in a Google Meet session when you share the screen. However, this option is only viable if you are the only one illustrating on the whiteboard and no other participants are required to perform any whiteboard activity. If this works for you, follow the step-by-step guide below.
+
+**Step 1: Download the Whiteboard application**
+
+**Find the Whiteboard app on the Google Playstore and click install**.
+
+**Step 2: Join Meeting and Share screen**
+
+**Click new meeting and press dots at the bottom of your screen. Select the screen sharing option and confirm it.**
+
+**Step 3: Access the Whiteboard app**
+
+**Navigate to your home page and launch the whiteboard app. What you draw on the whiteboard will be visible to the meeting attendees.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## **Bonus: How to Save and Send Jams as PDFs?**
+
+Once you end up in a meeting, the Jamboard activity can be shared in a PDF file. This can help you recall the discussion during a class or seminar. Similarly, the saved Jams can also help you narrow down random ideas generated after brainstorming. Sounds Interesting? Learn to save and send Jams as PDF by following the easy steps.
+
+**Step 1: Open Jam**
+
+Click on the Jam you want to download. Jamboard files will be visible at the right side of your Google Meet main window.
+
+**Step 2: Open action list**
+
+Click on the **three dots** at the top to access the **more actions** menu.
+
+**Step 3: Download as PDF**
+
+Select **Download as PDF** from the list of options. Locate the downloaded file in your download folder.
+
+**Note:** The downloaded PDF file can be shared as an attachment in the email. Likewise, you may use any other platform such as Whatsapp Web to send the saved Jams to your students, colleagues, and others.
+
+![save Google Meet whiteboard as pdf](https://images.wondershare.com/filmora/article-images/download-google-meet-whiteboard-as-pdf.jpg)
+
+**Conclusion**
+
+Google Meet allows its users to enjoy the vast collection of built-in tools. **Google Meet whiteboarding** is another helpful feature that makes brainstorming and visual illustration easy and efficient. The maximum utility of this feature is when you use it on your desktop or laptop. This gives all attendees whiteboard editing access. However, for mobile phone users, editing access is only for using an external whiteboard app. This article covered all dimensions, including setting up, using, and sharing whiteboards on Google Meet. So, no matter which device you are using, take advantage of the whiteboard feature to make your virtual meetings more interactive and interesting.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Virtual whiteboards have been widely used to facilitate participants in online meetings. So, video-conferencing applications provide their users with a whiteboard to keep track of the discussion during a video call. **Google Meet whiteboarding** is one of the most effective tools for Google Meet users to make explanations easy. You can draw things on a **whiteboard in Google Meet** to make the video session more interactive and exciting.
+
+If you are interested in using this fantastic tool, the following article will cover all the relevant details alongside an easy guide to use a whiteboard. Let’s get started.
+
+* [Part 1: What is Jamboard or Whiteboard on Google Meet?](#part1)
+* [Part 2: How to Use a Whiteboard in Google Meet on a Laptop?](#part2)
+* [Part 3: How to Use a Whiteboard in Google Meet on iPhone?](#part3)
+* [Part 4: How to Use a Whiteboard in Google Meet on an Android Device?](#part4)
+* [Part 5: How to Save and Send Jams as PDFs?](#part5)
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
+## **Part 1: What is Jamboard or Whiteboard on Google Meet?**
+
+Google Meet has been a useful video communication facility for professionals and students. Google Meet integrates Jamboard, an online tool that enables you to brainstorm ideas during the virtual meet-up. The meeting host can easily activate Jamboard after starting a meeting. This makes **Google Meet Whiteboarding** easily accessible for all participants during the live session. In this way, students can collaborate with instructors or other students very clearly. Moreover, the whiteboard feature also allows them to answer questions and review notes. Let’s know how to use a whiteboard in Google Meet and how it works.
+
+## **Part 2: How to Use a Whiteboard in Google Meet on a Laptop?**
+
+The in-built whiteboard can be comfortably used in Google Meet on a laptop. You do not need any extension or third-party application to use a whiteboard. Moreover, you can create a new whiteboard or use the one you have already created. You can access the already saved whiteboard from Google Drive. If you want to excel in the art of creating a whiteboard on Google Meet, we have summarized the process in simple steps.
+
+**Step 1: Join Google Meeting**
+
+Open Google Meet and click **new meeting** to host a meeting.
+
+**Note:** You may also join the meeting using the invitation code or invite link.
+
+**Step 2: Locate the whiteboard.**
+
+Click on the **three dots** at the bottom of your screen and select **the whiteboard** at the top of the menu list.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
+![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
+
+**Step 3: Create Whiteboard**
+
+Click on the **start a new whiteboard** option**.**
+
+**Note:** This will create a Jam that can be used to visualize ideas on a whiteboard. The link to the Jam can be copied and sent to all participants.
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
+![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
 
 Unfortunately, you cannot access the **Google Meet Whiteboarding** feature when using Google Meet through its website on your smartphone. Thus, it is recommended to use third-party tools for using the whiteboard feature. In this case, you have to share your screen in the Google Meet session and then navigate to the third-party app having a built-in whiteboard. However, the participants will not be able to make any changes on the whiteboard, and they can only watch the visuals of your screen. Are you an iPhone user and want to use whiteboard apps? If yes, the following step-by-step guide will help you.
@@ -97,8 +245,14 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 
 **Navigate to your home page and launch the whiteboard app. What you draw on the whiteboard will be visible to the meeting attendees.**
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## **Bonus: How to Save and Send Jams as PDFs?**
 
 Once you end up in a meeting, the Jamboard activity can be shared in a PDF file. This can help you recall the discussion during a class or seminar. Similarly, the saved Jams can also help you narrow down random ideas generated after brainstorming. Sounds Interesting? Learn to save and send Jams as PDF by following the easy steps.
@@ -211,6 +365,9 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## **Bonus: How to Save and Send Jams as PDFs?**
 
 Once you end up in a meeting, the Jamboard activity can be shared in a PDF file. This can help you recall the discussion during a class or seminar. Similarly, the saved Jams can also help you narrow down random ideas generated after brainstorming. Sounds Interesting? Learn to save and send Jams as PDF by following the easy steps.
@@ -259,6 +416,9 @@ If you are interested in using this fantastic tool, the following article will c
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Part 1: What is Jamboard or Whiteboard on Google Meet?**
 
 Google Meet has been a useful video communication facility for professionals and students. Google Meet integrates Jamboard, an online tool that enables you to brainstorm ideas during the virtual meet-up. The meeting host can easily activate Jamboard after starting a meeting. This makes **Google Meet Whiteboarding** easily accessible for all participants during the live session. In this way, students can collaborate with instructors or other students very clearly. Moreover, the whiteboard feature also allows them to answer questions and review notes. Let’s know how to use a whiteboard in Google Meet and how it works.
@@ -285,8 +445,14 @@ Click on the **start a new whiteboard** option**.**
 
 **Note:** This will create a Jam that can be used to visualize ideas on a whiteboard. The link to the Jam can be copied and sent to all participants.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
 
 Unfortunately, you cannot access the **Google Meet Whiteboarding** feature when using Google Meet through its website on your smartphone. Thus, it is recommended to use third-party tools for using the whiteboard feature. In this case, you have to share your screen in the Google Meet session and then navigate to the third-party app having a built-in whiteboard. However, the participants will not be able to make any changes on the whiteboard, and they can only watch the visuals of your screen. Are you an iPhone user and want to use whiteboard apps? If yes, the following step-by-step guide will help you.
@@ -323,6 +489,9 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Bonus: How to Save and Send Jams as PDFs?**
 
 Once you end up in a meeting, the Jamboard activity can be shared in a PDF file. This can help you recall the discussion during a class or seminar. Similarly, the saved Jams can also help you narrow down random ideas generated after brainstorming. Sounds Interesting? Learn to save and send Jams as PDF by following the easy steps.
@@ -341,118 +510,9 @@ Select **Download as PDF** from the list of options. Locate the downloaded file 
 
 **Note:** The downloaded PDF file can be shared as an attachment in the email. Likewise, you may use any other platform such as Whatsapp Web to send the saved Jams to your students, colleagues, and others.
 
-![save Google Meet whiteboard as pdf](https://images.wondershare.com/filmora/article-images/download-google-meet-whiteboard-as-pdf.jpg)
-
-**Conclusion**
-
-Google Meet allows its users to enjoy the vast collection of built-in tools. **Google Meet whiteboarding** is another helpful feature that makes brainstorming and visual illustration easy and efficient. The maximum utility of this feature is when you use it on your desktop or laptop. This gives all attendees whiteboard editing access. However, for mobile phone users, editing access is only for using an external whiteboard app. This article covered all dimensions, including setting up, using, and sharing whiteboards on Google Meet. So, no matter which device you are using, take advantage of the whiteboard feature to make your virtual meetings more interactive and interesting.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Virtual whiteboards have been widely used to facilitate participants in online meetings. So, video-conferencing applications provide their users with a whiteboard to keep track of the discussion during a video call. **Google Meet whiteboarding** is one of the most effective tools for Google Meet users to make explanations easy. You can draw things on a **whiteboard in Google Meet** to make the video session more interactive and exciting.
-
-If you are interested in using this fantastic tool, the following article will cover all the relevant details alongside an easy guide to use a whiteboard. Let’s get started.
-
-* [Part 1: What is Jamboard or Whiteboard on Google Meet?](#part1)
-* [Part 2: How to Use a Whiteboard in Google Meet on a Laptop?](#part2)
-* [Part 3: How to Use a Whiteboard in Google Meet on iPhone?](#part3)
-* [Part 4: How to Use a Whiteboard in Google Meet on an Android Device?](#part4)
-* [Part 5: How to Save and Send Jams as PDFs?](#part5)
-
----
-
-## **Part 1: What is Jamboard or Whiteboard on Google Meet?**
-
-Google Meet has been a useful video communication facility for professionals and students. Google Meet integrates Jamboard, an online tool that enables you to brainstorm ideas during the virtual meet-up. The meeting host can easily activate Jamboard after starting a meeting. This makes **Google Meet Whiteboarding** easily accessible for all participants during the live session. In this way, students can collaborate with instructors or other students very clearly. Moreover, the whiteboard feature also allows them to answer questions and review notes. Let’s know how to use a whiteboard in Google Meet and how it works.
-
-## **Part 2: How to Use a Whiteboard in Google Meet on a Laptop?**
-
-The in-built whiteboard can be comfortably used in Google Meet on a laptop. You do not need any extension or third-party application to use a whiteboard. Moreover, you can create a new whiteboard or use the one you have already created. You can access the already saved whiteboard from Google Drive. If you want to excel in the art of creating a whiteboard on Google Meet, we have summarized the process in simple steps.
-
-**Step 1: Join Google Meeting**
-
-Open Google Meet and click **new meeting** to host a meeting.
-
-**Note:** You may also join the meeting using the invitation code or invite link.
-
-**Step 2: Locate the whiteboard.**
-
-Click on the **three dots** at the bottom of your screen and select **the whiteboard** at the top of the menu list.
-
-![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
-
-**Step 3: Create Whiteboard**
-
-Click on the **start a new whiteboard** option**.**
-
-**Note:** This will create a Jam that can be used to visualize ideas on a whiteboard. The link to the Jam can be copied and sent to all participants.
-
-![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
-
-## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
-
-Unfortunately, you cannot access the **Google Meet Whiteboarding** feature when using Google Meet through its website on your smartphone. Thus, it is recommended to use third-party tools for using the whiteboard feature. In this case, you have to share your screen in the Google Meet session and then navigate to the third-party app having a built-in whiteboard. However, the participants will not be able to make any changes on the whiteboard, and they can only watch the visuals of your screen. Are you an iPhone user and want to use whiteboard apps? If yes, the following step-by-step guide will help you.
-
-**Step 1: Download the Microsoft whiteboard app**
-
-Navigate the Microsoft app in the app store and click install.
-
-**Step 2: Join Google meeting room and share screen**
-
-Click three dots at the bottom and select share screen. Press the **start sharing** button to confirm the action.
-
-**Step 3: Use whiteboard in the Microsoft app**
-
-Go to your home page and launch the Microsoft Whiteboard.
-
-**Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
-
-## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
-
-Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Android devices. Even if you try accessing Google Meet from the browser on your android phone, you are likely to be redirected to Google Meet, where there is no whiteboard option. So, the only way out is to download an external whiteboard app from Playstore and use its whiteboard. Your whiteboard activity will be visible to other participants in a Google Meet session when you share the screen. However, this option is only viable if you are the only one illustrating on the whiteboard and no other participants are required to perform any whiteboard activity. If this works for you, follow the step-by-step guide below.
-
-**Step 1: Download the Whiteboard application**
-
-**Find the Whiteboard app on the Google Playstore and click install**.
-
-**Step 2: Join Meeting and Share screen**
-
-**Click new meeting and press dots at the bottom of your screen. Select the screen sharing option and confirm it.**
-
-**Step 3: Access the Whiteboard app**
-
-**Navigate to your home page and launch the whiteboard app. What you draw on the whiteboard will be visible to the meeting attendees.**
-
-![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
-
-## **Bonus: How to Save and Send Jams as PDFs?**
-
-Once you end up in a meeting, the Jamboard activity can be shared in a PDF file. This can help you recall the discussion during a class or seminar. Similarly, the saved Jams can also help you narrow down random ideas generated after brainstorming. Sounds Interesting? Learn to save and send Jams as PDF by following the easy steps.
-
-**Step 1: Open Jam**
-
-Click on the Jam you want to download. Jamboard files will be visible at the right side of your Google Meet main window.
-
-**Step 2: Open action list**
-
-Click on the **three dots** at the top to access the **more actions** menu.
-
-**Step 3: Download as PDF**
-
-Select **Download as PDF** from the list of options. Locate the downloaded file in your download folder.
-
-**Note:** The downloaded PDF file can be shared as an attachment in the email. Likewise, you may use any other platform such as Whatsapp Web to send the saved Jams to your students, colleagues, and others.
-
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![save Google Meet whiteboard as pdf](https://images.wondershare.com/filmora/article-images/download-google-meet-whiteboard-as-pdf.jpg)
 
 **Conclusion**
@@ -492,3 +552,39 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-10-essential-tools-for-successful-webinars/"><u>[New] 2024 Approved  10 Essential Tools for Successful Webinars</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-acclaimed-tools-the-finest-ps1-emulators-for-pc-gaming/"><u>[New] 2024 Approved  Acclaimed Tools  The Finest PS1 Emulators for PC Gaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-digital-diaries-of-a-mini-guy-top-6-techniques-for-recording-games/"><u>[New] 2024 Approved  Digital Diaries of a Mini-Guy  Top 6 Techniques for Recording Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-in-device-recorder-activation-huaweis-mate-1020-and-p-series-phones-p20-p10/"><u>[New] 2024 Approved  In-Device Recorder Activation  Huawei's Mate 10/20 & P Series Phones (P20, P10)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-innovative-ways-to-record-and-preserve-streaming-sounds-online/"><u>[New] 2024 Approved  Innovative Ways to Record and Preserve Streaming Sounds Online</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-inside-stardust-an-extensive-exploration-of-stardew-valley-with-a-focus-on-its-enigmatic-island-ginger-isle/"><u>[New] 2024 Approved  Inside Stardust  An Extensive Exploration of Stardew Valley with a Focus on Its Enigmatic Island - Ginger Isle</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ai-driven-open-source-screen-recorder-tools-guide-for-2024/"><u>[New] AI-Driven Open-Source Screen Recorder Tools Guide for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-breakdown-of-sharex-expert-opinions-and-alternatives-for-2024/"><u>[New] Breakdown of ShareX  Expert Opinions & Alternatives for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-comprehensive-look-at-razer-kiyo-webcam-for-2024/"><u>[New] Comprehensive Look at Razer Kiyo Webcam for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-deciphering-bandicams-latest-2023-capabilities-for-2024/"><u>[New] Deciphering Bandicam's Latest 2023 Capabilities for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-altering-who-can-access-your-youtube-videos/"><u>[New] In 2024, Altering Who Can Access Your YouTube Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-comprehensive-app-audit-by-az-recorder/"><u>[New] In 2024, Comprehensive App Audit by AZ Recorder</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-employing-inbuilt-screen-recording-tools-on-mate-p-models-p20-p10/"><u>[New] In 2024, Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-design-with-confidence-best-free-high-quality-windowsmac-capture-tools/"><u>[Updated] 2024 Approved  Design with Confidence  Best Free, High-Quality Windows/Mac Capture Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-easyscreen-videotaker-analysis-plus-other-apps/"><u>[Updated] 2024 Approved  EasyScreen Videotaker Analysis + Other Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-free-and-paid-options-to-perfectly-document-every-google-meet/"><u>[Updated] 2024 Approved  Free & Paid Options to Perfectly Document Every Google Meet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-how-to-use-io-screen-recorder/"><u>[Updated] 2024 Approved  How to Use IO Screen Recorder</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-a-comprehensible-list-of-mac-snippers-ranked-for-2024/"><u>[Updated] A Comprehensible List of Mac Snippers Ranked for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-game-on-securing-your-playthroughs-in-win10/"><u>[Updated] In 2024, Game On  Securing Your Playthroughs in Win10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-high-quality-recording-for-winscreening-users-here-are-the-leaders/"><u>[Updated] In 2024, High-Quality Recording for Winscreening Users, Here Are the Leaders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unlocking-webcam-potential-in-modern-tech/"><u>[Updated] Unlocking Webcam Potential in Modern Tech</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-zero-watermark-desktop-video-streaming/"><u>[Updated] Zero Watermark Desktop Video Streaming</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-chucklechief-easy-meme-design-tool/"><u>2024 Approved  ChuckleChief  Easy Meme Design Tool</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-cutting-edge-audio-transition-tips-in-premier/"><u>2024 Approved  Cutting-Edge Audio Transition Tips in Premier</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-panorama-pro-network-partnership-guide/"><u>2024 Approved  Panorama Pro Network Partnership Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-proven-strategies-for-flawless-xbox-video-capture/"><u>2024 Approved  Proven Strategies for Flawless Xbox Video Capture</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-the-art-of-sound-alteration-a-critical-review-of-leading-instant-voice-transformation-software/"><u>2024 Approved The Art of Sound Alteration A Critical Review of Leading Instant Voice Transformation Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/expert-tips-for-capturing-your-gaming-skills-in-obs-for-2024/"><u>Expert Tips for Capturing Your Gaming Skills in OBS for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-xiaomi-11-a-new-era-of-high-fidelity-video-recording/"><u>In 2024, Xiaomi 11  A New Era of High Fidelity Video Recording</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-lenovo-thinkphone-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Lenovo ThinkPhone FRP Without Computer</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-mac-video-editing-made-easy-the-best-software-of/"><u>Updated Mac Video Editing Made Easy The Best Software Of</u></a></li>
+<li><a href="https://techidaily.com/why-cant-i-play-mp4-files-on-my-galaxy-s24-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Galaxy S24?</u></a></li>
+</ul></div>
