@@ -1,0 +1,536 @@
+---
+title: "[Updated] In 2024, Streamlined Approaches to Documenting WhatsApp Discussions"
+date: 2024-08-10T13:08:40.222Z
+updated: 2024-08-11T13:08:40.222Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+categories: 
+  - ai
+  - screen
+description: "This Article Describes [Updated] In 2024, Streamlined Approaches to Documenting WhatsApp Discussions"
+excerpt: "This Article Describes [Updated] In 2024, Streamlined Approaches to Documenting WhatsApp Discussions"
+keywords: "\"WhatsApp Dialogue Recording,Streamline Chat Logging,Efficient Chat Transcription,WhatApp Conversation Tracking,Optimized Discussion Note-Taking,Simplified Messaging Archives,Directed WhatsApp Transcripts\""
+thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660eba98a715724fa951b431ee.jpg
+---
+
+## Streamlined Approaches to Documenting WhatsApp Discussions
+
+WhatsApp is the most popular instant messaging app. Not just for instant messages, WhatsApp is also popular for its audio and video calling features. Most WhatsApp users use calling feature for personal communication. However, even corporates use WhatsApp to talk to team members and have a quick discussion. One of the common questions we come across from WhatsApp users “Can WhatsApp call be recorded?”
+
+However, there is no default call recording option available. Therefore, you will need an external **WhatsApp call recording app** if you want to record your call on your Phone. Similarly, you will need an external software to record WhatsApp call on your computer. In this article, we will illustrate how to record a WhatsApp call in simple steps.
+
+Way 1. [How to Record WhatsApp Call on PC](#part1)
+
+Way 2. [Record a WhatsApp Call on Android](#part2)
+
+Way 3. [Record WhatsApp Video Call on iPhone](#part3)
+
+## Part 1\. How to Record WhatsApp Call on PC?
+
+Do you know that you can download WhatsApp for Windows or Mac, and you can enjoy WhatsApp video calling feature directly from your computer? You should visit whatsapp.com/download from the web browser of your computer and download and install WhatsApp for Desktop. Connect your WhatsApp account, and you can receive WhatsApp call from your WhatsApp contact anytime you want.
+
+WhatsApp for Desktop or WhatsApp for Web has limited features. You cannot make calls, but you can receive calls. If you want all the features on your computer, you have to install WhatsApp through simulators like BlueStacks. If you want to record WhatsApp call on your computer, you need a WhatsApp call recorder. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to record anything on the screen with audio including WhatsApp video calls. Here are the steps to follow.
+
+Step 1: Download and install Wondershare Filmora for Windows or Mac whichever is applicable.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 2: Launch Filmora and click on New Project option.
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+Step 3: Go to Record> Record PC Screen option.
+
+Step 4: Get WhatsApp for Desktop or WhatsApp Web ready for the video call. Ask your contact to video call you so that you can pick it from your computer. Click on the Record button to start recording the screen.
+
+![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
+
+You will get a few seconds to start WhatsApp video call and the [record computer screen](https://tools.techidaily.com/wondershare/filmora/download/) process will begin.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2\. How to Record a WhatsApp Call on Android?
+
+WhatsApp is the most popular messaging app among Android users. WhatsApp has literally replaced text messaging and its free audio call feature is widely used as an alternative to traditional call. At the same time, users prefer WhatsApp video call over audio call for personal communication with contacts. Due to its usage more for personal communication over professional communication, there is no WhatsApp record feature available for security and privacy reason.
+
+That is why you will need an external screen recorder app and we recommend AZ Screen Recorder. The app is free to use and very easy to operate. With a single tap, you can record anything on the screen including WhatsApp call. Here are the steps to follow to record WhatsApp call on Android.
+
+![az screen recorder](https://images.wondershare.com/filmora/article-images/az-screen-recorder.jpg)
+
+Step 1: Go to Play Store from your Android device and install AZ Screen Recorder app.
+
+Step 2: Launch AZ Screen Recorder and the app will provide you with a pop-up overlay bar on the screen.
+
+Step 3: Open WhatsApp and go to the conversation of the person whom you want to video call.
+
+Step 4: On AZ Screen Recorder bar, tap on Record icon. You will get 3 seconds of buffer time to start your WhatsApp video call. Thereafter, the app will start recording the screen which is your WhatsApp video call in this case.
+
+Step 5: When you have finished your video call, tap on Stop icon on AZ Screen Recorder bar. The recorded video file will be available in the phone gallery.
+
+## Part 3\. How to Record WhatsApp Video Call on iPhone?
+
+There are two options available for iPhone users depending on iOS version of your iPhone. If you are using an iPhone with iOS 11 or higher, you can use the default screen recorder feature available to record WhatsApp call. However, if your iPhone has iOS lower than 11, you can either update iOS to 11 or use a WhatsApp video call recorder. Otherwise, you can connect your iPhone to Mac, and you can use QuickTime Player to record WhatsApp video call.
+
+Using iOS Inbuilt Screen Recorder -
+
+![iphone screen recorder](https://images.wondershare.com/filmora/article-images/iphone-screen-recording.jpg)
+
+Step 1: Go to Settings> Control Centre.
+
+Step 2: Turn on Screen Recording option.
+
+Step 3: Open WhatsApp and prepare for the video call.
+
+Step 4: Open Control Centre on your iPhone.
+
+Step 5: Tap on Screen Recording icon and thereafter, start WhatsApp video call to record.
+
+Use QuickTime Player on Mac -
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![quicktime audio recorder](https://images.wondershare.com/filmora/article-images/quicktime-new-movie-recording.jpg)
+
+Step 1: Connect your iPhone to your Mac through lightning cable.
+
+Step 2: Launch QuickTime Player and go to File> New Audio Recording option.
+
+Step 3: Choose iPhone as the microphone source and click on Record button.
+
+Step 4: On your iPhone, make WhatsApp call with your chosen person, and QuickTime will be recording the conversation.
+
+Step 5: Once the call is over, you need to stop the recording and go to File> Save to save the recorded file on your computer.
+
+##### Filmora Screen Recorder
+
+Record computer screen and webcam
+
+Capture system and microphone audio
+
+Customize the target recording area
+
+Edit videos with thousands of effects and tools
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## The Bottom Line
+
+Hopefully, you have understood how to record WhatsApp video call on your device. If you are using your computer for WhatsApp call, we recommend Wondershare Filmora for Windows and Mac. For Android users, you suggest AZ Screen Recorder. For iPhone users, you can use inbuilt screen recording feature or connect your iPhone to Mac and record with QuickTime Player for free.
+
+Way 2. [Record a WhatsApp Call on Android](#part2)
+
+Way 3. [Record WhatsApp Video Call on iPhone](#part3)
+
+## Part 1\. How to Record WhatsApp Call on PC?
+
+Do you know that you can download WhatsApp for Windows or Mac, and you can enjoy WhatsApp video calling feature directly from your computer? You should visit whatsapp.com/download from the web browser of your computer and download and install WhatsApp for Desktop. Connect your WhatsApp account, and you can receive WhatsApp call from your WhatsApp contact anytime you want.
+
+WhatsApp for Desktop or WhatsApp for Web has limited features. You cannot make calls, but you can receive calls. If you want all the features on your computer, you have to install WhatsApp through simulators like BlueStacks. If you want to record WhatsApp call on your computer, you need a WhatsApp call recorder. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to record anything on the screen with audio including WhatsApp video calls. Here are the steps to follow.
+
+Step 1: Download and install Wondershare Filmora for Windows or Mac whichever is applicable.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 2: Launch Filmora and click on New Project option.
+
+![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+Step 3: Go to Record> Record PC Screen option.
+
+Step 4: Get WhatsApp for Desktop or WhatsApp Web ready for the video call. Ask your contact to video call you so that you can pick it from your computer. Click on the Record button to start recording the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
+![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
+
+You will get a few seconds to start WhatsApp video call and the [record computer screen](https://tools.techidaily.com/wondershare/filmora/download/) process will begin.
+
+## Part 2\. How to Record a WhatsApp Call on Android?
+
+WhatsApp is the most popular messaging app among Android users. WhatsApp has literally replaced text messaging and its free audio call feature is widely used as an alternative to traditional call. At the same time, users prefer WhatsApp video call over audio call for personal communication with contacts. Due to its usage more for personal communication over professional communication, there is no WhatsApp record feature available for security and privacy reason.
+
+That is why you will need an external screen recorder app and we recommend AZ Screen Recorder. The app is free to use and very easy to operate. With a single tap, you can record anything on the screen including WhatsApp call. Here are the steps to follow to record WhatsApp call on Android.
+
+![az screen recorder](https://images.wondershare.com/filmora/article-images/az-screen-recorder.jpg)
+
+Step 1: Go to Play Store from your Android device and install AZ Screen Recorder app.
+
+Step 2: Launch AZ Screen Recorder and the app will provide you with a pop-up overlay bar on the screen.
+
+Step 3: Open WhatsApp and go to the conversation of the person whom you want to video call.
+
+Step 4: On AZ Screen Recorder bar, tap on Record icon. You will get 3 seconds of buffer time to start your WhatsApp video call. Thereafter, the app will start recording the screen which is your WhatsApp video call in this case.
+
+Step 5: When you have finished your video call, tap on Stop icon on AZ Screen Recorder bar. The recorded video file will be available in the phone gallery.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## Part 3\. How to Record WhatsApp Video Call on iPhone?
+
+There are two options available for iPhone users depending on iOS version of your iPhone. If you are using an iPhone with iOS 11 or higher, you can use the default screen recorder feature available to record WhatsApp call. However, if your iPhone has iOS lower than 11, you can either update iOS to 11 or use a WhatsApp video call recorder. Otherwise, you can connect your iPhone to Mac, and you can use QuickTime Player to record WhatsApp video call.
+
+Using iOS Inbuilt Screen Recorder -
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![iphone screen recorder](https://images.wondershare.com/filmora/article-images/iphone-screen-recording.jpg)
+
+Step 1: Go to Settings> Control Centre.
+
+Step 2: Turn on Screen Recording option.
+
+Step 3: Open WhatsApp and prepare for the video call.
+
+Step 4: Open Control Centre on your iPhone.
+
+Step 5: Tap on Screen Recording icon and thereafter, start WhatsApp video call to record.
+
+Use QuickTime Player on Mac -
+
+![quicktime audio recorder](https://images.wondershare.com/filmora/article-images/quicktime-new-movie-recording.jpg)
+
+Step 1: Connect your iPhone to your Mac through lightning cable.
+
+Step 2: Launch QuickTime Player and go to File> New Audio Recording option.
+
+Step 3: Choose iPhone as the microphone source and click on Record button.
+
+Step 4: On your iPhone, make WhatsApp call with your chosen person, and QuickTime will be recording the conversation.
+
+Step 5: Once the call is over, you need to stop the recording and go to File> Save to save the recorded file on your computer.
+
+##### Filmora Screen Recorder
+
+Record computer screen and webcam
+
+Capture system and microphone audio
+
+Customize the target recording area
+
+Edit videos with thousands of effects and tools
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
+## The Bottom Line
+
+Hopefully, you have understood how to record WhatsApp video call on your device. If you are using your computer for WhatsApp call, we recommend Wondershare Filmora for Windows and Mac. For Android users, you suggest AZ Screen Recorder. For iPhone users, you can use inbuilt screen recording feature or connect your iPhone to Mac and record with QuickTime Player for free.
+
+Way 2. [Record a WhatsApp Call on Android](#part2)
+
+Way 3. [Record WhatsApp Video Call on iPhone](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
+## Part 1\. How to Record WhatsApp Call on PC?
+
+Do you know that you can download WhatsApp for Windows or Mac, and you can enjoy WhatsApp video calling feature directly from your computer? You should visit whatsapp.com/download from the web browser of your computer and download and install WhatsApp for Desktop. Connect your WhatsApp account, and you can receive WhatsApp call from your WhatsApp contact anytime you want.
+
+WhatsApp for Desktop or WhatsApp for Web has limited features. You cannot make calls, but you can receive calls. If you want all the features on your computer, you have to install WhatsApp through simulators like BlueStacks. If you want to record WhatsApp call on your computer, you need a WhatsApp call recorder. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to record anything on the screen with audio including WhatsApp video calls. Here are the steps to follow.
+
+Step 1: Download and install Wondershare Filmora for Windows or Mac whichever is applicable.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 2: Launch Filmora and click on New Project option.
+
+![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+Step 3: Go to Record> Record PC Screen option.
+
+Step 4: Get WhatsApp for Desktop or WhatsApp Web ready for the video call. Ask your contact to video call you so that you can pick it from your computer. Click on the Record button to start recording the screen.
+
+![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
+
+You will get a few seconds to start WhatsApp video call and the [record computer screen](https://tools.techidaily.com/wondershare/filmora/download/) process will begin.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
+## Part 2\. How to Record a WhatsApp Call on Android?
+
+WhatsApp is the most popular messaging app among Android users. WhatsApp has literally replaced text messaging and its free audio call feature is widely used as an alternative to traditional call. At the same time, users prefer WhatsApp video call over audio call for personal communication with contacts. Due to its usage more for personal communication over professional communication, there is no WhatsApp record feature available for security and privacy reason.
+
+That is why you will need an external screen recorder app and we recommend AZ Screen Recorder. The app is free to use and very easy to operate. With a single tap, you can record anything on the screen including WhatsApp call. Here are the steps to follow to record WhatsApp call on Android.
+
+![az screen recorder](https://images.wondershare.com/filmora/article-images/az-screen-recorder.jpg)
+
+Step 1: Go to Play Store from your Android device and install AZ Screen Recorder app.
+
+Step 2: Launch AZ Screen Recorder and the app will provide you with a pop-up overlay bar on the screen.
+
+Step 3: Open WhatsApp and go to the conversation of the person whom you want to video call.
+
+Step 4: On AZ Screen Recorder bar, tap on Record icon. You will get 3 seconds of buffer time to start your WhatsApp video call. Thereafter, the app will start recording the screen which is your WhatsApp video call in this case.
+
+Step 5: When you have finished your video call, tap on Stop icon on AZ Screen Recorder bar. The recorded video file will be available in the phone gallery.
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3\. How to Record WhatsApp Video Call on iPhone?
+
+There are two options available for iPhone users depending on iOS version of your iPhone. If you are using an iPhone with iOS 11 or higher, you can use the default screen recorder feature available to record WhatsApp call. However, if your iPhone has iOS lower than 11, you can either update iOS to 11 or use a WhatsApp video call recorder. Otherwise, you can connect your iPhone to Mac, and you can use QuickTime Player to record WhatsApp video call.
+
+Using iOS Inbuilt Screen Recorder -
+
+![iphone screen recorder](https://images.wondershare.com/filmora/article-images/iphone-screen-recording.jpg)
+
+Step 1: Go to Settings> Control Centre.
+
+Step 2: Turn on Screen Recording option.
+
+Step 3: Open WhatsApp and prepare for the video call.
+
+Step 4: Open Control Centre on your iPhone.
+
+Step 5: Tap on Screen Recording icon and thereafter, start WhatsApp video call to record.
+
+Use QuickTime Player on Mac -
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+![quicktime audio recorder](https://images.wondershare.com/filmora/article-images/quicktime-new-movie-recording.jpg)
+
+Step 1: Connect your iPhone to your Mac through lightning cable.
+
+Step 2: Launch QuickTime Player and go to File> New Audio Recording option.
+
+Step 3: Choose iPhone as the microphone source and click on Record button.
+
+Step 4: On your iPhone, make WhatsApp call with your chosen person, and QuickTime will be recording the conversation.
+
+Step 5: Once the call is over, you need to stop the recording and go to File> Save to save the recorded file on your computer.
+
+##### Filmora Screen Recorder
+
+Record computer screen and webcam
+
+Capture system and microphone audio
+
+Customize the target recording area
+
+Edit videos with thousands of effects and tools
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## The Bottom Line
+
+Hopefully, you have understood how to record WhatsApp video call on your device. If you are using your computer for WhatsApp call, we recommend Wondershare Filmora for Windows and Mac. For Android users, you suggest AZ Screen Recorder. For iPhone users, you can use inbuilt screen recording feature or connect your iPhone to Mac and record with QuickTime Player for free.
+
+Way 2. [Record a WhatsApp Call on Android](#part2)
+
+Way 3. [Record WhatsApp Video Call on iPhone](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
+## Part 1\. How to Record WhatsApp Call on PC?
+
+Do you know that you can download WhatsApp for Windows or Mac, and you can enjoy WhatsApp video calling feature directly from your computer? You should visit whatsapp.com/download from the web browser of your computer and download and install WhatsApp for Desktop. Connect your WhatsApp account, and you can receive WhatsApp call from your WhatsApp contact anytime you want.
+
+WhatsApp for Desktop or WhatsApp for Web has limited features. You cannot make calls, but you can receive calls. If you want all the features on your computer, you have to install WhatsApp through simulators like BlueStacks. If you want to record WhatsApp call on your computer, you need a WhatsApp call recorder. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to record anything on the screen with audio including WhatsApp video calls. Here are the steps to follow.
+
+Step 1: Download and install Wondershare Filmora for Windows or Mac whichever is applicable.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 2: Launch Filmora and click on New Project option.
+
+![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+Step 3: Go to Record> Record PC Screen option.
+
+Step 4: Get WhatsApp for Desktop or WhatsApp Web ready for the video call. Ask your contact to video call you so that you can pick it from your computer. Click on the Record button to start recording the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
+
+You will get a few seconds to start WhatsApp video call and the [record computer screen](https://tools.techidaily.com/wondershare/filmora/download/) process will begin.
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+## Part 2\. How to Record a WhatsApp Call on Android?
+
+WhatsApp is the most popular messaging app among Android users. WhatsApp has literally replaced text messaging and its free audio call feature is widely used as an alternative to traditional call. At the same time, users prefer WhatsApp video call over audio call for personal communication with contacts. Due to its usage more for personal communication over professional communication, there is no WhatsApp record feature available for security and privacy reason.
+
+That is why you will need an external screen recorder app and we recommend AZ Screen Recorder. The app is free to use and very easy to operate. With a single tap, you can record anything on the screen including WhatsApp call. Here are the steps to follow to record WhatsApp call on Android.
+
+![az screen recorder](https://images.wondershare.com/filmora/article-images/az-screen-recorder.jpg)
+
+Step 1: Go to Play Store from your Android device and install AZ Screen Recorder app.
+
+Step 2: Launch AZ Screen Recorder and the app will provide you with a pop-up overlay bar on the screen.
+
+Step 3: Open WhatsApp and go to the conversation of the person whom you want to video call.
+
+Step 4: On AZ Screen Recorder bar, tap on Record icon. You will get 3 seconds of buffer time to start your WhatsApp video call. Thereafter, the app will start recording the screen which is your WhatsApp video call in this case.
+
+Step 5: When you have finished your video call, tap on Stop icon on AZ Screen Recorder bar. The recorded video file will be available in the phone gallery.
+
+## Part 3\. How to Record WhatsApp Video Call on iPhone?
+
+There are two options available for iPhone users depending on iOS version of your iPhone. If you are using an iPhone with iOS 11 or higher, you can use the default screen recorder feature available to record WhatsApp call. However, if your iPhone has iOS lower than 11, you can either update iOS to 11 or use a WhatsApp video call recorder. Otherwise, you can connect your iPhone to Mac, and you can use QuickTime Player to record WhatsApp video call.
+
+Using iOS Inbuilt Screen Recorder -
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![iphone screen recorder](https://images.wondershare.com/filmora/article-images/iphone-screen-recording.jpg)
+
+Step 1: Go to Settings> Control Centre.
+
+Step 2: Turn on Screen Recording option.
+
+Step 3: Open WhatsApp and prepare for the video call.
+
+Step 4: Open Control Centre on your iPhone.
+
+Step 5: Tap on Screen Recording icon and thereafter, start WhatsApp video call to record.
+
+Use QuickTime Player on Mac -
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+![quicktime audio recorder](https://images.wondershare.com/filmora/article-images/quicktime-new-movie-recording.jpg)
+
+Step 1: Connect your iPhone to your Mac through lightning cable.
+
+Step 2: Launch QuickTime Player and go to File> New Audio Recording option.
+
+Step 3: Choose iPhone as the microphone source and click on Record button.
+
+Step 4: On your iPhone, make WhatsApp call with your chosen person, and QuickTime will be recording the conversation.
+
+Step 5: Once the call is over, you need to stop the recording and go to File> Save to save the recorded file on your computer.
+
+##### Filmora Screen Recorder
+
+Record computer screen and webcam
+
+Capture system and microphone audio
+
+Customize the target recording area
+
+Edit videos with thousands of effects and tools
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+## The Bottom Line
+
+Hopefully, you have understood how to record WhatsApp video call on your device. If you are using your computer for WhatsApp call, we recommend Wondershare Filmora for Windows and Mac. For Android users, you suggest AZ Screen Recorder. For iPhone users, you can use inbuilt screen recording feature or connect your iPhone to Mac and record with QuickTime Player for free.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-pixelpreserve-a-comprehensive-screen-record-review/"><u>[New] 2024 Approved  'PixelPreserve'  A Comprehensive Screen Record Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-best-non-zoom-video-conferencing-tools-desktopmobile/"><u>[New] 2024 Approved  Best Non-Zoom Video Conferencing Tools (Desktop/Mobile)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-hands-on-approaches-to-archive-vimeo-video/"><u>[New] 2024 Approved  Hands-On Approaches to Archive Vimeo Video</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ensuring-compliance-in-zoom-meetings-a-recording-guide/"><u>[New] Ensuring Compliance in Zoom Meetings  A Recording Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-sharex-review-and-alternatives/"><u>[New] In 2024, ShareX Review and Alternatives</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unlocking-a-world-of-possibits-with-macbook-airs-screen-recording-feature/"><u>[New] In 2024, Unlocking a World of Possibits with MacBook Air's Screen Recording Feature</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-professional-approaches-for-logging-youtube-streams/"><u>[New] Professional Approaches for Logging YouTube Streams</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-skys-the-limit-for-your-shots-blend-free-space-and-premium-subscriptions/"><u>[New] Sky's the Limit for Your Shots  Blend Free Space and Premium Subscriptions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-sync-your-creativity-across-chrome-android-and-ios-for-tiktok/"><u>[New] Sync Your Creativity Across Chrome, Android & iOS for TikTok</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-6-straightforward-abodes-blueprints-in-mc-world-for-2024/"><u>[New] Top 6 Straightforward Abodes Blueprints in MC World for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unlock-the-ultimate-windows-screen-snip-list-1-5/"><u>[Updated] 2024 Approved  Unlock the Ultimate Windows Screen Snip List, #1-5</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-achieve-cinematic-quality-with-sims-4-recordings/"><u>[Updated] Achieve Cinematic Quality with Sims 4 Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-comparing-sharex-with-industry-leaders-for-2024/"><u>[Updated] Comparing ShareX with Industry Leaders for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-dominant-alternatives-to-game-bars-recorder-functionality-for-2024/"><u>[Updated] Dominant Alternatives to Game Bar's Recorder Functionality for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-immaculatecapture-the-best-w10-recorder-for-2024/"><u>[Updated] ImmaculateCapture  The Best W10 Recorder for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-art-of-online-recording/"><u>[Updated] The Art of Online Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unbeatable-online-video-recorders-ranked-10-for-2024/"><u>[Updated] Unbeatable Online Video Recorders Ranked #10 for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-effortless-embedding-techniques-for-streaming-video-in-presentations/"><u>2024 Approved  Effortless Embedding Techniques for Streaming Video in Presentations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-premier-media-transformer-mp4-)-fb/"><u>2024 Approved  Premier Media Transformer  MP4 -> FB</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-secure-your-webcam-with-these-10-tips/"><u>2024 Approved  Secure Your Webcam with These 10 Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tiktok-edits-mastering-your-cut-lists/"><u>2024 Approved  Top TikTok Edits  Mastering Your Cut Lists</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/complete-screen-recorder-in-depth-az-reviewing/"><u>Complete Screen Recorder - In-Depth AZ Reviewing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elitemac-pro-the-best-in-high-quality-video-and-audio-recording/"><u>EliteMac Pro  The Best in High-Quality Video & Audio Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/how-to-make-time-lapse-on-samsung-mobile-for-2024/"><u>How to Make Time Lapse on Samsung Mobile for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-optimal-mac-recording-choices-top-5-apps-recommended/"><u>In 2024, Optimal Mac Recording Choices  Top 5 Apps Recommended</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-visual-treasures-without-cost/"><u>In 2024, Unlocking Visual Treasures Without Cost</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-14-plus-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone 14 Plus has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/jumpstarting-conversations-in-indonesia-phrases/"><u>Jumpstarting Conversations in Indonesia: Phrases</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/leading-selections-ultimate-mac-video-grabber-devices-for-2024/"><u>Leading Selections  Ultimate Mac Video Grabber Devices for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-the-art-of-phone-recordings/"><u>Mastering the Art of Phone Recordings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/visualeye-assessment-tool-for-2024/"><u>VisualEye Assessment Tool for 2024</u></a></li>
+</ul></div>
