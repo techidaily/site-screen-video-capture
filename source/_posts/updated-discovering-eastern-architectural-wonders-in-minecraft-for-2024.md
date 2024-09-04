@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Discovering Eastern Architectural Wonders in Minecraft for 2024"
-date: 2024-08-29T16:22:26.821Z
-updated: 2024-08-30T16:22:26.821Z
+date: 2024-09-03T05:43:39.484Z
+updated: 2024-09-04T05:43:39.484Z
 tags: 
   - screen-recording
   - ai video
@@ -148,5 +148,5 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe id="iframe_1983471" src="//a.impactradius-go.com/gen-ad-code/5597632/1983471/22993" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->

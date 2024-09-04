@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Gaming Adventure List – Ghost of Tsushima's Allies"
-date: 2024-08-29T16:20:11.933Z
-updated: 2024-08-30T16:20:11.934Z
+date: 2024-09-03T05:43:41.797Z
+updated: 2024-09-04T05:43:41.797Z
 tags: 
   - screen-recording
   - ai video
@@ -192,5 +192,5 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
 <!-- affiliate ads end -->
