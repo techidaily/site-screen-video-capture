@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Capturing Live Gaming - Decide on OBS/ShadowPlay\""
-date: 2024-07-21T17:05:54.906Z
-updated: 2024-07-22T17:05:54.906Z
+date: 2024-09-07T12:27:14.294Z
+updated: 2024-09-08T12:27:14.294Z
 tags: 
   - screen-recording
   - ai video
@@ -15,15 +15,18 @@ keywords: "Gaming Streaming Basics,OBS for Gamers,ShadowPlay Explained,Live Game
 thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812872b9ea8cbcc32ac61bea57.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Capturing Live Gaming - Decide on OBS/ShadowPlay
 
 If you are an avid gamer and you are not recording your gameplay and uploading on online platforms, you are missing out on the trend. Gamers are uploading their gameplay on video streaming platforms like Twitch and YouTube and earning followers, fame as well as money. No matter which game you play on your computer, you should record it. Thereafter, you can make it interesting with editing and voiceover and upload on video streaming and social media platforms.
 
 Primarily, you will need a gameplay recording software and there is no dearth of gameplay and screen recording software. The two most popular free gameplay recorders are OBS Studio and ShadowPlay. In order to help you choose OBS or ShadowPlay, we have provided you with a complete comparison of ShadowPlay vs OBS recording software. Go through all the points minutely and understand their differences and pick the perfect one for recording your gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Part 1\. Key Features of OBS and ShadowPlay
 
 OBS and ShadowPlay are both completely free to use for recording your gameplay as well as your capturing desktop screen. OBS is open-source software and it has a cross-platform structure which is why it supports all computer operating systems. It is popular among gamers for live streaming on Twitch and YouTube.
@@ -31,7 +34,16 @@ OBS and ShadowPlay are both completely free to use for recording your gameplay a
 ShadowPlay comes from Nvidia which is the largest manufacturer for GPU. That is why gamers who prefer Nvidia GPU, they have a special preference for ShadowPlay. Here are the key features of OBS and ShadowPlay you should be aware of.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -49,10 +61,22 @@ ShadowPlay comes from Nvidia which is the largest manufacturer for GPU. That is 
 
 Most importantly, you can live stream your gameplay on almost any online video streaming platform.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Nvidia ShadowPlay
 
 ![shadowplay](https://images.wondershare.com/filmora/article-images/shadowplay-record.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Gameplay Capture** \- ShadowPlay lets you record gameplay at 8K with 30FPS. This is unmatched by any free video recording software. You can also record gameplay at 4K HDR with 60FPS. It comes with hardware acceleration to ensure the performance does not get affected while recording in the background.
 
 **Instant Replay** \- ShadowPlay keeps recording in the background and therefore, if something important has happened in the game, you can get the last 30 seconds of instant replay clip and you can share it anywhere you want. This is highly useful to share short clips on social media platforms.
@@ -66,7 +90,10 @@ Most importantly, you can live stream your gameplay on almost any online video s
 Just like OBS, ShadowPlay enables you to broadcast gameplay in real-time on YouTube Live, Twitch, and Facebook Live.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2\. Comparison ShadowPlay vs OBS
 
@@ -120,10 +147,6 @@ Step 3: To start recording, click on Record button. You will get a few buffer se
 
 You can press F9 key to stop recording. You can edit the recorded gameplay and export in any desired file format.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 If you want to record high-end games, ShadowPlay is ideal as it does not affect game performance as well as does not reduce frame rate. For not so high-end games, OBS does the job perfectly. OBS is particularly useful when you want to live stream as well as record your gameplay. If you are looking for a premium software and a better alternative, Wondershare Filmora is the perfect choice.
@@ -143,7 +166,16 @@ Step 3: To start recording, click on Record button. You will get a few buffer se
 You can press F9 key to stop recording. You can edit the recorded gameplay and export in any desired file format.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -157,16 +189,18 @@ Step 1: Download and install Wondershare Filmora. Open Filmora and click on PC S
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-Step 2: Select the recording screen size which is likely to be full screen for gaming. You can select the microphone if you want to record your voice for live commentary. Besides, turn on Record the Camera Stream option if you want your face video to be present as an overlay.
-
-Step 3: To start recording, click on Record button. You will get a few buffer seconds to switch to your game after which recording will start automatically.
-
-You can press F9 key to stop recording. You can edit the recorded gameplay and export in any desired file format.
-
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+Step 2: Select the recording screen size which is likely to be full screen for gaming. You can select the microphone if you want to record your voice for live commentary. Besides, turn on Record the Camera Stream option if you want your face video to be present as an overlay.
+
+Step 3: To start recording, click on Record button. You will get a few buffer seconds to switch to your game after which recording will start automatically.
+
+You can press F9 key to stop recording. You can edit the recorded gameplay and export in any desired file format.
+
 ## Conclusion
 
 If you want to record high-end games, ShadowPlay is ideal as it does not affect game performance as well as does not reduce frame rate. For not so high-end games, OBS does the job perfectly. OBS is particularly useful when you want to live stream as well as record your gameplay. If you are looking for a premium software and a better alternative, Wondershare Filmora is the perfect choice.
@@ -177,9 +211,6 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora. Open Filmora and click on PC Screen option to record your gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Select the recording screen size which is likely to be full screen for gaming. You can select the microphone if you want to record your voice for live commentary. Besides, turn on Record the Camera Stream option if you want your face video to be present as an overlay.
@@ -188,6 +219,12 @@ Step 3: To start recording, click on Record button. You will get a few buffer se
 
 You can press F9 key to stop recording. You can edit the recorded gameplay and export in any desired file format.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you want to record high-end games, ShadowPlay is ideal as it does not affect game performance as well as does not reduce frame rate. For not so high-end games, OBS does the job perfectly. OBS is particularly useful when you want to live stream as well as record your gameplay. If you are looking for a premium software and a better alternative, Wondershare Filmora is the perfect choice.
@@ -219,3 +256,41 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-quick-and-easy-snapshot-in-zoom-video-call/"><u>[New] 2024 Approved Quick and Easy Snapshot in Zoom Video Call</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-zombification-extravaganza-8-epic-titles-ranked/"><u>[New] 2024 Approved Zombification Extravaganza - 8 Epic Titles Ranked</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-4-ways-to-record-powerpoint-presentation-with-webcam-2023-for-2024/"><u>[New] 4 Ways to Record PowerPoint Presentation with Webcam 2023 for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-capturing-the-essence-recording-conversations-on-whatsapp-efficiently-for-2024/"><u>[New] Capturing the Essence Recording Conversations on WhatsApp Efficiently for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-to-set-up-and-use-xbox-screen-recording-tools-for-2024/"><u>[New] How to Set Up and Use Xbox Screen Recording Tools for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-comparing-leading-cam-tech-with-mymanycam/"><u>[New] In 2024, Comparing Leading Cam Tech with MyManyCam</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-creating-an-efficient-framework-for-ps3-game-screencasts/"><u>[New] In 2024, Creating an Efficient Framework for PS3 Game Screencasts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-fraps-vs-competitors-screen-recorder-showdown/"><u>[New] In 2024, Fraps vs Competitors Screen Recorder Showdown</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-snap-and-save-the-ultimate-list-of-top-8-free-android-recorders/"><u>[New] In 2024, Snap & Save The Ultimate List of Top 8 Free Android Recorders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-phones-to-cameras-enhancing-your-live-stream-setup/"><u>[New] Phones to Cameras Enhancing Your Live Stream Setup</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-scrutinizing-vlc-for-video-capturing-for-2024/"><u>[New] Scrutinizing VLC for Video Capturing for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-secrets-to-efficient-itunes-video-capturing-for-2024/"><u>[New] Secrets to Efficient iTunes Video Capturing for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-exclusive-choices-to-replace-traditional-fbx-recorder-games/"><u>[Updated] 2024 Approved Exclusive Choices to Replace Traditional FBX Recorder Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-simple-strategies-for-saving-video-calls/"><u>[Updated] 2024 Approved Simple Strategies for Saving Video Calls</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-beyond-cyberlink-top-screen-capture-software-reviewed/"><u>[Updated] Beyond Cyberlink Top Screen Capture Software Reviewed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-breaking-into-livestreaming-your-pathway-to-youtube-and-twitch-via-obs-for-2024/"><u>[Updated] Breaking Into Livestreaming Your Pathway to YouTube & Twitch via OBS for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-the-joy-of-nintendo-switch-gaming/"><u>[Updated] Capturing the Joy of Nintendo Switch Gaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-from-distance-to-face-to-face-laptop-techniques-for-whatsapp-calls-for-2024/"><u>[Updated] From Distance to Face-to-Face Laptop Techniques for WhatsApp Calls for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-premium-list-top-8-android-calls-with-multiple-users-for-2024/"><u>[Updated] Premium List Top 8 Android Calls with Multiple Users for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-zen-of-zoom-advanced-tips-for-flawless-audio-recording-on-video-platforms/"><u>[Updated] The Zen of Zoom Advanced Tips for Flawless Audio Recording on Video Platforms</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-a15-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://win-blog.techidaily.com/addressing-the-devastating-code-errors-plaguing-call-of-duty-modern-warfareblack-ops-cold-war/"><u>Addressing the Devastating Code Errors Plaguing Call of Duty: Modern Warfare/Black Ops Cold War</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/all-encompassing-mobility-review-for-2024/"><u>All-Encompassing Mobility Review for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazfit-helio-ring-unveiling-the-cost-and-launch-details/"><u>Amazfit Helio Ring - Unveiling the Cost & Launch Details</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-melodies-insights-into-magixs-newest-sound-suite-2024/"><u>Crafting Melodies Insights Into Magix's Newest Sound Suite 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-and-improve-frame-rate-drops-for-forza-horizon-5-on-a-pc-setup/"><u>How to Address and Improve Frame Rate Drops for Forza Horizon 5 on a PC Setup</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-x-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone X To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-20-mobiles-transforming-dji-aerial-video-art/"><u>In 2024, Top 20 Mobiles Transforming DJi Aerial Video Art</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-art-of-synchronizing-video-to-music-techniques/"><u>New The Art of Synchronizing Video to Music Techniques</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/premier-percussive-pace-collaboration-software-for-videos-2023-edition/"><u>Premier Percussive Pace Collaboration Software for Videos, 2023 Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/quick-guide-to-making-twitter-videos-into-expressive-gifs-for-2024/"><u>Quick Guide to Making Twitter Videos Into Expressive GIFs for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-itel-s23-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Itel S23 Location | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/vdsn-vidscreen-record-review-thorough-analysis-for-2024/"><u>VDSN VidScreen Record Review Thorough Analysis for 2024</u></a></li>
+</ul></div>
