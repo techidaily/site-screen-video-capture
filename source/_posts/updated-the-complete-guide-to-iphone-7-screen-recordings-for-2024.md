@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Complete Guide to iPhone 7 Screen Recordings for 2024"
-date: 2024-07-21T16:59:02.640Z
-updated: 2024-07-22T16:59:02.640Z
+date: 2024-09-12T16:52:51.238Z
+updated: 2024-09-13T16:24:42.336Z
 tags: 
   - screen-recording
   - ai video
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f
 
 # How to Record the Screen Of The iPhone 7
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -36,92 +29,19 @@ No advertising on the website.
 
  Bloggers and Vloggers have a reason to smile with the release of the new iPhone 7\. Making tutorials is now easier with the new iPhone. There are several ways to go about. You can either use Quicktime on Mac, Reflector on PC or a third party app called AirShou. All of these methods are great, but you want to find the technique that best fits your purposes.
 
-## How to record the screen of iPhone 7/7 Plus
-
-**Update:** Now with iOS 11, you can just record the screen with its built-in tool, check this video to know how-to steps:
-
-#### Method 1 Using Quicktime on Mac
-
- On the new iPhone 7, recording your screen with Quicktime will require you to have two things.
-
-* a) Mac with OS X (Yosemite) or later
-* b) Lightning Port and iOS 8 or later
-
- **How to Record iPhone 7 Screen Using Quicktime on Mac**
-
-* 1\. First, you need to connect the iPhone 7 to your Mac using the lightning cable.
-* 2\. Once the connection is detected, start the Quicktime software on your Mac.
-* 3\. Look for the File option and select ‘Record a Movie.’
-* 4\. Look for the record button and select the dropdown arrow to show more options.
-* 5\. There, you will find the option to record the screen of your iPhone 7\. Immediately you select this option, you will notice that your iPhone’s screen is duplicated on your Mac.
-* 6\. If you only want to record the screen without any voice over sound, then click the ‘None’ option as your microphone. If you want to track your on-screen clicks, then select the ‘Show Mouse Clicks’ option.
-* 7\. Use the volume slider to monitor the recording’s audio.
-* 8\. If you want to record a certain portion of your screen, simply drag the area you want to record and then tap the recording button within that area to start recording, otherwise, if it’s the whole screen, simply tap anywhere on the screen to start recording.
-
- Check this video to see detailed steps
-
-#### Method 2 Using Reflector on PC
-
- Using Reflector is probably the easiest and most convenient way to record your iPhone 7 or iPhone 7 plus screen. Since it’s a third-party app, you will need to first download it to your computer, then simply install it on you Mac, Windows PC or Chrome Book. For Reflector to work on your iPhone, you need to have installed Airplay on your device. Reflector works the same way Quicktime does, by mirroring your iPhone 7 screen on the computer’s screen.
-
- Launch Reflector on your computer then launch Airplay on your device and then ensure that ‘Mirroring’ option is turned on. Once your iPhone detects your computer, connect to it and then simply record your IPhone screen with your computer.
-
- Check this video to see detailed steps
-
- The beauty about this method is that one, it caters for everyone, unlike using Quicktime which is only for Mac users and two, it does not need any cables or adapters since it is wireless.
-
-#### Method 3 Using the AirShou App
-
-* a) Download AirShou directly on your iPhone 7\. Users with iOS 9.3 or higher are required to set back their dates to 2012 for the apps to install without issues.
-* b) You will get a popup telling you that the app isn’t trusted, but go ahead to your settings and allow this program to be installed.
-* c) Before you start recording, make sure ‘mirroring’ in airplay is on and your device is selected.
-* d) Simply launch the AirShou app and then create a free account and then start recording.
-
- Check this video to see detailed steps
-
- This app requires no jailbreaking and will work on iOS 7 and 8 as well as iOS 9 or higher.
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-## How to edit your recorded videos
 
- Video Editing with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
-
- WondershareFilmora has been proven effective in editing recorded videos in iPhone 7 and previous versions.
-
-* a) It supports a bunch of video formats such as .mp4, .avi, .mov, .avchd and lots more.
-* b) It enables you to trim, crop, combine, and split and cut your video(s).
-* c) It has an amazing filter gallery and awesome effects.
-* d) You can save the edited video in any format you choose, and enough to fit in your phone.
-* e) Edited videos are burnable on DVD, and can be uploaded on the internet.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
- Now you have an idea of how to record your iPhone 7 screen with all these amazing methods. Try them out and give us your feedback and share your experience recording your iPhone 7 screen.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
- So the new iPhone 7 is finally here. The new iPhone 7 comes with an array of new next-gen technology that is sure to leave you breathless. There is no headphone jack, the phone feature new and improved display, the iPhone 7 plus has rear dual cameras that Apple says is a game changer. The phone is waterproof, and it also comes with a new chic design with a variety of colors to choose from such as 'Jet Black'.
-
- Bloggers and Vloggers have a reason to smile with the release of the new iPhone 7\. Making tutorials is now easier with the new iPhone. There are several ways to go about. You can either use Quicktime on Mac, Reflector on PC or a third party app called AirShou. All of these methods are great, but you want to find the technique that best fits your purposes.
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## How to record the screen of iPhone 7/7 Plus
 
 **Update:** Now with iOS 11, you can just record the screen with its built-in tool, check this video to know how-to steps:
@@ -185,88 +105,12 @@ Follow @Shanoon Cox
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
- So the new iPhone 7 is finally here. The new iPhone 7 comes with an array of new next-gen technology that is sure to leave you breathless. There is no headphone jack, the phone feature new and improved display, the iPhone 7 plus has rear dual cameras that Apple says is a game changer. The phone is waterproof, and it also comes with a new chic design with a variety of colors to choose from such as 'Jet Black'.
-
- Bloggers and Vloggers have a reason to smile with the release of the new iPhone 7\. Making tutorials is now easier with the new iPhone. There are several ways to go about. You can either use Quicktime on Mac, Reflector on PC or a third party app called AirShou. All of these methods are great, but you want to find the technique that best fits your purposes.
-
-## How to record the screen of iPhone 7/7 Plus
-
-**Update:** Now with iOS 11, you can just record the screen with its built-in tool, check this video to know how-to steps:
-
-#### Method 1 Using Quicktime on Mac
-
- On the new iPhone 7, recording your screen with Quicktime will require you to have two things.
-
-* a) Mac with OS X (Yosemite) or later
-* b) Lightning Port and iOS 8 or later
-
- **How to Record iPhone 7 Screen Using Quicktime on Mac**
-
-* 1\. First, you need to connect the iPhone 7 to your Mac using the lightning cable.
-* 2\. Once the connection is detected, start the Quicktime software on your Mac.
-* 3\. Look for the File option and select ‘Record a Movie.’
-* 4\. Look for the record button and select the dropdown arrow to show more options.
-* 5\. There, you will find the option to record the screen of your iPhone 7\. Immediately you select this option, you will notice that your iPhone’s screen is duplicated on your Mac.
-* 6\. If you only want to record the screen without any voice over sound, then click the ‘None’ option as your microphone. If you want to track your on-screen clicks, then select the ‘Show Mouse Clicks’ option.
-* 7\. Use the volume slider to monitor the recording’s audio.
-* 8\. If you want to record a certain portion of your screen, simply drag the area you want to record and then tap the recording button within that area to start recording, otherwise, if it’s the whole screen, simply tap anywhere on the screen to start recording.
-
- Check this video to see detailed steps
-
-#### Method 2 Using Reflector on PC
-
- Using Reflector is probably the easiest and most convenient way to record your iPhone 7 or iPhone 7 plus screen. Since it’s a third-party app, you will need to first download it to your computer, then simply install it on you Mac, Windows PC or Chrome Book. For Reflector to work on your iPhone, you need to have installed Airplay on your device. Reflector works the same way Quicktime does, by mirroring your iPhone 7 screen on the computer’s screen.
-
- Launch Reflector on your computer then launch Airplay on your device and then ensure that ‘Mirroring’ option is turned on. Once your iPhone detects your computer, connect to it and then simply record your IPhone screen with your computer.
-
- Check this video to see detailed steps
-
- The beauty about this method is that one, it caters for everyone, unlike using Quicktime which is only for Mac users and two, it does not need any cables or adapters since it is wireless.
-
-#### Method 3 Using the AirShou App
-
-* a) Download AirShou directly on your iPhone 7\. Users with iOS 9.3 or higher are required to set back their dates to 2012 for the apps to install without issues.
-* b) You will get a popup telling you that the app isn’t trusted, but go ahead to your settings and allow this program to be installed.
-* c) Before you start recording, make sure ‘mirroring’ in airplay is on and your device is selected.
-* d) Simply launch the AirShou app and then create a free account and then start recording.
-
- Check this video to see detailed steps
-
- This app requires no jailbreaking and will work on iOS 7 and 8 as well as iOS 9 or higher.
-
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-## How to edit your recorded videos
-
- Video Editing with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
-
- WondershareFilmora has been proven effective in editing recorded videos in iPhone 7 and previous versions.
-
-* a) It supports a bunch of video formats such as .mp4, .avi, .mov, .avchd and lots more.
-* b) It enables you to trim, crop, combine, and split and cut your video(s).
-* c) It has an amazing filter gallery and awesome effects.
-* d) You can save the edited video in any format you choose, and enough to fit in your phone.
-* e) Edited videos are burnable on DVD, and can be uploaded on the internet.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
- Now you have an idea of how to record your iPhone 7 screen with all these amazing methods. Try them out and give us your feedback and share your experience recording your iPhone 7 screen.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
 
@@ -341,12 +185,217 @@ Follow @Shanoon Cox
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you have an idea of how to record your iPhone 7 screen with all these amazing methods. Try them out and give us your feedback and share your experience recording your iPhone 7 screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+ So the new iPhone 7 is finally here. The new iPhone 7 comes with an array of new next-gen technology that is sure to leave you breathless. There is no headphone jack, the phone feature new and improved display, the iPhone 7 plus has rear dual cameras that Apple says is a game changer. The phone is waterproof, and it also comes with a new chic design with a variety of colors to choose from such as 'Jet Black'.
+
+ Bloggers and Vloggers have a reason to smile with the release of the new iPhone 7\. Making tutorials is now easier with the new iPhone. There are several ways to go about. You can either use Quicktime on Mac, Reflector on PC or a third party app called AirShou. All of these methods are great, but you want to find the technique that best fits your purposes.
+
+## How to record the screen of iPhone 7/7 Plus
+
+**Update:** Now with iOS 11, you can just record the screen with its built-in tool, check this video to know how-to steps:
+
+#### Method 1 Using Quicktime on Mac
+
+ On the new iPhone 7, recording your screen with Quicktime will require you to have two things.
+
+* a) Mac with OS X (Yosemite) or later
+* b) Lightning Port and iOS 8 or later
+
+ **How to Record iPhone 7 Screen Using Quicktime on Mac**
+
+* 1\. First, you need to connect the iPhone 7 to your Mac using the lightning cable.
+* 2\. Once the connection is detected, start the Quicktime software on your Mac.
+* 3\. Look for the File option and select ‘Record a Movie.’
+* 4\. Look for the record button and select the dropdown arrow to show more options.
+* 5\. There, you will find the option to record the screen of your iPhone 7\. Immediately you select this option, you will notice that your iPhone’s screen is duplicated on your Mac.
+* 6\. If you only want to record the screen without any voice over sound, then click the ‘None’ option as your microphone. If you want to track your on-screen clicks, then select the ‘Show Mouse Clicks’ option.
+* 7\. Use the volume slider to monitor the recording’s audio.
+* 8\. If you want to record a certain portion of your screen, simply drag the area you want to record and then tap the recording button within that area to start recording, otherwise, if it’s the whole screen, simply tap anywhere on the screen to start recording.
+
+ Check this video to see detailed steps
+
+#### Method 2 Using Reflector on PC
+
+ Using Reflector is probably the easiest and most convenient way to record your iPhone 7 or iPhone 7 plus screen. Since it’s a third-party app, you will need to first download it to your computer, then simply install it on you Mac, Windows PC or Chrome Book. For Reflector to work on your iPhone, you need to have installed Airplay on your device. Reflector works the same way Quicktime does, by mirroring your iPhone 7 screen on the computer’s screen.
+
+ Launch Reflector on your computer then launch Airplay on your device and then ensure that ‘Mirroring’ option is turned on. Once your iPhone detects your computer, connect to it and then simply record your IPhone screen with your computer.
+
+ Check this video to see detailed steps
+
+ The beauty about this method is that one, it caters for everyone, unlike using Quicktime which is only for Mac users and two, it does not need any cables or adapters since it is wireless.
+
+#### Method 3 Using the AirShou App
+
+* a) Download AirShou directly on your iPhone 7\. Users with iOS 9.3 or higher are required to set back their dates to 2012 for the apps to install without issues.
+* b) You will get a popup telling you that the app isn’t trusted, but go ahead to your settings and allow this program to be installed.
+* c) Before you start recording, make sure ‘mirroring’ in airplay is on and your device is selected.
+* d) Simply launch the AirShou app and then create a free account and then start recording.
+
+ Check this video to see detailed steps
+
+ This app requires no jailbreaking and will work on iOS 7 and 8 as well as iOS 9 or higher.
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to edit your recorded videos
+
+ Video Editing with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ WondershareFilmora has been proven effective in editing recorded videos in iPhone 7 and previous versions.
+
+* a) It supports a bunch of video formats such as .mp4, .avi, .mov, .avchd and lots more.
+* b) It enables you to trim, crop, combine, and split and cut your video(s).
+* c) It has an amazing filter gallery and awesome effects.
+* d) You can save the edited video in any format you choose, and enough to fit in your phone.
+* e) Edited videos are burnable on DVD, and can be uploaded on the internet.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Now you have an idea of how to record your iPhone 7 screen with all these amazing methods. Try them out and give us your feedback and share your experience recording your iPhone 7 screen.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+ So the new iPhone 7 is finally here. The new iPhone 7 comes with an array of new next-gen technology that is sure to leave you breathless. There is no headphone jack, the phone feature new and improved display, the iPhone 7 plus has rear dual cameras that Apple says is a game changer. The phone is waterproof, and it also comes with a new chic design with a variety of colors to choose from such as 'Jet Black'.
+
+ Bloggers and Vloggers have a reason to smile with the release of the new iPhone 7\. Making tutorials is now easier with the new iPhone. There are several ways to go about. You can either use Quicktime on Mac, Reflector on PC or a third party app called AirShou. All of these methods are great, but you want to find the technique that best fits your purposes.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to record the screen of iPhone 7/7 Plus
+
+**Update:** Now with iOS 11, you can just record the screen with its built-in tool, check this video to know how-to steps:
+
+#### Method 1 Using Quicktime on Mac
+
+ On the new iPhone 7, recording your screen with Quicktime will require you to have two things.
+
+* a) Mac with OS X (Yosemite) or later
+* b) Lightning Port and iOS 8 or later
+
+ **How to Record iPhone 7 Screen Using Quicktime on Mac**
+
+* 1\. First, you need to connect the iPhone 7 to your Mac using the lightning cable.
+* 2\. Once the connection is detected, start the Quicktime software on your Mac.
+* 3\. Look for the File option and select ‘Record a Movie.’
+* 4\. Look for the record button and select the dropdown arrow to show more options.
+* 5\. There, you will find the option to record the screen of your iPhone 7\. Immediately you select this option, you will notice that your iPhone’s screen is duplicated on your Mac.
+* 6\. If you only want to record the screen without any voice over sound, then click the ‘None’ option as your microphone. If you want to track your on-screen clicks, then select the ‘Show Mouse Clicks’ option.
+* 7\. Use the volume slider to monitor the recording’s audio.
+* 8\. If you want to record a certain portion of your screen, simply drag the area you want to record and then tap the recording button within that area to start recording, otherwise, if it’s the whole screen, simply tap anywhere on the screen to start recording.
+
+ Check this video to see detailed steps
+
+#### Method 2 Using Reflector on PC
+
+ Using Reflector is probably the easiest and most convenient way to record your iPhone 7 or iPhone 7 plus screen. Since it’s a third-party app, you will need to first download it to your computer, then simply install it on you Mac, Windows PC or Chrome Book. For Reflector to work on your iPhone, you need to have installed Airplay on your device. Reflector works the same way Quicktime does, by mirroring your iPhone 7 screen on the computer’s screen.
+
+ Launch Reflector on your computer then launch Airplay on your device and then ensure that ‘Mirroring’ option is turned on. Once your iPhone detects your computer, connect to it and then simply record your IPhone screen with your computer.
+
+ Check this video to see detailed steps
+
+ The beauty about this method is that one, it caters for everyone, unlike using Quicktime which is only for Mac users and two, it does not need any cables or adapters since it is wireless.
+
+#### Method 3 Using the AirShou App
+
+* a) Download AirShou directly on your iPhone 7\. Users with iOS 9.3 or higher are required to set back their dates to 2012 for the apps to install without issues.
+* b) You will get a popup telling you that the app isn’t trusted, but go ahead to your settings and allow this program to be installed.
+* c) Before you start recording, make sure ‘mirroring’ in airplay is on and your device is selected.
+* d) Simply launch the AirShou app and then create a free account and then start recording.
+
+ Check this video to see detailed steps
+
+ This app requires no jailbreaking and will work on iOS 7 and 8 as well as iOS 9 or higher.
+
+## How to edit your recorded videos
+
+ Video Editing with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ WondershareFilmora has been proven effective in editing recorded videos in iPhone 7 and previous versions.
+
+* a) It supports a bunch of video formats such as .mp4, .avi, .mov, .avchd and lots more.
+* b) It enables you to trim, crop, combine, and split and cut your video(s).
+* c) It has an amazing filter gallery and awesome effects.
+* d) You can save the edited video in any format you choose, and enough to fit in your phone.
+* e) Edited videos are burnable on DVD, and can be uploaded on the internet.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Now you have an idea of how to record your iPhone 7 screen with all these amazing methods. Try them out and give us your feedback and share your experience recording your iPhone 7 screen.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -376,8 +425,21 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-one-step-shot-simplify-podcast-streaming/"><u>[New] One Step Shot Simplify Podcast Streaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-streamlining-the-process-of-google-voice-call-capture/"><u>[Updated] 2024 Approved Streamlining the Process of Google Voice Call Capture</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-elevating-content-strategy-with-effective-youtube-partnerships/"><u>[Updated] Elevating Content Strategy with Effective YouTube Partnerships</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-guide-to-the-top-10-video-calls-for-your-smartphone-for-2024/"><u>[Updated] Essential Guide to the Top 10 Video Calls for Your Smartphone for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-expert-insights-optimal-techniques-for-pc-display-recordings/"><u>[Updated] Expert Insights Optimal Techniques for PC Display Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-record-itunes-videos/"><u>[Updated] How to Record iTunes Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-seamless-video-communication-in-whatsapp-web-for-laptops-and-desktops-for-2024/"><u>[Updated] Seamless Video Communication in WhatsApp Web for Laptops and Desktops for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deactivate-or-delete-mastering-account-termination-on-chatgpt-platforms/"><u>Deactivate or Delete: Mastering Account Termination on ChatGPT Platforms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/easy-ways-to-record-a-powerpoint-presentation-for-2024/"><u>Easy Ways to Record a PowerPoint Presentation for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-online-tool-find-your-public-ip-address-instantly/"><u>Free Online Tool: Find Your Public IP Address Instantly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/gameplay-capture-simplified-the-ultimate-win10-guide/"><u>Gameplay Capture Simplified The Ultimate Win10 Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-techniques-for-captivating-tiktok-videos/"><u>Innovative Techniques for Captivating TikTok Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/gious-platform-professionals/"><u>Prodigious Platform Professionals</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-editing-sony-digital-camcorder-videos-for-stunning-results-for-2024/"><u>Updated The Ultimate Guide to Editing Sony Digital Camcorder Videos for Stunning Results for 2024</u></a></li>
+</ul></div>
 

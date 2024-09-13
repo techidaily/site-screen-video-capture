@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Unlock Creative Potential  Strategic Use of Strikethrough\""
-date: 2024-09-07T12:33:05.864Z
-updated: 2024-09-08T12:33:05.864Z
+date: 2024-09-06T16:30:03.157Z
+updated: 2024-09-13T16:05:03.194Z
 tags: 
   - screen-recording
   - ai video
@@ -15,24 +15,12 @@ keywords: "Creativity Unleashing,Strategic Strikethrough,Boost Idea Flow,Enhanci
 thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c84a7394663cf2c5a8a40dbef.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unlock Creative Potential: Strategic Use of Strikethrough
 
 # How to Use Markers in Video Recording and Editing
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -43,12 +31,6 @@ Markers can be used during the video editing and after the screen recording to m
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * [Record desktop screen](https://tools.techidaily.com/wondershare/filmora/download/), voiceover, and webcam simultaneously
@@ -67,11 +49,18 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Distinctions Between the Two Types of Markers
 
 Watching the footage you've captured over and over can be a tiresome process that consumes both time and energy, so in order to increase your efficiency during the process of capturing and editing videos, you can simply add markers both to the files you're creating while recording or to your project's timeline.
@@ -82,22 +71,17 @@ You can use them to mark a place in the screen recording you're not too happy wi
 
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
 
 This type of marker is immensely useful if you want to organize the timeline in your project better and to know exactly where every clip you want to use in your video is located at all times. Besides being a highly efficient tool for organizing vast amounts of footage, timeline markers can also help you denote the beats in the audio file and then sync the video clip perfectly to the beat of the tune you're using as a soundtrack to your video.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Markers During Video Editing and After Screen Recording in Filmora?
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -110,6 +94,13 @@ For macOS 10.12 or later
 
 * [1\. How to Add a Marker During Video Editing](#filmora1)
 * [2\. How to Remove a Marker After Screen Recording](#filmora2)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How to Add a Marker During Video Editing
 
@@ -124,22 +115,24 @@ To add markers, watch your video and find the mistake. Pause the video, then cli
 ![add marker from the timeline toolbar](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##### Step 2: Access the Modification Option
 
 Filmora lets you adjust your marker settings for your video. Right-click on the marker and select **"Modify Marker"** from the control panel.
 
 ![access the modification option](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 3: Customize the Markers
 
@@ -147,12 +140,6 @@ In the Marker Editor window, make relevant changes such as naming the marker, ad
 
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### **Method 2: Adding Markers through the Keyboard**
 
 After importing the clip into the timeline and identifying the points of error in your video, place the playhead on these points and press the **"M"** key on your keyboard to add a marker at the chosen timeframes.
@@ -166,16 +153,36 @@ Once you have finished editing your mistakes, it's important to remove the marke
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, markers are a valuable tool for video recording and editing. They can help editors keep track of important moments, make precise edits, and streamline your workflow. By utilizing markers effectively, you can save time and ensure a more polished final result. Furthermore, you can try to use Wondershare Filmora to incorporate markers into the screen recording and video editing process. It is a great way to enhance the quality and efficiency of your work greatly. So, don't hesitate to start using markers in your video recording and editing projects today with Filmora!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -183,44 +190,21 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-duplex-monitoring-transcription/"><u>[New] 2024 Approved  Duplex Monitoring Transcription</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-guide-to-top-6-creative-mojave-dwellings/"><u>[New] 2024 Approved  Ultimate Guide to Top 6 Creative Mojave Dwellings</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-creators-guide-to-understanding-youtube-policies/"><u>[New] A Creator’s Guide to Understanding YouTube Policies</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-effortless-methods-for-capturing-google-voice-conversations-for-2024/"><u>[New] Effortless Methods for Capturing Google Voice Conversations for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-effortless-fb-stream-setup-using-obs-on-laptops-mac-and-pc/"><u>[New] In 2024, Effortless FB Stream Setup  Using OBS on Laptops, Mac & PC</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-picture-perfect-popular-snaps-effects-and-lenses-showcased-for-2024/"><u>[New] Picture Perfect  Popular Snaps' Effects and Lenses Showcased for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-effortless-recording-of-netflix-a-step-by-step-guide/"><u>[Updated] 2024 Approved  Effortless Recording of Netflix  A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-essential-quicktime-lapse-maker-5/"><u>[Updated] 2024 Approved  Essential Quicktime-Lapse Maker #5</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-brisksnatch-slowframe-capture-for-2024/"><u>[Updated] BriskSnatch SlowFrame Capture for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-decoding-the-code-for-quick-fb-media/"><u>[Updated] Decoding the Code for Quick FB Media</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-in-game-audio-capture-in-overwatch/"><u>[Updated] Mastering In-Game Audio Capture in Overwatch</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-live-streams-from-obs-to-fb-for-2024/"><u>[Updated] Mastering Live Streams From OBS to FB for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-maccam-easy-webcam-recordings/"><u>[Updated] Mastering MacCam  Easy Webcam Recordings</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-navigating-networking-on-linkedin-for-2024/"><u>[Updated] Navigating Networking on LinkedIn for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-an-introductory-guide-to-navigating-your-way-through-zoom-webinars/"><u>2024 Approved  An Introductory Guide to Navigating Your Way Through Zoom Webinars</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-complete-review-of-logitechs-advanced-4k-video-camera/"><u>2024 Approved  Complete Review of Logitech's Advanced 4K Video Camera</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-effortless-editing-in-obs-studio-with-top-5-hacks/"><u>2024 Approved  Effortless Editing in OBS Studio with Top 5 Hacks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-make-screenshots-and-recordings-on-imac-simple/"><u>2024 Approved  Make Screenshots & Recordings on iMac Simple</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-understanding-av1-your-initial-compre-point/"><u>2024 Approved  Understanding AV1  Your Initial Compre Point</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazon-kindle-oasis-assessment-exceptional-style-justifies-price-premium/"><u>Amazon Kindle Oasis Assessment: Exceptional Style Justifies Price Premium</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/exploring-the-capabilities-of-bandicam-for-multimedia-creators/"><u>Exploring the Capabilities of Bandicam for Multimedia Creators</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/groundbreaking-open-source-software-for-modern-video-conferencing-for-2024/"><u>Groundbreaking Open Source Software for Modern Video Conferencing for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-13-pro-maxwindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your iPhone 13 Pro Max/Windows/Mac</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-from-phone-to-professional-recording-diy-tips-and-tricks/"><u>In 2024, From Phone to Professional Recording  DIY Tips and Tricks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-10-online-screen-video-recorders/"><u>In 2024, Top 10 Online Screen Video Recorders</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-vivo-s18es-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo S18es Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/perfecting-gameplay-with-steam-switch-pro-controller/"><u>Perfecting Gameplay with Steam Switch Pro Controller</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/premium-desktop-and-mobile-video-call-platforms-zoom-replacements/"><u>Premium Desktop & Mobile Video Call Platforms (Zoom Replacements)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/stay-active-in-style-discover-how-the-garmin-vivomove-hr-enhances-daily-workouts/"><u>Stay Active in Style: Discover How the Garmin Vivomove HR Enhances Daily Workouts</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-to-troubleshoot-loaded-lol-screens/"><u>Tactics to Troubleshoot Loaded LOL Screens</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-step-by-step-tutorials-to-excel-at-google-meet-free-edition/"><u>[New] Step-by-Step Tutorials to Excel at Google Meet (Free Edition)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlock-your-potential-with-outstanding-instagram-visuals-for-2024/"><u>[New] Unlock Your Potential with Outstanding Instagram Visuals for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/break-it-down-streamlining-video-length-with-efficient-chapter-breaks-on-youtube/"><u>Break It Down Streamlining Video Length with Efficient Chapter Breaks on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/combat-the-frustration-7-methods-for-restoring-windows-notepad/"><u>Combat the Frustration: 7 Methods for Restoring Window's Notepad</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/digital-learning-session-replays/"><u>Digital Learning Session Replays</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/storing-session-videos-in-gh/"><u>Storing Session Videos in GH</u></a></li>
+<li><a href="https://driver-download.techidaily.com/streamlining-the-debugging-process-for-i2e-c-hid-interface-driver-problems/"><u>Streamlining the Debugging Process for I2e C HID Interface Driver Problems</u></a></li>
+</ul></div>
+
