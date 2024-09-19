@@ -1,7 +1,7 @@
 ---
 title: Batman Arkham Knight Glitch? Troubleshooting Steps for a Smooth Gaming Experience
-date: 2024-09-12T17:19:48.404Z
-updated: 2024-09-13T16:09:12.274Z
+date: 2024-09-16T17:46:14.002Z
+updated: 2024-09-18T22:48:15.877Z
 tags:
   - win11
   - win10
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/5db3fyzhzw851-1200x471.png)
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -68,38 +61,33 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 2. Click**Change adapter options** .  
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
-4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
+4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
@@ -108,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
@@ -130,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -154,13 +135,6 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -185,20 +159,16 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-navigating-obs-livestream-integration-for-maximum-facebook-reach/"><u>[New] 2024 Approved Navigating OBS Livestream Integration for Maximum Facebook Reach</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/kyrocket-your-channels-view-count-beyond-ten-hundred/"><u>[New] Skyrocket Your Channel's View Count Beyond Ten Hundred</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tranquil-sleep-soundtrack-expertly-selected-voices/"><u>[New] Tranquil Sleep Soundtrack Expertly Selected Voices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transforming-personal-snaps-into-motion-stories/"><u>[New] Transforming Personal Snaps Into Motion Stories</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-halovision-highlights-critique/"><u>[Updated] 2024 Approved HaloVision Highlights Critique</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-mac-screen-recorders-ranked-a-comprehensive-analysis/"><u>[Updated] 2024 Approved Top Mac Screen Recorders Ranked A Comprehensive Analysis</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-tech-top-windows-cameras-explored-for-2024/"><u>[Updated] Innovative Tech Top Windows Cameras Explored for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-quick-steps-to-record-iphone-display/"><u>[Updated] Quick Steps to Record IPhone Display</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ustream-showcase-plus-similar-video-sites-for-2024/"><u>[Updated] Ustream Showcase + Similar Video Sites for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-campaign-creatives-through-chatgpt-insights/"><u>Boosting Campaign Creatives Through ChatGPT Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-address-frame-rate-drops-while-playing-f1-2n21-on-a-desktop-system/"><u>Expert Tips to Address Frame Rate Drops While Playing F1 2N21 on a Desktop System</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guide-adjusting-graphics-card-settings-post-forza-horizon-5-update/"><u>Guide: Adjusting Graphics Card Settings Post-Forza Horizon 5 Update</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-7-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 with/without SIM Card</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-clash-for-dominance-leading-royale-games/"><u>In 2024, Clash for Dominance Leading Royale Games</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-use-ez-grabber-software/"><u>In 2024, How to Use EZ Grabber Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-clandestine-fb-live-observer/"><u>[New] In 2024, Clandestine FB Live Observer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-journey-of-joyrides-top-6-easy-mc-habitats-revealed/"><u>[New] Journey of Joyrides Top 6 Easy MC Habitats Revealed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-cost-effective-techniques-in-text-animations/"><u>[New] Mastering Cost-Effective Techniques in Text Animations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-fix-successful-non-operational-obs-camera-for-2024/"><u>[Updated] Fix Successful Non-Operational OBS Camera for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-optimizing-workflow-automate-your-meet-times-for-2024/"><u>[Updated] Optimizing Workflow Automate Your Meet Times for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screenstreaming-mastery-capturing-high-quality-content-on-your-mac/"><u>[Updated] ScreenStreaming Mastery Capturing High-Quality Content on Your Mac</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-14-plus-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 14 Plus to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-game-away-your-worries-the-coolest-titles/"><u>In 2024, Game Away Your Worries The Coolest Titles</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-steps-to-convert-images-into-videos-using-your-computer/"><u>Simple Steps to Convert Images Into Videos Using Your Computer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-t2-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo T2 5G</u></a></li>
 </ul></div>
 

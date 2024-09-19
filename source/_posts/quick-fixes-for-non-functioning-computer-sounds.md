@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Non-Functioning Computer Sounds
-date: 2024-09-10T17:11:04.193Z
-updated: 2024-09-13T16:28:45.966Z
+date: 2024-09-14T02:36:34.836Z
+updated: 2024-09-18T18:12:47.230Z
 tags:
   - win11
   - win10
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6271a1949db.jpg)
 
  Is your**Logitech G430 microphone not working** ? You’re not alone. Many people have reported similar issues. But don’t worry, you can**fix the Logitech G430 mic not working** issues.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **How to fix Logitech G430 mic not working**
 
@@ -51,23 +44,9 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
  Re-plug your microphone again to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
 
@@ -95,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd61613c73.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -119,19 +91,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
@@ -145,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627553bb550.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Right click on your microphone again and select**Set as Default Device** .
@@ -156,16 +115,10 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Right click your microphone, and click**Properties.**
@@ -183,10 +136,10 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  Still no luck? Okay, there’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall Logitech Game Software**
@@ -217,20 +170,19 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-win-10s-best-recording-software-10-picks/"><u>[New] In 2024, Win 10'S Best Recording Software - 10 Picks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-screensnapper-review-latest-tech-for-2024/"><u>[New] ScreenSnapper Review - Latest Tech for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-complete-guide-to-netflix-screen-capture-discover-six-efficient-ways-on-macos-for-2024/"><u>[New] The Complete Guide to Netflix Screen Capture - Discover Six Efficient Ways on macOS for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-fast-fixes-for-chaotic-youtube-list-ordering/"><u>[Updated] Fast Fixes for Chaotic YouTube List Ordering</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-free-and-easy-best-mac-screen-recorder-software-of-2023-for-2024/"><u>[Updated] Free and Easy Best Mac Screen Recorder Software of 2023 for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-your-journey-through-the-world-of-iphone-memos/"><u>[Updated] In 2024, Your Journey Through the World of iPhone Memos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-smart-solutions-for-gathering-visual-assets-for-2024/"><u>[Updated] Smart Solutions for Gathering Visual Assets for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-pro-4k-capture-the-definitive-seven-cameras/"><u>2024 Approved Pro 4K Capture The Definitive Seven Cameras</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bring-back-life-to-a-nonfunctional-laptop-keyboard-article-name-358-characters/"><u>Bring Back Life to a Nonfunctional Laptop Keyboard - Article Name — 358 Characters</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013157988-cyberpunk-2077-overcoming-freeze-up-solutions-and-fixes/"><u>Cyberpunk 2077 Overcoming Freeze-Up: Solutions & Fixes!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-a24-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy A24</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-prowess-in-phrasing-best-tags-for-gamer-videos/"><u>In 2024, Prowess in Phrasing Best Tags for Gamer Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/navigate-to-the-5-preferred-android-ps2-emulator-apps-for-2024/"><u>Navigate to the 5 Preferred Android PS2 Emulator Apps for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-create-stunning-3d-videos-top-free-and-paid-makers/"><u>New 2024 Approved Create Stunning 3D Videos Top Free and Paid Makers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-beginning-zoom-video-calls-on-android-devices-for-2024/"><u>[New] Beginning Zoom Video Calls on Android Devices for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-capture-kings-list-the-ultimate-screen-recorder-showdown/"><u>[New] In 2024, Capture Kings List The Ultimate Screen Recorder Showdown</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-openscreens-the-unchained-gamers-screen-record/"><u>[New] In 2024, OpenScreens The Unchained Gamer's Screen Record</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-voice-over-recording-for-videos-for-2024/"><u>[New] Mastering Voice-Over Recording for Videos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-console-to-computer-a-guide-to-live-game-capture-for-2024/"><u>[Updated] Console to Computer A Guide to Live Game Capture for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-insiders-guide-to-youtube-tv-features-and-functions/"><u>[Updated] In 2024, The Insider's Guide to YouTube TV Features & Functions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-screen-record-on-windows-10-devices-for-2024/"><u>[Updated] Mastering Screen Record on Windows 10 Devices for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-to-navigate-wacom-driver-updates/"><u>Easy-to-Navigate Wacom Driver Updates</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/enhance-ipad-recording-simpler-approaches-revealed-for-2024/"><u>Enhance iPad Recording Simpler Approaches Revealed for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/from-idea-to-reality-examining-mycams-video-recorder-performance-for-2024/"><u>From Idea to Reality Examining MyCam’s Video Recorder Performance for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-z-fold-5-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-enhancing-your-live-viewing-experience-on-facebook/"><u>In 2024, Enhancing Your Live Viewing Experience on Facebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-secure-to-use-external-chatgpt-addons-and-plugins/"><u>Is It Secure to Use External ChatGPT Addons & Plugins?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revealing-the-faces-behind-your-viral-facebook-post-a-comprehensive-guide/"><u>Revealing the Faces Behind Your Viral Facebook Post: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Photograph Whole Page Spectacle"
-date: 2024-09-07T17:00:29.824Z
-updated: 2024-09-13T17:17:26.719Z
+date: 2024-09-16T16:01:28.953Z
+updated: 2024-09-19T04:01:14.928Z
 tags: 
   - screen-recording
   - ai video
@@ -37,13 +37,6 @@ On the other hand, The Internet contains such a vast amount of information, that
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -67,21 +60,7 @@ Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offe
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
 
@@ -98,10 +77,10 @@ Built-in screen capturing options on Windows and Mac offer only a limited amount
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
@@ -111,10 +90,10 @@ This is a free and easy to use add-on that is compatible with Google Chrome, Fir
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
@@ -133,6 +112,13 @@ Install the extension in your browser and then click on its icon in the Extensio
 
 [Firefox Quantum](https://www.mozilla.org/en-US/firefox/) browser allows you to quickly take screenshots of the full page without much hassle. Make sure that the tab with the web page you'd like to capture is open, and then click on the **Page Action** icon, that looks like three dots. Select the **Take a Screenshot** feature from the menu and then when the new dialogue box appears on the screen click on the **Save full page** option. Your screenshots will be stored online and you can share, organize or delete them from **My Shots** folder.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 4: Using Online Tools for Full Page Screenshots
 
 If you don't want to go through the trouble of installing a screenshot extension in your web browser, you can easily capture an entire page with an online tool. [Web-capture.net](https://web-capture.net/) platform is designed to help their users to take full page screenshots effortlessly. You just have to copy the URL of the page you'd like to capture and select the image file format.
@@ -146,13 +132,6 @@ Stand-alone software products that enable its users to take screenshots of entir
 Taking full page screenshots on a Mac computer is made much simpler by [Paparazzi!](https://derailer.org/paparazzi/) app since you can capture a web page in only a few simple steps. Paparazzi allow you to set up a delay, so you can choose how many seconds before capture. You can download it free of charge, but its photo editing options are far from impressive.
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
 
@@ -181,12 +160,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-a-guide-to-profit-sharing-for-creators-of-video-clips/"><u>[New] 2024 Approved A Guide to Profit Sharing for Creators of Video Clips</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-webcam-setup-for-quick-recordings-on-chromebooks/"><u>[New] In 2024, Webcam Setup for Quick Recordings on Chromebooks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-nailing-the-art-of-ppt-video-reproduction-for-2024/"><u>[Updated] Nailing the Art of PPT Video Reproduction for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-synchronous-capture-for-webcam-and-display-for-2024/"><u>[Updated] Synchronous Capture for Webcam and Display for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/dealing-with-unregistered-class-alerts-in-windows-expert-advice/"><u>Dealing with Unregistered Class Alerts in Windows: Expert Advice</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/find-the-ultimate-free-mp4-converter-software-for-seamless-video-format-changes/"><u>Find the Ultimate Free MP4 Converter Software for Seamless Video Format Changes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-best-software-to-start-your-youtube-videos-off-strongly/"><u>In 2024, The Best Software to Start Your YouTube Videos Off Strongly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-adjusting-settings-for-audible-obs-broadcasts-for-2024/"><u>[New] Adjusting Settings for Audible OBS Broadcasts for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-11-excellent-choices-for-high-quality-audio-logging/"><u>[New] In 2024, 11 Excellent Choices for High-Quality Audio Logging</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-complete-evaluation-the-ultimate-test-of-gecata-logging/"><u>[Updated] 2024 Approved Complete Evaluation The Ultimate Test of Gecata Logging</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-top-methods-for-remotely-podcasting-success/"><u>[Updated] In 2024, The Top Methods for Remotely Podcasting Success</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-film-techniques-flawless-virtual-backdrops-integration/"><u>[Updated] Instagram Film Techniques Flawless Virtual Backdrops Integration</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-shoot-with-confidence-the-beginners-guide-to-cameras/"><u>[Updated] Shoot with Confidence - The Beginner's Guide to Cameras</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-tailored-content-creation-how-to-cropped-and-export-videos-for-instagram/"><u>[Updated] Tailored Content Creation How to Cropped & Export Videos for Instagram</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-take-control-a-compreeved-guide-to-iphoneipad-screen-recordings-on-youtube/"><u>[Updated] Take Control A Compreeved Guide to iPhone/iPad Screen Recordings on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/craft-movies-on-windows-11-using-the-free-movie-maker-app/"><u>Craft Movies on Windows 11 Using the Free Movie Maker App</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-m34-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy M34 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-navigating-the-2023-landscape-for-screen-captures-and-ppts/"><u>In 2024, Navigating the 2023 Landscape for Screen Captures & PPTs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-pros-guide-to-uploading-twitter-videos-to-snapchat/"><u>In 2024, The Pro's Guide to Uploading Twitter Videos to Snapchat</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-singing-machine-sml385btbk-hands-free-user-friendly-karaoke-experience/"><u>Ultimate Guide to Singing Machine SML385BTBK: Hands-Free, User-Friendly Karaoke Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/voyage-for-valuables-5-prime-map-expeditions/"><u>Voyage for Valuables 5 Prime Map Expeditions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-dont-i-have-facebook-marketplace/"><u>Why Don't I Have Facebook Marketplace?</u></a></li>
 </ul></div>
 

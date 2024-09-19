@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Designing Dynamic Videos with Adobe Captivate"
-date: 2024-09-08T16:30:09.665Z
-updated: 2024-09-13T17:00:32.549Z
+date: 2024-09-15T06:06:32.043Z
+updated: 2024-09-18T22:50:12.395Z
 tags: 
   - screen-recording
   - ai video
@@ -48,26 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Record a Video Presentation Using Adobe Captivate
 
 Before you can start working on your new project you first need to install the software. If you haven't already done that, you can [download Adobe Captivate by following this link.](https://www.adobe.com/products/captivate.html) You will also have to register and activate the software in order to be able to use every option Adobe Captivate has to offer. You can find the full list of the software's features[here.](https://www.adobe.com/products/captivate/features.html)
@@ -78,19 +58,6 @@ Double-click on Adobe Captivate's desktop icon to launch the software, and then 
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
 
 #### Step 2 - Select the application and designate the area of the screen you'd like to record
@@ -99,13 +66,6 @@ After you click on the Create button, a new window will appear on the screen. In
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
 
 #### Step 3 - Starting a new video recording session
@@ -113,13 +73,6 @@ In the Snap To section of the window, you'll be able to choose between Applicati
 Click on the Settings button if you wish to change the destination on your hard-drive where the video will be saved.
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
 
@@ -139,13 +92,6 @@ Adobe Captivate is much more than just a simple screen recording tool, and if yo
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -161,21 +107,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-best-virtual-background-for-google-meet-video-call/"><u>[New] Best Virtual Background for Google Meet Video Call</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-background-blur-101-boosting-video-clarity-on-youtube/"><u>[Updated] Background Blur 101 Boosting Video Clarity on YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-expert-tips-for-creating-engaging-screencasts/"><u>[Updated] In 2024, Expert Tips for Creating Engaging Screencasts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ideal-steps-for-silent-screen-imaging/"><u>[Updated] In 2024, Ideal Steps for Silent Screen Imaging</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-real-time-visual-documentation/"><u>[Updated] In 2024, Real-Time Visual Documentation</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-starting-off-with-zoom-meetings-your-first-steps-guide/"><u>[Updated] Starting Off with Zoom Meetings Your First Steps Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-the-moment-iphone-time-lapse-tutorial/"><u>2024 Approved Capture the Moment IPhone Time-Lapse Tutorial</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-pinnacle-of-photography-frames/"><u>2024 Approved Explore the Pinnacle of Photography Frames</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-mastering-alias-transformation-on-google-meet-platforms/"><u>2024 Approved Mastering Alias Transformation on Google Meet Platforms</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-nows-vr-tech-landscape/"><u>2024 Approved Now’s VR Tech Landscape</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-petside-technology-demystified/"><u>Budget-Friendly Petside Technology Demystified</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-s23-fe-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy S23 FE</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-your-guide-to-the-top-5-chromebook-sniping-software/"><u>In 2024, Your Guide to the Top 5 Chromebook Sniping Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unleash-creativity-with-image-warping/"><u>Unleash Creativity with Image Warping</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/using-luts-in-spark-ar-and-download-free-luts/"><u>Using LUTs in Spark AR & Download Free LUTs</u></a></li>
-<li><a href="https://facebook.techidaily.com/what-is-vk-10-facts-on-russias-internet-culture-hub/"><u>What Is VK?: 10 Facts on Russia’s Internet Culture Hub</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-framefinder-top-picks-for-screen-capturing/"><u>[New] 2024 Approved FrameFinder Top Picks for Screen Capturing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-superior-video-editing-software-for-online-sessions/"><u>[Updated] 2024 Approved Superior Video Editing Software for Online Sessions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-online-fun-girl-games-for-kids/"><u>[Updated] In 2024, Best Online Fun Girl Games for Kids</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-expertise-in-speech-transcription-with-googles-tools/"><u>[Updated] In 2024, Expertise in Speech Transcription with Google's Tools</u></a></li>
+<li><a href="https://techidaily.com/enhanced-user-experience-with-automated-tracking-powered-by-cookiebot/"><u>Enhanced User Experience with Automated Tracking: Powered by Cookiebot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-tips-for-efficiently-using-the-telnet-client-on-windows-systems/"><u>Essential Tips for Efficiently Using the Telnet Client on Windows Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-infinix-smart-8-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Infinix Smart 8</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-fb-videos-unleashed-with-new-mobile-app/"><u>In 2024, FB Videos Unleashed with New Mobile App</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premium-internet-voice-pads/"><u>Premium Internet Voice Pads</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

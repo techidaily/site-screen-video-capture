@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Speaking & Visualizing in PowerPoint"
-date: 2024-09-09T17:20:37.696Z
-updated: 2024-09-13T16:00:33.015Z
+date: 2024-09-15T20:26:54.398Z
+updated: 2024-09-19T00:14:42.012Z
 tags: 
   - screen-recording
   - ai video
@@ -57,13 +57,6 @@ There is also another method with which you will know how to add voice in PowerP
 * When you finish the process, click on stop.
 * Select Play if you want to review the recording.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Record a Voiceover for PowerPoint on a Mac
 
 A PowerPoint voice recording adds flavor to your presentation as you can include all the ideas you want your clients to understand. Moreover, you will make them know in an organized method. You can also make the presentation for social media or any platform to make it run automatically. It is also helpful for teachers as they can prepare their tutorials with a voice-over to make it easy for the students to understand. If you are working on a Mac, you can schedule a PowerPoint presentation for your clients or students.
@@ -82,13 +75,6 @@ Again, it is helpful as you will convey your ideas visually. Following are the w
 * When you finish the process, click on End to stop the recording.
 * Save the file; else, you will lose the entire presentation.
 * Playback your file to check if everything is in order.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQs about Voiceover in PowerPoint
 
@@ -137,10 +123,10 @@ Ans: Recorded PowerPoint presentations are more flexible because you can pause t
 A voice-over PowerPoint presentation is helpful when presenting to your clients virtually. If they have any questions, they can always ask after watching the entire slide show.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -148,13 +134,6 @@ A voice-over PowerPoint presentation is helpful when presenting to your clients 
 There are many ways to know how to add voice to PowerPoint. First, you must record audio before presenting the file and insert it into the .ppt file. It is helpful as you will explain your clients and customers easily. Moreover, if you record it before, you will be able to give a better presentation as you will include all the points.
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1\. Record a Voiceover for PowerPoint on a PC
 
@@ -172,6 +151,13 @@ It is just like an audio file, where you can insert the file and let it play as 
 
 ![powerpoint slideshow option](https://images.wondershare.com/filmora/article-images/powerpoint-screen-recording.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 There is also another method with which you will know how to add voice in PowerPoint:
 
 * Open Powerpoint, and from the Insert menu, click on the audio
@@ -187,6 +173,13 @@ A PowerPoint voice recording adds flavor to your presentation as you can include
 Again, it is helpful as you will convey your ideas visually. Following are the ways to help you understand how to do a voice-over in PowerPoint. Powerpoint voice recording is one of the essential features of the software. It is user-friendly and easy to insert audio into your existing presentation. However, before you start recording, you have to make sure whether your Mac has an internal audio recorder. If it does not have one, you have to attach an external microphone to record smoothly.
 
 ![record powerpoint audio on mac](https://images.wondershare.com/filmora/article-images/record-powerpoint-audio-on-mac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Click on the Apple icon and select Choose System Preferences
 * Now, opt to select the Sound Icon
@@ -275,13 +268,6 @@ There is also another method with which you will know how to add voice in PowerP
 * When you finish the process, click on stop.
 * Select Play if you want to review the recording.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Record a Voiceover for PowerPoint on a Mac
 
 A PowerPoint voice recording adds flavor to your presentation as you can include all the ideas you want your clients to understand. Moreover, you will make them know in an organized method. You can also make the presentation for social media or any platform to make it run automatically. It is also helpful for teachers as they can prepare their tutorials with a voice-over to make it easy for the students to understand. If you are working on a Mac, you can schedule a PowerPoint presentation for your clients or students.
@@ -302,10 +288,10 @@ Again, it is helpful as you will convey your ideas visually. Following are the w
 * Playback your file to check if everything is in order.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs about Voiceover in PowerPoint
@@ -355,83 +341,55 @@ Ans: Recorded PowerPoint presentations are more flexible because you can pause t
 A voice-over PowerPoint presentation is helpful when presenting to your clients virtually. If they have any questions, they can always ask after watching the entire slide show.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## The Bottom Line
-
-There are many ways to know how to add voice to PowerPoint. First, you must record audio before presenting the file and insert it into the .ppt file. It is helpful as you will explain your clients and customers easily. Moreover, if you record it before, you will be able to give a better presentation as you will include all the points.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Part 1\. Record a Voiceover for PowerPoint on a PC
-
-One of the fascinating features of a presentation is recording voice in PowerPoint.It is helpful as when you create a presentation, you have an idea of what you will speak about along with the slides. Sometimes, it becomes difficult to explain in front of the clients as you may forget. However, if you record a narration beforehand, you will not miss the essential points. PowerPoint has the facility to add the voice-over with the slides.
-
-It is just like an audio file, where you can insert the file and let it play as the slides move on. However, you have to set the timer for the transition of the falls. It will help to match with your voice-over. Recording a voice-over for your presentation is simple. Following are the steps on how to do voice over on PowerPoint:
-
-* Turn the Recording Tab
-* When you are ready to record, click on the Record Slide Show.
-* It would help if you started recording from the first slide; otherwise, it will not match the slides.
-* Click on the round red button to start your recording.
-* You can pause the recording by clicking Alt + S.
-* After you finish the process, click on the Stop button.
-* You can review your file to check if the voice flow follows the slides.
-
-![powerpoint slideshow option](https://images.wondershare.com/filmora/article-images/powerpoint-screen-recording.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-There is also another method with which you will know how to add voice in PowerPoint:
-
-* Open Powerpoint, and from the Insert menu, click on the audio
-* Click on Record Audio and start your recording
-* Please select a name for the audio so that you can remember it.
-* When you finish the process, click on stop.
-* Select Play if you want to review the recording.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Part 2\. Record a Voiceover for PowerPoint on a Mac
-
-A PowerPoint voice recording adds flavor to your presentation as you can include all the ideas you want your clients to understand. Moreover, you will make them know in an organized method. You can also make the presentation for social media or any platform to make it run automatically. It is also helpful for teachers as they can prepare their tutorials with a voice-over to make it easy for the students to understand. If you are working on a Mac, you can schedule a PowerPoint presentation for your clients or students.
-
-Again, it is helpful as you will convey your ideas visually. Following are the ways to help you understand how to do a voice-over in PowerPoint. Powerpoint voice recording is one of the essential features of the software. It is user-friendly and easy to insert audio into your existing presentation. However, before you start recording, you have to make sure whether your Mac has an internal audio recorder. If it does not have one, you have to attach an external microphone to record smoothly.
-
-![record powerpoint audio on mac](https://images.wondershare.com/filmora/article-images/record-powerpoint-audio-on-mac.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## The Bottom Line
+
+There are many ways to know how to add voice to PowerPoint. First, you must record audio before presenting the file and insert it into the .ppt file. It is helpful as you will explain your clients and customers easily. Moreover, if you record it before, you will be able to give a better presentation as you will include all the points.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Part 1\. Record a Voiceover for PowerPoint on a PC
+
+One of the fascinating features of a presentation is recording voice in PowerPoint.It is helpful as when you create a presentation, you have an idea of what you will speak about along with the slides. Sometimes, it becomes difficult to explain in front of the clients as you may forget. However, if you record a narration beforehand, you will not miss the essential points. PowerPoint has the facility to add the voice-over with the slides.
+
+It is just like an audio file, where you can insert the file and let it play as the slides move on. However, you have to set the timer for the transition of the falls. It will help to match with your voice-over. Recording a voice-over for your presentation is simple. Following are the steps on how to do voice over on PowerPoint:
+
+* Turn the Recording Tab
+* When you are ready to record, click on the Record Slide Show.
+* It would help if you started recording from the first slide; otherwise, it will not match the slides.
+* Click on the round red button to start your recording.
+* You can pause the recording by clicking Alt + S.
+* After you finish the process, click on the Stop button.
+* You can review your file to check if the voice flow follows the slides.
+
+![powerpoint slideshow option](https://images.wondershare.com/filmora/article-images/powerpoint-screen-recording.jpg)
+
+There is also another method with which you will know how to add voice in PowerPoint:
+
+* Open Powerpoint, and from the Insert menu, click on the audio
+* Click on Record Audio and start your recording
+* Please select a name for the audio so that you can remember it.
+* When you finish the process, click on stop.
+* Select Play if you want to review the recording.
+
+## Part 2\. Record a Voiceover for PowerPoint on a Mac
+
+A PowerPoint voice recording adds flavor to your presentation as you can include all the ideas you want your clients to understand. Moreover, you will make them know in an organized method. You can also make the presentation for social media or any platform to make it run automatically. It is also helpful for teachers as they can prepare their tutorials with a voice-over to make it easy for the students to understand. If you are working on a Mac, you can schedule a PowerPoint presentation for your clients or students.
+
+Again, it is helpful as you will convey your ideas visually. Following are the ways to help you understand how to do a voice-over in PowerPoint. Powerpoint voice recording is one of the essential features of the software. It is user-friendly and easy to insert audio into your existing presentation. However, before you start recording, you have to make sure whether your Mac has an internal audio recorder. If it does not have one, you have to attach an external microphone to record smoothly.
+
+![record powerpoint audio on mac](https://images.wondershare.com/filmora/article-images/record-powerpoint-audio-on-mac.jpg)
 
 * Click on the Apple icon and select Choose System Preferences
 * Now, opt to select the Sound Icon
@@ -518,17 +476,18 @@ There are many ways to know how to add voice to PowerPoint. First, you must reco
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-rapidrush-framefrozen-recording/"><u>[New] RapidRush FrameFrozen Recording</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-expert-blueprint-fashioning-timer-functionality-with-video-editors/"><u>[Updated] In 2024, Expert Blueprint Fashioning Timer Functionality with Video Editors</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-navigating-the-world-of-virtual-engagements-effects-filters-and-more/"><u>[Updated] In 2024, Navigating the World of Virtual Engagements Effects, Filters, & More</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-saving-powerpoint-presentation-to-video/"><u>[Updated] Saving PowerPoint Presentation to Video</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/1715760177292-2024-approved-how-to-record-lol-gameplay3-methods/"><u>2024 Approved How to Record LOL Gameplay?(3 Methods)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-launch-strategies-for-fb-generosity-campaigns/"><u>2024 Approved Launch Strategies for FB Generosity Campaigns</u></a></li>
-<li><a href="https://program-issues.techidaily.com/a-comprehensive-guide-to-resolving-minecraft-black-screen-issues-2024-update/"><u>A Comprehensive Guide to Resolving Minecraft Black Screen Issues: 2024 Update</u></a></li>
-<li><a href="https://windows11.techidaily.com/curing-non-detection-of-unknown-usbs-on-windows-11/"><u>Curing Non-Detection of Unknown USBs on Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/embrace-well-being-with-ai-assistance-will-chatgpt-help-you-cook-healthier-foods-successfully/"><u>Embrace Well-Being with AI Assistance: Will ChatGPT Help You Cook Healthier Foods Successfully?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-uploading-your-smartphone-images-from-ios-device-to-windowsmac-desktop/"><u>Guide: Uploading Your Smartphone Images From iOS Device to Windows/Mac Desktop</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-honor-magic-6-lite-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Honor Magic 6 Lite Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-enhancing-videos-with-camtasias-ken-burns-trick/"><u>[New] 2024 Approved Enhancing Videos with Camtasia's Ken Burns Trick</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-essential-knowledge-zooming-into-clustered-rooms/"><u>[New] 2024 Approved Essential Knowledge Zooming Into Clustered Rooms</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-obs-versus-streamlabs-the-live-stream-software-duel-for-2024/"><u>[New] OBS Versus Streamlabs – The Live Stream Software Duel for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-exclusive-techniques-for-monitoring-and-logging-whatsapp-conversations-for-2024/"><u>[Updated] Exclusive Techniques for Monitoring and Logging WhatsApp Conversations for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-review-and-alternatives-unveiled-by-az-screenshotter/"><u>[Updated] In 2024, Review & Alternatives Unveiled by AZ Screenshotter</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-tech-for-speedy-video-frame-snapping/"><u>[Updated] In 2024, Top Tech for Speedy Video Frame Snapping</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/elevate-visual-appeal-incorporating-black-bar-and-box-in-social-feeds-for-2024/"><u>Elevate Visual Appeal Incorporating Black Bar & Box in Social Feeds for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-your-game-strategies-for-stellar-gaming-youtube-banners-for-2024/"><u>Elevate Your Game Strategies for Stellar Gaming YouTube Banners for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-computer-hardware-by-tom-the-ultimate-guide-for-buyers/"><u>Expert Insights on Computer Hardware by Tom - The Ultimate Guide for Buyers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/starfield-troubles-overcoming-game-stops-and-resets-during-pc-sessions/"><u>Starfield Troubles? Overcoming Game Stops and Resets During PC Sessions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462520376-why-does-my-iphone-keep-changing-its-own-brightness-top-10-factors-revealed/"><u>Why Does My iPhone Keep Changing Its Own Brightness? Top 10 Factors Revealed</u></a></li>
 </ul></div>
 

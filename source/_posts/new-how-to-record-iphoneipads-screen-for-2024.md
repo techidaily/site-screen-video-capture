@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Record iPhone/iPad’s Screen for 2024"
-date: 2024-09-09T16:41:46.404Z
-updated: 2024-09-13T16:37:37.563Z
+date: 2024-09-12T16:31:52.179Z
+updated: 2024-09-19T04:03:37.237Z
 tags: 
   - screen-recording
   - ai video
@@ -44,29 +44,9 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 
 ![ios 11](https://images.wondershare.com/filmora/ios11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    1. Open the Control Center by swiping up from the bottom of your iPhone/iPad.
 
 ![ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Tap the screen recording icon that looks like a solid circle enclosed in another circle. And you will see the start recording option and a microphone button. If you want to record the microphone audio, then tap it to turn on the microphone. Then, tap on Start Recording to start.
 
@@ -93,13 +73,6 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20logo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. Launch QuickTime on your Mac available in the application folder.
 
 3\. Click on the File menu on the QuickTime menu bar and choose New Movie Recording.
@@ -114,13 +87,6 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 ![quicktime screen recorder](https://images.wondershare.com/filmora/quicktime%20iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7\. To stop the recording of the screen of your iOS device, click on the Stop button at the video recorder window.
 
 8\. If you want to edit the video, you can do it in QuickTime (for basic editing). You can also save the recorded video first and then edit it later. You can directly save it as it is in QuickTime by going to File Menu and clicking on save option.
@@ -133,21 +99,7 @@ iPhone/iPad screen recorder is a very useful tool when you want to record tutori
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -164,12 +116,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-innovative-screen-capture-on-mac-top-5-methods/"><u>[New] 2024 Approved Innovative Screen Capture on Mac, Top 5 Methods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-foremost-equipment-in-round-the-clock-filming/"><u>[New] Foremost Equipment in Round-The-Clock Filming</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-vsdm-video-capture-overview-thorough-scrutiny/"><u>[New] In 2024, VSDM Video Capture Overview Thorough Scrutiny</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-become-an-instagram-reel-guru-with-these-proven-strategies/"><u>[Updated] 2024 Approved Become an Instagram Reel Guru with These Proven Strategies</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-speech-iphone-memo-making-steps/"><u>[Updated] Capturing Speech IPhone Memo-Making Steps</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-tecno-pova-5-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Tecno Pova 5 to Roku | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-honor-90-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor 90 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-capture-unrooted-sounds-in-android-4-methods/"><u>[New] 2024 Approved Capture Unrooted Sounds in Android [4 Methods]</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitter-tales-creating-gifs-without-charges/"><u>[New] 2024 Approved Twitter Tales Creating GIFs Without Charges</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-unlock-creative-potential-top-10-online-banners-tools/"><u>[New] 2024 Approved Unlock Creative Potential - Top 10 Online Banners Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-amazons-premier-hits-peak-twitter-engagement-and-viewership-for-2024/"><u>[New] Amazon's Premier Hits Peak Twitter Engagement & Viewership for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-fbx-recorder-alternatives-the-new-era-of-gaming-capture-for-2024/"><u>[New] FBX Recorder Alternatives The New Era of Gaming Capture for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-chrome-os-best-free-video-capture-tools-compilation/"><u>[New] In 2024, Chrome OS Best Free Video Capture Tools Compilation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-windows-10-camera-software-review-top-10/"><u>[New] Ultimate Windows 10 Camera Software Review - Top 10</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-leading-websites-for-digital-3d-text-with-a-golden-accent/"><u>[Updated] 2024 Approved Leading Websites for Digital 3D Text with a Golden Accent</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-ios-psp-gamepads-emulation-2023s-best-list-for-2024/"><u>[Updated] Top iOS PSP Gamepads Emulation - 2023'S Best List for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-mastering-uploading-movie-maker-videos-on-vimeo/"><u>2024 Approved Mastering Uploading Movie Maker Videos on Vimeo</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-and-windows-11-resolving-non-functional-bluetooth-driver-problems/"><u>Qualcomm Atheros and Windows 11: Resolving Non-Functional Bluetooth Driver Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-troubleshooting-steps-when-safari-fails-on-your-iphone/"><u>Top 10 Troubleshooting Steps When Safari Fails on Your iPhone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

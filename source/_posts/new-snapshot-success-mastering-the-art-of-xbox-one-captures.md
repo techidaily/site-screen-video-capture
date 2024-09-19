@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Snapshot Success  Mastering the Art of Xbox One Captures\""
-date: 2024-09-12T17:15:28.051Z
-updated: 2024-09-13T16:37:23.555Z
+date: 2024-09-18T02:26:15.739Z
+updated: 2024-09-18T17:18:04.559Z
 tags: 
   - screen-recording
   - ai video
@@ -35,13 +35,6 @@ Let's have a look at how you can take screenshots in video games you play on you
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -59,45 +52,17 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Capturing Screenshots on Xbox One Using the Controller
 
 There is nothing complicated about taking a screenshot of your favorite game on Xbox One using the device's controller. All you have to do is double-click on the Xbox button and the screenshot will be captured. A sidebar will appear on the screen asking you if you want to take a screenshot or record the last 30 seconds of the gameplay. Just hit the Y button to save the screenshot. A dialog box will appear on the screen informing you that the screenshot has been saved successfully.
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 An increasing number of video games for Xbox One can be played in 4K resolution, but in order to play a game in a 4K resolution, you must have a 4K TV set. Moreover, the 4K and HDR capabilities your TV must be enabled before you start playing an Xbox One game in 4K. Taking a 4K screenshot on Xbox One requires you to adjust the capturing settings.
 
 Press the Xbox button on the controller, and locate the System menu. Select the Settings option from the System menu and then click on the Preferences submenu. Navigate to the Broadcast&Capture option and when the new menu appears on the screen, click on the Game clip resolution and select one of the available 4K settings.
 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Capture Screenshots on Xbox One Using Voice Commands
 
@@ -108,6 +73,13 @@ Older versions of Xbox One feature the Kinect motion sensor, while the more rece
 You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cortana motion sensor. However, in order to be able to issue voice commands, you must first activate this option. Head over to the Xbox One's Settings menu and locate the All Settings option. Click on System and switch on the AI Companion feature.
 
 It is important to say the command clearly so the AI can understand what you are trying to do, and for that reason, you should try to avoid capturing screenshots or recording videos via voice commands in noisy rooms.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Manage and Share Screenshots on Xbox One?
 
@@ -120,10 +92,16 @@ The console you're using features the Upload app, so in order to access it, you 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot-share.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2. Manage and Share Xbox Screenshots via Windows 10 PC
@@ -155,15 +133,14 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-from-free-to-profitable-unlocking-youtubes-monetization-at-500plus/"><u>[New] 2024 Approved From Free to Profitable Unlocking YouTube's Monetization at 500+</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-guide-to-8-mirrorless-cameras-for-vloggers/"><u>[New] 2024 Approved The Ultimate Guide to 8 Mirrorless Cameras for Vloggers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-drivers-delight-5-top-race-games/"><u>[New] Ultimate Driver's Delight 5 Top Race Games</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-instagram-live-with-professional-obs/"><u>[Updated] 2024 Approved Instagram Live with Professional OBS</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-elevate-your-videos-with-expert-tips-on-vlc-spinning-for-2024/"><u>[Updated] Elevate Your Videos with Expert Tips on VLC Spinning for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-videos-to-vault-ajays-revenue-journey-on-youtube-for-2024/"><u>[Updated] From Videos to Vault AJay’s Revenue Journey on YouTube for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-export-live-webcam-video-through-vlc/"><u>[Updated] In 2024, Export Live Webcam Video Through VLC</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-roguelikes-traditional-tactics-vs-modern-mechanics/"><u>[Updated] Roguelike's Traditional Tactics Vs. Modern Mechanics</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-maximizing-view-count-for-facebook-videos/"><u>In 2024, Maximizing View Count for Facebook Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/premium-gaming-intro-ideas-for-youtube-free-vs-paid-models-for-2024/"><u>Premium Gaming Intro Ideas for YouTube Free vs Paid Models for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-techniques-for-high-quality-xbox-game-recordings/"><u>[New] 2024 Approved Techniques for High-Quality Xbox Game Recordings</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlock-the-secrets-of-building-budget-friendly-youtube-ads/"><u>[New] Unlock the Secrets of Building Budget-Friendly YouTube Ads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-experts-handbook-for-voice-alteration-via-morphvox/"><u>[Updated] In 2024, The Ultimate Expert's Handbook for Voice Alteration via MorphVOX</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/fundamental-tips-for-broadcasting-fan-favorite-sports-for-2024/"><u>Fundamental Tips for Broadcasting Fan-Favorite Sports for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-deeper-dive-into-video-enhancement-techniques-for-pcmobile/"><u>In 2024, A Deeper Dive Into Video Enhancement Techniques for PC/Mobile</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-acethinker-screen-recorder-review-and-alternative/"><u>In 2024, AceThinker Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-apocalypse-playground-8-best-zombie-game-experiences/"><u>In 2024, The Apocalypse Playground 8 Best Zombie Game Experiences</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-transform-your-tech-skills-mastering-screen-capture-in-macos/"><u>In 2024, Transform Your Tech Skills Mastering Screen Capture in macOS</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-the-top-6-alternatives-to-twitch-for-your-streaming-needs/"><u>New The Top 6 Alternatives to Twitch for Your Streaming Needs</u></a></li>
 </ul></div>
 

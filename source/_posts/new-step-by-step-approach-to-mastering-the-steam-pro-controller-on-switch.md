@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Approach to Mastering the Steam Pro Controller on Switch\""
-date: 2024-09-09T17:05:35.161Z
-updated: 2024-09-13T16:13:53.757Z
+date: 2024-09-17T02:15:23.190Z
+updated: 2024-09-19T04:26:41.492Z
 tags: 
   - screen-recording
   - ai video
@@ -42,13 +42,6 @@ This article will tell you how to enable your Nintendo Switch Pro controller to 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Wired Connection for Switch Pro Controllers**
 
 Windows describe it as a DirectInput controller instead of an XInput controller, so getting it to work with PC games can prove tedious. However, thanks to Value-adding full Switch controller support to Steam, you will probably be able to play most of your favorite games.
@@ -60,19 +53,6 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 ![switch-pro-controller-connected-with-cable](https://images.wondershare.com/filmora/article-images/switch-pro-controller-connected-with-cable.jpg)
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
@@ -86,23 +66,9 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -127,20 +93,14 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -153,16 +113,10 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Final Verdict**
@@ -186,17 +140,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-elite-5-step-time-lapse-recordings-guide-for-2024/"><u>[New] Elite 5-Step Time-Lapse Recordings Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-audiovisual-experience-elevated-mastering-audio-blending-in-audacity/"><u>[New] The Audiovisual Experience Elevated Mastering Audio Blending in Audacity</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unlocking-virtual-video-talks-via-whatsapp-browser-on-your-pc-for-2024/"><u>[New] Unlocking Virtual Video Talks via WhatsApp Browser on Your PC for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-get-the-perfect-slideshow-design-10-places-to-download-for-inspiration/"><u>[Updated] 2024 Approved Get the Perfect Slideshow Design 10 Places to Download for Inspiration</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-dissecting-the-user-experience-in-vivavideo-for-2024/"><u>[Updated] Dissecting the User Experience in VivaVideo for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-easeus-recexperts-review-for-2024/"><u>[Updated] EaseUS RecExperts Review for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-highlighted-top-5-minimalist-action-camera-picks/"><u>[Updated] Highlighted Top 5 Minimalist Action Camera Picks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-is-splitcam-the-ultimate-in-video-capture/"><u>[Updated] Is SplitCam The Ultimate in Video Capture?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-your-quick-guide-to-google-voice-call-history/"><u>[Updated] Your Quick Guide to Google Voice Call History</u></a></li>
-<li><a href="https://win-great.techidaily.com/quick-and-simple-guide-convert-your-mov-files-into-high-quality-webm-videos-in-just-5-steps/"><u>Quick & Simple Guide: Convert Your MOV Files Into High-Quality WebM Videos in Just 5 Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719329285690-resolve-programming-discrepancies-with-no-troubleshoot-tool/"><u>Resolve Programming Discrepancies with No Troubleshoot Tool.</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solution-guide-eliminating-game-lags-and-enhancing-2024s-smooth-gaming-experience/"><u>Solution Guide: Eliminating Game Lags and Enhancing 2024'S Smooth Gaming Experience</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-update-required-hp-d1360-on-various-windows-platforms/"><u>[Driver Update Required] HP D1360 on Various Windows Platforms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-best-virtual-background-for-google-meet-video-call/"><u>[New] In 2024, Best Virtual Background for Google Meet Video Call</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-expert-recording-software-for-desktop-hd-video/"><u>[Updated] Expert Recording Software for Desktop HD Video</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-quick-guide-capturing-time-lapse-on-your-ipad-for-2024/"><u>[Updated] Quick Guide Capturing Time Lapse on Your iPad for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719151722546-be-part-of-the-future-facebooks-10000-metaverse-builders-wanted/"><u>Be Part of the Future: Facebook's 10,000 Metaverse Builders Wanted</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/guesting-without-glitches-live-tiktok-conversations/"><u>Guesting Without Glitches Live TikTok Conversations</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a14-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A14 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-infinix-hot-40-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Infinix Hot 40 Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-reno-9a-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo Reno 9A</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revo-uninstaller-pro-5-the-ultimate-software-removal-solution/"><u>Revo Uninstaller Pro 5: The Ultimate Software Removal Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-enhancing-audio-output-in-windows-11/"><u>Step-by-Step Tutorial: Enhancing Audio Output in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo V29? | Dr.fone</u></a></li>
 </ul></div>
 
