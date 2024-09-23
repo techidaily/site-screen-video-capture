@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Non-Functioning Computer Sounds
-date: 2024-09-14T02:36:34.836Z
-updated: 2024-09-18T18:12:47.230Z
+date: 2024-09-19T18:32:00.115Z
+updated: 2024-09-23T19:05:44.602Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Microphone** on the left pane, and make sure**Microphone access for this device** **is on** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
@@ -68,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd5faedb2b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged sound card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
@@ -95,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Recording** tab, then right click on any empty area inside the device list and select**Show** **Disabled** **Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6274ee58efa.jpg)
@@ -103,23 +124,9 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627553bb550.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Right click on your microphone again and select**Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Right click your microphone, and click**Properties.**
 
@@ -129,6 +136,13 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6278bfe07b0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8) Save your changes and restart your computer.
 
  Try your Logitech G430 mic again and see if it works.
@@ -136,10 +150,10 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  Still no luck? Okay, there’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall Logitech Game Software**
@@ -170,19 +184,18 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-beginning-zoom-video-calls-on-android-devices-for-2024/"><u>[New] Beginning Zoom Video Calls on Android Devices for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-capture-kings-list-the-ultimate-screen-recorder-showdown/"><u>[New] In 2024, Capture Kings List The Ultimate Screen Recorder Showdown</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-openscreens-the-unchained-gamers-screen-record/"><u>[New] In 2024, OpenScreens The Unchained Gamer's Screen Record</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastering-voice-over-recording-for-videos-for-2024/"><u>[New] Mastering Voice-Over Recording for Videos for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-console-to-computer-a-guide-to-live-game-capture-for-2024/"><u>[Updated] Console to Computer A Guide to Live Game Capture for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-insiders-guide-to-youtube-tv-features-and-functions/"><u>[Updated] In 2024, The Insider's Guide to YouTube TV Features & Functions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-screen-record-on-windows-10-devices-for-2024/"><u>[Updated] Mastering Screen Record on Windows 10 Devices for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-to-navigate-wacom-driver-updates/"><u>Easy-to-Navigate Wacom Driver Updates</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/enhance-ipad-recording-simpler-approaches-revealed-for-2024/"><u>Enhance iPad Recording Simpler Approaches Revealed for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/from-idea-to-reality-examining-mycams-video-recorder-performance-for-2024/"><u>From Idea to Reality Examining MyCam’s Video Recorder Performance for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-z-fold-5-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy Z Fold 5</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-enhancing-your-live-viewing-experience-on-facebook/"><u>In 2024, Enhancing Your Live Viewing Experience on Facebook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-secure-to-use-external-chatgpt-addons-and-plugins/"><u>Is It Secure to Use External ChatGPT Addons & Plugins?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revealing-the-faces-behind-your-viral-facebook-post-a-comprehensive-guide/"><u>Revealing the Faces Behind Your Viral Facebook Post: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-capturing-your-macbook-pro-screens-a-step-by-step-tutorial/"><u>[New] 2024 Approved Capturing Your MacBook Pro Screens A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-secure-practices-for-storing-video-conversations/"><u>[Updated] In 2024, Secure Practices for Storing Video Conversations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-speedy-insights-modifying-videos-in-instagram-stories-for-2024/"><u>[Updated] Speedy Insights Modifying Videos in Instagram Stories for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-visual-treats-free-video-to-gif-transformation-for-2024/"><u>[Updated] Twitter's Visual Treats Free Video to Gif Transformation for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-farm-team-time-top-10-agricultural-games-to-share-and-compete/"><u>2024 Approved Farm Team Time Top 10 Agricultural Games to Share & Compete</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/5-excellent-external-hdd-recommendations-for-xbox-for-2024/"><u>5 Excellent External HDD Recommendations for Xbox for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-laptop-fix-straighten-screen-edges/"><u>Effortless Laptop Fix - Straighten Screen Edges</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-choose-between-filmora-and-democreator-for-2024/"><u>How to Choose Between Filmora and Democreator for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-webcams-designed-for-smooth-zoom-conferencing/"><u>In 2024, Optimal Webcams Designed for Smooth Zoom Conferencing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-sleek-line-up-best-7-fps-arenas/"><u>In 2024, Sleek Line-Up Best 7 FPS Arenas</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-ultimate-steps-for-transforming-your-ppts-into-video-magic/"><u>In 2024, Ultimate Steps for Transforming Your PPTs Into Video Magic</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-defender-smartscreen-service-not-available/"><u>Troubleshooting: Windows Defender SmartScreen Service Not Available</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-chatgpt-token-cap-possibilities-of-going-beyond/"><u>Understanding the ChatGPT Token Cap: Possibilities of Going Beyond</u></a></li>
 </ul></div>
 

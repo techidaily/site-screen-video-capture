@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Best Online Voice Recorders for 2024"
-date: 2024-09-17T20:49:54.435Z
-updated: 2024-09-18T23:24:56.308Z
+date: 2024-09-21T19:41:44.388Z
+updated: 2024-09-23T17:45:03.897Z
 tags: 
   - screen-recording
   - ai video
@@ -42,122 +42,11 @@ Features
 
 ![rev online voice recorder](https://images.wondershare.com/filmora/article-images/rev-online-voice-recorder.jpg)
 
-### 2\. 123apps Voice Recorder
-
-If you looking for an online voice recorder as well as an audio editor, 123apps is the best platform. It is a collection of all the essential tools for audio recording and editing. You can get tools for trimming, reversing, changing pitch, speed, and volume. There is also an equalizer option available for better recording. Here are all the features of 123apps voice recording.
-
-****Features**
-
-* Top-notch recording quality with customization of parameters.
-* Detects silent parts and deletes dead air sections.
-* Options for cutting and joining necessary record sections.
-* Automatically adjust the microphone settings.
-* Simple interface for hassle-free use.
-* Option to install Chrome extension for easy operation.
-* Save the recordings in MP3 file format.
-
-![123apps](https://images.wondershare.com/filmora/article-images/123apps.jpg)
-
-### 3\. Resonate
-
-Resonate is an online voice recorder and editor. It is a great platform for podcasters and there are several paid podcasting services available. The recording quality can be great and you get to save the recording files in WAV format. It is online voice recorder Chrome and can only be used on computers. Here are all the features of Resonate Online Recorder.
-
-****Features**
-
-* Eliminates low-quality recording.
-* Can record Zoom calls on your side.
-* Can recording from various external microphones.
-* Ability to record in a high-quality format.
-* Allows editing tracks before uploading anywhere.
-* Easy uploading for podcasting and distribution.
-* Comes with a dynamic ad insertion option.
-
-![resonate](https://images.wondershare.com/filmora/article-images/resonate.jpg)
-
-### 4\. Voice Spice Recorder
-
-This online recorder offers a plenty of features to satisfy all the users. You can record your voice online by selecting the voice type. You can also adjust volume and pitch. There is also an option for transcription. You can share the recordings through the links generated and get analytics on the popularity of your recordings that you shared. Hence, it is a perfect platform for budding singers, podcasters and musicians. Here are the features of Voice Spice Recorder you should be aware of.
-
-****Features**
-
-* Customized recording options.
-* Multiple adjustment settings.
-* Feature of text-to-speech recording.
-* Simple interface for easy recording.
-* Select voice type for accurate recording.
-* Allows adjusting the voice pitch and volume.
-* Feature of using voice tag for customized greeting.
-* Generate sharable links and watch their analytics.
-
-![voice spice recorder](https://images.wondershare.com/filmora/article-images/voice-spice-recorder.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### 5\. SpeakPipe
-
-SpeakPipe is an online free voice recorder through which you can record your voice instantly. The recordings are saved on SpeakPipe’s server and hence, you can share the links of the recordings instantly on social media platforms. However, there is a limit on the recording duration on the free version. Here are the key features of SpeakPipe Voice Recorder.
-
-****Features**
-
-* Easy interface for quick recording.
-* Allows listening to the audio recordings.
-* Sharable link for sending through emails and apps.
-* Recordings stay safe on web server for easy access.
-* Compatible with Windows, Android and iOS.
-
-![speakpipe](https://images.wondershare.com/filmora/article-images/speakpipe.jpg)
-
-### 6\. Clyp
-
-Clyp is a free voice recorder editor online. Apart from recording, you can upload any audio file and get a sharable link. Therefore, the audio files including your recordings are saved on their servers. You can edit the recordings as per your requirements. Here are all the features of Clyp voice recorder.
-
-****Features**
-
-* Allows uploading audio clips for mixing.
-* Comes with a basic built-in audio editor.
-* Allows extensive embedding and sharing options.
-* Simple interface for hassle-free recording.
-* Option to download its app on smartphones.
-
-![clyp](https://images.wondershare.com/filmora/article-images/clyp.jpg)
-
-### 7\. Vocaroo Online Voice Recorder
-
-If you are looking for a free online voice recorder where there is multilingual support, Vocaroo is the one for you. You can change the sentences in the interface in different languages for easy operation. It is a very basic voice recorder, and you can share the recording across any platform as it provides a dedicated link for your recording. Here are the features of the voice recorder.
-
-****Features**
-
-* Front-page record button for direct recording.
-* Option to upload audio and get sharable links.
-* Option to generate QR code for audio recordings.
-* Completely free tool without any annoying ads.
-* Allows using on smartphones and computers.
-
-![vocaroo online voice recorder](https://images.wondershare.com/filmora/article-images/vocaroo-online-voice-recorder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Conclusion –
-
-If you are looking for a proper platform to record my voice online without installing any app, we have listed the top 7 best online voice recorders. Some are of them are completely free while others are paid services for flawless recording. Most importantly, some of these online recorders have editing options to fine-tune the recording and share across different platforms through sharable links.
-
-![rev online voice recorder](https://images.wondershare.com/filmora/article-images/rev-online-voice-recorder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. 123apps Voice Recorder
@@ -250,6 +139,19 @@ If you are looking for a free online voice recorder where there is multilingual 
 * Allows using on smartphones and computers.
 
 ![vocaroo online voice recorder](https://images.wondershare.com/filmora/article-images/vocaroo-online-voice-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion –
 
@@ -273,6 +175,13 @@ If you looking for an online voice recorder as well as an audio editor, 123apps 
 
 ![123apps](https://images.wondershare.com/filmora/article-images/123apps.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Resonate
 
 Resonate is an online voice recorder and editor. It is a great platform for podcasters and there are several paid podcasting services available. The recording quality can be great and you get to save the recording files in WAV format. It is online voice recorder Chrome and can only be used on computers. Here are all the features of Resonate Online Recorder.
@@ -288,6 +197,13 @@ Resonate is an online voice recorder and editor. It is a great platform for podc
 * Comes with a dynamic ad insertion option.
 
 ![resonate](https://images.wondershare.com/filmora/article-images/resonate.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Voice Spice Recorder
 
@@ -305,6 +221,13 @@ This online recorder offers a plenty of features to satisfy all the users. You c
 * Generate sharable links and watch their analytics.
 
 ![voice spice recorder](https://images.wondershare.com/filmora/article-images/voice-spice-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. SpeakPipe
 
@@ -334,13 +257,6 @@ Clyp is a free voice recorder editor online. Apart from recording, you can uploa
 
 ![clyp](https://images.wondershare.com/filmora/article-images/clyp.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Vocaroo Online Voice Recorder
 
 If you are looking for a free online voice recorder where there is multilingual support, Vocaroo is the one for you. You can change the sentences in the interface in different languages for easy operation. It is a very basic voice recorder, and you can share the recording across any platform as it provides a dedicated link for your recording. Here are the features of the voice recorder.
@@ -360,13 +276,6 @@ If you are looking for a free online voice recorder where there is multilingual 
 If you are looking for a proper platform to record my voice online without installing any app, we have listed the top 7 best online voice recorders. Some are of them are completely free while others are paid services for flawless recording. Most importantly, some of these online recorders have editing options to fine-tune the recording and share across different platforms through sharable links.
 
 ![rev online voice recorder](https://images.wondershare.com/filmora/article-images/rev-online-voice-recorder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. 123apps Voice Recorder
 
@@ -458,6 +367,124 @@ If you are looking for a free online voice recorder where there is multilingual 
 * Allows using on smartphones and computers.
 
 ![vocaroo online voice recorder](https://images.wondershare.com/filmora/article-images/vocaroo-online-voice-recorder.jpg)
+
+## Conclusion –
+
+If you are looking for a proper platform to record my voice online without installing any app, we have listed the top 7 best online voice recorders. Some are of them are completely free while others are paid services for flawless recording. Most importantly, some of these online recorders have editing options to fine-tune the recording and share across different platforms through sharable links.
+
+![rev online voice recorder](https://images.wondershare.com/filmora/article-images/rev-online-voice-recorder.jpg)
+
+### 2\. 123apps Voice Recorder
+
+If you looking for an online voice recorder as well as an audio editor, 123apps is the best platform. It is a collection of all the essential tools for audio recording and editing. You can get tools for trimming, reversing, changing pitch, speed, and volume. There is also an equalizer option available for better recording. Here are all the features of 123apps voice recording.
+
+****Features**
+
+* Top-notch recording quality with customization of parameters.
+* Detects silent parts and deletes dead air sections.
+* Options for cutting and joining necessary record sections.
+* Automatically adjust the microphone settings.
+* Simple interface for hassle-free use.
+* Option to install Chrome extension for easy operation.
+* Save the recordings in MP3 file format.
+
+![123apps](https://images.wondershare.com/filmora/article-images/123apps.jpg)
+
+### 3\. Resonate
+
+Resonate is an online voice recorder and editor. It is a great platform for podcasters and there are several paid podcasting services available. The recording quality can be great and you get to save the recording files in WAV format. It is online voice recorder Chrome and can only be used on computers. Here are all the features of Resonate Online Recorder.
+
+****Features**
+
+* Eliminates low-quality recording.
+* Can record Zoom calls on your side.
+* Can recording from various external microphones.
+* Ability to record in a high-quality format.
+* Allows editing tracks before uploading anywhere.
+* Easy uploading for podcasting and distribution.
+* Comes with a dynamic ad insertion option.
+
+![resonate](https://images.wondershare.com/filmora/article-images/resonate.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 4\. Voice Spice Recorder
+
+This online recorder offers a plenty of features to satisfy all the users. You can record your voice online by selecting the voice type. You can also adjust volume and pitch. There is also an option for transcription. You can share the recordings through the links generated and get analytics on the popularity of your recordings that you shared. Hence, it is a perfect platform for budding singers, podcasters and musicians. Here are the features of Voice Spice Recorder you should be aware of.
+
+****Features**
+
+* Customized recording options.
+* Multiple adjustment settings.
+* Feature of text-to-speech recording.
+* Simple interface for easy recording.
+* Select voice type for accurate recording.
+* Allows adjusting the voice pitch and volume.
+* Feature of using voice tag for customized greeting.
+* Generate sharable links and watch their analytics.
+
+![voice spice recorder](https://images.wondershare.com/filmora/article-images/voice-spice-recorder.jpg)
+
+### 5\. SpeakPipe
+
+SpeakPipe is an online free voice recorder through which you can record your voice instantly. The recordings are saved on SpeakPipe’s server and hence, you can share the links of the recordings instantly on social media platforms. However, there is a limit on the recording duration on the free version. Here are the key features of SpeakPipe Voice Recorder.
+
+****Features**
+
+* Easy interface for quick recording.
+* Allows listening to the audio recordings.
+* Sharable link for sending through emails and apps.
+* Recordings stay safe on web server for easy access.
+* Compatible with Windows, Android and iOS.
+
+![speakpipe](https://images.wondershare.com/filmora/article-images/speakpipe.jpg)
+
+### 6\. Clyp
+
+Clyp is a free voice recorder editor online. Apart from recording, you can upload any audio file and get a sharable link. Therefore, the audio files including your recordings are saved on their servers. You can edit the recordings as per your requirements. Here are all the features of Clyp voice recorder.
+
+****Features**
+
+* Allows uploading audio clips for mixing.
+* Comes with a basic built-in audio editor.
+* Allows extensive embedding and sharing options.
+* Simple interface for hassle-free recording.
+* Option to download its app on smartphones.
+
+![clyp](https://images.wondershare.com/filmora/article-images/clyp.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 7\. Vocaroo Online Voice Recorder
+
+If you are looking for a free online voice recorder where there is multilingual support, Vocaroo is the one for you. You can change the sentences in the interface in different languages for easy operation. It is a very basic voice recorder, and you can share the recording across any platform as it provides a dedicated link for your recording. Here are the features of the voice recorder.
+
+****Features**
+
+* Front-page record button for direct recording.
+* Option to upload audio and get sharable links.
+* Option to generate QR code for audio recordings.
+* Completely free tool without any annoying ads.
+* Allows using on smartphones and computers.
+
+![vocaroo online voice recorder](https://images.wondershare.com/filmora/article-images/vocaroo-online-voice-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion –
 
@@ -487,15 +514,18 @@ If you are looking for a proper platform to record my voice online without insta
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-essential-tips-precise-video-trimming-on-vimeo-5-methods/"><u>[New] 2024 Approved Essential Tips Precise Video Trimming on Vimeo [5 Methods]</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-perfecting-live-broadcasts-with-streamlabs-obs-tips-for-2024/"><u>[New] Perfecting Live Broadcasts with Streamlabs OBS Tips for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-choosing-between-obs-studio-and-bandicam-for-screen-capture/"><u>[Updated] Choosing Between OBS Studio and Bandicam for Screen Capture</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-poco-c55-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Poco C55 Activity | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/elevate-visuals-with-these-top-pixlr-tips-for-2024/"><u>Elevate Visuals with These Top Pixlr Tips for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-google-frp-by-drfone-android/"><u>How Can We Bypass Google FRP?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-obs-audio-fix-strategies-quickly/"><u>In 2024, OBS Audio Fix Strategies Quickly</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-professional-smoothness-blurring-the-video-backdrop/"><u>In 2024, Professional Smoothness Blurring the Video Backdrop</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-itel-p40plus-by-drfone-android/"><u>Top 10 Password Cracking Tools For Itel P40+</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solutions-when-your-headset-mic-wont-work/"><u>Troubleshooting Guide: Solutions When Your Headset Mic Won't Work</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-critical-review-best-bargain-video-call-apps-ios-and-android/"><u>[New] 2024 Approved Critical Review Best Bargain Video Call Apps - iOS & Android</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-a-comprehensive-guide-to-business-on-snapchat-for-2024/"><u>[New] A Comprehensive Guide to Business on Snapchat for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-eastern-mini-homes-top-6-creative-concepts-in-mc-for-2024/"><u>[New] Eastern Mini-Homes Top 6 Creative Concepts in MC for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-seamless-iphone-photo-and-video-transfers-guide/"><u>[Updated] In 2024, Seamless iPhone Photo & Video Transfers Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unlocking-the-potential-of-filters-and-masks-for-online-conferencing-for-2024/"><u>[Updated] Unlocking the Potential of Filters and Masks for Online Conferencing for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-hands-free-guide-to-storing-google-voice-chats/"><u>2024 Approved Hands-Free Guide to Storing Google Voice Chats</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-screen-capture-tools-explored-apowersoft-and-others-compared/"><u>2024 Approved Top Screen Capture Tools Explored - Apowersoft and Others Compared</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/capturing-desktop-anytime-on-windows/"><u>Capturing Desktop, Anytime on Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/cutting-edge-solutions-for-webmicrone-capture-with-these-9-tools-23-for-2024/"><u>Cutting-Edge Solutions for Webmicrone Capture with These 9 Tools ('23) for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-securing-sound-output-fixes-for-silent-obs-streams/"><u>In 2024, Securing Sound Output Fixes for Silent OBS Streams</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-the-art-of-repair-fix-glitchy-or-no-sound-airpods-using-this-method/"><u>Mastering the Art of Repair: Fix Glitchy or No-Sound AirPods Using This Method</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-fixing-the-notorious-lag-issues-for-the-elder-scrolls-online-blackwood-expansion/"><u>Solved! Fixing the Notorious Lag Issues for The Elder Scrolls Online Blackwood Expansion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-2018-amazon-kindle-paperwhite-a-revolutionary-ebook-reader-unveiled/"><u>The Ultimate Guide to the 2018 Amazon Kindle Paperwhite: A Revolutionary Ebook Reader Unveiled</u></a></li>
 </ul></div>
 

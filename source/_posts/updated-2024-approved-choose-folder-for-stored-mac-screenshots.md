@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Choose Folder for Stored Mac Screenshots\""
-date: 2024-09-13T22:12:29.321Z
-updated: 2024-09-18T18:23:14.305Z
+date: 2024-09-21T18:57:45.735Z
+updated: 2024-09-23T20:55:42.549Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,19 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -62,6 +75,13 @@ Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
 **defaults write com.apple.screencapture location /Users/username/Screenshots**
@@ -71,6 +91,13 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -83,6 +110,13 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -99,21 +133,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-add-good-bokeh-effects-in-instagram-stories/"><u>[New] How to Add Good Bokeh Effects in Instagram Stories</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-iphone-slow-motion-shooting-essentials/"><u>[New] IPhone Slow Motion Shooting Essentials</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-duplicate-screen-output-tracking-for-2024/"><u>[Updated] Duplicate Screen Output Tracking for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-virtual-board-functions-across-zoom-devices-for-2024/"><u>[Updated] Navigating Virtual Board Functions Across Zoom Devices for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bring-the-arena-to-your-living-room-with-nba-2k19-elite-sports-entertainment/"><u>Bring the Arena to Your Living Room With NBA 2K19: Elite Sports Entertainment</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-optimal-mac-screen-capturing-unveiling-the-top-5-strategies/"><u>In 2024, Optimal Mac Screen Capturing Unveiling The Top 5 Strategies</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-x100-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo X100 Phone Network-Ready</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/investigating-actives-prowess-in-recording-technology-for-2024/"><u>Investigating Active's Prowess in Recording Technology for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-guide-to-mts-video-editing-top-tools/"><u>New 2024 Approved The Ultimate Guide to MTS Video Editing Top Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-spectacular-top-liquid-physics-gaming/"><u>[New] In 2024, Spectacular Top Liquid Physics Gaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-x-sound-engineer-desktop-suite/"><u>[New] In 2024, X-Sound Engineer Desktop Suite</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-twitch-stream-mastery-top-4-innovations-to-try-for-2024/"><u>[New] Twitch Stream Mastery Top 4 Innovations to Try for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-lenovos-screen-recording-an-in-depth-user-manual/"><u>[Updated] 2024 Approved Lenovo’s Screen Recording – An In-Depth User Manual</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-achieving-fluidity-in-audio-blending-using-audacity-tools/"><u>[Updated] In 2024, Achieving Fluidity in Audio Blending Using Audacity Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-free-webcam-video-capture-software/"><u>[Updated] In 2024, Best Free Webcam Video Capture Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-mac-screenshots-and-screen-recording/"><u>[Updated] In 2024, Mastering Mac Screenshots & Screen Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-premier-mobile-devices-top-gba-game-players-for-2024/"><u>[Updated] Premier Mobile Devices Top GBA Game Players for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-selecting-audio-for-your-movie-trailer/"><u>2024 Approved Selecting Audio for Your Movie Trailer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-your-virtual-alter-ego-in-a-metaverse-setting-for-2024/"><u>Crafting Your Virtual Alter Ego in a Metaverse Setting for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-reinstating-deleted-windows-update-service/"><u>Guide to Reinstating Deleted Windows Update Service</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-easy-and-fun-top-15-ways-to-watch-nba-online/"><u>In 2024, Free, Easy & Fun Top 15 Ways to Watch NBA Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-business-sky-storage-choice/"><u>In 2024, Prime Business Sky-Storage Choice</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-a2-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo A2 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/jujutsu-kaisen-making-waves-tiktok-edition-for-2024/"><u>Jujutsu Kaisen Making Waves TikTok Edition for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974988482-the-21st-century-challenges-like-climate-change-pandemics-and-cyber-warfare-demand-new-solutions-that-extend-beyond-the-scope-of-liberal-capitalism/"><u>The 21St-Century Challenges Like Climate Change, Pandemics, and Cyber Warfare Demand New Solutions that Extend Beyond the Scope of Liberal Capitalism.</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unfreezing-frozen-obs-stream-input/"><u>Unfreezing Frozen OBS Stream Input</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

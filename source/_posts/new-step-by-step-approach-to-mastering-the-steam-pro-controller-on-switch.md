@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Approach to Mastering the Steam Pro Controller on Switch\""
-date: 2024-09-17T02:15:23.190Z
-updated: 2024-09-19T04:26:41.492Z
+date: 2024-09-22T16:33:17.315Z
+updated: 2024-09-23T16:00:51.399Z
 tags: 
   - screen-recording
   - ai video
@@ -66,9 +66,23 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -80,6 +94,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -95,13 +116,6 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **What To Do With Non-Steam Games?**
 
 Using the methods discussed above, you can easily use a switch pro controller with your pc, but it only works with steam games. But what if you want to play a non-steam game using a switch pro controller? What will you do now? The switch pro controller hardware support will run out of luck in this scenario.
@@ -113,10 +127,10 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Final Verdict**
@@ -140,17 +154,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/driver-update-required-hp-d1360-on-various-windows-platforms/"><u>[Driver Update Required] HP D1360 on Various Windows Platforms</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-best-virtual-background-for-google-meet-video-call/"><u>[New] In 2024, Best Virtual Background for Google Meet Video Call</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-expert-recording-software-for-desktop-hd-video/"><u>[Updated] Expert Recording Software for Desktop HD Video</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-quick-guide-capturing-time-lapse-on-your-ipad-for-2024/"><u>[Updated] Quick Guide Capturing Time Lapse on Your iPad for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719151722546-be-part-of-the-future-facebooks-10000-metaverse-builders-wanted/"><u>Be Part of the Future: Facebook's 10,000 Metaverse Builders Wanted</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/guesting-without-glitches-live-tiktok-conversations/"><u>Guesting Without Glitches Live TikTok Conversations</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a14-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A14 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-infinix-hot-40-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Infinix Hot 40 Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-reno-9a-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo Reno 9A</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revo-uninstaller-pro-5-the-ultimate-software-removal-solution/"><u>Revo Uninstaller Pro 5: The Ultimate Software Removal Solution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-enhancing-audio-output-in-windows-11/"><u>Step-by-Step Tutorial: Enhancing Audio Output in Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-best-price-to-performance-laptops-under-500-gaming-edition/"><u>[New] 2024 Approved Best Price-to-Performance Laptops Under $500 (Gaming Edition)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-best-sound-choices-essential-downloads-guide/"><u>[New] 2024 Approved Best Sound Choices Essential Downloads Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-efficiency-upgrade-uncover-the-8-premier-facebook-timetables/"><u>[New] Efficiency Upgrade Uncover the 8 Premier Facebook Timetables</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-from-soil-to-success-selecting-the-top-valheim-seeds-for-2024/"><u>[New] From Soil to Success Selecting the Top Valheim Seeds for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-3dr-solo-unveiling-the-single-user-experience/"><u>[New] In 2024, '3DR Solo' Unveiling the Single User Experience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-essential-list-7-cost-free-video-tags-extractors-on-youtube-for-2024/"><u>[Updated] Essential List 7 Cost-Free Video Tags Extractors on YouTube for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1716069861680-updated-screen-recording-through-built-in-features-of-huaweis-mate-and-p-devices-p20-p10-for-2024/"><u>[Updated] Screen Recording Through Built-In Features of Huawei's Mate and P Devices (P20, P10). For 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-best-5-video-recording-software-timelapse-edition/"><u>2024 Approved Best 5 Video Recording Software Timelapse Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/experience-classic-games-anywhere-with-these-top-5-game-boy-advance-console-emulators-for-2024/"><u>Experience Classic Games Anywhere with These Top 5 Game Boy Advance Console Emulators for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/from-beginner-to-pro-mastering-mi-11-screen-captures/"><u>From Beginner to Pro Mastering Mi 11 Screen Captures</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-iphone-xipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked iPhone X/iPad/iPod</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-diverse-opinions-one-easeus-evaluation/"><u>In 2024, Diverse Opinions, One EaseUS Evaluation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-llama-2-applications-and-benefits-explained/"><u>Understanding LLaMA 2: Applications & Benefits Explained</u></a></li>
 </ul></div>
 

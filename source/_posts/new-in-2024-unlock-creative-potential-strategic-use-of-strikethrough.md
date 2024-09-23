@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Unlock Creative Potential  Strategic Use of Strikethrough\""
-date: 2024-09-14T16:44:27.046Z
-updated: 2024-09-18T17:15:01.155Z
+date: 2024-09-22T17:57:17.928Z
+updated: 2024-09-23T20:25:45.668Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Distinctions Between the Two Types of Markers
 
 Watching the footage you've captured over and over can be a tiresome process that consumes both time and energy, so in order to increase your efficiency during the process of capturing and editing videos, you can simply add markers both to the files you're creating while recording or to your project's timeline.
@@ -93,31 +100,24 @@ Filmora lets you adjust your marker settings for your video. Right-click on the 
 
 ![access the modification option](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 3: Customize the Markers
 
 In the Marker Editor window, make relevant changes such as naming the marker, adding a comment in the **"Comment"** box, and changing the marker color.
 
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **Method 2: Adding Markers through the Keyboard**
 
 After importing the clip into the timeline and identifying the points of error in your video, place the playhead on these points and press the **"M"** key on your keyboard to add a marker at the chosen timeframes.
 
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **2\. How to Remove a Marker After Screen Recording**
 
@@ -126,10 +126,17 @@ Once you have finished editing your mistakes, it's important to remove the marke
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -153,21 +160,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-best-9-smartphone-video-call-solutions-iphone-vs-android-reviewed/"><u>[New] 2024 Approved Best 9 Smartphone Video Call Solutions IPhone vs Android Reviewed</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-tips-for-creating-stunning-slow-motion-content-on-instagram/"><u>[New] 2024 Approved Tips for Creating Stunning Slow Motion Content on Instagram</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-how-to-watch-facebook-live-on-roku-in-2024/"><u>[New] How to Watch Facebook Live on Roku, In 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-charting-the-course-to-prodigy-status-for-ajey-carryminati/"><u>[Updated] 2024 Approved Charting the Course to Prodigy Status for Ajey (CarryMinati)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-live-streams-how-to-log-gh-sessions/"><u>[Updated] 2024 Approved Live Streams How to Log GH Sessions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-align-video-elements-in-your-playback-directory/"><u>[Updated] Align Video Elements in Your Playback Directory</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-fix-disrupted-video-streams-in-instagram-reels/"><u>[Updated] In 2024, Fix Disrupted Video Streams in Instagram Reels</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-sound-clarity-in-media-paid-vs-free-software-solutions-for-2024/"><u>[Updated] Sound Clarity in Media - Paid Vs. Free Software Solutions for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-webcam-mastery-choosing-the-best-video-tools-for-2024/"><u>[Updated] Webcam Mastery Choosing the Best Video Tools for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-enhance-your-ios-experience-with-ps2-emulators/"><u>2024 Approved Enhance Your IOS Experience with PS2 Emulators</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-guide-to-restoring-obss-audio-functionality/"><u>In 2024, Guide to Restoring OBS's Audio Functionality</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-magic-5-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor Magic 5 Phone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-7-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 7 in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-5-eco-conscious-filmmaking-advances/"><u>In 2024, Top 5 Eco-Conscious Filmmaking Advances</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/optimal-ways-to-preserve-android-records/"><u>Optimal Ways to Preserve Android Records</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unleashing-media-prime-video-players-on-windows-mobile/"><u>[New] 2024 Approved Unleashing Media Prime Video Players on Windows Mobile</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-exclusive-insights-unlock-the-secrets-to-screen-capturing-games/"><u>[New] Exclusive Insights Unlock the Secrets to Screen Capturing Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-fixed-camera-resumes-with-obs/"><u>[New] In 2024, Fixed Camera Resumes with OBS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-inshot-tips-achieving-seamless-video-segmentation/"><u>[New] Inshot Tips Achieving Seamless Video Segmentation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-maximizing-skype-quality-with-obs-studio-plugins-for-2024/"><u>[New] Maximizing Skype Quality with OBS Studio Plugins for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-world-of-ifunny-memes/"><u>[New] Navigating the World of iFunny Memes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-step-by-step-capturing-your-roblox-journeys-on-a-mac/"><u>[New] Step-by-Step Capturing Your Roblox Journeys on a Mac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-hyper-clear-playtime-best-ultra-hd-hdmi-21-gaming-screens-for-2024/"><u>[Updated] Hyper-Clear Playtime Best Ultra HD (HDMI 2.1) Gaming Screens for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-bold-transitions-a-beginners-guide-to-fades/"><u>[Updated] In 2024, Bold Transitions A Beginner's Guide to Fades</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-essential-tips-record-powerpoint-live-with-webcam/"><u>[Updated] In 2024, Essential Tips Record PowerPoint Live with Webcam</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-examining-splitcams-video-quality-against-competitors/"><u>[Updated] In 2024, Examining SplitCam's Video Quality Against Competitors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/10-must-have-plug-ins-for-final-cut-cinematography-for-2024/"><u>10 Must-Have Plug-Ins for Final Cut Cinematography for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-enhance-instagram-video-streams-speedily/"><u>2024 Approved Enhance Instagram Video Streams Speedily</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-huawei-p60-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Huawei P60 to iPod | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-cross-platform-play-a-comprehensive-guide-to-ps-vr-and-pc-integration/"><u>Mastering Cross-Platform Play: A Comprehensive Guide to PS VR and PC Integration</u></a></li>
+<li><a href="https://video-capture.techidaily.com/premium-5-conferencing-recording-equipment-guide-for-2024/"><u>Premium 5 Conferencing Recording Equipment Guide for 2024</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-2024-approved-translate-live-video-making-it-possible-with-the-best-tool/"><u>Updated 2024 Approved Translate Live Video Making It Possible With The Best Tool</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unbiased-comparison-final-cut-pro-and-lumafusion-which-one-is-right-for-you/"><u>Updated 2024 Approved Unbiased Comparison Final Cut Pro and LumaFusion - Which One Is Right for You?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/vsdc-screen-recorder-review/"><u>VSDC Screen Recorder Review</u></a></li>
 </ul></div>
 

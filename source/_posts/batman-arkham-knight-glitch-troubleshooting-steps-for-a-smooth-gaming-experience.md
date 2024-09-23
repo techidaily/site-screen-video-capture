@@ -1,7 +1,7 @@
 ---
 title: Batman Arkham Knight Glitch? Troubleshooting Steps for a Smooth Gaming Experience
-date: 2024-09-16T17:46:14.002Z
-updated: 2024-09-18T22:48:15.877Z
+date: 2024-09-16T21:08:09.890Z
+updated: 2024-09-23T19:28:25.257Z
 tags:
   - win11
   - win10
@@ -61,20 +61,20 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 2. Click**Change adapter options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
@@ -84,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
@@ -95,14 +95,14 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -117,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
@@ -159,16 +166,21 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-clandestine-fb-live-observer/"><u>[New] In 2024, Clandestine FB Live Observer</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-journey-of-joyrides-top-6-easy-mc-habitats-revealed/"><u>[New] Journey of Joyrides Top 6 Easy MC Habitats Revealed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-cost-effective-techniques-in-text-animations/"><u>[New] Mastering Cost-Effective Techniques in Text Animations</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-fix-successful-non-operational-obs-camera-for-2024/"><u>[Updated] Fix Successful Non-Operational OBS Camera for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-optimizing-workflow-automate-your-meet-times-for-2024/"><u>[Updated] Optimizing Workflow Automate Your Meet Times for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-screenstreaming-mastery-capturing-high-quality-content-on-your-mac/"><u>[Updated] ScreenStreaming Mastery Capturing High-Quality Content on Your Mac</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-14-plus-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 14 Plus to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-game-away-your-worries-the-coolest-titles/"><u>In 2024, Game Away Your Worries The Coolest Titles</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simple-steps-to-convert-images-into-videos-using-your-computer/"><u>Simple Steps to Convert Images Into Videos Using Your Computer</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-t2-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo T2 5G</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-a-guide-to-pinpointing-a-list-video-creators/"><u>[New] In 2024, A Guide to Pinpointing A-List Video Creators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-kinemaster-tutorials-for-amazing-memes/"><u>[New] KineMaster Tutorials for Amazing Memes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-10-no-cost-video-conference-platforms-worklearn-edition/"><u>2024 Approved Essential 10 No-Cost Video Conference Platforms Work/Learn Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-tips-and-tricks-for-professional-logitech-webcam-recordings/"><u>2024 Approved Tips & Tricks for Professional Logitech Webcam Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/acclaimed-pc-emulators-for-vintage-ps1-titles/"><u>Acclaimed PC Emulators for Vintage PS1 Titles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/determining-frame-rates-master-choice-between-30fps-and-60fps/"><u>Determining Frame Rates Master Choice Between 30Fps and 60Fps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elevate-your-productions-with-key-obs-studio-tips/"><u>Elevate Your Productions with Key OBS Studio Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-add-filters-effects-and-masks-in-google-meet-in-2024/"><u>How to Add Filters, Effects, and Masks in Google Meet, In 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nubia Red Magic 8S Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-s17-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo S17 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-cultivating-connections-friendly-games-growth-with-friends-on-farms/"><u>In 2024, Cultivating Connections Friendly Games Growth with Friends on Farms</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-apple-iphone-15-to-chromecast-drfone-by-drfone-ios/"><u>In 2024, How to Cast Apple iPhone 15 to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-sourcing-a-list-cinematography-experts/"><u>In 2024, Strategies for Sourcing A-List Cinematography Experts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-spots-unveiling-stunning-no-cost-tiktok-backgrounds/"><u>In 2024, Top Spots Unveiling Stunning, No-Cost TikTok Backgrounds</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagrams-most-trusted-grid-creation-applications-ranked-anew/"><u>Instagram's Most Trusted Grid Creation Applications Ranked Anew</u></a></li>
 </ul></div>
 

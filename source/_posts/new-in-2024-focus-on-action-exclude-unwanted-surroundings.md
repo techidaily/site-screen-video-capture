@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Focus on Action, Exclude Unwanted Surroundings"
-date: 2024-09-16T03:39:37.531Z
-updated: 2024-09-18T20:26:19.181Z
+date: 2024-09-19T20:28:50.377Z
+updated: 2024-09-23T16:56:25.422Z
 tags: 
   - screen-recording
   - ai video
@@ -74,6 +74,13 @@ When the ChromaCam software is successfully installed on your PC, and after you'
 
 ![personify-chromacam-remove-background ](https://images.wondershare.com/filmora/article-images/personify-chromacam-remove-background.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2 - Setting up a new recording session
 
 Once the XSplit software opens, you should head to the **Add Source** menu, and then select the Personify ChormaCam from the Webcam, capture card, video devices drop-down list. The Personify window will pop-up on the screen, and you'll be able to select a new background for the webcam video by clicking on the templates featured in the Personify window.
@@ -85,6 +92,13 @@ If you'd like to adjust the video recording settings, you should right-click on 
 In the ChromaCam window, you can select a transparent background option if you would like to blend the figure into the screen recording or some of the template backgrounds that make the narrator stand out against the background. The software allows you to import custom made backgrounds by clicking on the plus icon in the Personify ChromaCam window.
 
 ![chromacam-interface ](https://images.wondershare.com/filmora/article-images/chromacam-interface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Making sure that the figure in the webcam video is properly cropped is the most important part of the process because badly cropped videos reveal too much of the previous background. The software's cropping precision is limited, although the Personify ChromaCam provides tools that make the figure's edges smoother.
 
@@ -101,38 +115,26 @@ You can also use this software in other screen recording software, please share 
 Changing or removing the background in a webcam video is easy, but there a few things you can do to ensure that all webcam videos created with Personify ChromaCam software meet the highest visual standards.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Use simple monochrome backgrounds
 
 Complex backgrounds that contain a lot of details should be avoided at all cost because the software won't know which part of the screen you want to replace. A minimalistic, clean working background that doesn't contain anything that might distract the viewer or the software, will make it easier for the software to place an outline around the figure and separate it from the rest of the image.
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Find the right balance between the performance and video quality
 
 Logitech C922 can capture videos at 60 fps in 720p resolution when used with Personify ChromaCam, but the software also enables you to reduce the screen recording quality you're producing and increase the quality of the webcam footage. Click on the Setting icon in the Personify window and then just drag the Performance VS Quality slider to improve the quality of the footage produced by ChromaCam. However, lowering the video quality will also decrease the frame rate, so your screen recordings may not be as smooth as they would be if they were captured at the maximum resolution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Use professional lighting equipment
 
@@ -155,20 +157,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-elevate-your-tiktok-presence-with-exquisite-video-templates/"><u>[New] In 2024, Elevate Your TikTok Presence with Exquisite Video Templates</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-splitting-screens-evaluating-splitcams-video-quality/"><u>[New] In 2024, Splitting Screens Evaluating SplitCam's Video Quality</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-breakthrough-techniques-for-outstanding-youtube-openers-technique-1plus2-for-2024/"><u>[Updated] Breakthrough Techniques for Outstanding YouTube Openers (Technique 1+2) for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-record-voice-memo-on-iphone-in-2024/"><u>[Updated] How to Record Voice Memo on iPhone, In 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-streaming-quality-comparison-obs-or-fraps/"><u>[Updated] In 2024, Streaming Quality Comparison OBS or Fraps?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-secrets-of-filming-without-background-noises-for-2024/"><u>[Updated] Secrets of Filming Without Background Noises for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/channel-riches-anywhere-adopting-youtube-analytics-and-monetization-for-2024/"><u>Channel Riches Anywhere Adopting YouTube Analytics & Monetization for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-baseline-to-boosted-performance-the-unique-features-of-gpt-4-gpt-4-turbo-and-gpt-n/"><u>From Baseline to Boosted Performance: The Unique Features of GPT-4, GPT-4 Turbo, & GPT-N</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-tecno-camon-20-premier-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Tecno Camon 20 Premier 5G on Windows??</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone SE with a Mask On</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-13-pro-max-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 13 Pro Max to Samsung | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-elite-free-screen-partnership-adventures/"><u>In 2024, Elite Free Screen Partnership Adventures</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-perfect-playback-top-strategies-to-record-and-share-your-vr-experiences/"><u>In 2024, The Perfect Playback Top Strategies to Record and Share Your VR Experiences</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/professional-recorder-capture-studio-win10-edition-for-2024/"><u>Professional Recorder Capture Studio Win10 Edition for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/top-8-methods-for-converting-mov-files-into-wav-format-a-comprehensive-guide/"><u>Top 8 Methods for Converting MOV Files Into WAV Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-visualize-for-a-friendly-facebook/"><u>[New] 2024 Approved Visualize for a Friendly Facebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/10-best-free-video-conference-app-for-android-and-iphone-for-2024/"><u>10 Best Free Video Conference App for Android and iPhone for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-elite-game-line-up-best-7-fps-classics/"><u>2024 Approved Elite Game Line-Up Best 7 FPS Classics</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-seamless-iphone-recording-creating-fb-shareable-reels/"><u>2024 Approved Seamless iPhone Recording Creating FB Shareable Reels</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-stardews-ultimate-game-changing-mods-a-curated-list/"><u>2024 Approved Stardew's Ultimate Game-Changing Mods A Curated List</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-12-mini-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 12 mini Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/asmr-series-on-youtube-platform-for-2024/"><u>Best ASMR Series on YouTube Platform for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-iphoneipad-content-moving-with-winx-mediatrans-your-best-choice-for-pc-to-mobile-file-transfer/"><u>Effortless iPhone/iPad Content Moving with WinX MediaTrans: Your Best Choice for PC to Mobile File Transfer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elevate-meeting-experience-with-zooms-camera-snaps-for-2024/"><u>Elevate Meeting Experience with Zoom's Camera Snaps for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-elite-callers-on-windows-top-8-sorted/"><u>In 2024, Elite Callers on Windows Top 8 Sorted</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-zoom-for-podcast-recordings-a-step-by-step-guide-for-2024/"><u>Mastering Zoom for Podcast Recordings A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-12plus-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme 12+ 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-compact-gaming-laptop-reviewed-acers-predator/"><u>The Best Compact Gaming Laptop Reviewed: Acer's Predator</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>Updated Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Seamless Incorporation of Virtual Boards in Web Conferencing  Mobile/Desktop Methods for 2024\""
-date: 2024-09-18T02:56:16.408Z
-updated: 2024-09-19T03:33:53.352Z
+date: 2024-09-17T18:25:53.667Z
+updated: 2024-09-23T18:48:17.519Z
 tags: 
   - screen-recording
   - ai video
@@ -57,6 +57,13 @@ Click on the **three dots** at the bottom of your screen and select **the whiteb
 
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Create Whiteboard**
 
 Click on the **start a new whiteboard** option**.**
@@ -64,6 +71,20 @@ Click on the **start a new whiteboard** option**.**
 **Note:** This will create a Jam that can be used to visualize ideas on a whiteboard. The link to the Jam can be copied and sent to all participants.
 
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
 
@@ -83,6 +104,13 @@ Go to your home page and launch the Microsoft Whiteboard.
 
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
 
 Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Android devices. Even if you try accessing Google Meet from the browser on your android phone, you are likely to be redirected to Google Meet, where there is no whiteboard option. So, the only way out is to download an external whiteboard app from Playstore and use its whiteboard. Your whiteboard activity will be visible to other participants in a Google Meet session when you share the screen. However, this option is only viable if you are the only one illustrating on the whiteboard and no other participants are required to perform any whiteboard activity. If this works for you, follow the step-by-step guide below.
@@ -100,20 +128,6 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 **Navigate to your home page and launch the whiteboard app. What you draw on the whiteboard will be visible to the meeting attendees.**
 
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
 
@@ -156,19 +170,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-complete-guide-to-voice-overs-in-multimedia-projects/"><u>[New] 2024 Approved The Complete Guide to Voice-Overs in Multimedia Projects</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-capturing-your-cameras-magic-review-and-best-free-options/"><u>[New] Capturing Your Camera's Magic – Review & Best FREE Options</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-slow-it-down-on-iphone-filming-and-modifying-motion-content-for-2024/"><u>[New] Slow It Down on iPhone Filming & Modifying Motion Content for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-examining-the-effectiveness-of-iscreen-recording/"><u>[Updated] 2024 Approved Examining the Effectiveness of iScreen Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-frame-it-right-essential-2023-tools-and-sites-for-image-edits/"><u>[Updated] Frame It Right Essential 2023 Tools & Sites for Image Edits</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-audience-engagement-meets-technology-four-recording-ways-on-facebook/"><u>[Updated] In 2024, Audience Engagement Meets Technology Four Recording Ways on Facebook</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pure-capture-suite-ads-free-version/"><u>[Updated] In 2024, Pure Capture Suite Ads-Free Version</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-top-techniques-for-capturing-virtual-reality-gaming-for-2024/"><u>[Updated] Top Techniques for Capturing Virtual Reality Gaming for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capturing-the-live-best-obs-screen-recorders-reviewed/"><u>2024 Approved Capturing the Live Best OBS Screen Recorders Reviewed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quickest-sharp-window-photo-enhancer/"><u>2024 Approved Quickest Sharp Window Photo Enhancer</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi 13 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-100-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Honor 100</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-cutting-out-background-sounds-in-skype-chats/"><u>In 2024, Cutting Out Background Sounds in Skype Chats</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-3-techniques-for-exceptional-lol-gaming-broadcasts-for-2024/"><u>Top 3 Techniques for Exceptional LOL Gaming Broadcasts for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unlock-full-potential-of-obs-studio-for-android-devices/"><u>[New] 2024 Approved Unlock Full Potential of OBS Studio for Android Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-capturing-gaming-sessions-pick-between-obs-or-shadowplay/"><u>[New] In 2024, Capturing Gaming Sessions Pick Between OBS or ShadowPlay</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-master-your-download-installation-and-usage-of-ez-grabber/"><u>[New] In 2024, Master Your Download Installation and Usage of EZ Grabber</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-comprehensive-app-insights-with-az-recorders/"><u>[Updated] 2024 Approved Comprehensive App Insights with AZ Recorders</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-essential-online-spots-for-digitized-artwork/"><u>[Updated] 2024 Approved Essential Online Spots for Digitized Artwork</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-capture-mac-scenery-screen-and-microphone-feature/"><u>[Updated] In 2024, Capture Mac Scenery Screen and Microphone Feature</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-quieter-recordings-basic-or-advanced-techniques/"><u>[Updated] In 2024, Mastering Quieter Recordings - Basic or Advanced Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-jotunheim-raid-the-war-of-the-worlds-for-2024/"><u>[Updated] Jotunheim Raid The War of the Worlds for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-blurring-identity-erasing-faces-from-video-content/"><u>2024 Approved Blurring Identity Erasing Faces From Video Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uncomplicated-methodology-win-os-clownvoice-tweaking-guide/"><u>2024 Approved Uncomplicated Methodology Win-OS Clownvoice Tweaking Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-lava-storm-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Lava Storm 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/essential-guide-to-selecting-a-superior-dvd-conversion-software-for-easy-disc-transfers/"><u>Essential Guide to Selecting a Superior DVD Conversion Software for Easy Disc Transfers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-infinix-hot-30-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Infinix Hot 30 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-xipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone X/iPad? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/quick-steps-to-elevate-low-quality-webcam-vids-for-2024/"><u>Quick Steps to Elevate Low-Quality WebCam Vids for 2024</u></a></li>
 </ul></div>
 

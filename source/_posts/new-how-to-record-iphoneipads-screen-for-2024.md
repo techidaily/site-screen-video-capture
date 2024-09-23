@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Record iPhone/iPad’s Screen for 2024"
-date: 2024-09-12T16:31:52.179Z
-updated: 2024-09-19T04:03:37.237Z
+date: 2024-09-22T20:47:54.566Z
+updated: 2024-09-23T19:23:15.237Z
 tags: 
   - screen-recording
   - ai video
@@ -63,6 +63,13 @@ That's the steps of how to record your iPhone screen in iOS 11 and later version
 
 If your iOS device is running a previous version older than iOS 11, and you do not want to update, then you can record your iPhone screen with some best screen recorders for iOS, or record with QuickTime. In the following section, we will show you how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Use [QuickTime](https://support.apple.com/quicktime) to Record Screens of iPhone/iPad (Version Before iOS 11)
 
 People need to download and install a third-party iPhone/iPad screen recorder after jailbreaking the device and going through a complicated installation process. iOS is always risky to jailbreak your device as if you don’t do it carefully your device will get broken. It means your device will stop functioning and you will need to go to Apple care for getting it fixed. Jailbreaking also voids your warranty. So rather than going through these risks, people preferred using QuickTime to record their Phone/iPad’s screen.
@@ -73,11 +80,25 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20logo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Launch QuickTime on your Mac available in the application folder.
 
 3\. Click on the File menu on the QuickTime menu bar and choose New Movie Recording.
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20new%20moive.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4\. A video recording screen will open. Now slide the cursor over that window to make the record and volume button visible.
 
@@ -86,6 +107,13 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 6\. Click on the red record button when you want to start recording.
 
 ![quicktime screen recorder](https://images.wondershare.com/filmora/quicktime%20iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7\. To stop the recording of the screen of your iOS device, click on the Stop button at the video recorder window.
 
@@ -116,24 +144,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-capture-unrooted-sounds-in-android-4-methods/"><u>[New] 2024 Approved Capture Unrooted Sounds in Android [4 Methods]</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitter-tales-creating-gifs-without-charges/"><u>[New] 2024 Approved Twitter Tales Creating GIFs Without Charges</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-unlock-creative-potential-top-10-online-banners-tools/"><u>[New] 2024 Approved Unlock Creative Potential - Top 10 Online Banners Tools</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-amazons-premier-hits-peak-twitter-engagement-and-viewership-for-2024/"><u>[New] Amazon's Premier Hits Peak Twitter Engagement & Viewership for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-fbx-recorder-alternatives-the-new-era-of-gaming-capture-for-2024/"><u>[New] FBX Recorder Alternatives The New Era of Gaming Capture for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-chrome-os-best-free-video-capture-tools-compilation/"><u>[New] In 2024, Chrome OS Best Free Video Capture Tools Compilation</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-windows-10-camera-software-review-top-10/"><u>[New] Ultimate Windows 10 Camera Software Review - Top 10</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-leading-websites-for-digital-3d-text-with-a-golden-accent/"><u>[Updated] 2024 Approved Leading Websites for Digital 3D Text with a Golden Accent</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-top-ios-psp-gamepads-emulation-2023s-best-list-for-2024/"><u>[Updated] Top iOS PSP Gamepads Emulation - 2023'S Best List for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-mastering-uploading-movie-maker-videos-on-vimeo/"><u>2024 Approved Mastering Uploading Movie Maker Videos on Vimeo</u></a></li>
-<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-and-windows-11-resolving-non-functional-bluetooth-driver-problems/"><u>Qualcomm Atheros and Windows 11: Resolving Non-Functional Bluetooth Driver Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-troubleshooting-steps-when-safari-fails-on-your-iphone/"><u>Top 10 Troubleshooting Steps When Safari Fails on Your iPhone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-secret-strategies-for-powering-up-your-lunapic-edits/"><u>[New] Secret Strategies for Powering Up Your LunaPic Edits</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlock-stalled-facebook-videos-on-mobile-for-2024/"><u>[Updated] Unlock Stalled Facebook Videos on Mobile for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-mov-file-keeping-hacks-for-new-win-11-users/"><u>2024 Approved .MOV File Keeping Hacks for New Win 11 Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-digital-workshop-archives/"><u>2024 Approved Digital Workshop Archives</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-optimizing-google-meet-view-with-grids-for-all-attendees/"><u>2024 Approved Optimizing Google Meet View with Grids for All Attendees</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sculpt-your-scenes-with-fading-music-effects-in-adobe-premiere-pro/"><u>2024 Approved Sculpt Your Scenes with Fading Music Effects in Adobe Premiere Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-prime-mac-screen-capture-options/"><u>2024 Approved The Prime Mac Screen Capture Options</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/abbyy2024gartner-magic-quadrant/"><u>ABBYYが2024年Gartner Magic Quadrantにてプロセスマイニング技術リーダーとして認定さ</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/diy-tips-getting-started-with-voice-over-filming/"><u>DIY Tips Getting Started with Voice Over Filming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-fraps-revolutionizing-gamers-screen-recording/"><u>In 2024, Fraps Revolutionizing Gamer's Screen Recording</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-mobile-blur-apps-to-soften-images/"><u>In 2024, Mobile Blur Apps to Soften Images</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovative-recording-tech-the-leaders-choice-for-2024/"><u>Innovative Recording Tech The Leaders' Choice for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/leading-video-conference-software-picks-for-2024/"><u>Leading Video-Conference Software Picks for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/making-fb-video-accessible-on-household-tvs/"><u>Making Fb Video Accessible on Household TVs</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nokia-c22-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-sony-xperia-5-v-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Sony Xperia 5 V</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-6s-plus-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 6s Plus i Do? Get Answers here</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Exploring 8 Premium Open-Source Videoconferencing Platforms\""
-date: 2024-09-12T00:59:46.221Z
-updated: 2024-09-18T22:23:00.924Z
+date: 2024-09-21T20:28:16.865Z
+updated: 2024-09-23T21:00:37.431Z
 tags: 
   - screen-recording
   - ai video
@@ -68,10 +68,17 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ![Bitrix24](https://images.wondershare.com/filmora/article-images/bitrix24.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. [Rocket.Chat](https://rocket.chat/)
@@ -92,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ![Rocket.Chat](https://images.wondershare.com/filmora/article-images/rocketchat.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. [Riot](https://about.riot.im/)
@@ -112,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
 ![Riot](https://images.wondershare.com/filmora/article-images/riot.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. [Apache OpenMeetings](https://openmeetings.apache.org/)
 
 **Price:** Free
@@ -127,10 +141,10 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ![Apache OpenMeetings](https://images.wondershare.com/filmora/article-images/openmeetings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. [Livestorm](https://livestorm.co/)
@@ -152,10 +166,16 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ![Livestorm](https://images.wondershare.com/filmora/article-images/livestorm.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. [OpenVidu](https://openvidu.io/)
@@ -194,13 +214,6 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -216,15 +229,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-stream-youtube-in-the-background-using-iphone-and-android/"><u>[New] 2024 Approved Stream YouTube in the Background Using iPhone & Android</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-how-to-screen-record-netflix-on-mac/"><u>[New] How to Screen Record Netflix on Mac</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-interactive-storytelling-vrs-entertainment-potential-for-2024/"><u>[New] Interactive Storytelling VR's Entertainment Potential for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-advanced-hd-screen-documentation-gadgets/"><u>[Updated] Advanced HD Screen Documentation Gadgets</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-command-and-conquer-the-pinnacle-of-strategic-sagas-in-7-total-war-games/"><u>[Updated] In 2024, Command & Conquer The Pinnacle of Strategic Sagas in 7 Total War Games</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-countdown-creation-in-obs-step-by-step-guide/"><u>2024 Approved Countdown Creation in OBS Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia G22? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-best-out-of-your-printer-update-to-the-latest-epson-wf-7720-drivers-for-windows/"><u>Get the Best Out of Your Printer: Update to the Latest Epson WF-7720 Drivers for Windows</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/leading-mac-snipper-programs-analyzed-for-2024/"><u>Leading Mac Snipper Programs Analyzed for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-all-you-need-to-know-about-youtube-shorts-fund/"><u>[Updated] 2024 Approved All You Need to Know About YouTube Shorts Fund</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-essential-tips-for-incorporating-dynamic-cards-in-youtube-videos/"><u>[Updated] Essential Tips for Incorporating Dynamic Cards in YouTube Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-track-choosing-best-pc-game-speed-extensions/"><u>[Updated] Fast Track Choosing Best PC Game Speed Extensions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-fbx-gameplay-snapshot-techniques/"><u>2024 Approved FBX Gameplay Snapshot Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/continuous-media-logging-firms-for-2024/"><u>Continuous Media Logging Firms for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715701150507-easy-way-to-establish-collaborative-conversations-on-skype-regardless-of-your-operating-system/"><u>Easy Way to Establish Collaborative Conversations on Skype, Regardless of Your Operating System.</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ting-audio-rates-on-youtube-dual-device-approach-for-2024/"><u>Elevating Audio Rates on YouTube Dual Device Approach for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/expert-guide-streaming-and-saving-hulu-seasons-flawlessly/"><u>Expert Guide Streaming and Saving Hulu Seasons Flawlessly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/free-windows-programs-expertly-record-live-shows/"><u>Free Windows Programs Expertly Record Live Shows</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-mix-fold-3-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Mix Fold 3 Phone without Google Account?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-6-minecraft-oriental-house-ideas/"><u>In 2024, Top 6 Minecraft Oriental House Ideas</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-visual-storytelling-crafting-compelling-narratives-in-youtube-videos/"><u>In 2024, Visual Storytelling Crafting Compelling Narratives in YouTube Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-tunes-apps-win-edition/"><u>Top Tunes Apps Win Edition</u></a></li>
 </ul></div>
 
