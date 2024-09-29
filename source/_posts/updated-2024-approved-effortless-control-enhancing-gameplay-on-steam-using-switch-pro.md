@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Effortless Control  Enhancing Gameplay on Steam Using Switch Pro\""
-date: 2024-09-18T16:14:33.165Z
-updated: 2024-09-23T17:51:04.876Z
+date: 2024-09-24T10:13:22.688Z
+updated: 2024-09-29T03:32:39.575Z
 tags: 
   - screen-recording
   - ai video
@@ -54,13 +54,6 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
 It's also easy, but you need to buy an adapter or have Bluetooth on your computer.
@@ -70,10 +63,16 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Right-click the Bluetooth icon in the system tray.
@@ -81,22 +80,15 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -108,6 +100,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -139,6 +138,13 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -152,5 +158,24 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-advanced-scheduling-with-premium-recording-software/"><u>[New] 2024 Approved Advanced Scheduling with Premium Recording Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-asmr-a-gateway-to-enhanced-self-care/"><u>[New] ASMR A Gateway to Enhanced Self-Care</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-budget-friendly-pc-screen-recorders/"><u>[New] Budget-Friendly PC Screen Recorders</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-crafting-captivating-online-ads-for-facebook/"><u>[New] Crafting Captivating Online Ads for Facebook</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-dive-into-creativity-mastering-artistic-elements-in-instagram-edits/"><u>[New] Dive Into Creativity Mastering Artistic Elements in Instagram Edits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-comparing-mp4-recorders-the-latest-edition/"><u>[New] In 2024, Comparing MP4 Recorders - The Latest Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quick-guide-to-screen-capture-on-laptops-and-chromeos/"><u>[New] In 2024, Quick Guide to Screen Capture on Laptops and ChromeOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-innovative-ios-tools-for-ps2-game-replication-for-2024/"><u>[New] Innovative IOS Tools for PS2 Game Replication for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-optimizing-nintendo-switch-controller-for-steam-games/"><u>[New] Optimizing Nintendo Switch Controller for Steam Games</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-stepping-into-the-spotlight-5-core-principles-for-social-media-promotion/"><u>[New] Stepping Into the Spotlight 5 Core Principles for Social Media Promotion</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-bridging-music-sections-advanced-audacity-techniques/"><u>[Updated] In 2024, Bridging Music Sections Advanced Audacity Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/e-and-captivate-viewers-ultimate-tips-for-cutting-edge-youtube-edits/"><u>Engage and Captivate Viewers Ultimate Tips for Cutting-Edge Youtube Edits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-unraveling-the-secrets-of-excellent-screen-recording-with-recmeister/"><u>In 2024, Unraveling the Secrets of Excellent Screen Recording with Recmeister</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/master-class-in-meeting-transcripts-zooms-software-showdown/"><u>Master Class in Meeting Transcripts Zoom's Software Showdown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-computing-rumored-release-schedule-for-intels-arrow-lake-s/"><u>The Future of Computing: Rumored Release Schedule for Intel's Arrow Lake-S</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tiktok-streams-decoded-finding-your-special-hashtag-for-2024/"><u>TikTok Streams Decoded Finding Your Special Hashtag for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleashing-the-power-of-pip-videos-with-sierras-os-advantages/"><u>Unleashing the Power of PIP Videos with Sierra's OS Advantages</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Approach to Mastering the Steam Pro Controller on Switch\""
-date: 2024-09-22T16:33:17.315Z
-updated: 2024-09-23T16:00:51.399Z
+date: 2024-09-25T07:42:45.679Z
+updated: 2024-09-28T19:45:27.992Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
 It's also easy, but you need to buy an adapter or have Bluetooth on your computer.
@@ -62,27 +69,20 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -94,13 +94,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -114,7 +107,21 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -125,13 +132,6 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution1:** The first solution is to use an external Bluetooth adapter that is specifically designed for different types of gamepads. You will find plenty of them out there for switch pro controllers.
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Final Verdict**
 
@@ -152,5 +152,24 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-best-approaches-for-quiet-visuals-capture-for-2024/"><u>[New] Best Approaches for Quiet Visuals Capture for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-diverse-technology-scrutiny-easeus-edition-for-2024/"><u>[New] Diverse Technology Scrutiny EaseUS Edition for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-exitingmycam-entry-to-exceptionalcameras/"><u>[Updated] 2024 Approved ExitingMyCam Entry to ExceptionalCameras</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-periscope-techniques-for-effective-livestreams/"><u>[Updated] Periscope Techniques for Effective Livestreams</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unlocking-free-animation-digitalphysical-realms-for-2024/"><u>[Updated] Unlocking Free Animation Digital/Physical Realms for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-comprehensive-guide-to-recording-hulu-across-platforms/"><u>2024 Approved Comprehensive Guide to Recording Hulu Across Platforms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-tips-recording-every-moment-of-skype-on-obs/"><u>2024 Approved Essential Tips Recording Every Moment of Skype on OBS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-closer-video-in-google-meet-sessions/"><u>2024 Approved Mastering Closer Video in Google Meet Sessions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-neat-screen-capture-utility-win10/"><u>2024 Approved Neat Screen Capture Utility, Win10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-xiaomi-redmi-note-12t-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/advanced-techniques-for-convincing-ppt-presentations-on-gmeet-for-2024/"><u>Advanced Techniques for Convincing PPT Presentations on GMeet for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/all-about-stardew-valley-on-the-mysterious-ginger-island/"><u>All About Stardew Valley on the Mysterious Ginger Island</u></a></li>
+<li><a href="https://fox-http.techidaily.com/close-up-conferencing-secrets-for-microsoft-teams-users-for-2024/"><u>Close-Up Conferencing Secrets for Microsoft Teams Users for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-started-with-this-no-cost-mkv-player-software-for-seamless-movie-viewing-experience/"><u>Get Started with This No-Cost MKV Player Software for Seamless Movie Viewing Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-15-gaming-capture-utilities/"><u>Top 15 Gaming Capture Utilities</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-smartwatches-a-comprehensive-guide/"><u>Top-Rated Smartwatches : A Comprehensive Guide</u></a></li>
+</ul></div>
 

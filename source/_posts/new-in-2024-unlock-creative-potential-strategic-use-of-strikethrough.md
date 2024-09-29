@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Unlock Creative Potential  Strategic Use of Strikethrough\""
-date: 2024-09-22T17:57:17.928Z
-updated: 2024-09-23T20:25:45.668Z
+date: 2024-09-27T16:52:52.033Z
+updated: 2024-09-29T08:58:49.824Z
 tags: 
   - screen-recording
   - ai video
@@ -48,13 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Distinctions Between the Two Types of Markers
 
 Watching the footage you've captured over and over can be a tiresome process that consumes both time and energy, so in order to increase your efficiency during the process of capturing and editing videos, you can simply add markers both to the files you're creating while recording or to your project's timeline.
@@ -82,6 +75,13 @@ For macOS 10.12 or later
 * [1\. How to Add a Marker During Video Editing](#filmora1)
 * [2\. How to Remove a Marker After Screen Recording](#filmora2)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. How to Add a Marker During Video Editing
 
 Adding Markers During Video Editing is essential for efficient editing process, as they help save time when reviewing the video. This section provides a detailed step-by-step guide on how to add markers before starting to edit a video with two methods:
@@ -93,6 +93,13 @@ Adding Markers During Video Editing is essential for efficient editing process, 
 To add markers, watch your video and find the mistake. Pause the video, then click the **"Add Marker"** icon on the timeline toolbar to place a marker at that point. Do this for any additional markers you want to add.
 
 ![add marker from the timeline toolbar](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 2: Access the Modification Option
 
@@ -106,18 +113,18 @@ In the Marker Editor window, make relevant changes such as naming the marker, ad
 
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### **Method 2: Adding Markers through the Keyboard**
 
 After importing the clip into the timeline and identifying the points of error in your video, place the playhead on these points and press the **"M"** key on your keyboard to add a marker at the chosen timeframes.
 
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **2\. How to Remove a Marker After Screen Recording**
 
@@ -125,25 +132,18 @@ Once you have finished editing your mistakes, it's important to remove the marke
 
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In conclusion, markers are a valuable tool for video recording and editing. They can help editors keep track of important moments, make precise edits, and streamline your workflow. By utilizing markers effectively, you can save time and ensure a more polished final result. Furthermore, you can try to use Wondershare Filmora to incorporate markers into the screen recording and video editing process. It is a great way to enhance the quality and efficiency of your work greatly. So, don't hesitate to start using markers in your video recording and editing projects today with Filmora!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -158,5 +158,24 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-essential-steps-for-iptv-video-recording/"><u>[New] 2024 Approved Essential Steps for IPTV Video Recording</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-perfecting-pixels-how-to-choose-the-right-borders-on-ig-images/"><u>[New] 2024 Approved Perfecting Pixels How to Choose the Right Borders on IG Images</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-win11-easy-capture-and-save-tool/"><u>[New] Win11 Easy Capture & Save Tool</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-efficient-audio-documentation-in-academia-using-macs/"><u>[Updated] 2024 Approved Efficient Audio Documentation in Academia Using Macs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-how-to-mute-google-meet/"><u>[Updated] 2024 Approved How to Mute Google Meet?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-apex-level-clarity-convert-high-res-videos/"><u>[Updated] Apex-Level Clarity Convert High-Res Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-nextlevelcameraseekingpost-mycam/"><u>[Updated] NextLevelCameraSeekingPost-MyCam</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-seamless-speaking-in-google-meet-sessions/"><u>2024 Approved Seamless Speaking in Google Meet Sessions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/djis-sky-high-creativity-with-pro-drone-review/"><u>DJI's Sky-High Creativity with Pro Drone Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-deus-ex-machina-simple-solutions-to-stop-deathloop-from-crashing-on-your-pc/"><u>Fixing the Deus Ex Machina: Simple Solutions to Stop Deathloop From Crashing on Your PC</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/gratuit-konvertereen-wmv-naar-3gp-online-movavi-video-converter/"><u>Gratuit Konvertereen WMV Naar 3GP Online - Movavi Video Converter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-windows-11-installation-rejection-issues/"><u>Guiding Through Windows 11 Installation Rejection Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-closer-look-ffmpeg-for-pristine-audio-extraction/"><u>In 2024, A Closer Look FFmpeg for Pristine Audio Extraction</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/record-ps4-with-obs-full-guide-for-2024/"><u>Record PS4 with OBS Full Guide for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-notch-performance-of-the-kensun-portable-air-compressor-for-tires-reviewed/"><u>Top-Notch Performance of the Kensun Portable Air Compressor for Tires Reviewed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unearthing-springs-full-potential-for-desktop-recorders/"><u>Unearthing Spring's Full Potential for Desktop Recorders</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-fabulous-8-top-notch-online-video-stabilizers/"><u>Updated Free and Fabulous 8 Top-Notch Online Video Stabilizers</u></a></li>
+</ul></div>
 

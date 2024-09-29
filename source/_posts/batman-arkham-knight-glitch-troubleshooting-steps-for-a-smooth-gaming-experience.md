@@ -1,7 +1,7 @@
 ---
 title: Batman Arkham Knight Glitch? Troubleshooting Steps for a Smooth Gaming Experience
-date: 2024-09-16T21:08:09.890Z
-updated: 2024-09-23T19:28:25.257Z
+date: 2024-09-22T17:29:13.938Z
+updated: 2024-09-29T02:27:03.333Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Configure your DNS settings
 
  When you use your ISP’s (Internet Service Provider) default DNS server, some possible issues like crowded cache could cause the server connection failure. What you can do is switching to a public DNS server to solve the problem. We’ll use the Google DNS server as an example. Here’s how:
@@ -60,22 +67,8 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
@@ -84,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
@@ -98,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
@@ -118,18 +111,18 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -142,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -164,5 +164,24 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ace-virtual-imagery-ideal-google-meet-screens-for-2024/"><u>[New] Ace Virtual Imagery Ideal Google Meet Screens for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prestigious-top-8-sites-combining-vivid-3d-graphics-and-luxe-text/"><u>[New] Prestigious Top 8 Sites Combining Vivid 3D Graphics & Luxe Text</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-supercharge-your-selfie-game-on-iphone-the-10-must-download-apps/"><u>[New] Supercharge Your Selfie Game on iPhone The 10 Must-Download Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-most-engaging-sandbox-gaming-titles/"><u>[New] The Most Engaging Sandbox Gaming Titles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-level-workshop-programming-timer-functions-for-obs-productions/"><u>[Updated] 2024 Approved Expert-Level Workshop Programming Timer Functions for OBS Productions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-budget-recording-tools-the-ultimate-guide-for-windows-for-2024/"><u>[Updated] Budget Recording Tools The Ultimate Guide for Windows for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-master-levels-enhancing-steam-gameplay-videos-for-2024/"><u>[Updated] Master Levels Enhancing Steam Gameplay Videos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-reducing-recording-ambiance-free-methods-and-pros-for-2024/"><u>[Updated] Reducing Recording Ambiance Free Methods and Pros for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-7-best-waterproof-video-recorders/"><u>[Updated] The Ultimate Guide 7 Best Waterproof Video Recorders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dragon-saga-timeline-best-way-to-experience-the-how-to-train-your-dragon-movies-in-sequence/"><u>Dragon Saga Timeline: Best Way to Experience the How to Train Your Dragon Movies in Sequence</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-13-pro-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 13 Pro Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-when-your-logitech-g-pro-headset-microphone-fails/"><u>How to Resolve When Your Logitech G Pro Headset Microphone Fails</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-frequency-logging-microphone-sounds-and-dialogue/"><u>In 2024, Frequency Logging Microphone Sounds & Dialogue</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-reveal-hidden-taskbar-icons/"><u>Strategies to Reveal Hidden Taskbar Icons</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/streaming-tools-duel-go-with-obs-or-shadowplay-for-2024/"><u>Streaming Tools Duel Go with OBS or ShadowPlay for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/title-video-card-comparison-tactics-how-to-perform-accurate-benchmark-tests/"><u>Title: Video Card Comparison Tactics: How To Perform Accurate Benchmark Tests</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/user-friendly-mac-gadget-visuals-and-voices-recorded-for-2024/"><u>User-Friendly Mac Gadget Visuals & Voices Recorded for 2024</u></a></li>
+</ul></div>
 
