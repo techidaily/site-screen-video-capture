@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Choose Folder for Stored Mac Screenshots\""
-date: 2024-09-22T13:49:20.442Z
-updated: 2024-09-28T18:39:53.767Z
+date: 2024-09-28T23:45:17.575Z
+updated: 2024-10-04T18:34:42.136Z
 tags: 
   - screen-recording
   - ai video
@@ -48,13 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -62,10 +55,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -77,16 +70,10 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -100,10 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -117,6 +104,13 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -133,24 +127,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-apeaksoft-2023-screens-recording-insights/"><u>[New] 2024 Approved Apeaksoft 2023 Screens Recording Insights</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-from-novice-to-pro-an-extensive-guide-on-using-zd-softs-recording-features/"><u>[New] From Novice to Pro An Extensive Guide on Using ZD Soft’s Recording Features</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-get-savvy-with-chromebook-snaps-explore-these-4-methods-in-2024/"><u>[New] Get Savvy with Chromebook Snaps - Explore These 4 Methods, In 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-become-a-videographer-essentials-of-recording-with-logitech/"><u>[New] In 2024, Become a Videographer Essentials of Recording with Logitech</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-the-art-of-customizing-your-youtube-channel-url/"><u>[New] Mastering the Art of Customizing Your YouTube Channel URL</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-roguelikes-traditional-tactics-vs-modern-mechanics-for-2024/"><u>[Updated] Roguelike's Traditional Tactics Vs. Modern Mechanics for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-elite-hd-video-capture-software-listings/"><u>2024 Approved Elite HD Video Capture Software Listings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-10-farming-games-to-kill-time-and-play-with-friends/"><u>2024 Approved Top 10 Farming Games to Kill Time and Play with Friends</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-xiaomi-redmi-note-12-4g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Xiaomi Redmi Note 12 4G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-first-rate-biodegradable-filming-gear-tutorials/"><u>In 2024, First-Rate Biodegradable Filming Gear Tutorials</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola Moto G84 5G</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-s17t-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo S17t to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-immersive-odyssey-the-most-exciting-psvr-games-on-the-way/"><u>In 2024, Immersive Odyssey The Most Exciting PSVR Games on the Way</u></a></li>
-<li><a href="https://blog-min.techidaily.com/launching-soon-ayro-unveils-its-american-made-electric-micro-pickup/"><u>Launching Soon: AYRO Unveils Its American-Made Electric Micro Pickup</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-macs-best-video-production-tools-unleash-your-creativity/"><u>New In 2024, Macs Best Video Production Tools Unleash Your Creativity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-windows-code-31-error-a-step-by-step-guide/"><u>Resolving Windows Code 31 Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/screen-capturing-on-iphoneipad-updated-strategies-for-2024/"><u>Screen Capturing on iPhone/iPad Updated Strategies for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/shotchrome-xtreme-top-tier-os-capturing/"><u>ShotChrome Xtreme Top-Tier OS Capturing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unpacking-video-editing-excellence-is-inshot-at-the-top-in-2024/"><u>Unpacking Video Editing Excellence Is InShot at the Top, In 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-achieve-social-stardom-the-ultimate-list-for-fb-fan-increase/"><u>[New] 2024 Approved Achieve Social Stardom The Ultimate List for FB Fan Increase</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-capturing-facetime-best-practices-unveiled-for-2024/"><u>[New] Capturing FaceTime Best Practices Unveiled for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-streamlining-your-presentations-vimeo-video-embedding-in-powerpoint/"><u>[New] In 2024, Streamlining Your Presentations Vimeo Video Embedding in PowerPoint</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-invisible-snapgrabber-secrets-to-undetected-photo-taking-for-2024/"><u>[New] Invisible SnapGrabber Secrets to Undetected Photo-Taking for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-optimal-video-saver-best-chromebook-recorder-for-2024/"><u>[New] Optimal Video Saver Best Chromebook Recorder for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unleashing-potential-the-ultimate-pathway-to-effective-youtube-banners/"><u>[Updated] 2024 Approved Unleashing Potential The Ultimate Pathway to Effective YouTube Banners</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-quick-guide-to-planning-google-meet-sessions/"><u>[Updated] Quick Guide to Planning Google Meet Sessions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-up-your-sj4000-game-with-these-accessories/"><u>[Updated] Step Up Your SJ4000 Game with These Accessories</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-universal-method-for-recording-your-preferred-youtube-stream-no-matter-the-device-for-2024/"><u>[Updated] Universal Method for Recording Your Preferred YouTube Stream, No Matter the Device for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-vidmas-technology-in-screen-capturing-spotlighted/"><u>2024 Approved Vidma’s Technology in Screen Capturing Spotlighted</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/choosing-between-obs-and-streamlabs-for-broadcast-excellence/"><u>Choosing Between OBS and Streamlabs for Broadcast Excellence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-tutorial-capturing-audio-from-voice-calls-on-android-phones/"><u>Easy Tutorial: Capturing Audio From Voice Calls on Android Phones</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>How to identify some outdated drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-clearing-the-darkness-remedies-for-invisible-gaming-captures-by-obs/"><u>In 2024, Clearing the Darkness Remedies for Invisible Gaming Captures by OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-image-full-screen-webpage/"><u>In 2024, Image Full-Screen Webpage</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-navigating-the-download-of-auditory-broadcasts-on-home-computers-for-2024/"><u>New Navigating the Download of Auditory Broadcasts on Home Computers for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-troubleshooting-and-solving-non-resetting-airpods-issues/"><u>Ultimate Guide: Troubleshooting and Solving Non-Resetting AirPods Issues</u></a></li>
 </ul></div>
 

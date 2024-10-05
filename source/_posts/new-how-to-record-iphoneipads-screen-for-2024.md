@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Record iPhone/iPad’s Screen for 2024"
-date: 2024-09-22T15:06:54.623Z
-updated: 2024-09-29T03:48:20.278Z
+date: 2024-09-27T21:53:05.066Z
+updated: 2024-10-04T21:31:01.305Z
 tags: 
   - screen-recording
   - ai video
@@ -64,10 +64,10 @@ That's the steps of how to record your iPhone screen in iOS 11 and later version
 If your iOS device is running a previous version older than iOS 11, and you do not want to update, then you can record your iPhone screen with some best screen recorders for iOS, or record with QuickTime. In the following section, we will show you how to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Use [QuickTime](https://support.apple.com/quicktime) to Record Screens of iPhone/iPad (Version Before iOS 11)
@@ -81,10 +81,10 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20logo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2\. Launch QuickTime on your Mac available in the application folder.
@@ -93,6 +93,13 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20new%20moive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4\. A video recording screen will open. Now slide the cursor over that window to make the record and volume button visible.
 
 5\. Click on the arrow next to the red record button to show the camera and microphone recording options. Choose your device from the list of devices and you will be able to see your device screen in the QuickTime window.
@@ -100,13 +107,6 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 6\. Click on the red record button when you want to start recording.
 
 ![quicktime screen recorder](https://images.wondershare.com/filmora/quicktime%20iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7\. To stop the recording of the screen of your iOS device, click on the Stop button at the video recorder window.
 
@@ -120,14 +120,14 @@ iPhone/iPad screen recorder is a very useful tool when you want to record tutori
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -144,24 +144,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-amplify-sales-discover-the-leading-15-facebook-monitoring-tools/"><u>[New] 2024 Approved Amplify Sales Discover the Leading 15 Facebook Monitoring Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unlimited-screen-capture-tool/"><u>[New] In 2024, Unlimited Screen Capture Tool</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-uncomplicated-steps-to-record-instagrams-story-feed/"><u>[New] Uncomplicated Steps to Record Instagram's Story Feed</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unleashing-creativity-how-to-master-io-screen-capture-for-2024/"><u>[New] Unleashing Creativity How to Master IO Screen Capture for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-groundbreaking-getaways-easy-builds-for-mc-beginners/"><u>[Updated] Groundbreaking Getaways Easy Builds for MC Beginners</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-key-steps-to-screen-record-on-your-phone/"><u>[Updated] In 2024, Key Steps to Screen Record on Your Phone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-ultimate-guide-to-choosing-a-professional-video-editor-filmora-or-democracy-creator/"><u>[Updated] In 2024, The Ultimate Guide to Choosing a Professional Video Editor (Filmora or Democracy Creator)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unveiling-professional-monitor-recording-by-zdsoft/"><u>[Updated] In 2024, Unveiling Professional Monitor Recording by ZDSoft</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-tips-to-restore-functionality-in-frozen-obs-screen/"><u>[Updated] Tips to Restore Functionality in Frozen OBS Screen</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-rapid-snapshot-sound-infused-display/"><u>2024 Approved Rapid Snapshot Sound-Infused Display</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-youtube-kiddie-corner-10-year-old-ryan-hits-millionaire-mark/"><u>2024 Approved YouTube Kiddie Corner 10-Year-Old Ryan Hits Millionaire Mark</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/discover-the-top-choice-unlimited-features-with-winx-dvd-author-on-windows-11-free-of-cost/"><u>Discover the Top Choice: Unlimited Features with WinX DVD Author on Windows 11, Free of Cost</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016787752-expert-tips-for-restoring-functionality-to-your-primary-aux-jack-no-sweat/"><u>Expert Tips for Restoring Functionality to Your Primary AUX Jack – No Sweat</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-13-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 13 After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-youtube-video-archiving-made-simple/"><u>In 2024, YouTube Video Archiving Made Simple</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/new-year-new-speaking-abilities/"><u>New Year, New Speaking Abilities</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/smooth-sailing-screen-record-across-pcs-mac-and-mobile-for-2024/"><u>Smooth Sailing Screen Record Across PCs, Mac & Mobile for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ideal-destination-ranking-of-6-superior-stores-to-buy-a-new-laptop/"><u>The Ideal Destination: Ranking of 6 Superior Stores to Buy a New Laptop</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-hardware-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to update hardware drivers on Windows 11 & 10</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-digital-cosmos-display-top-pick-hdr-sky-sites-list/"><u>[New] 2024 Approved Digital Cosmos Display Top Pick HDR Sky Sites List</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-expert-tips-for-automated-google-meet-timings/"><u>[New] In 2024, Expert Tips for Automated Google Meet Timings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-tackling-youtube-shorts-issues/"><u>[New] The Ultimate Guide Tackling YouTube Shorts Issues</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-expertise-amplified-10-must-know-canva-techniques/"><u>[Updated] 2024 Approved Expertise Amplified 10 Must-Know Canva Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-fraps-for-gamers-a-screen-record-review-for-2024/"><u>[Updated] Fraps for Gamers A Screen Record Review for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-techniques-to-troubleshoot-silent-obs-sessions-for-2024/"><u>[Updated] Techniques to Troubleshoot Silent OBS Sessions for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-freeze-your-pc-display-effortlessly/"><u>2024 Approved Freeze Your PC Display Effortlessly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-optimizing-youtube-and-twitch-with-obs-streaming-techniques/"><u>2024 Approved Optimizing YouTube & Twitch with OBS Streaming Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-tips-and-tricks-recording-conversations-on-whatsapp/"><u>2024 Approved Tips and Tricks Recording Conversations on WhatsApp</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-5-ps1-emulators-bringing-classic-games-back/"><u>2024 Approved Top 5 PS1 Emulators - Bringing Classic Games Back</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-14-pro-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 14 Pro When Its Locked Within Seconds</u></a></li>
+<li><a href="https://windows11.techidaily.com/bringing-print-functionality-to-microsofts-secure-edge/"><u>Bringing Print Functionality to Microsoft's Secure Edge</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovative-gb-recorder-for-games-on-fbx/"><u>Innovative GB Recorder for Games on FBX</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-your-devices-energy-efficiency-with-windows-11s-battery-information-tool/"><u>Mastering Your Device's Energy Efficiency with Windows 11'S Battery Information Tool</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/0-no-cost-youtube-sbd-tools/"><u>Top 10 No-Cost YouTube SBD Tools</u></a></li>
 </ul></div>
 

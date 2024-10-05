@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Effortless Control  Enhancing Gameplay on Steam Using Switch Pro\""
-date: 2024-09-24T10:13:22.688Z
-updated: 2024-09-29T03:32:39.575Z
+date: 2024-09-30T23:12:59.975Z
+updated: 2024-10-04T17:41:10.279Z
 tags: 
   - screen-recording
   - ai video
@@ -62,28 +62,15 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * To add a Bluetooth device, click "Add Bluetooth Device."
@@ -97,16 +84,16 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 * Once Steam is set up, you can begin using it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -120,7 +107,27 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -138,13 +145,6 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -160,22 +160,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-advanced-scheduling-with-premium-recording-software/"><u>[New] 2024 Approved Advanced Scheduling with Premium Recording Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-asmr-a-gateway-to-enhanced-self-care/"><u>[New] ASMR A Gateway to Enhanced Self-Care</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-budget-friendly-pc-screen-recorders/"><u>[New] Budget-Friendly PC Screen Recorders</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-crafting-captivating-online-ads-for-facebook/"><u>[New] Crafting Captivating Online Ads for Facebook</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-dive-into-creativity-mastering-artistic-elements-in-instagram-edits/"><u>[New] Dive Into Creativity Mastering Artistic Elements in Instagram Edits</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-comparing-mp4-recorders-the-latest-edition/"><u>[New] In 2024, Comparing MP4 Recorders - The Latest Edition</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quick-guide-to-screen-capture-on-laptops-and-chromeos/"><u>[New] In 2024, Quick Guide to Screen Capture on Laptops and ChromeOS</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-innovative-ios-tools-for-ps2-game-replication-for-2024/"><u>[New] Innovative IOS Tools for PS2 Game Replication for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-optimizing-nintendo-switch-controller-for-steam-games/"><u>[New] Optimizing Nintendo Switch Controller for Steam Games</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-stepping-into-the-spotlight-5-core-principles-for-social-media-promotion/"><u>[New] Stepping Into the Spotlight 5 Core Principles for Social Media Promotion</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-bridging-music-sections-advanced-audacity-techniques/"><u>[Updated] In 2024, Bridging Music Sections Advanced Audacity Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/e-and-captivate-viewers-ultimate-tips-for-cutting-edge-youtube-edits/"><u>Engage and Captivate Viewers Ultimate Tips for Cutting-Edge Youtube Edits</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-unraveling-the-secrets-of-excellent-screen-recording-with-recmeister/"><u>In 2024, Unraveling the Secrets of Excellent Screen Recording with Recmeister</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/master-class-in-meeting-transcripts-zooms-software-showdown/"><u>Master Class in Meeting Transcripts Zoom's Software Showdown</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-computing-rumored-release-schedule-for-intels-arrow-lake-s/"><u>The Future of Computing: Rumored Release Schedule for Intel's Arrow Lake-S</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tiktok-streams-decoded-finding-your-special-hashtag-for-2024/"><u>TikTok Streams Decoded Finding Your Special Hashtag for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleashing-the-power-of-pip-videos-with-sierras-os-advantages/"><u>Unleashing the Power of PIP Videos with Sierra's OS Advantages</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-economical-embellishments-free-youtube-template-packs/"><u>[New] 2024 Approved Economical Embellishments FREE YouTube Template Packs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-getting-acquainted-the-basics-of-ez-grabber-utilization-for-2024/"><u>[New] Getting Acquainted The Basics of EZ Grabber Utilization for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-store-complete-online-interface/"><u>[New] In 2024, Store Complete Online Interface</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-pioneering-mobile-broadcasting-mastering-obs-studio-and-android/"><u>[New] Pioneering Mobile Broadcasting Mastering OBS Studio and Android</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-wildlife-wonders-androids-finest-animal-game-collection/"><u>[New] Wildlife Wonders Android’s Finest Animal Game Collection</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-diablo-ii-resurrected-not-launching/"><u>[SOLVED] Diablo II: Resurrected Not Launching</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-a-brief-overview-understanding-vr-jargon/"><u>[Updated] A Brief Overview Understanding VR Jargon</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-essential-tech-for-effective-pc-image-capture-the-5-best/"><u>[Updated] In 2024, Essential Tech for Effective PC Image Capture, The 5 Best</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-rated-desktop-video-recorders-for-pcmac-for-2024/"><u>[Updated] Top-Rated Desktop Video Recorders for PC/Mac for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-blending-realms-a-guide-to-photomosaic-creation/"><u>2024 Approved Blending Realms A Guide to PhotoMosaic Creation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-best-places-for-finding-attractive-free-tiktok-bg-videos/"><u>2024 Approved The Best Places for Finding Attractive Free TikTok BG Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/advanced-techniques-capturing-teams-screen-content-for-2024/"><u>Advanced Techniques Capturing Teams' Screen Content for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-s17-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo S17 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-lava-yuva-2-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Lava Yuva 2 Pro? Try These Fixes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-optimal-free-cam-viewer-with-snatch-feature/"><u>In 2024, Optimal Free Cam Viewer with Snatch Feature</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/laptop-and-mobile-commencing-a-google-meet-session/"><u>Laptop & Mobile Commencing a Google Meet Session</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-for-mending-fatal-discord-javascript-crashes-on-windows-1011/"><u>Tactics for Mending Fatal Discord Javascript Crashes on Windows 10/11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-future-of-mobile-photography-with-xiaomis-mi-11/"><u>The Future of Mobile Photography with Xiaomi's Mi 11</u></a></li>
 </ul></div>
 
