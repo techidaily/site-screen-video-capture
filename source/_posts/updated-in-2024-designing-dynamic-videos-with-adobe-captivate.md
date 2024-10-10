@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Designing Dynamic Videos with Adobe Captivate"
-date: 2024-09-28T18:39:14.852Z
-updated: 2024-10-04T17:58:18.984Z
+date: 2024-10-04T21:23:31.693Z
+updated: 2024-10-10T02:18:13.600Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Record a Video Presentation Using Adobe Captivate
@@ -66,10 +66,10 @@ Double-click on Adobe Captivate's desktop icon to launch the software, and then 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
@@ -89,10 +89,16 @@ Click on the Settings button if you wish to change the destination on your hard-
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
@@ -114,10 +120,10 @@ Adobe Captivate is much more than just a simple screen recording tool, and if yo
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -135,20 +141,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-a-compreshift-guide-to-creating-profitable-and-engaging-youtube-collaborations/"><u>[New] In 2024, A Compreshift Guide to Creating Profitable & Engaging YouTube Collaborations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlock-the-secrets-maximizing-your-video-content-on-zoom-and-youtube-live/"><u>[New] Unlock the Secrets Maximizing Your Video Content on Zoom & YouTube Live</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-x-converter-pc-toolkit/"><u>[New] X-Converter PC Toolkit</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-exploring-digital-film-coloring-methods-for-2024/"><u>[Updated] Exploring Digital Film Coloring Methods for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-fist-of-legends-highest-rated-kung-fu-virtual-battles-for-2024/"><u>[Updated] Fist of Legends Highest-Rated Kung Fu Virtual Battles for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-global-perspective-inclusive-technology-review/"><u>[Updated] In 2024, Global Perspective Inclusive Technology Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unlock-your-farming-potential-with-top-valheim-seeds/"><u>[Updated] In 2024, Unlock Your Farming Potential with Top Valheim Seeds</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-pro-level-hp-notebook-screen-recording-techniques-uncovered-for-2024/"><u>[Updated] Pro-Level HP Notebook Screen Recording Techniques Uncovered for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-applications-for-remote-team-connection-for-2024/"><u>[Updated] Top Applications for Remote Team Connection for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-free-virus-eradication-apps/"><u>Discover the Ultimate List of Free Virus Eradication Apps</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhance-pc-performance-today-free-asrock-ab350-pro4-driver-packs-for-windows-users/"><u>Enhance PC Performance Today! FREE ASRock AB350 Pro4 Driver Packs for Windows Users</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/game-on-the-best-xbox-extra-storage-choices/"><u>Game On The Best Xbox Extra Storage Choices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-8-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your iPhone 8</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-netflix-error-a-step-by-step-guide-to-overcoming-issue-nw-1-19/"><u>Solving the Netflix Error: A Step-by-Step Guide to Overcoming Issue NW-1-19</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-to-setting-up-the-ultimate-7plus2-addons-bundle-on-kodi-for-enhanced-viewing-experience/"><u>Step by Step Guide to Setting Up the Ultimate 7+2 Addons Bundle on Kodi for Enhanced Viewing Experience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-discover-the-most-popular-vr-cycling-worlds/"><u>[New] 2024 Approved Discover the Most Popular VR Cycling Worlds</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-essential-tips-for-overwatch-game-sound-logging/"><u>[New] 2024 Approved Essential Tips for Overwatch Game Sound Logging</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-cutting-edge-techniques-in-logitech-webcam-filming-and-streaming-guide/"><u>[New] In 2024, Cutting-Edge Techniques in Logitech Webcam Filming and Streaming Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-depth-zoom-techniques-for-exceptional-podcasts/"><u>[New] In-Depth Zoom Techniques for Exceptional Podcasts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-screen-sharing-made-simple-learn-phonescreen-recording-with-snapchat-for-2024/"><u>[New] Screen Sharing Made Simple Learn Phonescreen Recording with Snapchat for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unlocking-zoom-potentials-a-complete-guide-to-excellent-audio-recordings/"><u>[New] Unlocking Zoom Potentials A Complete Guide to Excellent Audio Recordings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-fast-snapfinders-handbook/"><u>[Updated] 2024 Approved Fast Snapfinder's Handbook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-lenovo-savvy-efficient-screencasting-made-simple/"><u>[Updated] 2024 Approved Lenovo Savvy Efficient Screencasting Made Simple</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-artistic-ventures-on-ios-the-bestiary-of-the-top-8-drawing-apps-for-2024/"><u>[Updated] Artistic Ventures on iOS The Bestiary of the Top 8 Drawing Apps for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-inverted-intrigue-mastering-the-art-of-turning-photos-for-instagram-glory-for-2024/"><u>[Updated] Inverted Intrigue Mastering the Art of Turning Photos for Instagram Glory for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-screenflix-recorder-insider-report/"><u>[Updated] ScreenFlix Recorder Insider Report</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-7-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 7 When You Forget the Passcode? | Dr.fone</u></a></li>
 </ul></div>
 

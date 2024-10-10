@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Secrets to Excellent Screen Recordings on Lenovo"
-date: 2024-09-30T17:04:59.100Z
-updated: 2024-10-05T00:41:34.003Z
+date: 2024-10-07T21:27:34.160Z
+updated: 2024-10-09T22:55:34.198Z
 tags: 
   - screen-recording
   - ai video
@@ -70,10 +70,10 @@ Step 2: Launch the Program and Begin Customizing It
 ![wondershare screen recorder settings](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to open the software program so that you can begin recording the Lenovo screen without difficulty. To begin, just go to the New Recording button in the start-up window, which will launch the recorder. With the incorporated tools in Filmora, you can completely modify your Lenovo screen recordings. You may also choose the audio source you want to use, such as a microphone, system sound from both, or your Lenovo laptop's Webcam, to include in your recordings.
@@ -107,61 +107,61 @@ Step 2: The nicest thing is that it can also record audio. Select your microphon
 ![sharex screen recorder](https://images.wondershare.com/filmora/article-images/record-screen-with-sharex.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 3: Fullscreen capture, capture a specific window or part of the screen, screen recording to video or Gif, and auto-capture are all possibilities under the Capture menu.
+
+Step 4: When you record anything, it will be saved in the Screenshots folder on the left side menu. You may use this function to choose a file from your device and instantly upload it into the software for editing. A simple drag and drop motion may also be used to accomplish this.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Way 4\. Record Lenovo with Screencast-O-Matic
+
+You may use Screencast-O-Matic to record ('screencast') your computer's screen. Every action you do will be documented. This recording is a video or audio recording that just contains your remarks. Screencast-O-Matic is a free screen capturing tool available online. This program captures a portion of your screen, as well as audio and camera input. This application may be used to capture narrated lectures or demos and turn them into videos for your courses. It is widely regarded as one of the most efficient screen recording apps for creating YouTube presentations and lessons.
+
+Step 1\. To install the Screencast Recorder on your PC, go to the following link:
+
+<https://screencast-o-matic.com/download>
+
+![screencast o matic](https://images.wondershare.com/filmora/article-images/running-screen-o-matic-screen-recorder.jpg)
+
+Step 2\. To finish the installation, download and run the setup installer. Launch the Recorder from the Start Menu in Windows or the Application folder on a Mac machine when the installation is complete.
+
+Step 3: You'll notice a variety of modification choices inside the recorder to personalize your movie to your preferences. Free recording time is restricted to 15 minutes for each video; upgrade to a Deluxe or Premier subscription to get unlimited recording time. Both the free and commercial versions of the screen recorder allow you to record an unlimited number of videos.
+
+Step 4: Save the file as an mp4, AVI, or FLV. Then, on your device, choose a target folder. Click "publish" after giving your video a name so you can locate it later.
+
+## Conclusion
+
+The easiest method for screen capture on Lenovo is to utilize the key combination, however, there are limited customization options and commenting equipment. With the built-in basic tools, you may easily capture the perfect photo, sound document, or screen movie on the Windows screen. You may read about the best screen recorders for Lenovo laptops and choose one to begin recording. Filmora, which can cover practically all of your screen recording needs, is highly recommended for individuals who seek something simple and strong.
+
+Way 2. [Record Lenovo with Filmora](#part2)
+
+Way 3. [Use ShareX to Record Lenovo](#part3)
+
+Way 4. [Record Lenovo with Screencast-O-Matic](#part4)
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-Step 3: Fullscreen capture, capture a specific window or part of the screen, screen recording to video or Gif, and auto-capture are all possibilities under the Capture menu.
-
-Step 4: When you record anything, it will be saved in the Screenshots folder on the left side menu. You may use this function to choose a file from your device and instantly upload it into the software for editing. A simple drag and drop motion may also be used to accomplish this.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Way 4\. Record Lenovo with Screencast-O-Matic
-
-You may use Screencast-O-Matic to record ('screencast') your computer's screen. Every action you do will be documented. This recording is a video or audio recording that just contains your remarks. Screencast-O-Matic is a free screen capturing tool available online. This program captures a portion of your screen, as well as audio and camera input. This application may be used to capture narrated lectures or demos and turn them into videos for your courses. It is widely regarded as one of the most efficient screen recording apps for creating YouTube presentations and lessons.
-
-Step 1\. To install the Screencast Recorder on your PC, go to the following link:
-
-<https://screencast-o-matic.com/download>
-
-![screencast o matic](https://images.wondershare.com/filmora/article-images/running-screen-o-matic-screen-recorder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Step 2\. To finish the installation, download and run the setup installer. Launch the Recorder from the Start Menu in Windows or the Application folder on a Mac machine when the installation is complete.
-
-Step 3: You'll notice a variety of modification choices inside the recorder to personalize your movie to your preferences. Free recording time is restricted to 15 minutes for each video; upgrade to a Deluxe or Premier subscription to get unlimited recording time. Both the free and commercial versions of the screen recorder allow you to record an unlimited number of videos.
-
-Step 4: Save the file as an mp4, AVI, or FLV. Then, on your device, choose a target folder. Click "publish" after giving your video a name so you can locate it later.
-
-## Conclusion
-
-The easiest method for screen capture on Lenovo is to utilize the key combination, however, there are limited customization options and commenting equipment. With the built-in basic tools, you may easily capture the perfect photo, sound document, or screen movie on the Windows screen. You may read about the best screen recorders for Lenovo laptops and choose one to begin recording. Filmora, which can cover practically all of your screen recording needs, is highly recommended for individuals who seek something simple and strong.
-
-Way 2. [Record Lenovo with Filmora](#part2)
-
-Way 3. [Use ShareX to Record Lenovo](#part3)
-
-Way 4. [Record Lenovo with Screencast-O-Matic](#part4)
 
 ## Way 1\. Use Windows Game Bar
 
@@ -269,6 +269,13 @@ This software enables you to record a portion of your screen or the whole screen
 
 ![windows game bar](https://images.wondershare.com/filmora/article-images/windows-game-bar-record-minecraft.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 1: Press Win + G to open the Xbox Game Bar after clicking the Start button. The Xbox Game Bar appears at the top-focus border of your screen.
 
 Step 2: On the left, choose Captures captured to examine and edit further customization options if required. There are also options to enable recording while projecting your screen, to define the maximum account duration, and to alter your sound and video quality settings.
@@ -323,13 +330,6 @@ For macOS 10.12 or later
 
 Finally, you may use completely customizable editing tools to alter your audio recordings. To do so, use Filmora's editor and modify your recorded audio files using simple to advanced editing methods.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 3\. Use ShareX to Record Lenovo
 
 In terms of screen capture, ShareX is likewise open-source. You may use this free video recording program to record any action on your Lenovo computer's screen. Using this lightweight screen capture program, there are no problems when it comes to capturing the screen. It not only allows you to record your screen, but it also allows you to manage your images and screenshots. You may select whether or not to include the cursor in the photo, set a timeframe, and even utilize the OCR tool to detect the text on your image while working with it. Because of its extensive screen-capture capabilities, the open-source program is popular among gamers. The "scrolling screenshot" option you're searching for is among those capabilities, which include video capture, GIFs, region-select, and workflows, as well as a wide variety of filters and effects to add to your captures.
@@ -341,10 +341,10 @@ Step 2: The nicest thing is that it can also record audio. Select your microphon
 ![sharex screen recorder](https://images.wondershare.com/filmora/article-images/record-screen-with-sharex.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3: Fullscreen capture, capture a specific window or part of the screen, screen recording to video or Gif, and auto-capture are all possibilities under the Capture menu.
@@ -437,19 +437,6 @@ For macOS 10.12 or later
 
 Finally, you may use completely customizable editing tools to alter your audio recordings. To do so, use Filmora's editor and modify your recorded audio files using simple to advanced editing methods.
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 3\. Use ShareX to Record Lenovo
 
 In terms of screen capture, ShareX is likewise open-source. You may use this free video recording program to record any action on your Lenovo computer's screen. Using this lightweight screen capture program, there are no problems when it comes to capturing the screen. It not only allows you to record your screen, but it also allows you to manage your images and screenshots. You may select whether or not to include the cursor in the photo, set a timeframe, and even utilize the OCR tool to detect the text on your image while working with it. Because of its extensive screen-capture capabilities, the open-source program is popular among gamers. The "scrolling screenshot" option you're searching for is among those capabilities, which include video capture, GIFs, region-select, and workflows, as well as a wide variety of filters and effects to add to your captures.
@@ -475,10 +462,10 @@ Step 1\. To install the Screencast Recorder on your PC, go to the following link
 ![screencast o matic](https://images.wondershare.com/filmora/article-images/running-screen-o-matic-screen-recorder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2\. To finish the installation, download and run the setup installer. Launch the Recorder from the Start Menu in Windows or the Application folder on a Mac machine when the installation is complete.
@@ -486,6 +473,13 @@ Step 2\. To finish the installation, download and run the setup installer. Launc
 Step 3: You'll notice a variety of modification choices inside the recorder to personalize your movie to your preferences. Free recording time is restricted to 15 minutes for each video; upgrade to a Deluxe or Premier subscription to get unlimited recording time. Both the free and commercial versions of the screen recorder allow you to record an unlimited number of videos.
 
 Step 4: Save the file as an mp4, AVI, or FLV. Then, on your device, choose a target folder. Click "publish" after giving your video a name so you can locate it later.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -515,15 +509,22 @@ The easiest method for screen capture on Lenovo is to utilize the key combinatio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-warhammer-40000-not-starting-dx12-error/"><u>[CORRECTED] Warhammer 40,000 Not Starting - DX12 Error</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-the-edit-a-comprehensive-look-at-title-and-description-for-igtv/"><u>[New] 2024 Approved Mastering the Edit A Comprehensive Look at Title & Description for IGTV</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-avoiding-obscured-games-fixes-for-obs-black-screen-issues/"><u>[Updated] Avoiding Obscured Games Fixes for OBS Black Screen Issues</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-ranked-best-ipad-speech-to-text-programs-3-for-2024/"><u>[Updated] Ranked Best iPad Speech-to-Text Programs #3 for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/advanced-filming-techniques-for-your-live-streaming-needs-using-logitech-cam-for-2024/"><u>Advanced Filming Techniques for Your Live-Streaming Needs Using Logitech Cam for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-essential-guide-enabling-a-full-screen-grid-on-zoom/"><u>In 2024, Essential Guide Enabling a Full-Screen Grid on Zoom</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-6s-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 6s</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/innovative-tactics-for-stellar-facebook-ad-videos/"><u>Innovative Tactics for Stellar Facebook Ad Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/luminous-techniques-for-web-based-cinema/"><u>Luminous Techniques for Web-Based Cinema</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-issues-when-trying-to-start-the-witcher-3-wild-hunt/"><u>Troubleshooting Tips: Resolving Issues When Trying To Start The Witcher 3: Wild Hunt</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-breaking-down-triller-its-distinctive-position-in-the-video-world/"><u>[New] 2024 Approved Breaking Down Triller Its Distinctive Position in the Video World</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-inclusive-iptv-broadcast-architecture/"><u>[New] 2024 Approved Inclusive IPTV Broadcast Architecture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ideal-methods-to-archive-playstation-4-gaming-sessions/"><u>[New] Ideal Methods to Archive PlayStation 4 Gaming Sessions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-ice-warriors-battle-the-spectacular-winter-olympics-snowboard-showdown/"><u>[New] In 2024, Ice Warriors Battle - The Spectacular Winter Olympics Snowboard Showdown</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-audacity-mastery-for-mac-users-audio-recording-essentials/"><u>[Updated] 2024 Approved Audacity Mastery for Mac Users Audio Recording Essentials</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-clearview-recording-toolkit/"><u>[Updated] In 2024, ClearView Recording Toolkit</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-innovations-for-elevating-your-gopro-filmmaking-skills/"><u>[Updated] In 2024, Innovations for Elevating Your GoPro Filmmaking Skills</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-navigating-lenovo-screen-capture-tools-effortlessly/"><u>[Updated] In 2024, Navigating Lenovo Screen Capture Tools Effortlessly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-obs-recording-tech-breakdown-comparing-leading-screen-recorders/"><u>[Updated] In 2024, OBS Recording Tech Breakdown Comparing Leading Screen Recorders</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-rescue-hidden-fb-watch-icon-for-2024/"><u>[Updated] Rescue Hidden FB Watch Icon for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-strategies-for-enhancing-footage-with-gopro-studio-for-2024/"><u>Advanced Strategies for Enhancing Footage with GoPro Studio for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/compelling-iphone-photo-and-video-applications-87x-for-2024/"><u>Compelling iPhone Photo & Video Applications (8/7/X) for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/efficiencyinusingyourwebcamforcapturing/"><u>EfficiencyInUsingYourWebcamForCapturing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-best-speech-recognition-software-on-your-mac/"><u>Explore Best Speech Recognition Software on Your Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/granblue-fantasy-stuck-on-preparations-heres-how-to-fix-it/"><u>Granblue Fantasy Stuck on Preparations? Here's How to Fix It!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-counterclockwise-watch-how-to-unravel-your-youtube-sequence/"><u>In 2024, Counterclockwise Watch How to Unravel Your YouTube Sequence</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-navigating-google-meets-virtual-whiteboards-across-appleandroid-and-laptops/"><u>In 2024, Navigating Google Meet's Virtual Whiteboards Across Apple/Android & Laptops</u></a></li>
 </ul></div>
 

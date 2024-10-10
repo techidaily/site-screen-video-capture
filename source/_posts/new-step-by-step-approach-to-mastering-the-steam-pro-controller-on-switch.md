@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Approach to Mastering the Steam Pro Controller on Switch\""
-date: 2024-10-01T00:27:44.989Z
-updated: 2024-10-04T22:24:21.704Z
+date: 2024-10-03T03:47:27.259Z
+updated: 2024-10-10T02:16:25.771Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
 It's also easy, but you need to buy an adapter or have Bluetooth on your computer.
@@ -61,13 +68,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 * Once you have charged the Pro Controller, you can press and hold the Sync button on the top of the controller for a few seconds until the indicator lights begin to flash.
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Right-click the Bluetooth icon in the system tray.
 
@@ -83,10 +83,10 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Once Steam is set up, you can begin using it.
@@ -107,14 +107,14 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
-Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 ## **What To Do With Non-Steam Games?**
 
@@ -126,18 +126,18 @@ The main problem here now is how windows will detect your switch pro controller 
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Final Verdict**
 
 This is how you can use your switch pro controller with your PC. Now you can easily enjoy your favorite games on one of the finest controllers available in the market today. All you need to do is, follow some simple steps mentioned in this article, and you are good to go. You can connect it both with wire and wirelessly. It is comparatively easy to connect it through the wire, and the performance of the controller is also slightly better when it is connected through a wire.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -154,20 +154,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-screen-recorder-options-for-igadgets/"><u>[New] In 2024, Screen Recorder Options for iGadgets</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-ultimate-pathway-to-prominence-on-youtube-channel-showcase-for-2024/"><u>[New] The Ultimate Pathway to Prominence on YouTube Channel Showcase for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-integrated-systems-approach-for-film-recording-on-diverse-computers/"><u>[Updated] In 2024, Integrated Systems Approach for Film Recording on Diverse Computers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-streamlining-workflow-efficient-tools-for-screencast-creation/"><u>[Updated] In 2024, Streamlining Workflow Efficient Tools for Screencast Creation</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-huawei-p60-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Huawei P60 Devices | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-a34-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy A34 5G Unlock Without Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 15 Pro</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-tecno-spark-20-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Tecno Spark 20 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/navigating-through-io-screenshot-functionality/"><u>Navigating Through IO Screenshot Functionality</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/nexus-of-networks-merging-instagram-and-tiktok-for-2024/"><u>Nexus of Networks Merging Instagram and TikTok for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/overwatch-the-ultimate-guide-to-recording-gameplay-for-2024/"><u>Overwatch The Ultimate Guide to Recording Gameplay for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/solutions-for-connecting-an-lg-device-to-windows-os-xp-vista-7/"><u>Solutions for Connecting an LG Device to Windows OS (XP, Vista, 7)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-essential-blueprint-setting-up-your-first-xbox-recorder/"><u>The Essential Blueprint Setting Up Your First Xbox Recorder</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-solution-manual-restoring-microphone-capabilities-in-bluetooth-headsets/"><u>The Ultimate Solution Manual: Restoring Microphone Capabilities in Bluetooth Headsets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-rpg-heritage-clashing-with-new-age-designs/"><u>[New] In 2024, RPG Heritage Clashing with New-Age Designs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-asgardian-crusade-final-quest/"><u>[New] In 2024, The Asgardian Crusade Final Quest</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-apowersoft-reviewed-a-guide-to-pc-screen-capture/"><u>[Updated] 2024 Approved Apowersoft Reviewed A Guide to PC Screen Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-perfecting-the-art-of-ppt-video-creation/"><u>[Updated] 2024 Approved Perfecting the Art of PPT Video Creation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-polaroid-cubeplus-action-camera-review/"><u>[Updated] 2024 Approved Polaroid Cube+ Action Camera Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-prime-pick-the-top-10-video-capture-tools-for-windows/"><u>[Updated] 2024 Approved Prime Pick The Top 10 Video Capture Tools for Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-visionary-footage-advanced-camcapturing-methods/"><u>[Updated] In 2024, Visionary Footage Advanced CamCapturing Methods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-a1x-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo A1x 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-strategizing-for-success-the-essential-guide-to-online-individuality/"><u>In 2024, Strategizing for Success The Essential Guide to Online Individuality</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-the-battlefield-the-ultimate-guide-to-teamfight-tactics-strategy/"><u>Mastering the Battlefield: The Ultimate Guide to Teamfight Tactics Strategy</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/stay-ahead-adapting-your-approach-for-instagrams-evolved-feed-for-2024/"><u>Stay Ahead Adapting Your Approach for Instagram’s Evolved Feed for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-20-anime-song-intros-for-2024/"><u>Superior 20 Anime Song Intros for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-update-error-0x80242016-solutions-sought/"><u>Windows Update Error: 0X80242016 - Solutions Sought</u></a></li>
 </ul></div>
 

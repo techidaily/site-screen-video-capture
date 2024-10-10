@@ -1,7 +1,7 @@
 ---
 title: Batman Arkham Knight Glitch? Troubleshooting Steps for a Smooth Gaming Experience
-date: 2024-09-28T21:06:06.902Z
-updated: 2024-10-04T21:15:10.163Z
+date: 2024-10-06T19:25:56.703Z
+updated: 2024-10-09T22:48:43.768Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 * If you have low-speed Internet, it could lead to an unstable Internet connection. You can google “Internet speed test” and pick a tool to**test your Internet speed** . However, when your Internet connection is unreasonably slow, consider contacting your Internet provider for help.
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Install all the game updates
 
@@ -74,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
@@ -89,10 +89,16 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
@@ -111,18 +117,18 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -135,16 +141,10 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
@@ -173,22 +173,19 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-win10-screen-grabbing-top-quality-captures/"><u>[New] 2024 Approved Win10 Screen Grabbing - Top Quality Captures</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-bridging-photo-realms-on-your-system/"><u>[New] Bridging Photo Realms on Your System</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-empower-your-content-advanced-techniques-in-youtube-editing/"><u>[New] In 2024, Empower Your Content Advanced Techniques in YouTube Editing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-reviving-obs-sound-capture-steps-for-2024/"><u>[New] Reviving OBS Sound Capture Steps for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-ultimate-list-best-video-cameras-s-musical-cinematography/"><u>[New] Ultimate List Best Video Cameras 'S Musical Cinematography</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-comprehensive-list-of-premium-ways-to-access-cricket-live/"><u>[Updated] Comprehensive List of Premium Ways to Access Cricket Live</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-efficient-meeting-management-with-slack-and-filmora-tools/"><u>[Updated] In 2024, Efficient Meeting Management with Slack & Filmora Tools</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-leaders-of-the-digital-age-videoaudio-innovators-index/"><u>[Updated] In 2024, Leaders of the Digital Age Video/Audio Innovators Index</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-streamline-webcam-use-on-modern-devices/"><u>[Updated] In 2024, Streamline Webcam Use on Modern Devices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unboxing-high-fidelity-gaming-recorders/"><u>2024 Approved Unboxing High-Fidelity Gaming Recorders</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-set-sights-on-success-essential-background-music-for-gym-goers/"><u>In 2024, Set Sights on Success Essential Background Music for Gym-Goers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/leading-10-best-list-for-free-video-conferencing-and-desktop-sharing-for-2024/"><u>Leading 10-Best List for FREE Video Conferencing & Desktop Sharing for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/pixelpilot-expert-tips-for-screen-snagging/"><u>PixelPilot Expert Tips for Screen Snagging</u></a></li>
-<li><a href="https://blog-min.techidaily.com/trasforma-i-tuoi-file-m4v-in-mp3-gratuitamente-online-con-convertimovavi/"><u>Trasforma I Tuoi File M4V in MP3 Gratuitamente Online Con ConvertiMovavi</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/voice-transformation-top-7-innovative-mobile-apps/"><u>Voice Transformation Top 7 Innovative Mobile Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-insiders-guide-to-professional-gif-creation/"><u>[New] The Insider's Guide to Professional GIF Creation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-8-undead-adventures-ultimate-zombie-game-guide/"><u>[Updated] 2024 Approved Top 8 Undead Adventures Ultimate Zombie Game Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-disable-auto-record-with-one-click-on-quicktime/"><u>[Updated] Disable Auto-Record with One Click on QuickTime</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-clear-winner-in-screen-recording-software-for-2024/"><u>[Updated] The Clear Winner in Screen Recording Software for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-mastering-slack-and-filmora-scheduling-meetings-flawlessly/"><u>2024 Approved Mastering Slack & Filmora Scheduling Meetings Flawlessly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-down-performance-of-teamgroups-strongest-nvme-ssd-heatsink-the-dark-airflow-i-in-review/"><u>Breaking Down Performance of TeamGroup's Strongest NVMe SSD Heatsink: The Dark AirFlow I in Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/effortless-background-management-for-cohesive-remote-collaborations-for-2024/"><u>Effortless Background Management for Cohesive Remote Collaborations for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-artistry-behind-capturing-evening-light-and-people/"><u>In 2024, The Artistry Behind Capturing Evening Light and People</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-7-best-waterproof-video-recorders/"><u>In 2024, The Ultimate Guide 7 Best Waterproof Video Recorders</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-guide-on-how-to-enable-the-text-to-speech-function-on-iphone/"><u>New 2024 Approved Guide on How to Enable the Text to Speech Function on iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revival-of-deleted-photos-with-ios-175-explained-by-apple-strategies-and-future-tips-tech-analysis/"><u>Revival of Deleted Photos with iOS 17.5 Explained by Apple – Strategies and Future Tips | Tech Analysis</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-beginners-path-to-professional-windows-10-video-production/"><u>The Beginner's Path to Professional Windows 10 Video Production</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-video-requirement-you-can-know-aspect-ratio-included/"><u>Twitter Video Requirement You Can Know [Aspect Ratio Included]</u></a></li>
 </ul></div>
 

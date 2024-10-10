@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Unlock Creative Potential  Strategic Use of Strikethrough\""
-date: 2024-09-30T21:09:43.749Z
-updated: 2024-10-05T00:07:21.335Z
+date: 2024-10-09T05:23:47.357Z
+updated: 2024-10-09T18:00:41.489Z
 tags: 
   - screen-recording
   - ai video
@@ -59,10 +59,10 @@ You can use them to mark a place in the screen recording you're not too happy wi
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
@@ -94,13 +94,6 @@ To add markers, watch your video and find the mistake. Pause the video, then cli
 
 ![add marker from the timeline toolbar](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 2: Access the Modification Option
 
 Filmora lets you adjust your marker settings for your video. Right-click on the marker and select **"Modify Marker"** from the control panel.
@@ -113,6 +106,13 @@ In the Marker Editor window, make relevant changes such as naming the marker, ad
 
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **Method 2: Adding Markers through the Keyboard**
 
 After importing the clip into the timeline and identifying the points of error in your video, place the playhead on these points and press the **"M"** key on your keyboard to add a marker at the chosen timeframes.
@@ -120,10 +120,10 @@ After importing the clip into the timeline and identifying the points of error i
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2\. How to Remove a Marker After Screen Recording**
@@ -132,18 +132,18 @@ Once you have finished editing your mistakes, it's important to remove the marke
 
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, markers are a valuable tool for video recording and editing. They can help editors keep track of important moments, make precise edits, and streamline your workflow. By utilizing markers effectively, you can save time and ensure a more polished final result. Furthermore, you can try to use Wondershare Filmora to incorporate markers into the screen recording and video editing process. It is a great way to enhance the quality and efficiency of your work greatly. So, don't hesitate to start using markers in your video recording and editing projects today with Filmora!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -160,18 +160,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-dissecting-sharex-opinions-and-picks/"><u>[New] In 2024, Dissecting ShareX Opinions & Picks</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-mac-users-guide-to-stellar-tiktok-beginnings/"><u>[New] In 2024, Mac Users' Guide to Stellar TikTok Beginnings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-optimizing-latency-for-real-time-obs-viewing-for-2024/"><u>[New] Optimizing Latency for Real-Time OBS Viewing for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-unlocking-the-power-of-podcast-dialogue-writing-for-2024/"><u>[New] Unlocking the Power of Podcast Dialogue Writing for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-capturing-high-fidelity-games/"><u>[Updated] 2024 Approved Capturing High Fidelity Games</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-fast-footsteps-simple-recording-for-dell-pcs/"><u>[Updated] In 2024, Fast Footsteps Simple Recording for Dell PCs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-time-saving-ways-to-log-vimeo-media/"><u>[Updated] Time-Saving Ways to Log Vimeo Media</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-tips-for-recording-high-quality-mov-video-on-windows-11-for-2024/"><u>[Updated] Tips for Recording High-Quality MOV Video on Windows 11 for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transform-your-devices-tone-swiftly-with-these-leading-chrome-apps/"><u>[Updated] Transform Your Device's Tone Swiftly With These Leading Chrome Apps</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-12-mini-to-mac-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 12 mini to Mac? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/remedying-recurrent-nvidia-driver-errors/"><u>Remedying Recurrent Nvidia Driver Errors</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-5-for-mac-streamline-your-space-with-automated-file-and-folder-removal/"><u>Stellar 5 for Mac - Streamline Your Space with Automated File and Folder Removal!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-redmi-note-12-proplus-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi Redmi Note 12 Pro+ 5G Device</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-prime-emulation-tools-sonys-ps1-classics-at-the-fingertips/"><u>[New] 2024 Approved Prime Emulation Tools Sony's PS1 Classics at the Fingertips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unlocking-captivates-potential-for-video-creation/"><u>[New] In 2024, Unlocking Captivate's Potential for Video Creation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-securing-your-gameplay-on-windows-10-the-5-essentials/"><u>[New] Securing Your Gameplay on Windows 10 The 5 Essentials</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2023how-to-share-videos-on-twitter-on-your-phone-without-retweeting/"><u>[Updated] 2023|How to Share Videos on Twitter on Your Phone Without Retweeting?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-the-art-of-logging-digital-sound-from-computers/"><u>[Updated] 2024 Approved Mastering the Art of Logging Digital Sound From Computers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-five-cozy-seasons-ideal-backgrounds-to-warm-up-videos/"><u>[Updated] In 2024, Five Cozy Seasons Ideal Backgrounds to Warm Up Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-top-strategies-for-box-enthusiasts/"><u>[Updated] The Top Strategies for Box Enthusiasts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-shocking-stats-mind-bending-youtube-visual-facts-17/"><u>2024 Approved Shocking Stats Mind-Bending Youtube Visual Facts ('17)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/compassionate-columbia-fundacion-dannys-support-system/"><u>Compassionate Columbia: Fundacion Danny's Support System</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/effortless-video-segmentation-techniques/"><u>Effortless Video Segmentation Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-captureit-all-the-complete-screen-recorder-hack/"><u>In 2024, CaptureIt All The Complete Screen Recorder Hack</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-realme-narzo-60-pro-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Realme Narzo 60 Pro 5G? Look No Further | Dr.fone</u></a></li>
 </ul></div>
 
