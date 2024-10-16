@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Approach to Mastering the Steam Pro Controller on Switch\""
-date: 2024-10-03T03:47:27.259Z
-updated: 2024-10-10T02:16:25.771Z
+date: 2024-10-11T03:00:56.688Z
+updated: 2024-10-16T10:10:31.777Z
 tags: 
   - screen-recording
   - ai video
@@ -54,13 +54,6 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
 It's also easy, but you need to buy an adapter or have Bluetooth on your computer.
@@ -68,6 +61,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 * Once you have charged the Pro Controller, you can press and hold the Sync button on the top of the controller for a few seconds until the indicator lights begin to flash.
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Right-click the Bluetooth icon in the system tray.
 
@@ -77,16 +77,23 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Once Steam is set up, you can begin using it.
@@ -107,14 +114,14 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -125,13 +132,6 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution1:** The first solution is to use an external Bluetooth adapter that is specifically designed for different types of gamepads. You will find plenty of them out there for switch pro controllers.
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Final Verdict**
 
@@ -154,18 +154,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-rpg-heritage-clashing-with-new-age-designs/"><u>[New] In 2024, RPG Heritage Clashing with New-Age Designs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-asgardian-crusade-final-quest/"><u>[New] In 2024, The Asgardian Crusade Final Quest</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-apowersoft-reviewed-a-guide-to-pc-screen-capture/"><u>[Updated] 2024 Approved Apowersoft Reviewed A Guide to PC Screen Capture</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-perfecting-the-art-of-ppt-video-creation/"><u>[Updated] 2024 Approved Perfecting the Art of PPT Video Creation</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-polaroid-cubeplus-action-camera-review/"><u>[Updated] 2024 Approved Polaroid Cube+ Action Camera Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-prime-pick-the-top-10-video-capture-tools-for-windows/"><u>[Updated] 2024 Approved Prime Pick The Top 10 Video Capture Tools for Windows</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-visionary-footage-advanced-camcapturing-methods/"><u>[Updated] In 2024, Visionary Footage Advanced CamCapturing Methods</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-a1x-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo A1x 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-strategizing-for-success-the-essential-guide-to-online-individuality/"><u>In 2024, Strategizing for Success The Essential Guide to Online Individuality</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-the-battlefield-the-ultimate-guide-to-teamfight-tactics-strategy/"><u>Mastering the Battlefield: The Ultimate Guide to Teamfight Tactics Strategy</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/stay-ahead-adapting-your-approach-for-instagrams-evolved-feed-for-2024/"><u>Stay Ahead Adapting Your Approach for Instagram’s Evolved Feed for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/superior-20-anime-song-intros-for-2024/"><u>Superior 20 Anime Song Intros for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-update-error-0x80242016-solutions-sought/"><u>Windows Update Error: 0X80242016 - Solutions Sought</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-overcoming-common-airdrop-failures-on-ios-and-macos-systems/"><u>[New] 2024 Approved Overcoming Common Airdrop Failures on iOS and macOS Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-easy-ways-to-record-webinar-on-windows-and-mac-for-2024/"><u>[New] Easy Ways to Record Webinar on Windows and Mac for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-conquer-windows-10-a-mov-filming-masterclass/"><u>[New] In 2024, Conquer Windows 10 A MOV Filming Masterclass</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mac-screen-grabber-including-microphone-recording/"><u>[Updated] 2024 Approved Mac Screen Grabber Including Microphone Recording</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-quest-for-your-own-distinctive-stream-tagline/"><u>[Updated] 2024 Approved The Quest for Your Own Distinctive Stream Tagline</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-expert-advice-for-quick-and-effortless-mac-screen-recording-via-keyboard-shortcuts-for-2024/"><u>[Updated] Expert Advice for Quick and Effortless Mac Screen Recording via Keyboard Shortcuts for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-exploring-every-aspect-of-androids-recording-technology-for-2024/"><u>[Updated] Exploring Every Aspect of Android's Recording Technology for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-whats-the-real-distinction-between-youtube-and-dailymention-in-2024/"><u>[Updated] What's the Real Distinction Between YouTube and DailyMention, In 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-cutting-edge-screenrecord-a-compreraniary-examination/"><u>2024 Approved Cutting-Edge ScreenRecord A Compreraniary Examination</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-inconsistent-monitor-behavior/"><u>Overcoming Inconsistent Monitor Behavior</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/premiered-index-of-most-authentic-3ds-emulation-software/"><u>Premiered Index of Most Authentic 3DS Emulation Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/seamless-backdrop-switches-for-google-meet-users/"><u>Seamless Backdrop Switches for Google Meet Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-when-your-computer-freezes-on-the-getting-windows-ready-screen/"><u>Solutions for When Your Computer Freezes On the Getting Windows Ready Screen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-downloading-your-data-from-icloud-backups/"><u>Step-by-Step Guide: Downloading Your Data From iCloud Backups</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-complete-mac-users-guide-to-capturing-roblox-gaming-sessions/"><u>The Complete Mac User's Guide to Capturing Roblox Gaming Sessions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-vpn-providers-comprehensive-evaluations-by-tech-gurus-zdnet/"><u>Top-Rated VPN Providers : Comprehensive Evaluations by Tech Gurus - ZDNet</u></a></li>
 </ul></div>
 

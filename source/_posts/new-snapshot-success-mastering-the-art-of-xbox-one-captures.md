@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Snapshot Success  Mastering the Art of Xbox One Captures\""
-date: 2024-10-05T05:28:11.957Z
-updated: 2024-10-10T02:56:20.306Z
+date: 2024-10-09T22:23:46.182Z
+updated: 2024-10-15T23:39:09.587Z
 tags: 
   - screen-recording
   - ai video
@@ -58,35 +58,35 @@ There is nothing complicated about taking a screenshot of your favorite game on 
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 An increasing number of video games for Xbox One can be played in 4K resolution, but in order to play a game in a 4K resolution, you must have a 4K TV set. Moreover, the 4K and HDR capabilities your TV must be enabled before you start playing an Xbox One game in 4K. Taking a 4K screenshot on Xbox One requires you to adjust the capturing settings.
 
 Press the Xbox button on the controller, and locate the System menu. Select the Settings option from the System menu and then click on the Preferences submenu. Navigate to the Broadcast&Capture option and when the new menu appears on the screen, click on the Game clip resolution and select one of the available 4K settings.
 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Capture Screenshots on Xbox One Using Voice Commands
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
 
 You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cortana motion sensor. However, in order to be able to issue voice commands, you must first activate this option. Head over to the Xbox One's Settings menu and locate the All Settings option. Click on System and switch on the AI Companion feature.
 
 It is important to say the command clearly so the AI can understand what you are trying to do, and for that reason, you should try to avoid capturing screenshots or recording videos via voice commands in noisy rooms.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Manage and Share Screenshots on Xbox One?
 
@@ -99,10 +99,10 @@ The console you're using features the Upload app, so in order to access it, you 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot-share.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2. Manage and Share Xbox Screenshots via Windows 10 PC
@@ -120,10 +120,10 @@ What is your favorite method of taking screenshots on Xbox One? We're anxious to
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -141,20 +141,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-optimizing-latency-for-real-time-obs-viewing/"><u>[New] 2024 Approved Optimizing Latency for Real-Time OBS Viewing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-discovering-the-best-screen-recorder-obs-studio-vs-fraps-for-2024/"><u>[New] Discovering the Best Screen Recorder OBS Studio Vs Fraps for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-revolutionizing-your-phones-storage-space-with-these-47-effective-video-trimmers/"><u>[New] Revolutionizing Your Phone's Storage Space with These 47 Effective Video Trimmers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-easiest-path-to-personalizing-your-pubg-characters-speech/"><u>[New] The Easiest Path to Personalizing Your PUBG Character’s Speech</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-top-5-cameras-for-professional-grade-twitch-broadcasting/"><u>[New] The Top 5 Cameras for Professional-Grade Twitch Broadcasting</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mac-audio-sync-for-screen-captures/"><u>[Updated] 2024 Approved Mac Audio Sync for Screen Captures</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unrivaled-windows-video-calls-top-8-apps/"><u>[Updated] 2024 Approved Unrivaled Windows Video Calls Top 8 Apps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-cost-effective-premium-screen-capture-software-for-chromebook-for-2024/"><u>[Updated] Cost-Effective Premium Screen Capture Software for Chromebook for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-depth-review-screenflow-full-package-for-mac-for-2024/"><u>[Updated] In-Depth Review ScreenFlow Full Package for Mac for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-game-crafting-a-pro-gaming-channels-success-story-for-2024/"><u>Ace the Game Crafting a Pro Gaming Channels Success Story for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-5-lite-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 5 Lite in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/how-to-know-if-someone-blocked-you-on-snapchat/"><u>How to Know if Someone Blocked You on Snapchat</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-gamble-for-peace-10-chill-out-choices/"><u>In 2024, Gamble for Peace 10 Chill-Out Choices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-m34-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy M34 5G Phone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/radiate-on-screen-quicker-ways-to-brighten-iphone-media-for-2024/"><u>Radiate on Screen Quicker Ways to Brighten iPhone Media for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-high-performance-video-calls-a-curated-ranking-of-top-10-apps/"><u>[New] 2024 Approved High-Performance Video Calls A Curated Ranking of Top 10 Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-leveraging-snap-camera-for-better-online-interaction-on-google-meet/"><u>[New] 2024 Approved Leveraging Snap Camera for Better Online Interaction on Google Meet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-optimal-obs-configurations-for-thrifty-computers/"><u>[New] 2024 Approved Optimal OBS Configurations for Thrifty Computers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-twilight-tactics-a-complete-guide-to-nighttime-photography-for-2024/"><u>[New] Twilight Tactics A Complete Guide to Nighttime Photography for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-best-value-video-meeting-applications-compatible-with-both-windowsmac/"><u>[Updated] 2024 Approved Best Value Video Meeting Applications Compatible with Both Windows/MAC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exquisite-visual-enhancement-implementing-filters-on-videos-pc-and-mobile/"><u>[Updated] Exquisite Visual Enhancement Implementing Filters on Videos (PC & Mobile)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-prime-choice-top-ps3-emulators-pc-users-for-2024/"><u>[Updated] The Prime Choice Top PS3 Emulators PC Users for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-transforming-audio-content-structuring-your-rss-feed-for-2024/"><u>[Updated] Transforming Audio Content Structuring Your RSS Feed for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-taking-your-photos-and-videos-to-new-heights/"><u>2024 Approved Taking Your Photos and Videos to New Heights</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-blues-no-more-mastering-the-art-of-correcting-stop-error-with-code-0x000000f4/"><u>Blue Screen Blues No More: Mastering the Art of Correcting STOP Error with Code 0X000000F4</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ete-annihilation-of-youtube-shorts-accessibility/"><u>Complete Annihilation of YouTube Shorts Accessibility</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-tecno-phantom-v-fold-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Tecno Phantom V Fold Devices | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/guaranteed-functionality-comprehensive-guide-to-installing-wacom-intuos-tablet-drivers-on-windows/"><u>Guaranteed Functionality: Comprehensive Guide to Installing Wacom Intuos Tablet Drivers on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-motorola-moto-g73-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Motorola Moto G73 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/tips-for-smooth-screen-sync-in-google-meet-for-2024/"><u>Tips for Smooth Screen Sync in Google Meet for 2024</u></a></li>
 </ul></div>
 
