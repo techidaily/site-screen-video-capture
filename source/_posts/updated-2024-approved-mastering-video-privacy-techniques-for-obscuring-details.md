@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Mastering Video Privacy  Techniques for Obscuring Details\""
-date: 2024-08-17T10:24:10.880Z
-updated: 2024-08-18T10:24:10.880Z
+date: 2024-10-21T09:43:14.956Z
+updated: 2024-10-21T22:37:33.496Z
 tags: 
   - screen-recording
   - ai video
@@ -68,6 +68,13 @@ Recording voice-over during the recording session, adding markers, or using HotK
 
 ![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
 The Annotations tab lets you add captions, overlays, speech bubbles, and, most importantly, blur effects. The **Mosaic, Linear, Vertical, Horizontal** **, Horizontal Mix, and Vertical Mix** **blur** options are available to users who want to protect sensitive info in their screen recordings. Let's have a look at how you can protect the privacy of the information in your screen recordings by blurring them in Filmora Scrn.
@@ -80,17 +87,41 @@ The original frame is shown below, and I want to blur and hide these two sensiti
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-examples.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After I applied the Horizontal Mix blur and the Vertical Mix blur to these two pictures, below is what I got:
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-mix-effects-filmora-scrn.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
 
 Hiding the identity of the people in your videos and concealing private information like bank account or telephone numbers is advised if you want to avoid any chance of misuse of these data.
@@ -99,9 +130,6 @@ Hiding the identity of the people in your videos and concealing private informat
 
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
 Filmora Scrn's video editor supports most video file formats, including AVI, MP4, or MOV files. If you want to add blur effects to videos that weren't captured with Filmora Scrn, click on the Add Files icon in the editor's Media Bin, find the video file you'd like to work on and click Open. The file you imported will be displayed in the Media Bin, so to start editing it, drag and drop it to the timeline.
@@ -116,9 +144,6 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
 Next to the Transform icon, you'll be able to see the Annotations icon, click on it and proceed to adjust the blur Intensity and Opacity features. You should repeat this process as many times as necessary until all the sensitive information in your video clip is blurred.
@@ -131,16 +156,11 @@ Ok, that's it. Hope you have hidden and blurred the private info in your recorde
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -148,3 +168,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-android-no-cost-video-capture-tool/"><u>[New] 2024 Approved Android No-Cost Video Capture Tool</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-choreographed-battle-top-5-martial-arts-video-game-list/"><u>[New] 2024 Approved Choreographed Battle Top 5 Martial Arts Video Game List</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-key-strategies-to-craft-persuasive-testimonials-that-resonate/"><u>[New] 2024 Approved Key Strategies to Craft Persuasive Testimonials That Resonate</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-from-crafting-to-screen-sharing-comprehensive-windows-pc-manual-for-tv-recording-for-2024/"><u>[New] From Crafting to Screen-Sharing Comprehensive Windows PC Manual for TV Recording for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-expertly-ranked-online-capturing-software/"><u>[New] In 2024, Expertly Ranked Online Capturing Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastery-of-geometric-design-in-minecraft-creating-circle-and-sphere-art/"><u>[New] In 2024, Mastery of Geometric Design in Minecraft Creating Circle & Sphere Art</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-virtual-questland-the-ultimate-guide-to-no-cost-mmorpgs/"><u>[New] In 2024, Virtual Questland The Ultimate Guide to No-Cost MMORPGs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-pixelpress-mastering-the-art-of-screen-recording/"><u>[Updated] In 2024, 'PixelPress' Mastering the Art of Screen Recording</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-clear-path-to-crisp-videography-on-a-gopro-for-2024/"><u>[Updated] The Clear Path to Crisp Videography on a GoPro for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-affordable-recorders-roundup-best-games-software/"><u>2024 Approved Affordable Recorders' Roundup Best Games Software</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-running-windows-11-on-ineligible-cpus-a-comprehensive-tutorial/"><u>Guide to Running Windows 11 on Ineligible CPUs - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-jaunt-vr-landscape/"><u>In 2024, Navigating the Jaunt VR Landscape</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-pipe-worlds-a-selection-of-the-superior-six-mario-games-on-pc/"><u>Navigating the Pipe Worlds: A Selection of the Superior Six Mario Games on PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/techkey-bluetooth-adapter-driver-download-windows-10-7-8/"><u>Techkey Bluetooth Adapter Driver Download - Windows 10, 7, 8</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/time-saving-tactics-for-saving-google-voice-speeches/"><u>Time-Saving Tactics for Saving Google Voice Speeches</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-12-mini-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone 12 mini</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitter-connect-optimizing-your-tiktok-content-for-2024/"><u>Twitter Connect Optimizing Your TikTok Content for 2024</u></a></li>
+</ul></div>
+

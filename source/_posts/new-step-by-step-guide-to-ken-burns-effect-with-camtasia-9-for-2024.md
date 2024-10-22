@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to Ken Burns Effect with Camtasia 9 for 2024\""
-date: 2024-08-17T10:23:58.995Z
-updated: 2024-08-18T10:23:58.995Z
+date: 2024-10-20T21:16:56.082Z
+updated: 2024-10-21T16:32:41.814Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,19 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +67,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +99,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,7 +118,21 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-take-full-page-screen-images/"><u>[New] 2024 Approved Take Full-Page Screen Images</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-intro-magic-crafting-irresistible-podcast-openers/"><u>[New] Intro Magic Crafting Irresistible Podcast Openers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-pioneering-techniques-in-youtube-video-recording/"><u>[Updated] In 2024, Pioneering Techniques in YouTube Video Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-the-art-of-recording-top-roblox-gameplay-preservation-on-a-mac/"><u>[Updated] Mastering the Art of Recording Top Roblox Gameplay Preservation on a Mac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/audiences-choice-for-best-action-capture-tools-for-2024/"><u>Audience's Choice for Best Action Capture Tools for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-moments-with-the-best-5-photo-and-video-apps-for-iphonesandroid-for-2024/"><u>Capturing Moments with the Best 5 Photo & Video Apps for iPhones/Android for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-collaboration-in-microsoft-teams-through-copilot-integration-techniques/"><u>Effortless Collaboration in Microsoft Teams Through Copilot Integration Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/epic-game-viewing-spots-1-9/"><u>Epic Game Viewing Spots #1-#9</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-improve-gaming-performance-on-windows-11/"><u>How to Improve Gaming Performance on Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-unlocking-screen-record-features-in-hp-computers/"><u>In 2024, Unlocking Screen Record Features in HP Computers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/premium-sound-quality-best-of-the-best-9-mic-recording-tools-2e/"><u>Premium Sound Quality Best of the Best 9 Mic Recording Tools (2E)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-wireless-network-adapters-usb/"><u>Top Rated Wireless Network Adapters (USB)</u></a></li>
+</ul></div>
+

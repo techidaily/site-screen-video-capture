@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick Tips  How to Record and Keep a Transcript of Your Google Voice Calls\""
-date: 2024-08-17T10:24:20.451Z
-updated: 2024-08-18T10:24:20.451Z
+date: 2024-10-20T09:30:59.668Z
+updated: 2024-10-21T22:17:34.570Z
 tags: 
   - screen-recording
   - ai video
@@ -61,7 +61,21 @@ If you are using a Google Pixel smartphone, you can Google Voice Recorder app wh
 
 ![step4](https://images.wondershare.com/filmora/article-images/step4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 All these steps are equally applicable on Android as well as iOS version of Google Voice.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How To Record Google Voice Call On Computer?
 
@@ -73,29 +87,26 @@ Step 1: Download and install Wondershare Filmora on your computer. It is availab
 
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 2: From Recording window, set the video recording screen dimensions. Set the speaker and external microphone perfectly.
 
 ![set](https://images.wondershare.com/filmora/article-images/set.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Step 3: Click on Record button to start recording.
 
 ![click on record button](https://images.wondershare.com/filmora/article-images/click-on-record-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Step 4: Click on Stop button to stop recording when the call ends.
 
 Step 5: You can export the recorded Google Voice call with video in order to save on your computer.
 
 ![export](https://images.wondershare.com/filmora/article-images/export.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -117,9 +128,6 @@ Step 1: Tap on three-line icon on the top-left corner.
 
 ![step1](https://images.wondershare.com/filmora/article-images/step1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Step 2: Select Settings option from the drop-down menu.
 
 ![step2](https://images.wondershare.com/filmora/article-images/step2.jpg)
@@ -128,9 +136,6 @@ Step 3: Go to Calls section and turn on “Incoming Calls Options”.
 
 ![step3](https://images.wondershare.com/filmora/article-images/step3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 Step 4: On Google Voice app, make a call and bring up the keypad. Press 4 and the recording will start. Please note that the other person will get an alert that the call is on recording mode.
 
 Step 5: To stop Google Voice call recording, press 4 again. The recording will stop and it will be saved. The other person will get an alert that the call recording has stopped.
@@ -167,9 +172,6 @@ Step 5: You can export the recorded Google Voice call with video in order to sav
 
 ![export](https://images.wondershare.com/filmora/article-images/export.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
@@ -194,16 +196,10 @@ Step 2: Select Settings option from the drop-down menu.
 
 ![step2](https://images.wondershare.com/filmora/article-images/step2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 Step 3: Go to Calls section and turn on “Incoming Calls Options”.
 
 ![step3](https://images.wondershare.com/filmora/article-images/step3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 Step 4: On Google Voice app, make a call and bring up the keypad. Press 4 and the recording will start. Please note that the other person will get an alert that the call is on recording mode.
 
 Step 5: To stop Google Voice call recording, press 4 again. The recording will stop and it will be saved. The other person will get an alert that the call recording has stopped.
@@ -226,13 +222,17 @@ Step 1: Download and install Wondershare Filmora on your computer. It is availab
 
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: From Recording window, set the video recording screen dimensions. Set the speaker and external microphone perfectly.
 
 ![set](https://images.wondershare.com/filmora/article-images/set.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 Step 3: Click on Record button to start recording.
 
 ![click on record button](https://images.wondershare.com/filmora/article-images/click-on-record-button.jpg)
@@ -243,10 +243,6 @@ Step 5: You can export the recorded Google Voice call with video in order to sav
 
 ![export](https://images.wondershare.com/filmora/article-images/export.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
@@ -256,8 +252,12 @@ For Win 7 or later (64-bit)
 For macOS 10.12 or later
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We have illustrated to turn on the recording option on Google Voice and how to record Google voice calls easily on your smartphone. You can follow the same steps to record Google Voice calls from your computer. If you want to record Google Voice calls without the other person knowing, you can use Wondershare Filmora on your computer.
@@ -270,32 +270,27 @@ Step 1: Tap on three-line icon on the top-left corner.
 
 ![step1](https://images.wondershare.com/filmora/article-images/step1.jpg)
 
+Step 2: Select Settings option from the drop-down menu.
+
+![step2](https://images.wondershare.com/filmora/article-images/step2.jpg)
+
+Step 3: Go to Calls section and turn on “Incoming Calls Options”.
+
+![step3](https://images.wondershare.com/filmora/article-images/step3.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-Step 2: Select Settings option from the drop-down menu.
 
-![step2](https://images.wondershare.com/filmora/article-images/step2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
-Step 3: Go to Calls section and turn on “Incoming Calls Options”.
-
-![step3](https://images.wondershare.com/filmora/article-images/step3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 4: On Google Voice app, make a call and bring up the keypad. Press 4 and the recording will start. Please note that the other person will get an alert that the call is on recording mode.
 
 Step 5: To stop Google Voice call recording, press 4 again. The recording will stop and it will be saved. The other person will get an alert that the call recording has stopped.
@@ -319,8 +314,18 @@ Step 1: Download and install Wondershare Filmora on your computer. It is availab
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 2: From Recording window, set the video recording screen dimensions. Set the speaker and external microphone perfectly.
 
 ![set](https://images.wondershare.com/filmora/article-images/set.jpg)
@@ -329,15 +334,19 @@ Step 3: Click on Record button to start recording.
 
 ![click on record button](https://images.wondershare.com/filmora/article-images/click-on-record-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Click on Stop button to stop recording when the call ends.
 
 Step 5: You can export the recorded Google Voice call with video in order to save on your computer.
 
 ![export](https://images.wondershare.com/filmora/article-images/export.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
@@ -346,9 +355,6 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 We have illustrated to turn on the recording option on Google Voice and how to record Google voice calls easily on your smartphone. You can follow the same steps to record Google Voice calls from your computer. If you want to record Google Voice calls without the other person knowing, you can use Wondershare Filmora on your computer.
@@ -375,4 +381,22 @@ We have illustrated to turn on the recording option on Google Voice and how to r
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-proven-strategies-for-saving-your-digital-discussions-google-meets-for-2024/"><u>[New] Proven Strategies for Saving Your Digital Discussions (Google Meets) for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-securecam-covers-top-10-picks-for-peace-of-mind/"><u>[New] SecureCam Covers Top 10 Picks for Peace of Mind</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-streamline-your-pc-screens-free-app/"><u>[New] Streamline Your PC Screens, Free App</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-freeze-whole-website-panel/"><u>[Updated] 2024 Approved Freeze Whole Website Panel</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-list-of-the-best-8-sites-for-free-3d-text-psd-downloads/"><u>[Updated] A List of the Best 8 Sites for Free 3D Text PSD Downloads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-mobile-mastery-an-exhaustive-look-at-androids-lightroom/"><u>[Updated] In 2024, Mobile Mastery An Exhaustive Look at Android’s Lightroom</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-substitutes-for-winmovie-new-windows-editors/"><u>[Updated] Substitutes for WinMovie New Windows Editors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-video-capturing-duel-obs-challenges-shadowgl/"><u>[Updated] Video Capturing Duel OBS Challenges ShadowGL</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-million-token-breakthrough-in-geminis-saga/"><u>$1 Million Token Breakthrough in Gemini's Saga</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-insiders-look-at-advanced-streamlabs-obs-techniques/"><u>2024 Approved Insider's Look at Advanced Streamlabs OBS Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-speaking-to-sending-seamless-voice-message-functionality-for-iphone-users/"><u>From Speaking to Sending: Seamless Voice Message Functionality for iPhone Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guida-digitali-professionalisti-di-supporto-tecnico-online-su-winx-dvd-ripper-ed-elettronica-video-intelligente-winxvideo/"><u>Guida Digitali Professionalisti Di Supporto Tecnico Online Su WinX DVD Ripper Ed Elettronica Video Intelligente Winxvideo.</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-realme-12-proplus-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Realme 12 Pro+ 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-is-vidma-the-ultimate-screen-recording-tool/"><u>In 2024, Is Vidma the Ultimate Screen Recording Tool?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-the-draw-a-critical-review-of-huions-inspiroy-g1pert-panel-where-artistry-meets-exceptional-durability/"><u>Mastering the Draw: A Critical Review of Huion's Inspiroy G1pert Panel, Where Artistry Meets Exceptional Durability</u></a></li>
+</ul></div>
 

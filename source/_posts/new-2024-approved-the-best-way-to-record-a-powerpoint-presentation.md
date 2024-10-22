@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Best Way to Record a PowerPoint Presentation\""
-date: 2024-08-17T10:21:52.601Z
-updated: 2024-08-18T10:21:52.601Z
+date: 2024-10-18T18:58:33.064Z
+updated: 2024-10-22T00:19:17.513Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,13 @@ But after they are delivered, what happens to all of those PowerPoint slides? De
 
 In most cases, PowerPoint slides on their own, without the corresponding presentation — are incomplete and don’t do the best job of communicating the concepts from the actual presentation. Those ahead of the curve should be to share and archive recordings of their full presentations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part II. How to record a PowerPoint presentation with video and audio
 
 You can record a presentation in real-time as you present, or do it in advance to leverage the flipped model or make your presentation available on-demand.
@@ -69,6 +76,13 @@ The image below shows how your screen will look when your presentation is ready.
 You can record video, audio, or just your slide show directly within the Microsoft PowerPoint program. After you’ve opened PowerPoint, select “Recording” from the top navigation bar. This will open a new navigation bar with “Record Slide Show” and “Screen Recording” options.
 
 ![select your audio and video sources](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you just want to record your slideshow without adding audio or video, you would select “Record Slide Show”. Choosing “Screen Recording” will let you capture your slideshow while at the same time recording audio from your computer and any video on your computer screen.
 
@@ -148,9 +162,6 @@ You don't need to have any prior knowledge to complete the settings in the next 
 
 ![start recording the powerpoint presentation with audio](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step3 Edit Your Presentation Video
 
 From video catching to video altering, this product from Wondershare is the hub of vital and significant editing features you would require in your video project as per your expectations. The Wondershare Filmora video editor contains a ton of built-in tools that may be used in video projects, and it works well with simple frameworks.
@@ -158,8 +169,12 @@ From video catching to video altering, this product from Wondershare is the hub 
 ![edit your presentation video](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##### Step4 Exporting the Video
 
 After finishing the informational video's creation and editing, you may now save it for social media sharing. Filmora enables embedded sharing platforms like YouTube on the go. The file can be saved in the format as; MP4, WMV, AVI, MOV, GIF, or MP3.
@@ -169,25 +184,37 @@ After finishing the informational video's creation and editing, you may now save
 [You can watch it here to have a detailed understanding of how to use Filmora to record presentations with audio and video](https://www.youtube.com/watch?v=mV9u%5FGO3HDw).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Frequently Asked Questions
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Is the PowerPoint recording function only supported on desktops?
 
 No, you can also record PowerPoint presentations on smartphones, iPad, Macs, and tablets. The only difference between any of the aforementioned devices and a PPT presentation recording is perhaps in the convenience of recording and video quality.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How can I record PPT as video on an iPad or smartphone?
 
 For Android phones: follow the steps below:
@@ -197,6 +224,13 @@ For Android phones: follow the steps below:
    * QuickOffice Pro (Free Google App with Google Drive Support)
    * Presentations Mobile (For Viewing PowerPoint Presentations with Animations)
 2. **_Launch Presentation Slide Show And Screen Recording App_** – in this next step, open a screen recording software for Android and play your presentation in slideshow mode. Try any screen recording app which supports recording screencasts on both rooted and unrooted Android smartphones to capture your video presentation. Since the majority of Android screen recording apps require root access, this software is especially helpful for those who have unrooted devices.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -284,6 +318,13 @@ From video catching to video altering, this product from Wondershare is the hub 
 
 ![edit your presentation video](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Exporting the Video
 
 After finishing the informational video's creation and editing, you may now save it for social media sharing. Filmora enables embedded sharing platforms like YouTube on the go. The file can be saved in the format as; MP4, WMV, AVI, MOV, GIF, or MP3.
@@ -291,22 +332,20 @@ After finishing the informational video's creation and editing, you may now save
 ![exporting the video](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [You can watch it here to have a detailed understanding of how to use Filmora to record presentations with audio and video](https://www.youtube.com/watch?v=mV9u%5FGO3HDw).
 
 ## Frequently Asked Questions
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Is the PowerPoint recording function only supported on desktops?
 
 No, you can also record PowerPoint presentations on smartphones, iPad, Macs, and tablets. The only difference between any of the aforementioned devices and a PPT presentation recording is perhaps in the convenience of recording and video quality.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How can I record PPT as video on an iPad or smartphone?
 
 For Android phones: follow the steps below:
@@ -347,4 +386,22 @@ Directly recording a PowerPoint presentation is simple, although not all program
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-compreeved-tips-on-using-vlcs-video-tools/"><u>[New] Compreeved Tips on Using VLC's Video Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-efficient-recording-capture-your-dell-display-swiftly/"><u>[New] In 2024, Efficient Recording Capture Your Dell Display Swiftly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-accessing-global-hitters-the-1-6-short-video-downloaders-for-2024/"><u>[Updated] Accessing Global Hitters The #1-#6 Short Video Downloaders for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-capture-the-moment-smartphone-snapchat-recording-101/"><u>[Updated] Capture the Moment Smartphone Snapchat Recording 101</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-explore-nature-on-android-best-animal-simulation-games/"><u>[Updated] Explore Nature on Android Best Animal Simulation Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-pro-tips-acquiring-clip-art-without-cost/"><u>[Updated] Pro Tips Acquiring Clip-Art Without Cost</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-storage-galore-selecting-top-ps5-hddsssds/"><u>[Updated] Storage Galore Selecting Top PS5 HDDs/SSDs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-top-7-strategies-for-delicious-food-vids/"><u>[Updated] Top 7 Strategies for Delicious Food Vids</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-zoom-into-adventure-five-gameplay-advantages-for-minecrafters/"><u>[Updated] Zoom Into Adventure Five Gameplay Advantages for Minecrafters</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-expert-shortcuts-for-savvy-screen-capture-on-your-pc/"><u>2024 Approved Expert Shortcuts for Savvy Screen Capture on Your PC</u></a></li>
+<li><a href="https://win-best.techidaily.com/configuring-auto-save-during-shutdown-on-windows-10-8-and-windows-7-systems/"><u>Configuring Auto-Save During Shutdown on Windows 10, 8 and Windows 7 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-division-2-not-launching-2024-tips/"><u>How to Fix Division 2 Not Launching – 2024 Tips</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-bring-your-ideas-to-life-top-hand-drawn-whiteboard-animation-makers/"><u>In 2024, Bring Your Ideas to Life Top Hand-Drawn Whiteboard Animation Makers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-switching-mac-screenshot-types-easily/"><u>In 2024, Switching Mac Screenshot Types Easily</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/optimal-pc-mac-screen-recording-software/"><u>Optimal PC-Mac Screen Recording Software</u></a></li>
+</ul></div>
 
