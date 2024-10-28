@@ -1,7 +1,7 @@
 ---
 title: "[New] Master the Art of Mac Screen Record via Shortcuts"
-date: 2024-10-15T05:35:59.577Z
-updated: 2024-10-15T23:46:19.933Z
+date: 2024-10-25T19:14:46.845Z
+updated: 2024-10-27T22:20:27.827Z
 tags: 
   - screen-recording
   - ai video
@@ -46,10 +46,10 @@ Pick whether you need to "Record Entire Screen" or "Record Selected Portion." If
 ![select recording mode mac](https://images.wondershare.com/filmora/article-images/select-recording-mode-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3: Start Recording**
@@ -58,13 +58,6 @@ Whenever you've chosen the choices you need, it's an ideal opportunity to record
 
 ![record screen with shortcut mac](https://images.wondershare.com/filmora/article-images/record-screen-with-shortcut-on-mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4: End the Recording**
 
 To stop the recording, click on the little square stop button in the upper right corner of the menu bar from the highest point of your screen. You can likewise hit Command, control, ESC to quit recording. Or on the other hand, hit Command, shift, 5 and the screen capture bar will return with a stop button you can click. Or on the other hand, assuming that you have a Touch Bar, you'll see a stop button in the upper left. When you quit recording, you'll momentarily see a thumbnail of the video in the lower-right corner of your screen. Assuming you swipe the thumbnail to one side or sit idle, your recording will consequently save as a MOV format in the directory you've set.
@@ -72,10 +65,17 @@ To stop the recording, click on the little square stop button in the upper right
 ![stop mac shortcut recording](https://images.wondershare.com/filmora/article-images/stop-shortcut-recording-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. Alternative Software to Record Screen on Mac
@@ -107,10 +107,10 @@ From that recorder interface, click on the record button and select the Record P
 ![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3: Start Recording**
@@ -138,20 +138,14 @@ Part 2. [Alternative Software to Record Screen on Mac](#part2)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-capture-phone-gaming-moments-on-samsung-devices/"><u>[New] 2024 Approved Capture Phone Gaming Moments on Samsung Devices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-de-jelling-drone-mobility-captures/"><u>[New] 2024 Approved De-Jelling Drone Mobility Captures</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-screencastify-a-comprehensive-recording-how-to/"><u>[New] 2024 Approved Screencastify A Comprehensive Recording How-To</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-elevate-skype-call-audio-excellence-for-2024/"><u>[New] Elevate Skype Call Audio Excellence for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-horizontal-vs-vertical-deciding-the-right-face-for-vids-for-2024/"><u>[New] Horizontal Vs. Vertical - Deciding the Right Face for Vids for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-navigating-through-quantum-hdr-expertise/"><u>[Updated] 2024 Approved Navigating Through Quantum HDR Expertise</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-stepwise-instructions-enabling-or-disabling-youtubes-pip-mode/"><u>2024 Approved Stepwise Instructions Enabling or Disabling YouTube's PIP Mode</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-14-pro-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-action-sequels-the-best-games-like-grand-theft-auto/"><u>In 2024, Action Sequels The Best Games Like Grand Theft Auto</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-hottest-youtube-music-playback-responses-23/"><u>In 2024, Hottest YouTube Music Playback Responses '23</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-screenrec-demystified-a-comprehensible-guide-for-laptops/"><u>In 2024, ScreenRec Demystified A Comprehensible Guide for Laptops</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/mastery-through-snips-unveiling-macs-top-5-tools-for-2024/"><u>Mastery Through Snips Unveiling Mac's Top 5 Tools for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-10-essential-webcam-recording-tools-for-windows-10/"><u>New 10 Essential Webcam Recording Tools for Windows 10</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/seamless-screens-and-cameras-recording-methods/"><u>Seamless Screens & Cameras Recording Methods</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-battle-tested-selecting-the-supreme-7-fps/"><u>[New] In 2024, Battle Tested Selecting the Supreme 7 FPS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-secure-your-facetime-discussions-with-screen-record/"><u>[Updated] In 2024, Secure Your FaceTime Discussions with Screen Record</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/five-essential-tips-for-preventing-constant-crashes-on-beat-saber/"><u>Five Essential Tips for Preventing Constant Crashes on Beat Saber</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-back-in-the-game-fixes-when-multiversus-wont-open-on-your-computer/"><u>Get Back in the Game: Fixes When MultiVersus Won't Open on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/hear-the-answer-why-laptops-dont-see-headsets/"><u>Hear the Answer: Why Laptops Don't See Headsets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/high-fidelity-streaming-archiving-a-practical-approach-for-2024/"><u>High-Fidelity Streaming Archiving A Practical Approach for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-diy-iphone-7-screen-recording-techniques/"><u>In 2024, DIY IPhone 7 Screen Recording Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-review-of-protonvpn-by-zdnet-exceptional-vpn-service-with-superior-data-breach-prevention-capabilities/"><u>In-Depth Review of ProtonVPN by ZDNet: Exceptional VPN Service with Superior Data Breach Prevention Capabilities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-15-best-no-cost-uninstallers-your-ultimate-guide/"><u>Top 15 Best No-Cost Uninstallers: Your Ultimate Guide</u></a></li>
 </ul></div>
 

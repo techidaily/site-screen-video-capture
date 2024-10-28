@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Unlock Creative Potential  Strategic Use of Strikethrough\""
-date: 2024-10-16T16:12:36.784Z
-updated: 2024-10-21T21:01:08.423Z
+date: 2024-10-21T22:59:41.848Z
+updated: 2024-10-28T01:56:14.276Z
 tags: 
   - screen-recording
   - ai video
@@ -58,9 +58,23 @@ You can use them to mark a place in the screen recording you're not too happy wi
 
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
 
 This type of marker is immensely useful if you want to organize the timeline in your project better and to know exactly where every clip you want to use in your video is located at all times. Besides being a highly efficient tool for organizing vast amounts of footage, timeline markers can also help you denote the beats in the audio file and then sync the video clip perfectly to the beat of the tune you're using as a soundtrack to your video.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add Markers During Video Editing and After Screen Recording in Filmora?
 
@@ -74,13 +88,6 @@ For macOS 10.12 or later
 
 * [1\. How to Add a Marker During Video Editing](#filmora1)
 * [2\. How to Remove a Marker After Screen Recording](#filmora2)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. How to Add a Marker During Video Editing
 
@@ -106,11 +113,25 @@ In the Marker Editor window, make relevant changes such as naming the marker, ad
 
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **Method 2: Adding Markers through the Keyboard**
 
 After importing the clip into the timeline and identifying the points of error in your video, place the playhead on these points and press the **"M"** key on your keyboard to add a marker at the chosen timeframes.
 
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **2\. How to Remove a Marker After Screen Recording**
 
@@ -118,32 +139,11 @@ Once you have finished editing your mistakes, it's important to remove the marke
 
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In conclusion, markers are a valuable tool for video recording and editing. They can help editors keep track of important moments, make precise edits, and streamline your workflow. By utilizing markers effectively, you can save time and ensure a more polished final result. Furthermore, you can try to use Wondershare Filmora to incorporate markers into the screen recording and video editing process. It is a great way to enhance the quality and efficiency of your work greatly. So, don't hesitate to start using markers in your video recording and editing projects today with Filmora!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -160,22 +160,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-easy-photo-progression-on-instagram/"><u>[New] 2024 Approved Easy Photo Progression on Instagram</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-tailored-approach-boosting-fans-via-page-ranking/"><u>[New] 2024 Approved Tailored Approach Boosting Fans via Page Ranking</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-best-ways-to-record-and-save-itunes-videos/"><u>[Updated] 2024 Approved Best Ways to Record and Save iTunes Videos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-definitive-explanation-of-online-storytelling/"><u>[Updated] 2024 Approved Definitive Explanation of Online Storytelling</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-comprehensive-list-of-vimeo-downloader-utilities/"><u>[Updated] In 2024, Comprehensive List of Vimeo Downloader Utilities</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-gratis-emulation-software-for-nintendo-switch/"><u>[Updated] In 2024, Gratis Emulation Software for Nintendo Switch</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-harnessing-the-power-of-ps4-capture-for-gamers-everywhere/"><u>[Updated] In 2024, Harnessing the Power of PS4 Capture for Gamers Everywhere</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultimate-screenrecorder-comprehensive-step-by-step-guide/"><u>[Updated] In 2024, Ultimate ScreenRecorder Comprehensive, Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unlocking-hidden-recommendations-on-social-media/"><u>[Updated] In 2024, Unlocking Hidden Recommendations on Social Media</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-window-communication-apps-5-1-top-8-list-for-2024/"><u>[Updated] Window Communication Apps #5-#1 Top 8 List for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-google-meet-screen-record-tips-for-iphoneandroid-users/"><u>2024 Approved Google Meet Screen Record Tips for iPhone/Android Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-transform-speeches-into-animated-videos/"><u>2024 Approved Transform Speeches Into Animated Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/i5-vs-i7-comparatif-quel-processeur-domine-pour-les-amateurs-de-jeu-video/"><u>I5 vs I7 Comparatif : Quel Processeur Domine Pour Les Amateurs De Jeu Vidéo?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/innovative-ways-converting-printed-documents-into-digital-format-with-ease/"><u>Innovative Ways: Converting Printed Documents Into Digital Format with Ease</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/navigating-through-vlcs-recording-options-for-2024/"><u>Navigating Through VLC's Recording Options for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/peak-performance-pcs-top-rated-screen-capture-tools-reviewed/"><u>Peak Performance PCs Top-Rated Screen Capture Tools Reviewed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/startech-usb-to-vga-adapter-drivers-immediate-download-available/"><u>StarTech USB to VGA Adapter Drivers - Immediate Download Available</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-master-your-screen-time-top-10-in-depth-guide-to-excellent-offline-ios-gaming/"><u>[New] 2024 Approved Master Your Screen Time - Top 10 In-Depth Guide to Excellent Offline iOS Gaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-drivers-delight-5-top-race-games/"><u>[New] Ultimate Driver's Delight 5 Top Race Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-leading-tools-to-elevate-webcam-video-quality/"><u>[Updated] Leading Tools to Elevate Webcam Video Quality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-smiles-and-snickers-7-hilarious-video-concepts-for-content-creators/"><u>[Updated] Smiles & Snickers 7 Hilarious Video Concepts for Content Creators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unveiling-the-finest-4-sites-for-tones-for-2024/"><u>[Updated] Unveiling the Finest 4 Sites for Tones for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-valhallas-last-stand-gods-at-war/"><u>[Updated] Valhalla's Last Stand Gods at War</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2023s-ultimate-capture-software-revisited-for-2024/"><u>2023'S Ultimate Capture Software Revisited for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-10-tips-to-make-your-youtube-shorts-channels-stand-out/"><u>2024 Approved 10 Tips to Make Your YouTube Shorts Channels Stand Out</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-usb-30-devices-working-with-the-right-windows-drivers/"><u>Get Your USB 3.0 Devices Working with the Right Windows Drivers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v29-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V29 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/ignite-conversations-top-10-creative-reaction-insights-for-videos/"><u>Ignite Conversations Top 10 Creative Reaction Insights for Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/zoom-for-the-first-timer-easy-to-follow-guidelines-for-2024/"><u>Zoom for the First Timer Easy-to-Follow Guidelines for 2024</u></a></li>
 </ul></div>
 

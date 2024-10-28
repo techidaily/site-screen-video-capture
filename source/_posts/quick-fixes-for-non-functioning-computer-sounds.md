@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Non-Functioning Computer Sounds
-date: 2024-10-16T08:08:09.602Z
-updated: 2024-10-21T21:16:11.419Z
+date: 2024-10-23T00:22:22.821Z
+updated: 2024-10-28T00:11:54.566Z
 tags:
   - win11
   - win10
@@ -30,19 +30,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Allow access to microphone (for Windows 10 users)**
 
  If your Logitech G430 microphone stops working in Windows 10, the first thing you should check is to turn on the microphone access. Here’s what you need to do:
@@ -56,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  3) Click**Microphone** on the left pane, and make sure**Microphone access for this device** **is on** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
@@ -88,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd5faedb2b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged sound card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
@@ -111,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  If your issue still persists, don’t worry. We have other solutions for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 3: Check your sound settings**
@@ -124,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  1) Right click the volume icon at the bottom right corner on your desktop, and select**Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
 
@@ -142,15 +122,22 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Right click your microphone, and click**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62766a93d1c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Click the**Levels** tab, and drag the volume slider to**maximum** .
 
@@ -161,6 +148,13 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  Try your Logitech G430 mic again and see if it works.
 
  Still no luck? Okay, there’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall Logitech Game Software**
 
@@ -190,22 +184,17 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-expert-strategies-for-tackling-copyright-claims-on-youtube/"><u>[New] 2024 Approved Expert Strategies for Tackling Copyright Claims on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-mirrorless-vs-dslr-video-mastery-in-focus/"><u>[New] 2024 Approved Mirrorless vs DSLR Video Mastery in Focus</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-top-5-best-hdmi-21-gaming-monitors-ps5-compatible/"><u>[New] 2024 Approved Top 5 Best HDMI 2.1 Gaming Monitors [PS5 Compatible]</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-premier-11-sound-capture-gadgets/"><u>[New] Premier 11 Sound Capture Gadgets</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ailored-thumbnails-elevating-your-video-visibility-on-youtube/"><u>[New] Tailored Thumbnails Elevating Your Video Visibility on YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-a-compreayers-pathway-to-efficient-screen-recording-via-zd-software/"><u>[Updated] In 2024, A Compreayer's Pathway to Efficient Screen Recording via ZD Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-skype-call-recording-a-step-by-step-guide/"><u>[Updated] In 2024, Mastering Skype Call Recording A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-search-of-the-best-fps-experience-ever/"><u>[Updated] In Search of the Best FPS Experience Ever</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-adjust-macs-captured-screen-storage-place/"><u>2024 Approved Adjust Mac's Captured Screen Storage Place</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-tools-for-troubleshooting-windows-11-sfc-and-dism-explained/"><u>Essential Tools for Troubleshooting Windows 11 - SFC and DISM Explained</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-online-converter-transform-wav-files-into-avi-format-with-movavi/"><u>Free Online Converter: Transform WAV Files Into AVI Format with Movavi</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-oppo-reno-10-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo Reno 10 Pro 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/improving-zoom-experience-when-to-blame-tech-vs-connectivity/"><u>Improving Zoom Experience: When to Blame Tech Vs. Connectivity?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-experts-choice-top-10-high-definition-screen-recorders/"><u>In 2024, Expert's Choice Top 10 High-Definition Screen Recorders</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-best-webcam-recorders-for-windows-10/"><u>The Best Webcam Recorders for Windows 10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-xiaomi-redmi-a2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Xiaomi Redmi A2 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721805300320-why-you-need-to-make-the-switch-explore-the-top-9-benefits-of-choosing-chatgpt-plus-today/"><u>Why You Need to Make the Switch: Explore the Top 9 Benefits of Choosing ChatGPT Plus Today!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-finding-the-key-personalized-tag-for-your-tiktok-stream/"><u>[New] 2024 Approved Finding the Key Personalized Tag for Your TikTok Stream</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-audio-aesthetics-high-quality-dj-template-videos-downloaded-for-2024/"><u>[New] Audio Aesthetics High-Quality DJ Template Videos Downloaded for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-dissecting-sharex-opinions-and-picks/"><u>[New] In 2024, Dissecting ShareX Opinions & Picks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-learn-to-master-character-voice-customization-the-ultimate-guide-to-transforming-in-game-speech-free/"><u>[New] Learn to Master Character Voice Customization The Ultimate Guide to Transforming In-Game Speech (Free)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-optimizing-latency-for-real-time-obs-viewing-for-2024/"><u>[New] Optimizing Latency for Real-Time OBS Viewing for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-capturing-high-fidelity-games/"><u>[Updated] 2024 Approved Capturing High Fidelity Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-fast-footsteps-simple-recording-for-dell-pcs/"><u>[Updated] In 2024, Fast Footsteps Simple Recording for Dell PCs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-camera-control-for-iphone-users/"><u>Advanced Camera Control for iPhone Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-editing-sony-digital-camcorder-videos-for-stunning-results-for-2024/"><u>New The Ultimate Guide to Editing Sony Digital Camcorder Videos for Stunning Results for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/standard-of-review/"><u>Standard of Review:</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-8-iconic-fifa-world-cup-anthems-a-musical-journey-from-1962-2018/"><u>Top 8 Iconic FIFA World Cup Anthems: A Musical Journey From 1962-2018</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-data-restoration-solution-bring-back-your-iphones-missed-moments-and-connections-on-a-mac/"><u>Ultimate Data Restoration Solution: Bring Back Your iPhones' Missed Moments and Connections on a Mac</u></a></li>
 </ul></div>
 

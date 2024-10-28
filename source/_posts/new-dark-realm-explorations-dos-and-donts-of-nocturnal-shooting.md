@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Dark Realm Explorations  Do's & Don'ts of Nocturnal Shooting\""
-date: 2024-10-11T04:53:40.860Z
-updated: 2024-10-15T17:17:32.990Z
+date: 2024-10-22T19:51:59.400Z
+updated: 2024-10-28T02:56:27.513Z
 tags: 
   - screen-recording
   - ai video
@@ -33,19 +33,6 @@ One of the most difficult repercussions of **night mode portraits** is that ever
 
 This will also allow you to take advantage of clicking pictures during special hour lighting. Besides, it will also help you to know how changing list settings can affect the scene. Another important thing to consider here is styling your subject. You need to make sure that your subjects look professional and choose the right type of clothing. So, try to understand the purpose of your **night mode portraits.**
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Lighting your Subject
 
 While shooting **night portraits,** based on the location, you may not get sufficient natural light to light up the subject. This is where you need to use some types of artificial lighting. Without this, you may not be able to capture the details of your subject. Your shots will look very blurry and underexposed. Well, artificial lighting need not be a flash. The source of artificial lighting can be anything.
@@ -53,10 +40,10 @@ While shooting **night portraits,** based on the location, you may not get suffi
 ![pexels matheus bertelli 573298](https://images.wondershare.com/filmora/article-images/2022/11/pexels-matheus-bertelli-573298.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 For example, it can be a car light, a phone flashlight, a billboard light and anything that can light up the subject, offering a decent amount of illumination to your camera. Make sure that the light is accessible. Experts suggest using off-camera flashlights for **night portraits** as it offers better flexibility. Based on your requirements, you can adjust the direction and brightness. Using a light stand can also be very helpful here.
@@ -68,10 +55,10 @@ Don't forget to take advantage of your camera's night mode portrait option to ge
 The camera will then take a series of photos at multiple exposure levels and then merge them to create a single image with great details. Even though **night mode portraits** can help you a lot, they may not work well while taking photos of moving objects. The reason behind this is that this mode takes multiple shots, and moving subjects would be blurred out. If it is a static scene, then go for it.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Shooting with a Stabilizer
@@ -91,6 +78,12 @@ Experts suggest using a sturdy camera tripod, and it will be better to get a rem
 
 ## Part 2: Don't-Dos in Night Portraits
 
+### 1\. Don't dress in dark
+
+When it comes to wearing black for night portraits, experts suggest avoiding it unless you have proper light settings and you have your make-up done by an expert who can correct the color for shadows. Sometimes, dark clothes may create an aging effect on the subject. Besides, if the lighting condition is not good, the photos will become much darker due to your dark dress. So, wear light-colored dresses. Besides, don't use shirts that have visible text, brand names or logos.
+
+![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
+
 <!-- affiliate ads begin -->
 <span id="1982459">
 					<video width="576" height="240" style="cursor:pointer"
@@ -104,22 +97,16 @@ Experts suggest using a sturdy camera tripod, and it will be better to get a rem
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-### 1\. Don't dress in dark
-
-When it comes to wearing black for night portraits, experts suggest avoiding it unless you have proper light settings and you have your make-up done by an expert who can correct the color for shadows. Sometimes, dark clothes may create an aging effect on the subject. Besides, if the lighting condition is not good, the photos will become much darker due to your dark dress. So, wear light-colored dresses. Besides, don't use shirts that have visible text, brand names or logos.
-
-![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Don't do a capture shoot
 
 Most photographers use single shooting mode or go for the capture shoot in many cases. That could be the manual mode, and sometimes it is done to adjust the shutter and aperture manually. During night shooting, some photographers use higher ISO. This means the lens will allow more light to come in. As a result, it can create a smear while capturing a moving object. But in some cases, using continuous shooting can help you to capture some of the best moments for **night portraits.** If you are shooting in a fast-paced scenario, then this can help you a lot. You may not use all the images you have captured, but you can find perfect portraits.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Don't Overuse Light- The Right Shutter Speed, ISO and Aperture
 
@@ -128,6 +115,13 @@ Another thing you need to avoid here is the overuse of light. You need to work o
 When you overuse the light, it can affect the scene's depth of field. Besides, the sharpness of the subject will also get affected by this. To control the light, you need to choose the aperture based on the depth of field. For example, for a shallow effect, you can go for a wide aperture, like f/2.8\. You can use a narrower aperture, like f/8, for a sharper background.
 
 Talking about the shutter speed, for stationary subjects, you can go for 1/160s. If it is a moving subject, then 1/500s or above can work for you. Now, coming to the ISO, the default ISO value, i.e., ISO 100, is good for taking the highest-quality photos. If you think your portraits are overexposed, then increase the shutter speed to control the light.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Don't forget about white balance and Adjust It Before Shooting
 
@@ -142,10 +136,10 @@ However, you can also preset the white balance in your camera or edit the photos
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How To Capture Good Portraits at Night?
@@ -190,22 +184,19 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-essential-free-mp3-recorder-for-skype-chats/"><u>[New] Essential Free MP3 Recorder for Skype Chats</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-splitcam-reviewed-topping-in-video-recording-technology-in-2024/"><u>[New] SplitCam Reviewed Topping in Video Recording Technology, In 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-choosing-your-recording-champion-pick-obs-or-bandicam/"><u>[Updated] 2024 Approved Choosing Your Recording Champion Pick OBS or Bandicam?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-avoidance-and-remedy-of-live-video-interruption-issues-fb/"><u>[Updated] Avoidance & Remedy of Live Video Interruption Issues (FB)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-combining-audio-and-screens-apples-mix/"><u>[Updated] Combining Audio & Screens Apple's Mix</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-effortless-screen-recording-for-hp-users-top-4-methods-compared/"><u>[Updated] Effortless Screen Recording for HP Users - Top 4 Methods Compared</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-get-savvy-with-screen-recording-on-xiaomi-mi-11-for-2024/"><u>[Updated] Get Savvy with Screen Recording on Xiaomi Mi 11 for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-stream-smoothly-with-nook-miles-tactics-for-2024/"><u>[Updated] How to Stream Smoothly with Nook Miles Tactics for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-most-exciting-enhancements-in-apples-latest-iphone-16-why-upgrading-is-a-must-analysis/"><u>Exploring the Most Exciting Enhancements in Apple's Latest iPhone 16: Why Upgrading Is a Must | Analysis</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/finding-the-perfect-video-dimensions-on-facebook/"><u>Finding the Perfect Video Dimensions on Facebook</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/horizon-zero-dawn-pc-launch-issues-resolved-how-to-fix-game-crashes/"><u>Horizon Zero Dawn PC Launch Issues Resolved: How to Fix Game Crashes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-uninstall-or-disable-microsoft-edge-in-windows-10/"><u>How to Uninstall or Disable Microsoft Edge in Windows 10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-poco-x6-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Poco X6 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo G2? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-or-ipad-missing-icons-discover-effective-solutions-now/"><u>IPhone or iPad Missing Icons? Discover Effective Solutions Now!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/quicktime-stall-capture-help/"><u>QuickTime Stall Capture Help</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-step-by-step-guide-to-screen-capturing-hulu-content-seamlessly/"><u>[New] Step-by-Step Guide to Screen Capturing Hulu Content Seamlessly</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-angles-of-perspective-youtubes-path-to-dynamic-video-editing/"><u>[Updated] 2024 Approved Angles of Perspective YouTube's Path to Dynamic Video Editing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-focussnap-recorder-for-screen-masters/"><u>[Updated] FocusSnap Recorder for Screen Masters</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-androids-finest-screen-capture-software-top-5/"><u>[Updated] In 2024, Android's Finest Screen Capture Software, Top 5</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mac-recording-hub-essential-insights/"><u>[Updated] Mac Recording Hub Essential Insights</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/bridging-the-web-with-instagram-a-url-tutorial-for-2024/"><u>Bridging the Web with Instagram A URL Tutorial for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bulk-image-uploads-on-facebook-a-step-by-step-guide/"><u>Bulk Image Uploads on Facebook: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/exploring-whether-itop-fits-your-tech-needs/"><u>Exploring Whether ITop Fits Your Tech Needs</u></a></li>
+<li><a href="https://techidaily.com/how-windows-memory-leakage-is-expanding-computer-storage-needs/"><u>How Windows Memory Leakage Is Expanding Computer Storage Needs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/low-end-devices-high-outputs-streamline-with-obs/"><u>Low-End Devices, High Outputs Streamline with OBS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-with-ease-a-step-by-step-guide-to-androids-one-handed-mode-features/"><u>Navigating with Ease: A Step-by-Step Guide to Android's One-Handed Mode Features</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-your-privacy-top-iphone-data-shredder-apps-to-delete-confidential-info/"><u>Secure Your Privacy: Top iPhone Data Shredder Apps to Delete Confidential Info</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-transform-your-videos-top-10-webm-to-mp4-conversion-tools/"><u>Updated In 2024, Transform Your Videos Top 10 WebM to MP4 Conversion Tools</u></a></li>
 </ul></div>
 

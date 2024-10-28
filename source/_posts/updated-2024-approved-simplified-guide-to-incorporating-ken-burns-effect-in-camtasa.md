@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Simplified Guide to Incorporating Ken Burns Effect in Camtasa\""
-date: 2024-10-02T22:45:45.117Z
-updated: 2024-10-04T17:01:54.979Z
+date: 2024-10-23T19:27:12.685Z
+updated: 2024-10-28T00:49:04.369Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,16 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,20 +121,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-simplified-guide-to-movie-recording-on-diverse-systems/"><u>[New] 2024 Approved Simplified Guide to Movie Recording on Diverse Systems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-become-an-expert-in-no-time-mastering-ez-grabbers-functions-for-2024/"><u>[New] Become an Expert in No Time! Mastering EZ Grabber's Functions for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-compreranimal-webcam-tutorial-achieve-excellent-video-quality-for-2024/"><u>[New] Compreranimal Webcam Tutorial Achieve Excellent Video Quality for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-effective-techniques-for-securely-storing-itunes-videos/"><u>[New] Effective Techniques for Securely Storing iTunes Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-effortless-avi-gif-conversion-using-filmora-tools-for-2024/"><u>[Updated] Effortless AVI-GIF Conversion Using Filmora Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-craftsmanship-in-marvellous-marvel-creation/"><u>[Updated] In 2024, Craftsmanship in Marvellous Marvel Creation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-investment-insights-starting-a-profitable-podcast/"><u>[Updated] Investment Insights Starting a Profitable Podcast</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-prevent-unwanted-video-captures-in-qt-player-for-2024/"><u>[Updated] Prevent Unwanted Video Captures in QT Player for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-swift-film-techniques-for-at-home-creators/"><u>[Updated] Swift Film Techniques for At-Home Creators</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-honor-90-lite-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/capturecrafter-your-ultimate-guide-to-screen-recording-for-2024/"><u>CaptureCrafter Your Ultimate Guide to Screen Recording for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/essential-steps-for-embedding-facebook-streams-online-for-2024/"><u>Essential Steps for Embedding Facebook Streams Online for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-x5-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-your-logitech-mouses-scroll-wheel/"><u>How to Restore Functionality of Your Logitech Mouse's Scroll Wheel</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/visualizing-time-the-hyperlapse-filmmakers-guide/"><u>Visualizing Time The Hyperlapse Filmmaker's Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-screen-commanders-face-off/"><u>[New] In 2024, Screen Commanders Face-Off</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-obs-and-zoom-synchronization-techniques-for-2024/"><u>[New] OBS & Zoom Synchronization Techniques for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-shield-identity-in-images-the-most-effective-cropping-tools/"><u>[New] Shield Identity in Images The Most Effective Cropping Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pioneering-visual-editing-3dlut-for-photosvideos/"><u>[Updated] Pioneering Visual Editing 3DLUT for Photos/Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-six-secrets-to-masterful-mov-saving-in-windows-11/"><u>2024 Approved Six Secrets to Masterful .MOV Saving in Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/asus-pa32u-in-detail-excellence-in-color-and-contrast-for-2024/"><u>Asus PA32U in Detail Excellence in Color and Contrast for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/capture-games-effortlessly-with-nvidia-for-2024/"><u>Capture Games Effortlessly with NVIDIA for 2024</u></a></li>
+<li><a href="https://solve-news.techidaily.com/download-now-authentic-winx-film-extractor-and-professional-hd-video-format-changer-no-cost/"><u>Download Now: Authentic WinX Film Extractor & Professional HD Video Format Changer (No Cost)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-unleash-creativity-on-snapchat-with-immersive-boomerangs/"><u>In 2024, Unleash Creativity on Snapchat with Immersive Boomerangs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/lightning-fast-windows-photo-inspector/"><u>Lightning-Fast Windows Photo Inspector</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-dying-light-overcoming-fps-decreases-for-a-seamless-survival-horror-adventure/"><u>Optimizing Dying Light: Overcoming FPS Decreases for a Seamless Survival Horror Adventure</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-secrets-to-seamless-zoom-talks-mastering-online-communication-skills-for-2024/"><u>The Secrets to Seamless Zoom Talks Mastering Online Communication Skills for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleash-speed-seven-secrets-for-an-instantly-faster-computer/"><u>Unleash Speed: Seven Secrets for an Instantly Faster Computer</u></a></li>
 </ul></div>
 

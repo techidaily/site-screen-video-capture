@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Approach to Mastering the Steam Pro Controller on Switch\""
-date: 2024-10-15T09:06:12.104Z
-updated: 2024-10-21T20:20:37.155Z
+date: 2024-10-26T18:30:01.463Z
+updated: 2024-10-28T01:00:00.296Z
 tags: 
   - screen-recording
   - ai video
@@ -63,10 +63,10 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Right-click the Bluetooth icon in the system tray.
@@ -78,10 +78,10 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
@@ -90,20 +90,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Once Steam is set up, you can begin using it.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
@@ -120,6 +113,13 @@ You should use the gamepad to navigate Big Picture if you have the Pro Controlle
 When configured through Steam, you should use the Pro Controller with any Steam game similar to an Xbox gamepad. Vibration can be enabled or disabled by selecting a controller from the "Detected Controllers" list in the same setup screen as before. It is possible to calibrate the analog sticks by clicking the Calibrate button manually. Also, the controller can be set to disconnect after a specified amount of time before going to sleep.
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
@@ -154,20 +154,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-pro-tips-for-high-quality-ps3-game-screenshots/"><u>[New] 2024 Approved Pro Tips for High-Quality PS3 Game Screenshots</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-spectacular-indulgent-pc-pastimes/"><u>[New] 2024 Approved Spectacular Indulgent PC Pastimes</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-igniting-conversations-fostering-a-supportive-youtube-environment-for-2024/"><u>[New] Igniting Conversations Fostering a Supportive YouTube Environment for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-simplified-approaches-to-recording-your-iptv-viewing/"><u>[New] In 2024, Simplified Approaches to Recording Your IPTV Viewing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-thriving-in-stardew-insiders-guide-to-ginger-island/"><u>[New] Thriving in Stardew Insider's Guide to Ginger Island</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-caption-crafting-select-writing-apps-for-your-photos/"><u>[Updated] Caption Crafting Select Writing Apps for Your Photos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-navigating-mov-saving-in-windows-11-top-six-methods-reviewed/"><u>[Updated] In 2024, Navigating .MOV Saving in Windows 11 - Top Six Methods Reviewed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-instantaneous-photographic-view-in-win11/"><u>[Updated] Instantaneous Photographic View in Win11</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-professional-guide-to-youtube-screen-capturing-for-2024/"><u>[Updated] Professional Guide to YouTube Screen Capturing for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-redmi-note-12-pro-4g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-easily-connect-and-use-the-logitech-mx-masters-advanced-features/"><u>How To Easily Connect and Use the Logitech MX Master's Advanced Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-headphones-detected-by-windows-10-during-playback-for-smooth-audio-experience/"><u>How to Get Your Headphones Detected by Windows 10 During Playback for Smooth Audio Experience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-methods-for-youtube-content-into-mpeg/"><u>In 2024, Prime Methods for YouTube Content Into MPEG</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-rendering-api-update-issue-2024-in-dota-2-with-ease/"><u>Resolve Your 'Rendering API Update Issue 2024' In Dota 2 with Ease</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/understanding-the-trial-constraints-associated-with-movavi-software-solutions/"><u>Understanding the Trial Constraints Associated with Movavi Software Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/net-framework-35-trouble-heres-how-to-fix-error-code-0x800f081f-during-installation/"><u>.NET Framework 3.5 Trouble? Here's How to Fix Error Code 0X800F081F During Installation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-best-virtual-background-for-google-meet-video-call/"><u>[New] Best Virtual Background for Google Meet Video Call</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-your-channels-viewer-loyalty-essential-tactics-unveiled-for-2024/"><u>[New] Boosting Your Channels' Viewer Loyalty Essential Tactics Unveiled for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-expert-tips-for-creating-engaging-screencasts/"><u>[Updated] In 2024, Expert Tips for Creating Engaging Screencasts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ideal-steps-for-silent-screen-imaging/"><u>[Updated] In 2024, Ideal Steps for Silent Screen Imaging</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-starting-off-with-zoom-meetings-your-first-steps-guide/"><u>[Updated] Starting Off with Zoom Meetings Your First Steps Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fasten-radeon-4800-driver-updates/"><u>Fasten Radeon 4800 Driver Updates</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/handling-unhandled-kmode-exception-issues-in-windows-11-with-these-18-solutions/"><u>Handling Unhandled KMode Exception Issues in Windows 11 with These 18 Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-s18e-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo S18e Phone Now with These Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-your-guide-to-the-top-5-chromebook-sniping-software/"><u>In 2024, Your Guide to the Top 5 Chromebook Sniping Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-a70-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A70 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-dauntless-for-pc-effective-strategies-to-prevent-crashing/"><u>Overcome Dauntless for PC: Effective Strategies to Prevent Crashing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pixel-9-unveiled-anticipated-launch-details-and-pricing-revealed/"><u>Pixel 9 Unveiled? Anticipated Launch Details & Pricing Revealed!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-11-audio-problems-with-your-headset/"><u>Solving Windows 11 Audio Problems with Your Headset</u></a></li>
 </ul></div>
 

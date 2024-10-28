@@ -1,7 +1,7 @@
 ---
 title: "[New] Photograph Whole Page Spectacle"
-date: 2024-10-16T18:34:57.572Z
-updated: 2024-10-21T19:14:40.896Z
+date: 2024-10-26T18:00:04.524Z
+updated: 2024-10-27T19:59:21.732Z
 tags: 
   - screen-recording
   - ai video
@@ -61,10 +61,10 @@ Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offe
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
@@ -76,10 +76,10 @@ If you'd like to avoid producing several screenshots that you'll later have to c
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Capturing Screenshots With Browser Extensions
@@ -112,18 +112,18 @@ Install the extension in your browser and then click on its icon in the Extensio
 
 [Firefox Quantum](https://www.mozilla.org/en-US/firefox/) browser allows you to quickly take screenshots of the full page without much hassle. Make sure that the tab with the web page you'd like to capture is open, and then click on the **Page Action** icon, that looks like three dots. Select the **Take a Screenshot** feature from the menu and then when the new dialogue box appears on the screen click on the **Save full page** option. Your screenshots will be stored online and you can share, organize or delete them from **My Shots** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 4: Using Online Tools for Full Page Screenshots
 
 If you don't want to go through the trouble of installing a screenshot extension in your web browser, you can easily capture an entire page with an online tool. [Web-capture.net](https://web-capture.net/) platform is designed to help their users to take full page screenshots effortlessly. You just have to copy the URL of the page you'd like to capture and select the image file format.
 
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
 
@@ -134,10 +134,10 @@ Taking full page screenshots on a Mac computer is made much simpler by [Paparazz
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
@@ -167,16 +167,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-building-a-cohesive-setup-synergizing-obs-with-zoom-services/"><u>[New] Building a Cohesive Setup Synergizing OBS with Zoom Services</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-convert-vimeo-hd-mp4-format-guide-for-2024/"><u>[New] Convert Vimeo HD MP4 Format Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-yourself-with-top-4-applications-for-youtube-to-wav-conversion-for-2024/"><u>[New] Free Yourself with Top 4 Applications for YouTube-to-WAV Conversion for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-6-secure-mc-domains/"><u>[Updated] 2024 Approved Top 6 Secure MC Domains</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-amazing-builds-the-best-of-block-city-homes/"><u>[Updated] In 2024, Amazing Builds The Best of Block City Homes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/common-frustrations-among-users-after-iphone-upgrade-to-ios-18-a-shared-experience/"><u>Common Frustrations Among Users After iPhone Upgrade to iOS 18: A Shared Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/diy-guide-enhancing-audio-performance-with-updated-usb-drivers-on-microsofts-latest-and-older-operating-systems/"><u>DIY Guide: Enhancing Audio Performance with Updated USB Drivers on Microsoft's Latest & Older Operating Systems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-elevate-your-playthroughs-secrets-of-ps3-video-capture/"><u>In 2024, Elevate Your Playthroughs Secrets of PS3 Video Capture</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rapid-unjamming-of-print-workqueue/"><u>Rapid Unjamming of Print Workqueue</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-music-after-oneplus-ace-2-pro-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after OnePlus Ace 2 Pro has been deleted</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/virtual-broadcast-battleground-obs-versus-shadowgl/"><u>Virtual Broadcast Battleground OBS Versus ShadowGL</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-inclusive-iptv-service-distribution/"><u>[New] 2024 Approved Inclusive IPTV Service Distribution</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ormulating-impressive-online-media-introductions/"><u>[New] Formulating Impressive Online Media Introductions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-masterclass-on-making-your-obs-edits-stand-out-amongst-the-best/"><u>[New] In 2024, Masterclass on Making Your OBS Edits Stand Out Amongst the Best</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-odins-fury-new-wrath-unleashed/"><u>[New] In 2024, Odin's Fury New Wrath Unleashed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-direct-download-and-mp3-creation-for-streaming-video-files/"><u>[Updated] 2024 Approved Direct Download & MP3 Creation for Streaming Video Files</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-fantasy-villas-with-oriental-elegance-mc-edition/"><u>[Updated] 2024 Approved Fantasy Villas with Oriental Elegance, MC Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-9-indoor-game-apps-perfect-for-android-without-connectivity/"><u>[Updated] 2024 Approved Top 9 Indoor Game Apps - Perfect For Android Without Connectivity</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-effortless-video-segmentation-techniques/"><u>[Updated] In 2024, Effortless Video Segmentation Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/5-common-twitch-broadcasting-conundrums-for-first-timers/"><u>5 Common Twitch Broadcasting Conundrums for First-Timers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722984652403-cult-of-the-lamb-on-pc-keep-crashing-heres-how-to-solve-it/"><u>Cult of the Lamb on PC Keep Crashing? Here's How to Solve It</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-and-performance-of-western-digitals-new-4tb-wd-blue-sn5000-ssd/"><u>Exploring the Features and Performance of Western Digital's New 4TB WD Blue SN5000 SSD</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/master-these-techniques-for-fixing-error-0xc0erase000e-in-windows-11-ensuring-no-information-is-lost/"><u>Master These Techniques for Fixing Error 0Xc0erase000e in Windows 11, Ensuring No Information Is Lost</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-dangers-with-fraudgpt-proactive-measures-for-online-safety/"><u>Navigating Dangers with FraudGPT: Proactive Measures for Online Safety</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/sky-high-snapshot-5-top-screen-recorders/"><u>Sky High Snapshot - 5 Top Screen Recorders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/splitcams-journey-to-video-excellence-an-overview/"><u>SplitCam's Journey to Video Excellence An Overview</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/your-guide-to-the-top-5-chromebook-sniping-software/"><u>Your Guide to the Top 5 Chromebook Sniping Software</u></a></li>
 </ul></div>
 
