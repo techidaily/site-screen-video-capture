@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Essential Tech  Mac Screenshoting Basics\""
-date: 2024-08-03T08:09:03.532Z
-updated: 2024-08-04T08:09:03.532Z
+date: 2024-10-26T20:39:00.807Z
+updated: 2024-11-02T18:00:08.943Z
 tags: 
   - screen-recording
   - ai video
@@ -19,18 +19,6 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
 
 # How to Capture a Screenshot or Video of What's Showing On Your Mac Computer
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -43,9 +31,6 @@ For simple applications, the Mac screenshot keyboard shortcuts are sufficient fo
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -64,8 +49,12 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tip 1. Mac OS Keyboard shortcut screenshots
 
 • To print screen on mac (the entire screen), press \[COMMAND\] + \[SHIFT\] + 3
@@ -77,8 +66,12 @@ For more advanced Mac screenshot applications, including the capability to edit,
 These applications can help you improve your screen captures and recordings with advanced tools and professional capabilities.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tip 2.Free screen capture tools for Mac
 
 **QuickTime** – PROS: free and included with your Mac, easy to use, exports to popular Mac formats; CONS: a limited toolset for advanced editing.
@@ -88,9 +81,12 @@ These applications can help you improve your screen captures and recordings with
 **Jing** – PROS: optimized for online and social sharing of screenshots, allows video capture; CONS: limited advanced feature list.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tip 3. More advanced all-in-one video capture & editing tools for Mac
 
 **Movavi Screen Capture Studio** – PROS: extensive editing tools, helpful interface; CONS: no video zoom or crop options.
@@ -109,6 +105,13 @@ One all-in-one video capture & editing tool for Mac that is getting a lot of att
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Wondershare Filmora for Mac supports all formats (including .mov) shot on any digital camera, mobile phone, or camcorder. It also has an extensive list of advanced video editing and screen capture tools, including:
 
 • Convenient, easy-to-use interface  
@@ -122,9 +125,6 @@ Wondershare Filmora for Mac supports all formats (including .mov) shot on any di
 
 Another point in its favor: Wondershare Filmora for Mac is one of the least expensive options for users who want a robust video editing tool for Mac. Low price combined with ease of use, shallow learning curve, and extensive features makes Filmora a title to watch among the crowded field of all-in-one video capture & editing tools for Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -135,11 +135,29 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-break-barriers-enhancing-live-social-media-collaborations-for-2024/"><u>[New] Break Barriers Enhancing Live Social Media Collaborations for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-does-active-presenter-8-outperform-its-rivals/"><u>[New] Does Active Presenter 8 Outperform Its Rivals?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-choosing-between-vidma-and-rivals/"><u>[New] The Ultimate Guide to Choosing Between Vidma and Rivals</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ultra-screen-recorder-how-to-use-for-2024/"><u>[New] Ultra Screen Recorder - How to Use for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-in-depth-look-at-voice-memo-features-on-your-ios-device/"><u>[Updated] 2024 Approved In-Depth Look at Voice Memo Features on Your iOS Device</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-10-free-video-call-app-for-android-and-iphone-100-secure/"><u>[Updated] In 2024, 10 Free Video Call App for Android and iPhone (100% Secure)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-boost-your-online-presence-tips-and-techniques-for-exceptional-fb-profiles/"><u>[Updated] In 2024, Boost Your Online Presence Tips and Techniques for Exceptional FB Profiles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-art-of-timely-and-effective-google-meet-planning/"><u>[Updated] In 2024, The Art of Timely and Effective Google Meet Planning</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ultimate-guide-to-documenting-your-ps4-journey/"><u>[Updated] In 2024, Ultimate Guide to Documenting Your PS4 Journey</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-top-8-must-play-virtual-reality-titles-for-now/"><u>[Updated] Top 8 Must-Play Virtual Reality Titles for Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deeper-dive-into-claude-pro-and-its-competition-with-chatgptplus/"><u>A Deeper Dive Into Claude Pro and Its Competition with ChatGPT+</u></a></li>
+<li><a href="https://driver-download.techidaily.com/asus-pce-ac68-wireless-network-adapter-drivers-download-now/"><u>ASUS PCE-AC68 Wireless Network Adapter Drivers - Download Now</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/d-the-scenes-of-gamers-elite-setup-for-2024/"><u>Behind the Scenes of Gamers' Elite Setup for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-comparing-obs-and-fraps-aimed-at-filmmakers/"><u>In 2024, Comparing OBS and Fraps Aimed at Filmmakers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/ultimate-tech-comforts-with-luxury-desktops-for-2024/"><u>Ultimate Tech Comforts with Luxury Desktops for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Approach to Mastering the Steam Pro Controller on Switch\""
-date: 2024-10-26T18:30:01.463Z
-updated: 2024-10-28T01:00:00.296Z
+date: 2024-10-30T21:17:09.668Z
+updated: 2024-11-02T17:27:34.456Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
 It's also easy, but you need to buy an adapter or have Bluetooth on your computer.
@@ -63,10 +70,10 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Right-click the Bluetooth icon in the system tray.
@@ -78,23 +85,16 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Once Steam is set up, you can begin using it.
 
@@ -115,10 +115,10 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
@@ -154,19 +154,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/net-framework-35-trouble-heres-how-to-fix-error-code-0x800f081f-during-installation/"><u>.NET Framework 3.5 Trouble? Here's How to Fix Error Code 0X800F081F During Installation</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-best-virtual-background-for-google-meet-video-call/"><u>[New] Best Virtual Background for Google Meet Video Call</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-your-channels-viewer-loyalty-essential-tactics-unveiled-for-2024/"><u>[New] Boosting Your Channels' Viewer Loyalty Essential Tactics Unveiled for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-expert-tips-for-creating-engaging-screencasts/"><u>[Updated] In 2024, Expert Tips for Creating Engaging Screencasts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ideal-steps-for-silent-screen-imaging/"><u>[Updated] In 2024, Ideal Steps for Silent Screen Imaging</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-starting-off-with-zoom-meetings-your-first-steps-guide/"><u>[Updated] Starting Off with Zoom Meetings Your First Steps Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fasten-radeon-4800-driver-updates/"><u>Fasten Radeon 4800 Driver Updates</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/handling-unhandled-kmode-exception-issues-in-windows-11-with-these-18-solutions/"><u>Handling Unhandled KMode Exception Issues in Windows 11 with These 18 Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-s18e-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo S18e Phone Now with These Tips</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-your-guide-to-the-top-5-chromebook-sniping-software/"><u>In 2024, Your Guide to the Top 5 Chromebook Sniping Software</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/itel-a70-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A70 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcome-dauntless-for-pc-effective-strategies-to-prevent-crashing/"><u>Overcome Dauntless for PC: Effective Strategies to Prevent Crashing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pixel-9-unveiled-anticipated-launch-details-and-pricing-revealed/"><u>Pixel 9 Unveiled? Anticipated Launch Details & Pricing Revealed!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-windows-11-audio-problems-with-your-headset/"><u>Solving Windows 11 Audio Problems with Your Headset</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-how-to-screen-record-on-android/"><u>[New] 2024 Approved How to Screen Record on Android</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unlocking-ez-grabber-a-quick-guide-to-downloading-setting-up/"><u>[New] 2024 Approved Unlocking EZ Grabber - A Quick Guide to Downloading, Setting Up</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earning-big-on-youtube-shorts-must-haves-opportunities-and-more/"><u>[New] In 2024, Earning Big on YouTube Shorts Must-Haves, Opportunities and More</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-immediate-screen-capture-on-mac-revealing-the-best-5-approaches/"><u>[New] In 2024, Immediate Screen Capture on Mac Revealing the Best 5 Approaches</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-achieving-clear-dialogue-in-google-hangouts/"><u>[Updated] Achieving Clear Dialogue in Google Hangouts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-astronaut-eyes-choosing-the-finest-fps-games-for-2024/"><u>[Updated] Astronaut Eyes Choosing the Finest FPS Games for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-end-hardware-unveiled-by-gaming-influencers/"><u>[Updated] In 2024, High-End Hardware Unveiled by Gaming Influencers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-allocate-more-ram-to-minecraft/"><u>[Updated] In 2024, How to Allocate More Ram to Minecraft</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-ultimate-strategy-to-turn-your-fb-page-into-cash/"><u>[Updated] In 2024, The Ultimate Strategy to Turn Your FB Page Into Cash</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/6z2p5paw55qe44gq44ot44oh44kq44kz44oz44oq44o844k44o85aplusplus562w44oe44o844oric0g576o44gx44gp44cb5qmf6io95ocn44ks6auy44kb44kl57eo6zug44k944ov44oi5o6o6jam/"><u>革新的なビデオコンバーター対策ツール - 美しく、機能性を高める編集ソフト推薦</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/guia-facil-para-realizar-copias-de-seguridad-en-multiples-dispositivos-con-windows-11/"><u>Guía Fácil Para Realizar Copias De Seguridad en Múltiples Dispositivos Con Windows 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-essential-online-hubs-for-got-audio-download/"><u>In 2024, Essential Online Hubs for GoT Audio Download</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ios-leading-ps2-game-emulation-tools/"><u>In 2024, IOS Leading PS2 Game Emulation Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-the-studio-world-xvideo-studio-breakdown-for-2024/"><u>Inside the Studio World XVideo Studio Breakdown for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/master-the-art-of-iphone-7-screen-capture/"><u>Master the Art of iPhone 7 Screen Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/screen-recording-mastery-with-lenovo-gear-for-2024/"><u>Screen Recording Mastery with Lenovo Gear for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/speedy-transaction-interstellar-imagery-update/"><u>Speedy Transaction: Interstellar Imagery Update</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-list-of-engaging-moba-titles-on-android/"><u>The Ultimate List of Engaging MOBA Titles on Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tutoriel-facile-pour-faire-des-films-flat-steady-sur-windowsmacsmartphonetablette/"><u>Tutoriel Facile Pour Faire Des Films Flat Steady Sur Windows/Mac/Smartphone/Tablette</u></a></li>
 </ul></div>
 

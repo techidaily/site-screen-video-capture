@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Non-Functioning Computer Sounds
-date: 2024-10-23T00:22:22.821Z
-updated: 2024-10-28T00:11:54.566Z
+date: 2024-10-29T19:03:18.306Z
+updated: 2024-11-02T21:23:25.747Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Allow access to microphone (for Windows 10 users)**
 
  If your Logitech G430 microphone stops working in Windows 10, the first thing you should check is to turn on the microphone access. Here’s what you need to do:
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
  Re-plug your microphone again to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
 
@@ -83,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
  If your issue still persists, don’t worry. We have other solutions for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 3: Check your sound settings**
 
  Your Logitech G430 mic may not work because it’s disabled or not set as the default device for your Windows computer. Follow the steps below to check your sound settings:
@@ -98,16 +105,16 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Recording** tab, then right click on any empty area inside the device list and select**Show** **Disabled** **Devices** .
 
@@ -117,27 +124,39 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627553bb550.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Right click on your microphone again and select**Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Right click your microphone, and click**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62766a93d1c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Click the**Levels** tab, and drag the volume slider to**maximum** .
 
@@ -148,13 +167,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  Try your Logitech G430 mic again and see if it works.
 
  Still no luck? Okay, there’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall Logitech Game Software**
 
@@ -184,17 +196,24 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-finding-the-key-personalized-tag-for-your-tiktok-stream/"><u>[New] 2024 Approved Finding the Key Personalized Tag for Your TikTok Stream</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-audio-aesthetics-high-quality-dj-template-videos-downloaded-for-2024/"><u>[New] Audio Aesthetics High-Quality DJ Template Videos Downloaded for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-dissecting-sharex-opinions-and-picks/"><u>[New] In 2024, Dissecting ShareX Opinions & Picks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-learn-to-master-character-voice-customization-the-ultimate-guide-to-transforming-in-game-speech-free/"><u>[New] Learn to Master Character Voice Customization The Ultimate Guide to Transforming In-Game Speech (Free)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-optimizing-latency-for-real-time-obs-viewing-for-2024/"><u>[New] Optimizing Latency for Real-Time OBS Viewing for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-capturing-high-fidelity-games/"><u>[Updated] 2024 Approved Capturing High Fidelity Games</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-fast-footsteps-simple-recording-for-dell-pcs/"><u>[Updated] In 2024, Fast Footsteps Simple Recording for Dell PCs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/advanced-camera-control-for-iphone-users/"><u>Advanced Camera Control for iPhone Users</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-editing-sony-digital-camcorder-videos-for-stunning-results-for-2024/"><u>New The Ultimate Guide to Editing Sony Digital Camcorder Videos for Stunning Results for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/standard-of-review/"><u>Standard of Review:</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-8-iconic-fifa-world-cup-anthems-a-musical-journey-from-1962-2018/"><u>Top 8 Iconic FIFA World Cup Anthems: A Musical Journey From 1962-2018</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-data-restoration-solution-bring-back-your-iphones-missed-moments-and-connections-on-a-mac/"><u>Ultimate Data Restoration Solution: Bring Back Your iPhones' Missed Moments and Connections on a Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-chuckling-challenge-brainstroming-7-humorous-youtube-videos-for-2024/"><u>[New] Chuckling Challenge Brainstroming 7 Humorous YouTube Videos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-fundamental-tips-for-broadcasting-fan-favorite-sports/"><u>[New] Fundamental Tips for Broadcasting Fan-Favorite Sports</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-navigating-screen-recordings-with-gotomeeting/"><u>[New] Navigating Screen Recordings with GoToMeeting</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-quick-fixes-for-perfect-ipad-screenshots/"><u>[New] Quick Fixes for Perfect iPad Screenshots</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2023s-elite-web-based-recording-devices/"><u>[Updated] 2023'S Elite Web-Based Recording Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-premier-updates-facebooks-latest-gems-unearthed/"><u>[Updated] 2024 Approved Premier Updates Facebook's Latest Gems Unearthed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-strategic-approaches-to-googles-podcast-submission-protocol/"><u>[Updated] Strategic Approaches to Google’s Podcast Submission Protocol</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-swift-seize-video-with-soundtracking-for-2024/"><u>[Updated] Swift Seize Video with Soundtracking for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-from-sideways-to-symmetry-a-guide-to-flipping-images-and-spreading-engagement/"><u>2024 Approved From Sideways to Symmetry A Guide to Flipping Images and Spreading Engagement</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximizing-iphone-to-mac-file-transfer-for-large-videos/"><u>2024 Approved Maximizing iPhone-to-Mac File Transfer for Large Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/5-ways-to-record-facetime-calls-for-2024/"><u>5 Ways to Record FaceTime Calls for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138575641-9781450257978-colloquies/"><u>Colloquies | Free Book</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/easy-to-follow-strategies-recording-hulu-across-windowsmacandroidios/"><u>Easy-to-Follow Strategies Recording Hulu Across Windows/Mac/Android/iOS</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/exploring-the-best-text-to-speech-online-tools-to-use/"><u>Exploring The Best Text-to-Speech Online Tools To Use</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-direct-video-transmission-from-twitters-to-whatsapp/"><u>In 2024, Direct Video Transmission From Twitters to WhatsApp</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-master-the-art-of-live-streaming-old-content-with-facebook-tools/"><u>In 2024, Master the Art of Live-Streaming Old Content with Facebook Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-obs-master-vs-camtastic-pro/"><u>In 2024, OBS Master vs Camtastic Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterclass-in-windows-model-dating/"><u>Masterclass in Windows Model Dating</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/screenshot-supreme-expert-analysis-of-recorders-for-2024/"><u>Screenshot Supreme Expert Analysis of Recorders for 2024</u></a></li>
 </ul></div>
 

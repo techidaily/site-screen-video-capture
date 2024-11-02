@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Record iPhone/iPad’s Screen for 2024"
-date: 2024-10-26T01:50:51.849Z
-updated: 2024-10-28T01:40:04.590Z
+date: 2024-10-31T19:21:24.018Z
+updated: 2024-11-02T20:00:44.694Z
 tags: 
   - screen-recording
   - ai video
@@ -74,10 +74,10 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20logo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2\. Launch QuickTime on your Mac available in the application folder.
@@ -85,6 +85,13 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 3\. Click on the File menu on the QuickTime menu bar and choose New Movie Recording.
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20new%20moive.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4\. A video recording screen will open. Now slide the cursor over that window to make the record and volume button visible.
 
@@ -95,16 +102,10 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 ![quicktime screen recorder](https://images.wondershare.com/filmora/quicktime%20iphone.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7\. To stop the recording of the screen of your iOS device, click on the Stop button at the video recorder window.
@@ -120,20 +121,13 @@ iPhone/iPad screen recorder is a very useful tool when you want to record tutori
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -150,21 +144,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-enhanced-joy-in-switchs-hd-gameplay-through-cards/"><u>[Updated] 2024 Approved Enhanced Joy in Switch's HD Gameplay Through Cards</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-comparative-study-vidma-vs-standard-screen-recording/"><u>[Updated] Comparative Study Vidma vs Standard Screen Recording</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-cutting-edge-screen-recorders-our-10-best-selections/"><u>[Updated] Cutting-Edge Screen Recorders Our 10 Best Selections</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-budget-game-design-tools-and-software-for-aspiring-developers/"><u>[Updated] In 2024, Budget Game Design Tools and Software for Aspiring Developers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-deciphering-the-technicalities-of-recmeister-screen-recording/"><u>[Updated] In 2024, Deciphering the Technicalities of Recmeister Screen Recording</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-ultimate-guide-to-cam-alternatives-not-like-gopro-for-2024/"><u>[Updated] The Ultimate Guide to Cam Alternatives Not Like GoPro for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-best-humor-image-processor/"><u>2024 Approved Best Humor Image Processor</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-image-interpretation-illumination-ideal-photo-to-cartoony-tools/"><u>2024 Approved Image Interpretation Illumination Ideal Photo-to-Cartoony Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/a-comprehensive-guide-to-iptv-recording-mastery/"><u>A Comprehensive Guide to IPTV Recording Mastery</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-idevice-screenshots-latest-techniques/"><u>In 2024, Mastering iDevice Screenshots Latest Techniques</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-minimize-external-noise-find-a-quiet-environment-to-minimize-distractions-that-can-hinder-understanding/"><u>In 2024, Minimize External Noise Find a Quiet Environment to Minimize Distractions that Can Hinder Understanding</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mastering-health-metrics-a-review-of-the-garmin-vivosmart-4s-advanced-body-battery-and-stress-monitoring-tools/"><u>Mastering Health Metrics: A Review of the Garmin Vivosmart 4'S Advanced Body Battery & Stress Monitoring Tools</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-debunking-digital-audio-studio-myths-the-truth-behind-daw-for-2024/"><u>New Debunking Digital Audio Studio Myths The Truth Behind DAW for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-full-screen-recorders-uncovered-a-compreayers-picks-for-2024/"><u>Top Full-Screen Recorders Uncovered A Compreayer's Picks for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unified-playlist-creation-mastering-the-art-of-combining-lists-on-spotify/"><u>Unified Playlist Creation: Mastering the Art of Combining Lists on Spotify</u></a></li>
-<li><a href="https://media-tips.techidaily.com/weekly-update-on-upcoming-devices-from-google-and-samsung/"><u>Weekly Update on Upcoming Devices From Google & Samsung</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-mix-magic-how-to-download-top-dj-content/"><u>[New] In 2024, Mix Magic How to Download Top DJ Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-complete-lowdown-on-io-image-recording-software/"><u>[New] In 2024, The Complete Lowdown on IO Image Recording Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-video-cuts-for-instagram-feed/"><u>[New] Mastering Video Cuts for Instagram Feed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-plex-vs-studio-prodigies/"><u>[New] Plex vs Studio Prodigies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-15-must-use-gaming-tags-for-skyrocketing-views-on-youtube-for-2024/"><u>[New] Top 15 Must-Use Gaming Tags for Skyrocketing Views on YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unmatched-audio-and-video-elite-webcams-for-podcasting/"><u>[New] Unmatched Audio & Video Elite Webcams for Podcasting</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-audacity-workshop-eloquent-silent-transitions-for-2024/"><u>[Updated] Audacity Workshop Eloquent Silent Transitions for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-high-quality-captures-at-a-click-top-5-browsers-screen-recorders/"><u>[Updated] High-Quality Captures at a Click Top 5 Browsers' Screen Recorders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-transcribe-live-broadcasts-into-digital-format/"><u>[Updated] How to Transcribe Live Broadcasts Into Digital Format</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pro-video-setup-choose-from-our-list-of-best-5-webcams-and-mics/"><u>[Updated] Pro Video Setup Choose From Our List of Best 5 Webcams & Mics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-5-techniques-for-capturing-win10-games/"><u>2024 Approved 5 Techniques for Capturing Win10 Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-free-art-pages-for-easy-no-cost-illustrations/"><u>2024 Approved Leading Free Art Pages for Easy, No-Cost Illustrations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sharpen-focus-expert-tips-on-the-psx-eraser-tool/"><u>2024 Approved Sharpen Focus Expert Tips on the PSX Eraser Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beginners-tutorial-to-boot-new-hard-drives-with-windows-11-os/"><u>Beginner's Tutorial to Boot New Hard Drives with Windows 11 OS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/detailed-razer-kiyo-webcam-insights-for-2024/"><u>Detailed Razer Kiyo Webcam Insights for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-choices-for-premium-video-calls-on-smartphones/"><u>Essential Choices for Premium Video Calls on Smartphones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/exacting-speech-recognition-via-googles-precision-tools/"><u>Exacting Speech Recognition via Google's Precision Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-code-0xa00f4289-in-wincams/"><u>Navigating Through Code 0xA00F4289 in WinCams</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915179846-social-sensations-unveiled-dive-into-facebook-tweets-gram-and-tube/"><u>Social Sensations Unveiled - Dive Into Facebook, Tweets, Gram, and Tube</u></a></li>
 </ul></div>
 
