@@ -1,7 +1,7 @@
 ---
 title: "[New] Photograph Whole Page Spectacle"
-date: 2024-10-31T21:03:41.654Z
-updated: 2024-11-02T21:34:42.634Z
+date: 2024-11-09T02:53:00.753Z
+updated: 2024-11-11T04:05:34.039Z
 tags: 
   - screen-recording
   - ai video
@@ -54,13 +54,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
 
 Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
@@ -69,18 +62,18 @@ Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offe
 
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
 
 If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
 
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Capturing Screenshots With Browser Extensions
 
@@ -97,10 +90,10 @@ This is a free and easy to use add-on that is compatible with Google Chrome, Fir
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
@@ -125,6 +118,13 @@ If you don't want to go through the trouble of installing a screenshot extension
 
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
 
 Stand-alone software products that enable its users to take screenshots of entire documents and web pages are a great choice for professionals that frequently need a powerful screen capturing tool. [Screenpresso,](https://www.screenpresso.com/) [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm) or [Snagit](https://www.techsmith.com/screen-capture.html) are just a few screen recorders, that are capable of producing still and moving images of a computer display.
@@ -132,13 +132,6 @@ Stand-alone software products that enable its users to take screenshots of entir
 Taking full page screenshots on a Mac computer is made much simpler by [Paparazzi!](https://derailer.org/paparazzi/) app since you can capture a web page in only a few simple steps. Paparazzi allow you to set up a delay, so you can choose how many seconds before capture. You can download it free of charge, but its photo editing options are far from impressive.
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
 
@@ -151,6 +144,13 @@ Regardless of the method you use to create a full page screenshot, one thing is 
 Leave a comment below and let us know which method of capturing full page screenshots you like to use the most.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -167,14 +167,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-enhancing-your-playtime-non-gamebar-video-recording-options/"><u>[New] Enhancing Your Playtime Non-GameBar Video Recording Options</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-master-of-mayhem-top-10-roguelites-for-2024/"><u>[New] Master of Mayhem Top 10 Roguelites for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastering-obs-installation-and-usage-on-mac-systems/"><u>[New] Mastering OBS Installation and Usage on Mac Systems</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/kyrocket-views-implementing-these-proven-youtube-growth-methods-for-2024/"><u>[New] Skyrocket Views Implementing These Proven YouTube Growth Methods for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-swift-transfer-methods-getting-files-onto-computers/"><u>[New] Swift Transfer Methods Getting Files Onto Computers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-grasping-the-greener-side-of-valheim-top-seeds-list/"><u>[Updated] Grasping the Greener Side of Valheim Top Seeds List</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-windows-10-update-tool-its-role-in-upgrades-and-guide-for-disablinguninstallation/"><u>Exploring the Windows 10 Update Tool – Its Role in Upgrades and Guide for Disabling/Uninstallation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-10-secrets-to-flawless-live-broadcasts-of-cricket/"><u>In 2024, 10 Secrets to Flawless Live Broadcasts of Cricket</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-fixing-driver-power-cycle-errors-in-windows/"><u>Step-by-Step Solutions for Fixing Driver Power Cycle Errors in Windows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-design-mastery-creating-flawless-3d-structures-in-mc/"><u>[New] In 2024, Design Mastery Creating Flawless 3D Structures in MC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-from-bland-to-brilliant-transform-your-youtube-channels-image/"><u>[New] In 2024, From Bland to Brilliant Transform Your YouTube Channels' Image</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-premium-asmr-microphones-impressive-audio-at-economical-costs/"><u>[New] In 2024, Premium ASMR Microphones Impressive Audio at Economical Costs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-windows-and-mac-call-recordings-explained-20plus-ways-to-go/"><u>[New] Windows & Mac Call Recordings Explained - 20+ Ways to Go</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-achieving-seamless-group-discussions-in-google-chat/"><u>[Updated] Achieving Seamless Group Discussions in Google Chat</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-scooping-tech-step-by-step-guide-to-screen-recording/"><u>[Updated] Scooping Tech Step-by-Step Guide to Screen Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/comprehensive-analysis-top-budget-friendly-video-calling-tools-iphones-and-androids-for-2024/"><u>Comprehensive Analysis Top Budget-Friendly Video Calling Tools - iPhones & Androids for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/craft-impeccable-sequences-editor-supreme-for-vimeo-for-2024/"><u>Craft Impeccable Sequences Editor Supreme for Vimeo for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/navigating-tablet-selection-understanding-size-and-weight-criteria-for-your-perfect-match/"><u>Navigating Tablet Selection: Understanding Size & Weight Criteria for Your Perfect Match</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/plex-vs-streaming-titanique-for-2024/"><u>Plex vs Streaming Titanique for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/remaining-savings-on-apple-watch-se-gen-2-after-prime-days-exclusive-offers-unveiled-tech-analysis-at-zdnet/"><u>Remaining Savings on Apple Watch SE (Gen 2) After Prime Day's Exclusive Offers Unveiled | Tech Analysis at ZDNET</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/speedy-periscope-broadcasting-made-simple-for-2024/"><u>Speedy Periscope Broadcasting Made Simple for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Approach to Mastering the Steam Pro Controller on Switch\""
-date: 2024-10-30T21:17:09.668Z
-updated: 2024-11-02T17:27:34.456Z
+date: 2024-11-09T01:50:50.598Z
+updated: 2024-11-10T21:38:25.080Z
 tags: 
   - screen-recording
   - ai video
@@ -55,10 +55,10 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Wirelessly connect your Switch Pro controller to your PC**
@@ -69,13 +69,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
@@ -83,13 +76,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -101,6 +87,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -115,10 +108,10 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
@@ -139,6 +132,13 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -154,24 +154,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-how-to-screen-record-on-android/"><u>[New] 2024 Approved How to Screen Record on Android</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unlocking-ez-grabber-a-quick-guide-to-downloading-setting-up/"><u>[New] 2024 Approved Unlocking EZ Grabber - A Quick Guide to Downloading, Setting Up</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earning-big-on-youtube-shorts-must-haves-opportunities-and-more/"><u>[New] In 2024, Earning Big on YouTube Shorts Must-Haves, Opportunities and More</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-immediate-screen-capture-on-mac-revealing-the-best-5-approaches/"><u>[New] In 2024, Immediate Screen Capture on Mac Revealing the Best 5 Approaches</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-achieving-clear-dialogue-in-google-hangouts/"><u>[Updated] Achieving Clear Dialogue in Google Hangouts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-astronaut-eyes-choosing-the-finest-fps-games-for-2024/"><u>[Updated] Astronaut Eyes Choosing the Finest FPS Games for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-end-hardware-unveiled-by-gaming-influencers/"><u>[Updated] In 2024, High-End Hardware Unveiled by Gaming Influencers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-allocate-more-ram-to-minecraft/"><u>[Updated] In 2024, How to Allocate More Ram to Minecraft</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-ultimate-strategy-to-turn-your-fb-page-into-cash/"><u>[Updated] In 2024, The Ultimate Strategy to Turn Your FB Page Into Cash</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/6z2p5paw55qe44gq44ot44oh44kq44kz44oz44oq44o844k44o85aplusplus562w44oe44o844oric0g576o44gx44gp44cb5qmf6io95ocn44ks6auy44kb44kl57eo6zug44k944ov44oi5o6o6jam/"><u>革新的なビデオコンバーター対策ツール - 美しく、機能性を高める編集ソフト推薦</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/guia-facil-para-realizar-copias-de-seguridad-en-multiples-dispositivos-con-windows-11/"><u>Guía Fácil Para Realizar Copias De Seguridad en Múltiples Dispositivos Con Windows 11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-essential-online-hubs-for-got-audio-download/"><u>In 2024, Essential Online Hubs for GoT Audio Download</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ios-leading-ps2-game-emulation-tools/"><u>In 2024, IOS Leading PS2 Game Emulation Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/inside-the-studio-world-xvideo-studio-breakdown-for-2024/"><u>Inside the Studio World XVideo Studio Breakdown for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/master-the-art-of-iphone-7-screen-capture/"><u>Master the Art of iPhone 7 Screen Capture</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/screen-recording-mastery-with-lenovo-gear-for-2024/"><u>Screen Recording Mastery with Lenovo Gear for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/speedy-transaction-interstellar-imagery-update/"><u>Speedy Transaction: Interstellar Imagery Update</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-list-of-engaging-moba-titles-on-android/"><u>The Ultimate List of Engaging MOBA Titles on Android</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/tutoriel-facile-pour-faire-des-films-flat-steady-sur-windowsmacsmartphonetablette/"><u>Tutoriel Facile Pour Faire Des Films Flat Steady Sur Windows/Mac/Smartphone/Tablette</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-advanced-techniques-in-fbx-game-capture-systems/"><u>[New] 2024 Approved Advanced Techniques in FBX Game Capture Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-your-vlogs-with-high-quality-editing-premiere-pro-style/"><u>[New] 2024 Approved Elevating Your Vlogs with High-Quality Editing - Premiere Pro Style</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-clear-black-boards-in-your-youtube-videos/"><u>[New] In 2024, How to Clear Black Boards in Your YouTube Videos?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-top-audio-tools-for-professional-podcast-creators/"><u>[New] Top Audio Tools for Professional Podcast Creators</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creative-vanguard-collection-free-3d-text-psds-classics/"><u>Creative Vanguard Collection Free 3D Text PSDS Classics</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/vering-if-quick-youtube-subscriptions-really-work/"><u>Discovering if Quick YouTube Subscriptions Really Work</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-wi-fi-drivers-on-windows-7-simple-steps/"><u>Download and Update Wi-Fi Drivers on Windows 7 - Simple Steps!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-list-high-quality-cost-free-meeting-platforms/"><u>Essential List High-Quality, Cost-Free Meeting Platforms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/from-watchlist-to-documents-a-comprehensible-list-of-six-mac-techniques-for-screenshotting-netflix-for-2024/"><u>From Watchlist to Documents - A Comprehensible List of Six Mac Techniques for Screenshotting Netflix for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-f04-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy F04 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-essential-steps-to-achieve-flawless-nocturnal-photography/"><u>In 2024, Essential Steps to Achieve Flawless Nocturnal Photography</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-simplifying-video-sharing-on-the-cloud-by-microsoft/"><u>In 2024, Simplifying Video Sharing on the Cloud by Microsoft</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-unleash-your-inner-tech-wizard-xbox-one-snapshot-secrets-revealed/"><u>In 2024, Unleash Your Inner Tech Wizard Xbox One Snapshot Secrets Revealed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mastering-cartographic-charts-in-excel-a-comprehensive-tutorial-for-mapping-data-geography/"><u>Mastering Cartographic Charts in Excel: A Comprehensive Tutorial for Mapping Data Geography</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-m6-pro-4g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from M6 Pro 4G.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Batman Arkham Knight Glitch? Troubleshooting Steps for a Smooth Gaming Experience
-date: 2024-10-28T16:40:41.060Z
-updated: 2024-11-02T18:24:25.549Z
+date: 2024-11-05T19:44:08.871Z
+updated: 2024-11-11T04:21:53.690Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -60,6 +67,19 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
@@ -67,33 +87,25 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
@@ -111,11 +123,25 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -127,22 +153,8 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -167,22 +179,19 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-step-by-step-techniques-for-iphone-7-screen-saving/"><u>[New] 2024 Approved Step-by-Step Techniques for iPhone 7 Screen Saving</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unlocking-creative-potential-with-luts-in-cs6cc/"><u>[New] 2024 Approved Unlocking Creative Potential with LUTs in CS6/CC</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-affordable-video-grabbing-tools-tested-on-pcs-for-2024/"><u>[New] Affordable Video Grabbing Tools Tested on PCs for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-beginners-path-vrecord-instalment-manual-for-2024/"><u>[New] Beginners' Path VRecord Instalment Manual for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-precise-screen-record-azs-full-app-dissection/"><u>[New] Precise Screen Record - AZ's Full App Dissection</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-a-journey-through-time-best-history-youtubes-for-scholars-and-enthusiasts/"><u>[Updated] 2024 Approved A Journey Through Time Best History YouTubes for Scholars & Enthusiasts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-in-depth-look-at-videorecorderpros-features-and-review/"><u>[Updated] 2024 Approved In-Depth Look at VideoRecorderPro's Features & Review</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-bring-life-to-pixels-add-motion-blur-for-2024/"><u>[Updated] Bring Life to Pixels Add Motion Blur for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-understanding-the-role-of-software-in-high-quality-screencasts-for-2024/"><u>[Updated] Understanding the Role of Software in High-Quality Screencasts for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/are-browser-plug-ins-based-on-the-chatgpt-framework-reliable-and-safe-to-use/"><u>Are Browser Plug-Ins Based on the ChatGPT Framework Reliable & Safe to Use?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-t2-pro-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo T2 Pro 5G</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stabilize-your-gameplay-fixing-bugs-in-mass-effect-trilogy-definitive-edition-on-pc-and-xbox/"><u>How to Stabilize Your Gameplay - Fixing Bugs in Mass Effect Trilogy Definitive Edition on PC and Xbox</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-ideal-starting-point-uncomplicated-gaming-edits-tools/"><u>In 2024, The Ideal Starting Point Uncomplicated Gaming Edits Tools</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-15-pro-max-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 15 Pro Max to iPhone | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211471022-9781839388651-nde/"><u>NDE | Free Book</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/sound-seekers-sanctuary-download-and-listen-to-songs-for-2024/"><u>Sound Seeker's Sanctuary Download & Listen To Songs for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-techniques-for-lag-issues-on-naraka-bladespace-server/"><u>Troubleshooting Techniques for Lag Issues on Naraka Bladespace Server</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-reigning-over-youtube-top-proven-steps-for-prominence/"><u>[New] 2024 Approved Reigning Over YouTube Top Proven Steps for Prominence</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-a-step-by-step-approach-to-using-cg-central-luts-in-grading/"><u>[New] A Step-by-Step Approach to Using CG Central LUTs in Grading</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-investing-in-quality-the-path-to-top-tier-fb-video-ads/"><u>2024 Approved Investing in Quality The Path to Top-Tier FB Video Ads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-stream-like-a-champion-top-3-techniques-for-successful-lol-gameplay-capture/"><u>2024 Approved Stream Like a Champion Top 3 Techniques for Successful LOL Gameplay Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/cut-the-chatter-capture-game-moments-easily-for-2024/"><u>Cut the Chatter Capture Game Moments Easily for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/digital-canvas-enhancement-effortless-image-text-edits/"><u>Digital Canvas Enhancement Effortless Image Text Edits</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-a15-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy A15 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-camon-20-pro-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Camon 20 Pro 5G</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-from-basics-to-brilliance-mastering-the-art-of-macbook-air-screen-capture/"><u>In 2024, From Basics to Brilliance Mastering the Art of MacBook Air Screen Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-mac-professionals-recommendations-the-best-of-screenflow/"><u>In 2024, Mac Professionals Recommendations – The Best of ScreenFlow</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-tactics-to-determine-igtv-viewership-success/"><u>In 2024, Tactics to Determine IGTV Viewership Success</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-samsung-galaxy-s23-ultra-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Samsung Galaxy S23 Ultra Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/integrating-zoom-into-your-daily-schedule-for-2024/"><u>Integrating Zoom Into Your Daily Schedule for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macosdvdwinx-dvd-ripper/"><u>MacOS用DVDコピーソフト、WinX DVD Ripperのよくあるお問い合わせ質問解答</u></a></li>
 </ul></div>
 

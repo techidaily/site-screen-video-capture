@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Zoom Etiquette  Secrets to Polite and Productive Online Chats\""
-date: 2024-10-27T18:57:20.500Z
-updated: 2024-11-02T17:25:59.041Z
+date: 2024-11-05T18:44:09.262Z
+updated: 2024-11-11T03:40:33.417Z
 tags: 
   - screen-recording
   - ai video
@@ -74,10 +74,10 @@ The **Do not disturb from** checkbox allows you to define the duration of the da
 When the **Show message preview** box is unchecked, Zoom prevents the text of the chat messages from appearing on the screen, and you must open the message to view its content.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Chat in Zoom
@@ -87,13 +87,6 @@ When it comes to texting there are several options available for you to choose *
 ### 1\. How to Mention People in Zoom Chat?
 
 As it is with most social media platforms these days, even in Zoom chat, you can use the @ sign followed by the starting few characters of the person you want to mention. When you start typing, a list of participants with the matching names would appear, and you can then choose the one you want to mention.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. How to Send Chat Announcements?
 
@@ -115,18 +108,18 @@ Click the **+** icon, in the available field type the email address(es) of the u
 
 Launch Zoom app and sign into your account. Click the **Chat** icon from the top, click **Announcements** from the left bar, type a message in the text box in the right and/or attach a file if need be. Press **Enter** to send the message/attachment as an announcement to all the recipients.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. What File Types Does Zoom Chat Support?
 
 **Note:** Restricting file types and configuring other options granularly can only be done if you have purchased a paid subscription plan.
 
 At the time of this writing, **Zoom chat** supports almost all types of files. However, by signing in to your account on Zoom’s web portal, you can restrict them by their extensions. For example, you can configure your Zoom account to send only the files with JPG, ZIP, or RAR extensions.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Save Zoom Chats
 
@@ -141,10 +134,10 @@ Launch a web browser and sign in to your Zoom account on the web portal. From th
 ![Zoom Meeting Basic In meeting settings](https://images.wondershare.com/filmora/article-images/set-zoom-meeting-basic.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 2: Enable Autosave
@@ -154,17 +147,10 @@ Turn on the toggle switch next to **Auto saving chats** to configure your Zoom a
 ![Zoom Meeting Chat  Auto save](https://images.wondershare.com/filmora/article-images/auto-saving-chat-in-zoom-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How to Save Zoom Chats Manually
@@ -196,6 +182,26 @@ During a meeting session, click the **Chat** icon from the bottom of the interfa
 Click the **More** icon from the bottom-right area of the pane you enabled, and from the menu that appears next, click **Host Only** or **No One** to allow users to chat only with the host of the meeting (you in this case) or prevent them from chatting at all respectively.
 
 ![Disable Zoom Meeting Chat ](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. How to Permanently Disable Zoom Chats?
 
@@ -240,10 +246,16 @@ As long as you are chatting using **Zoom chat**, other participants cannot see y
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -261,14 +273,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-water-wonders-leading-fluid-game-selections/"><u>[New] Water Wonders Leading Fluid Game Selections</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-future-earning-potential-in-gaming-videos/"><u>[Updated] 2024 Approved Future Earning Potential in Gaming Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-webinar-session-screening/"><u>[Updated] Webinar Session Screening</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-mastering-the-deck-to-deck-experience-with-durecorder/"><u>2024 Approved Mastering the Deck-to-Deck Experience with DuRecorder</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/expertly-selected-webcams-and-recording-software-in-win-10-for-2024/"><u>Expertly Selected Webcams & Recording Software in Win 10 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/find-your-got-ringtone-leading-online-retailers-for-2024/"><u>Find Your GoT Ringtone - Leading Online Retailers for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-and-reviving-winget-a-guide-for-windows-11-users/"><u>Navigating and Reviving Winget: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-and-easy-steps-free-conversion-of-m4a-files-to-wav-format-on-mac-and-windows/"><u>Quick & Easy Steps: Free Conversion of M4A Files to WAV Format on Mac and Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-correcting-the-infamous-code-28-on-your-pc/"><u>Step-by-Step Solutions for Correcting the Infamous Code 28 on Your PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-10-innovative-video-call-platforms-azoom-not-necessary/"><u>[New] 2024 Approved 10 Innovative Video Call Platforms Azoom Not Necessary?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-discover-5-premier-apps-for-effortless-download-of-videos-and-sounds-from-fb-for-2024/"><u>[Updated] Discover 5 Premier Apps for Effortless Download of Videos and Sounds From FB for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-beginners-journey-into-advanced-video-coding/"><u>[Updated] In 2024, Beginner's Journey Into Advanced Video Coding</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-leading-green-visual-effects-recorders-operating-guide/"><u>2024 Approved Leading Green Visual Effects Recorders Operating Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-art-of-image-hunting-on-pexelscom/"><u>2024 Approved The Art of Image Hunting on Pexels.com</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715860095636-2024-approved-tiny-titans-top-games-anthology/"><u>2024 Approved Tiny Titans' Top Games Anthology!</u></a></li>
+<li><a href="https://win-online.techidaily.com/1726228044996-3gpflv-movavi/"><u>立即在線讓你的3GP檔案成功轉換至FLV格式 – Movavi簡單指南</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-beams-microphones-for-education-for-2024/"><u>Best Beams Microphones for Education for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/expert-tips-for-selecting-the-right-editor-filmora-and-democracy-creator-guide/"><u>Expert Tips for Selecting the Right Editor Filmora and Democracy Creator Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-achieving-perfect-picture-quality-on-zoom/"><u>In 2024, Achieving Perfect Picture Quality on Zoom</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-perfect-your-macs-microphone-usage-with-this-guide-to-audacity/"><u>In 2024, Perfect Your Mac's Microphone Usage with This Guide to Audacity</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-the-art-of-capturing-live-hulu-content-across-platforms/"><u>Mastering the Art of Capturing Live Hulu Content Across Platforms</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-enhances-learning-with-advanced-tech-for-youth/"><u>Mondly Enhances Learning with Advanced Tech for Youth</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-link-from-instas-photos-to-tiks-videos/"><u>The Ultimate Link From Insta's Photos to Tik's Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-amazing-strategies-for-boosting-daily-output-with-chatgpt/"><u>Top 7 Amazing Strategies for Boosting Daily Output with ChatGPT</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Laptop-Friendly Tips to Start Live Chats with WhatsApp Desktop\""
-date: 2024-08-10T13:01:30.223Z
-updated: 2024-08-11T13:01:30.223Z
+date: 2024-11-03T17:34:48.400Z
+updated: 2024-11-11T04:10:58.367Z
 tags: 
   - screen-recording
   - ai video
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625
 
 ## Laptop-Friendly Tips to Start Live Chats with WhatsApp Desktop
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 # How to Make a Video Call in WhatsApp Web in Laptop ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -40,9 +37,6 @@ Unfortunately, you can’t use WhatsApp on the desktop to make video calls direc
 
 Anyone asking, “how can I make a video call on WhatsApp Web?” is in the right place.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Make Video Call from WhatsApp Web in Laptop
 
 Everyone who has done a little research will see that you can use WhatsApp Web to make calls and send messages. At first glance, it appears as though the controls are the same, but you are more limited in options because you can’t, seemingly, make video calls.
@@ -59,6 +53,13 @@ In a few easy steps:
 
 ![set Bluestacks account](https://images.wondershare.com/filmora/article-images/set-bluestacks-account.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    1. Find WhatsApp in the Play or Apple store and download it.
 
 ![download WhatsApp](https://images.wondershare.com/filmora/article-images/download-whatsapp-in-bluestacks.JPG)
@@ -72,9 +73,6 @@ In a few easy steps:
 
 Your WhatsApp download will run from here, giving you the answer to how to make video calls in WhatsApp web – on laptops.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: WhatsApp Web Alternative
 
 There are 3 WhatsApp Web Alternatives that we can think of, off the top of our heads.
@@ -83,24 +81,28 @@ There are 3 WhatsApp Web Alternatives that we can think of, off the top of our h
 
 Skype is one of the longest-running video calling and web calling apps. It gives you a local international ID to make long-distance calls for free, and much easier. It also has some great functions if you need to work from home or video conference. Skype has excellent customer support and some wonderful add-ons to make the experience more accessible. When it comes to a tailored, professional finish, then Skype has the most experience. You can also [record Skype video call](https://tools.techidaily.com/wondershare/filmora/download/) easily.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Skype](https://images.wondershare.com/filmora/article-images/skype.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Google Duo
 
 If you can’t figure out how to make video calls on WhatsApp Web on laptops, then Google Duo is a brilliant alternative. It allows HD video and audio chat while working with low bandwidth or bad Wi-Fi. It’s fully compatible with all things made by Google – and it works by signing into your Google account, so your friends don’t need to do very much if you invite them to a call.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Google Duo](https://images.wondershare.com/filmora/article-images/google-duo-app.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Facebook Messenger
 
 If you don’t intend to do much in the way of group chatting, then video calling in Messenger is a reliable way to see friends during the lockdown. Most people have Facebook, it will work with all their products, and it is as easy to join as clicking a link. The downside is that it only works if FB knows who you are. If you closed your account with them, then you will need to start from scratch. That being said, audio and video are both clear, you can add in file sharing, and you have the option to instant message at all times. Plus, it will sync with your contacts in much the same way as Google Duo will.
@@ -108,8 +110,25 @@ If you don’t intend to do much in the way of group chatting, then video callin
 ![Facebook Messenger](https://images.wondershare.com/filmora/article-images/messenger-app.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Rounding Up
 
 So if you can’t work out how to make a WhatsApp call from a PC, try one of our other recommendations for keeping in touch. WhatsApp is a wonderfully secure, encrypted messaging service – but it isn’t the only one on the market. It might not even be the right product for you.
@@ -122,8 +141,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -131,5 +148,26 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-leading-8-flawless-recorder-picks/"><u>[New] 2024 Approved Leading 8 Flawless Recorder Picks</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-sideways-instagram-videos-an-enigma-or-bug-for-2024/"><u>[New] Sideways Instagram Videos An Enigma or Bug for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-valheims-flora-frontier-unlocking-the-best-seeds/"><u>[New] Valheim's Flora Frontier Unlocking the Best Seeds</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-windows-10-video-grabber-ultimate-for-2024/"><u>[New] Windows 10 Video Grabber Ultimate for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-extracting-youtube-content-with-ease/"><u>[Updated] 2024 Approved Extracting YouTube Content with Ease</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-precision-guide-to-mastering-mobizens-screen-capture-functionality/"><u>[Updated] In 2024, Precision Guide to Mastering Mobizen's Screen Capture Functionality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-online-partnerships-crafting-brand-joint-ventures-on-youtube-for-2024/"><u>[Updated] Online Partnerships Crafting Brand Joint Ventures on YouTube for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-tech-titans-select-top-10-video-capture-apps/"><u>[Updated] Tech Titans Select Top 10 Video Capture Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-top-rated-8-android-tools-for-team-video-calls/"><u>[Updated] The Top-Rated 8 Android Tools for Team Video Calls</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-transform-your-devices-display-into-a-high-quality-record-for-2024/"><u>[Updated] Transform Your Device's Display Into a High-Quality Record for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-capturing-motion-samsungs-time-lapse-guide/"><u>2024 Approved Capturing Motion Samsung's Time-Lapse Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-storytelling-through-scenery/"><u>2024 Approved Unveiling Storytelling Through Scenery</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-non-gaming-video-capture-and-screen-save-software/"><u>Best Non-Gaming Video Capture and Screen Save Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-building-a-reliable-routine-for-google-meet-sessions/"><u>In 2024, Building a Reliable Routine for Google Meet Sessions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-bygone-brilliance-art-beyond-intellectual-property/"><u>In 2024, Bygone Brilliance Art Beyond Intellectual Property</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-capturing-champions-faceoff/"><u>In 2024, Capturing Champions Faceoff</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/nailing-the-perfect-timelapse-with-ios-devices-for-2024/"><u>Nailing the Perfect Timelapse with iOS Devices for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tune-in-exciting-broadcasts-of-college-hoops-bracketing-through-march-madness-and-beyond/"><u>Tune In: Exciting Broadcasts of College Hoops - Bracketing Through March Madness & Beyond</u></a></li>
+<li><a href="https://discover-great.techidaily.com/tutorial-setting-up-offline-file-access-and-synchronization-with-windows-tenth-edition/"><u>Tutorial: Setting Up Offline File Access & Synchronization with Windows Tenth Edition</u></a></li>
+</ul></div>
 
