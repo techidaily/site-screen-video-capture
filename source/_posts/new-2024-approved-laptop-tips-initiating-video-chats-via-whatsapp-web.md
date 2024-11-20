@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Laptop Tips  Initiating Video Chats via WhatsApp Web\""
-date: 2024-10-24T23:24:01.892Z
-updated: 2024-10-28T02:43:09.525Z
+date: 2024-11-13T11:02:41.124Z
+updated: 2024-11-20T10:46:05.015Z
 tags: 
   - screen-recording
   - ai video
@@ -39,13 +39,6 @@ Unfortunately, you can’t use WhatsApp on the desktop to make video calls direc
 
 Anyone asking, “how can I make a video call on WhatsApp Web?” is in the right place.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Make Video Call from WhatsApp Web in Laptop
 
 Everyone who has done a little research will see that you can use WhatsApp Web to make calls and send messages. At first glance, it appears as though the controls are the same, but you are more limited in options because you can’t, seemingly, make video calls.
@@ -80,10 +73,7 @@ Your WhatsApp download will run from here, giving you the answer to how to make 
 There are 3 WhatsApp Web Alternatives that we can think of, off the top of our heads.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. [Skype Online](https://www.skype.com/en/features/skype-web/)
@@ -93,17 +83,7 @@ Skype is one of the longest-running video calling and web calling apps. It gives
 ![Skype](https://images.wondershare.com/filmora/article-images/skype.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. [Google Duo](https://duo.google.com/about/)
@@ -112,6 +92,10 @@ If you can’t figure out how to make video calls on WhatsApp Web on laptops, th
 
 ![Google Duo](https://images.wondershare.com/filmora/article-images/google-duo-app.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. [Facebook Messenger](https://www.messenger.com/)
 
 If you don’t intend to do much in the way of group chatting, then video calling in Messenger is a reliable way to see friends during the lockdown. Most people have Facebook, it will work with all their products, and it is as easy to join as clicking a link. The downside is that it only works if FB knows who you are. If you closed your account with them, then you will need to start from scratch. That being said, audio and video are both clear, you can add in file sharing, and you have the option to instant message at all times. Plus, it will sync with your contacts in much the same way as Google Duo will.
@@ -119,10 +103,7 @@ If you don’t intend to do much in the way of group chatting, then video callin
 ![Facebook Messenger](https://images.wondershare.com/filmora/article-images/messenger-app.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Rounding Up
@@ -130,6 +111,10 @@ If you don’t intend to do much in the way of group chatting, then video callin
 So if you can’t work out how to make a WhatsApp call from a PC, try one of our other recommendations for keeping in touch. WhatsApp is a wonderfully secure, encrypted messaging service – but it isn’t the only one on the market. It might not even be the right product for you.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -146,20 +131,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-best-practices-for-distance-dialogue-capture-for-2024/"><u>[New] Best Practices for Distance Dialogue Capture for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-demystifying-twitter-archives-for-users-and-analysts-for-2024/"><u>[New] Demystifying Twitter Archives for Users & Analysts for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-framemaster-top-screen-recorder-reviews-of-the-year-for-2024/"><u>[New] FrameMaster Top Screen Recorder Reviews of the Year for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-comprehensive-guide-to-downloading-standardized-youtube-images/"><u>[New] In 2024, Comprehensive Guide to Downloading Standardized YouTube Images</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-definitive-list-of-economical-teleconference-platforms/"><u>[New] In 2024, The Definitive List of Economical Teleconference Platforms</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-androids-prime-video-calls-top-10-cost-free-options/"><u>[Updated] 2024 Approved Android's Prime Video Calls Top 10 Cost-Free Options</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-best-video-capture-tools-for-windows/"><u>[Updated] 2024 Approved Ultimate Guide Best Video Capture Tools for Windows</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-how-to-convert-twitter-videos-to-gifs/"><u>[Updated] How To Convert Twitter Videos To GIFS?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-one-step-guide-to-simultaneous-cam-plus-screen-recording-for-2024/"><u>[Updated] One Step Guide to Simultaneous Cam + Screen Recording for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-crafting-unique-snapchat-experiences-with-120plus-innovative-ideas-for-personal-stories/"><u>2024 Approved Crafting Unique Snapchat Experiences with 120+ Innovative Ideas for Personal Stories</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-explore-our-12-tycoon-classics-for-engrossing-experiences/"><u>2024 Approved Explore Our #12 Tycoon Classics for Engrossing Experiences</u></a></li>
-<li><a href="https://fox-info.techidaily.com/avoid-high-costs-buying-budget-friendly-gopros/"><u>Avoid High Costs Buying Budget-Friendly GoPros</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/holy-stone-racing-delight-a-kid-friendly-remote-control-toy-reviewed-for-families-seeking-fun-and-adventure/"><u>Holy Stone Racing Delight - A Kid-Friendly Remote Control Toy Reviewed for Families Seeking Fun and Adventure</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-guide-for-macbook-webcam-capture/"><u>[New] Essential Guide for MacBook Webcam Capture</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-proven-strategies-for-unveiling-pure-photospace-using-photopea/"><u>[New] In 2024, Proven Strategies for Unveiling Pure Photospace Using Photopea</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-streamlining-song-selection-for-youtube-playlist-curation/"><u>[New] In 2024, Streamlining Song Selection for YouTube Playlist Curation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-integrating-snaps-smoothly-into-your-zoom-schedule/"><u>[New] Integrating Snaps Smoothly Into Your Zoom Schedule</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-techniques-for-capturing-audio-on-ipad-for-2024/"><u>[Updated] Innovative Techniques for Capturing Audio on iPad for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-the-nuances-of-high-resolution-vr-recordings-for-2024/"><u>[Updated] Mastering the Nuances of High-Resolution VR Recordings for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-streamline-your-workflow-macos-screencast-tutorial/"><u>[Updated] Streamline Your Workflow MacOS Screencast Tutorial</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-tips-to-reduce-compression-artifacts-in-obs-for-2024/"><u>[Updated] Tips to Reduce Compression Artifacts in OBS for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-secure-and-simple-photovideo-sharing-with-ios/"><u>2024 Approved Secure and Simple Photo/Video Sharing with IOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-7-free-pc-screen-capture-programs/"><u>2024 Approved Top 7 Free PC Screen Capture Programs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-nokia-c210-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Nokia C210</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-pop-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-virtual-environments-for-advanced-learning/"><u>In 2024, Virtual Environments for Advanced Learning</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-guide-to-recording-video-without-auditory-disruption-for-2024/"><u>The Ultimate Guide to Recording Video without Auditory Disruption for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-14-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone 14? 5 Tips You Must Know</u></a></li>
 </ul></div>
 

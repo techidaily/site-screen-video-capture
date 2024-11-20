@@ -1,7 +1,7 @@
 ---
 title: "[New] Decoding Fraps Video Capturing Techniques"
-date: 2024-09-29T22:21:09.422Z
-updated: 2024-10-05T00:28:55.722Z
+date: 2024-11-13T04:20:25.025Z
+updated: 2024-11-19T18:19:36.903Z
 tags: 
   - screen-recording
   - ai video
@@ -33,27 +33,21 @@ DOWNLOAD LINK: [FRAPS](https://fraps.com/)
 
 ![fraps](https://images.wondershare.com/filmora/article-images/fraps.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:** Fraps' benchmarking tools are located under the FPS tab. When Fraps is active, the framerate counter is always visible in-game. If you want to record a benchmark while playing, just press F11, but first adjust the benchmarking parameters under FPS > Benchmark Settings to your desire.
 
 ![fps](https://images.wondershare.com/filmora/article-images/fps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ****Step 3:** Stop the recording, then go to the Movies tab to see how Fraps is recording your game. Some choices are accessible in the free version, while others are not. The loop buffer length is deactivated, which allows you to use the hotkey to record the latest "X" seconds of gameplay. You may, however, choose whether you want a full-size or half-size recording and select the maximum frame rate when recording. You may also change the sound capture settings, record your microphone, hide or show the mouse pointer, lock the framerate while recording, and capture lossless RGB.
 
 ![movies](https://images.wondershare.com/filmora/article-images/movies.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Pros and Cons
 
@@ -100,6 +94,10 @@ To get started with this program, go to the following links, which we've divided
 
 ![the recording screen](https://images.wondershare.com/filmora/guide/recording-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2\. Customize the Recording Screen
 
 The next step is to use the completely configurable tools to configure the screen for recording purposes. You may also choose the frame rate and the area of the recording screen to include in your recordings.
@@ -111,6 +109,10 @@ Step 3\. Recording Start/Stop
 When you're through with the changes, press the record button to begin recording the screen straight away. All you have to do is press the red outlined button, and everything that happens within the recording area will be captured.
 
 ![recording start](https://images.wondershare.com/filmora/article-images/recording-start.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Finally, you must manually send the recording by clicking the Stop button, which will terminate the recording and take you to the editor.
 
@@ -131,13 +133,6 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 * It is not possible to record the computer screen or webcam.
 * You can't post a captured video to YouTube or Vimeo using it.
 * The Mac version of Fraps Screen Recorder is currently unavailable.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Best Fraps Alternative
 
@@ -170,10 +165,7 @@ The next step is to use the completely configurable tools to configure the scree
 ![customize the recording screen](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3\. Recording Start/Stop
@@ -183,10 +175,7 @@ When you're through with the changes, press the record button to begin recording
 ![recording start](https://images.wondershare.com/filmora/article-images/recording-start.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Finally, you must manually send the recording by clicking the Stop button, which will terminate the recording and take you to the editor.
@@ -196,13 +185,6 @@ Step 4\. Export or Share Recordings
 Finally, you may save your video with editing to your selected place on your PC, or you can post it to YouTube with a simple click on the YouTube menu bar.
 
 ![export](https://images.wondershare.com/filmora/article-images/export.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -215,13 +197,6 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 * It is not possible to record the computer screen or webcam.
 * You can't post a captured video to YouTube or Vimeo using it.
 * The Mac version of Fraps Screen Recorder is currently unavailable.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Best Fraps Alternative
 
@@ -280,10 +255,7 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 * The Mac version of Fraps Screen Recorder is currently unavailable.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Best Fraps Alternative
@@ -329,6 +301,10 @@ Step 4\. Export or Share Recordings
 Finally, you may save your video with editing to your selected place on your PC, or you can post it to YouTube with a simple click on the YouTube menu bar.
 
 ![export](https://images.wondershare.com/filmora/article-images/export.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -358,19 +334,19 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-quick-screen-grabs-for-win-11-users/"><u>[New] 2024 Approved Quick Screen Grabs for Win 11 Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-amplify-your-digital-presence-a-compreranautical-guide-to-instagram-stardom-with-9-steps/"><u>[New] Amplify Your Digital Presence A Compreranautical Guide to Instagram Stardom with 9 Steps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-ultimate-checklist-for-streamlined-recording-of-virtual-gatherings/"><u>[New] In 2024, The Ultimate Checklist for Streamlined Recording of Virtual Gatherings</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-movements-intova-xs-video-excellence/"><u>[New] Mastering Movements Intova X's Video Excellence</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-valheims-optimal-seed-selection-strategies-for-2024/"><u>[New] Valheim's Optimal Seed Selection Strategies for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-guide-to-choosing-between-free-and-paid-zoom-transcribers/"><u>[Updated] The Ultimate Guide to Choosing Between Free & Paid Zoom Transcribers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-high-resolution-spaces-for-online-viewers/"><u>2024 Approved High-Resolution Spaces for Online Viewers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-ultimate-list-of-exciting-pc-clickers-you-cant-miss/"><u>2024 Approved The Ultimate List of Exciting PC Clickers You Can't Miss</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/downloading-and-saving-fb-video-files-os-agnostic-guide/"><u>Downloading and Saving FB Video Files OS-Agnostic Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-y100a-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo Y100A FRP Locks</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-realme-narzo-n55-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Realme Narzo N55 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-unlocking-mov-recording-potential-win-11s-top-six-methods/"><u>In 2024, Unlocking .MOV Recording Potential Win 11'S Top Six Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-htc-u23-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to HTC U23 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-innovative-methods-to-archive-lol-dueling/"><u>[Updated] 2024 Approved Innovative Methods to Archive LOL Dueling</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-effortless-ios-screen-recording-techniques-for-2024/"><u>[Updated] Effortless iOS Screen Recording Techniques for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-capturing-live-screens-webcam-setup-on-hp-devices/"><u>[Updated] In 2024, Capturing Live Screens Webcam Setup on HP Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-experts-choice-top-10-best-free-lut-downloads/"><u>[Updated] In 2024, Expert's Choice - Top 10 Best Free LUT Downloads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-spotifys-top-hits-ranked-1-10-for-2024/"><u>[Updated] Spotify's Top Hits Ranked 1-10 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-erweitert-das-ipa-okosystem-durch-das-neue-globale-one-partner-programm-einbindung-und-zusammenarbeit-fur-verbesserte-prozessautomatisierung/"><u>ABBYY Erweitert Das IPA-Ökosystem Durch Das Neue, Globale One Partner Programm: Einbindung Und Zusammenarbeit Für Verbesserte Prozessautomatisierung</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-oppo-reno-8t-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Oppo Reno 8T 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-conversion-of-mkv-files-to-webm-format-movavi-video-converter/"><u>Free Online Conversion of MKV Files to WebM Format - Movavi Video Converter</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/from-ordinary-snaps-to-captivating-creations-editing-on-snapchat-for-2024/"><u>From Ordinary Snaps to Captivating Creations Editing on Snapchat for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-infinix-note-30-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Infinix Note 30 5G FRP?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-videovantage-warriors/"><u>In 2024, VideoVantage Warriors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-windows-10-apps-and-games-to-explore-and-download/"><u>In 2024, Windows 10 Apps and Games to Explore and Download</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-ai-voice-text-to-speech-wondershare-virbo-glossary/"><u>New 2024 Approved What Is AI Voice Text to Speech? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-picks-best-free-cross-platform-video-communication-tools-for-2024/"><u>Top Picks Best Free Cross-Platform Video Communication Tools for 2024</u></a></li>
 </ul></div>
 

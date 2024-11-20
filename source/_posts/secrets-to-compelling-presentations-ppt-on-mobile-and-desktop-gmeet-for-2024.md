@@ -1,7 +1,7 @@
 ---
 title: "\"Secrets to Compelling Presentations  PPT on Mobile & Desktop GMeet for 2024\""
-date: 2024-10-22T17:12:01.358Z
-updated: 2024-10-27T20:06:10.322Z
+date: 2024-11-17T02:13:53.085Z
+updated: 2024-11-20T06:06:01.412Z
 tags: 
   - screen-recording
   - ai video
@@ -69,6 +69,10 @@ There you will see two options and must click one of the following options,
 
 The slideshow will automatically start to broadcast to viewers. We are sure you are not wondering **how to present a ppt in Google Meet** anymore!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Presenting Google Slides in Google Meet on Laptop
 
 In some cases, individuals opt to use Google Slides instead of PowerPoint presentations, but have no fear because Google Meet is equipped to share Google Slides as well. The process is quite similar to that of sharing a PowerPoint, but there are a few changes.
@@ -79,27 +83,17 @@ So to answer your question on **how to present slide in Google Meet**,
 
 ![Share slides on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-google-slides-google-meet.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Open Google Meet on your browser and go on to the meeting link page. Here you have two options, one - you can join the session directly and then start presenting the screen, or two - share the screen and then join the session.
 
 If you decide to go with the latter option, then click the “Present” option. Since I’m using the Chrome browser, I will choose the slides tab to share. If you would like to share any audio, make sure to tick the share tab audio button as well!
 
 ![Share slides on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-google-slides-tab-google-meet.jpg)
 
-1. Once you have gone through these steps your Google Slides will automatically be visible to anyone and everyone in the Google Meet session.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+1. Once you have gone through these steps your Google Slides will automatically be visible to anyone and everyone in the Google Meet session.
 
 ## Part 3: How to Present PowerPoint or Slides in Google Meet On iPhone and iPad?
 
@@ -112,10 +106,7 @@ Step 2) To start sharing your screen, press the three-button icon which appears 
 ![Share slides on Google Meet on iPhone ](https://images.wondershare.com/filmora/article-images/share-powerpoint-on-google-meet-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Step 3) After doing so, the presenter will see a notification on their screen allowing them to broadcast their entire screen. Upon clicking “Start Broadcast” the screen will start to share in three seconds. Switch from Google Meet to PowerPoint or Google Slides and the screen will automatically share slides.
@@ -147,22 +138,12 @@ Instead, there is another way, upon finishing the discussion on the PowerPoint s
 ![stop PPT sharing on Google Meet ](https://images.wondershare.com/filmora/article-images/stop-powerpoint-sharing-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If that option is not visible to the presenter, they can return to their Google Meet session, and click the stop sharing button as shown in the image below.
 
 ![stop  Google Meet present](https://images.wondershare.com/filmora/article-images/stop-google-meet-present.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Moreover, if you are on an iPhone or iPad, you can simply click the red stripe on the top of your screen and a notification popup will appear indicating that you can stop presenting.
 
@@ -188,6 +169,10 @@ Presenting a ppt on Google Meet is not all that difficult, if you know what to d
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -203,22 +188,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-innovative-interaction-integrating-watch-with-macos/"><u>[New] 2024 Approved Innovative Interaction Integrating Watch with MacOS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-converting-sdr-video-to-hdr-a-comprehensive-tutorial/"><u>[New] Converting SDR Video to HDR - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-downloading-youtube-playlists-made-simple-and-easy/"><u>[New] Downloading YouTube Playlists Made Simple & Easy</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-depth-recmaster-screen-capture-analysis-for-2024/"><u>[New] In-Depth Recmaster Screen Capture Analysis for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-invisible-viewers-of-fb-episodes-for-2024/"><u>[New] Invisible Viewers of Fb Episodes for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-secrets-unveiled-complete-guide-to-live-tv-recording-via-windows-pcs/"><u>[New] Secrets Unveiled Complete Guide to Live TV Recording via Windows PCs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-voice-over-techniques-creating-compelling-video-content-for-2024/"><u>[New] Voice Over Techniques Creating Compelling Video Content for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-superior-sound-capture-insiders-list-of-the-best-9-microphones-online/"><u>[Updated] 2024 Approved Superior Sound Capture Insider's List of the Best 9 Microphones Online</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-essential-leisure-ideal-screen-time-solutions/"><u>[Updated] In 2024, Essential Leisure Ideal Screen-Time Solutions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-launching-at-optimal-times-a-podcast-guide/"><u>[Updated] Launching at Optimal Times A Podcast Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfecting-the-art-of-sound-blending-a-comprehensive-audacity-workshop-series/"><u>[Updated] Perfecting the Art of Sound Blending A Comprehensive Audacity Workshop Series</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-succeed-in-screen-recording-detailed-orderly-guide/"><u>[Updated] Succeed in Screen Recording Detailed, Orderly Guide</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1-manycam-premium-live-streaming-and-virtual-background-app/"><u>1. ManyCam: Premium Live Streaming and Virtual Background App</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-premium-free-ticking-companion/"><u>2024 Approved Premium Free Ticking Companion</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/easy-methods-to-sync-your-iphone-with-mac-transferring-videos-seamlessly/"><u>Easy Methods to Sync Your iPhone with Mac - Transferring Videos Seamlessly</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/instant-screen-grabber-plus-easy-guide-soundtrack-for-2024/"><u>Instant Screen Grabber + Easy Guide Soundtrack for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/quick-reference-guide-to-mastering-mobizens-screen-recording-tech/"><u>Quick Reference Guide to Mastering Mobizen's Screen Recording Tech</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-simplified-playlist-crafting-for-youtube-fans-on-desktop-and-mobile-devices/"><u>[New] 2024 Approved Simplified Playlist Crafting for YouTube Fans on Desktop & Mobile Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-simplicity-guide-to-iphone-screen-recordings/"><u>[New] 2024 Approved Ultimate Simplicity Guide to iPhone Screen Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-explore-revolutionary-meeting-platforms-that-cost-nothing/"><u>[New] Explore Revolutionary Meeting Platforms That Cost Nothing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quickcopy-custodians-judgment/"><u>[New] In 2024, QuickCopy Custodians' Judgment</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-rhythm-revelations-mastering-music-for-visual-storytelling/"><u>[New] In 2024, Rhythm Revelations Mastering Music for Visual Storytelling</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-unlocking-untapped-utility-zoom-in-on-minecraft/"><u>[New] In 2024, Unlocking Untapped Utility Zoom in on Minecraft</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-pioneering-powerpoint-recordings-via-contemporary-webcams-for-2024/"><u>[New] Pioneering PowerPoint Recordings via Contemporary Webcams for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-premium-tools-for-virtual-meeting-efficiency/"><u>[New] Premium Tools for Virtual Meeting Efficiency</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-essential-guide-to-integrating-voice-over-in-ppts-for-2024/"><u>[New] The Essential Guide to Integrating Voice Over in PPTs for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-future-of-mobile-photography-with-xiaomis-mi-11-for-2024/"><u>[New] The Future of Mobile Photography with Xiaomi's Mi 11 for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-win10-video-capture-pro-professional-edition-for-2024/"><u>[New] Win10 Video Capture Pro - Professional Edition for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-premier-terraria-maps-to-maximize-mining-success/"><u>[Updated] 2024 Approved Premier Terraria Maps to Maximize Mining Success</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-record-google-meet-for-2024/"><u>[Updated] How to Record Google Meet for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-premium-mac-capture-software-substitutes-for-bandicam/"><u>[Updated] In 2024, Premium Mac Capture Software Substitutes for Bandicam</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-analysis-selecting-the-leading-5-virtual-title-experts/"><u>[Updated] In-Depth Analysis Selecting the Leading 5 Virtual Title Experts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-compendium-selecting-the-best-free-srt-translation-tools/"><u>[Updated] The Ultimate Compendium Selecting the Best Free SRT Translation Tools</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/607944-9781407031170-by-your-side/"><u>By Your Side | Free Book</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-free-tribe-50-branding-banners-ready-to-unleash/"><u>In 2024, Free Tribe 50 Branding Banners Ready to Unleash</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-it-feasible-to-extend-my-notebooks-existing-memory/"><u>Is It Feasible to Extend My Notebook's Existing Memory?</u></a></li>
 </ul></div>
 

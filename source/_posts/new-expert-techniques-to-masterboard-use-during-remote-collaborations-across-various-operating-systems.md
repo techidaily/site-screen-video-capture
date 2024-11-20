@@ -1,7 +1,7 @@
 ---
 title: "[New] Expert Techniques to Masterboard Use During Remote Collaborations Across Various Operating Systems"
-date: 2024-11-05T01:33:42.504Z
-updated: 2024-11-11T05:12:55.546Z
+date: 2024-11-15T17:53:47.630Z
+updated: 2024-11-19T21:48:23.539Z
 tags: 
   - screen-recording
   - ai video
@@ -41,13 +41,6 @@ If you are interested in using this fantastic tool, the following article will c
 
 Google Meet has been a useful video communication facility for professionals and students. Google Meet integrates Jamboard, an online tool that enables you to brainstorm ideas during the virtual meet-up. The meeting host can easily activate Jamboard after starting a meeting. This makes **Google Meet Whiteboarding** easily accessible for all participants during the live session. In this way, students can collaborate with instructors or other students very clearly. Moreover, the whiteboard feature also allows them to answer questions and review notes. Let’s know how to use a whiteboard in Google Meet and how it works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 2: How to Use a Whiteboard in Google Meet on a Laptop?**
 
 The in-built whiteboard can be comfortably used in Google Meet on a laptop. You do not need any extension or third-party application to use a whiteboard. Moreover, you can create a new whiteboard or use the one you have already created. You can access the already saved whiteboard from Google Drive. If you want to excel in the art of creating a whiteboard on Google Meet, we have summarized the process in simple steps.
@@ -73,17 +66,7 @@ Click on the **start a new whiteboard** option**.**
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
@@ -104,13 +87,6 @@ Go to your home page and launch the Microsoft Whiteboard.
 
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
 
 Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Android devices. Even if you try accessing Google Meet from the browser on your android phone, you are likely to be redirected to Google Meet, where there is no whiteboard option. So, the only way out is to download an external whiteboard app from Playstore and use its whiteboard. Your whiteboard activity will be visible to other participants in a Google Meet session when you share the screen. However, this option is only viable if you are the only one illustrating on the whiteboard and no other participants are required to perform any whiteboard activity. If this works for you, follow the step-by-step guide below.
@@ -128,6 +104,14 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 **Navigate to your home page and launch the whiteboard app. What you draw on the whiteboard will be visible to the meeting attendees.**
 
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
 
@@ -148,6 +132,10 @@ Select **Download as PDF** from the list of options. Locate the downloaded file 
 **Note:** The downloaded PDF file can be shared as an attachment in the email. Likewise, you may use any other platform such as Whatsapp Web to send the saved Jams to your students, colleagues, and others.
 
 ![save Google Meet whiteboard as pdf](https://images.wondershare.com/filmora/article-images/download-google-meet-whiteboard-as-pdf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Conclusion**
 
@@ -170,22 +158,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-screen-capture-elite-top-10-on-pc-and-mac-revealed/"><u>[New] 2024 Approved Screen Capture Elite Top 10 on PC & Mac Revealed</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-understanding-and-utilizing-ez-grabber-like-a-pro/"><u>[New] 2024 Approved Understanding and Utilizing EZ Grabber Like a Pro</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-dish-on-titles-creative-concepts-for-cookery-vids-for-2024/"><u>[New] Dish on Titles Creative Concepts for Cookery Vids for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-essential-leisure-ideal-screen-time-solutions/"><u>[New] In 2024, Essential Leisure Ideal Screen-Time Solutions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-5-secrets-to-preventing-blank-scenes-with-obs-recording/"><u>[Updated] 2024 Approved 5 Secrets to Preventing Blank Scenes with OBS Recording</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-audio-capture-access-and-assessment/"><u>[Updated] Audio Capture Access & Assessment</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-implement-xps-video-editing-suite-instantly-for-2024/"><u>[Updated] Implement XP's Video Editing Suite Instantly for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-editing-excellence-incorporating-timestamps-and-labels/"><u>[Updated] In 2024, Editing Excellence Incorporating Timestamps and Labels</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-logitech-4k-pro-webcam-complete-specifications-and-features/"><u>[Updated] Logitech 4K Pro Webcam Complete Specifications & Features</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convert-and-transfer-your-dvds-effortlessly-with-macx-the-premier-free-tool-to-upload-and-convert-dvd-media-onto-an-iphone-4-using-mac-os/"><u>Convert & Transfer Your DVDs Effortlessly with MacX: The Premier Free Tool to Upload and Convert DVD Media Onto an iPhone 4 Using Mac OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cutting-edge-internet-tips-for-the-jetsetter/"><u>Cutting-Edge Internet Tips for the Jetsetter</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-free-gigabyte-audio-drivers-today/"><u>Download Free Gigabyte Audio Drivers Today!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975480449-enhance-your-pcs-wireless-connectivity-download-microsofts-updated-bluetooth-drivers-for-win-10-11-8-and-7/"><u>Enhance Your PC's Wireless Connectivity: Download Microsoft’s Updated Bluetooth Drivers for Win 10, 11, 8 & 7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-lava-yuva-2-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Lava Yuva 2 Devices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-path-to-perfect-presence-on-zoom-platforms-for-2024/"><u>The Path to Perfect Presence on Zoom Platforms for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-poco-x6-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Poco X6 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/transforme-seus-arquivos-aac-em-mp3-sem-custos-tecnica-simples-no-site-do-movavi/"><u>Transforme Seus Arquivos AAC Em MP3 Sem Custos - Técnica Simples No Site Do Movavi</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-ultimate-visual-storyteller-harmony-in-imagery-and-melodies/"><u>[New] In 2024, Ultimate Visual Storyteller Harmony in Imagery & Melodies</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-virtual-realm-rigging-for-vr/"><u>[New] In 2024, Virtual Realm Rigging for VR</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-elevate-your-video-remove-extraneous-details-effectively/"><u>[Updated] In 2024, Elevate Your Video - Remove Extraneous Details Effectively</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-maiden-shoot-revelations-and-critique/"><u>[Updated] Maiden Shoot Revelations and Critique</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-speech-recording-top-apps-for-your-ipad-for-2024/"><u>[Updated] Mastering Speech Recording Top Apps for Your iPad for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screen-capture-simplified-top-choices-for-easy-video-making/"><u>[Updated] Screen Capture Simplified Top Choices for Easy Video Making</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-techniques-for-high-quality-xbox-game-recordings/"><u>[Updated] Techniques for High-Quality Xbox Game Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-from-still-images-to-time-lapses-ipad-edition/"><u>2024 Approved From Still Images to Time-Lapses IPad Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-approach-preparing-for-successful-interviews-using-chatgpt/"><u>Innovative Approach: Preparing for Successful Interviews Using ChatGPT</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastery-in-multichannel-instagram-to-tiktok-connector-for-2024/"><u>Mastery in Multichannel Instagram to TikTok Connector for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-exception-access-violation-issues-proactive-defense-strategies-for-it-professionals/"><u>Overcoming Exception Access Violation Issues : Proactive Defense Strategies for IT Professionals</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-users-explore-pandora-universe-with-an-updated-avatar-experience/"><u>PC Users, Explore Pandora Universe with an Updated Avatar Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-correct-win-oculus-connectivity-problems/"><u>Steps to Correct Win-Oculus Connectivity Problems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/windowsnap-tool-for-straightforward-recording/"><u>WindowSnap Tool for Straightforward Recording</u></a></li>
 </ul></div>
 

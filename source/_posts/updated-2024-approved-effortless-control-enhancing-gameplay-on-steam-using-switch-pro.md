@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Effortless Control  Enhancing Gameplay on Steam Using Switch Pro\""
-date: 2024-11-06T00:27:25.335Z
-updated: 2024-11-11T01:23:47.022Z
+date: 2024-11-15T16:07:45.998Z
+updated: 2024-11-20T01:46:11.656Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,10 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
 It's also easy, but you need to buy an adapter or have Bluetooth on your computer.
@@ -62,41 +66,28 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
-* Once Steam is set up, you can begin using it.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+* Once Steam is set up, you can begin using it.
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
@@ -117,10 +108,7 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
@@ -154,15 +142,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-navigating-youtube-skip-the-top-8-novice-missteps/"><u>[New] 2024 Approved Navigating YouTube Skip the Top 8 Novice Missteps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-professional-gamers-toolkit-advanced-recording-tactics/"><u>[New] Professional Gamers' Toolkit Advanced Recording Tactics</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unveiling-elite-selection-9-best-mic-recorders-online/"><u>[Updated] 2024 Approved Unveiling Elite Selection 9 Best Mic Recorders Online</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-choreographed-battle-top-5-martial-arts-video-game-list/"><u>[Updated] In 2024, Choreographed Battle Top 5 Martial Arts Video Game List</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-perfect-mac-imagery-a-guide-to-5-effective-snapshot-techniques-for-2024/"><u>[Updated] Perfect Mac Imagery A Guide to 5 Effective Snapshot Techniques for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/projector-or-tv-optimal-choice-for-excellent-4k-display-experience-for-2024/"><u>Projector or TV Optimal Choice for Excellent 4K Display Experience for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/tackling-full-storage-resolve-100-disk-use-on-windows-10/"><u>Tackling Full Storage: Resolve 100% Disk Use on Windows 10</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-fast-track-to-hot-photos-on-pexels-for-2024/"><u>The Fast Track to Hot Photos on Pexels for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-and-tailor-image-dimensions-with-these-key-steps-in-windows-11/"><u>Transform and Tailor Image Dimensions with These Key Steps in Windows 11</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-audio-refinement-the-ultimate-guide-to-removing-background-noise-in-fcpx/"><u>Updated 2024 Approved Audio Refinement The Ultimate Guide to Removing Background Noise in FCPX</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-paced-favorites-leading-background-music-in-yt-shorts/"><u>[Updated] 2024 Approved Fast-Paced Favorites Leading Background Music in YT Shorts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-roguelike-vs-roguelite-debates-and-history/"><u>[Updated] In 2024, Roguelike Vs. Roguelite Debates and History</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-integrating-youtube-videos-into-facebook-sharing-options/"><u>[Updated] Integrating YouTube Videos Into Facebook Sharing Options</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-harness-your-screen-with-screencastify-recorder/"><u>2024 Approved Harness Your Screen with Screencastify Recorder</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210545407--astrology-self-care-pisces/"><u>Astrology Self-Care: Pisces | Free Book</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-fullscreen-imprint-of-site/"><u>In 2024, Fullscreen Imprint of Site</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-perfect-peace-mastering-the-art-of-muting-individuals-on-gomeet/"><u>In 2024, Perfect Peace Mastering the Art of Muting Individuals on GoMeet</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-ultimate-list-of-8-chromebook-compatible-digital-audio-workstations-for-composers-and-producers/"><u>New In 2024, The Ultimate List of 8 Chromebook-Compatible Digital Audio Workstations for Composers and Producers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/recording-excellence-the-top-screen-recorder-list/"><u>Recording Excellence The Top Screen Recorder List</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/seamless-scratching-for-chrome-devices-for-2024/"><u>Seamless Scratching for Chrome Devices for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-new-face-of-sony-updates-to-s6500-blu-rayhd-player-for-2024/"><u>The New Face of Sony Updates to S6500 Blu-Ray/HD Player for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-simple-trick-to-finding-your-installed-application-home/"><u>The Simple Trick to Finding Your Installed Application Home</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-smartphone-explore-the-best-ai-software-on-any-device-android-and-iphone/"><u>Transform Your Smartphone: Explore the Best AI Software on Any Device (Android & iPhone)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Simplified Guide to Incorporating Ken Burns Effect in Camtasa\""
-date: 2024-10-23T19:27:12.685Z
-updated: 2024-10-28T00:49:04.369Z
+date: 2024-11-13T05:20:28.885Z
+updated: 2024-11-20T03:06:08.592Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,7 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +60,7 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,16 +88,7 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -121,18 +106,15 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-screen-commanders-face-off/"><u>[New] In 2024, Screen Commanders Face-Off</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-obs-and-zoom-synchronization-techniques-for-2024/"><u>[New] OBS & Zoom Synchronization Techniques for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-shield-identity-in-images-the-most-effective-cropping-tools/"><u>[New] Shield Identity in Images The Most Effective Cropping Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pioneering-visual-editing-3dlut-for-photosvideos/"><u>[Updated] Pioneering Visual Editing 3DLUT for Photos/Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-six-secrets-to-masterful-mov-saving-in-windows-11/"><u>2024 Approved Six Secrets to Masterful .MOV Saving in Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/asus-pa32u-in-detail-excellence-in-color-and-contrast-for-2024/"><u>Asus PA32U in Detail Excellence in Color and Contrast for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/capture-games-effortlessly-with-nvidia-for-2024/"><u>Capture Games Effortlessly with NVIDIA for 2024</u></a></li>
-<li><a href="https://solve-news.techidaily.com/download-now-authentic-winx-film-extractor-and-professional-hd-video-format-changer-no-cost/"><u>Download Now: Authentic WinX Film Extractor & Professional HD Video Format Changer (No Cost)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-unleash-creativity-on-snapchat-with-immersive-boomerangs/"><u>In 2024, Unleash Creativity on Snapchat with Immersive Boomerangs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/lightning-fast-windows-photo-inspector/"><u>Lightning-Fast Windows Photo Inspector</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-dying-light-overcoming-fps-decreases-for-a-seamless-survival-horror-adventure/"><u>Optimizing Dying Light: Overcoming FPS Decreases for a Seamless Survival Horror Adventure</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-secrets-to-seamless-zoom-talks-mastering-online-communication-skills-for-2024/"><u>The Secrets to Seamless Zoom Talks Mastering Online Communication Skills for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unleash-speed-seven-secrets-for-an-instantly-faster-computer/"><u>Unleash Speed: Seven Secrets for an Instantly Faster Computer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-ultimate-screen-capture-showdown-free-vs-paid-cam-recorders/"><u>[New] In 2024, The Ultimate Screen Capture Showdown Free vs Paid Cam Recorders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-hidden-gems-6-secret-voice-recorder-apps-for-android-and-ios/"><u>[Updated] In 2024, Hidden Gems! 6 Secret Voice Recorder Apps for Android & iOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-expert-tips-save-skype-call-as-mp3-free/"><u>2024 Approved Expert Tips Save Skype Call as Mp3 (Free)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210523297-9781639613595-cracked-pots/"><u>Cracked Pots | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-audio-quality-on-spotify-quickly-and-safely/"><u>Enhancing Audio Quality on Spotify Quickly & Safely</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-premier-10-royale-arena-games/"><u>In 2024, Premier 10 Royale Arena Games</u></a></li>
+<li><a href="https://facebook.techidaily.com/overlooked-yet-significant-top-4-tech-stories-worth-your-attention/"><u>Overlooked Yet Significant: Top 4 Tech Stories Worth Your Attention</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ltimate-playbook-for-captivating-youtube-audiences-with-strategic-banners/"><u>The Ultimate Playbook for Captivating YouTube Audiences with Strategic Banners</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-tips-for-erasing-backgrounds-in-figma-design/"><u>Ultimate Tips for Erasing Backgrounds in Figma Design</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlocking-visual-appeal-making-top-tier-video-banner-templates/"><u>Unlocking Visual Appeal Making Top-Tier Video Banner Templates</u></a></li>
 </ul></div>
 
