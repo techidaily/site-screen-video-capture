@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Effortless Control  Enhancing Gameplay on Steam Using Switch Pro\""
-date: 2024-11-15T16:07:45.998Z
-updated: 2024-11-20T01:46:11.656Z
+date: 2024-11-15T18:53:35.600Z
+updated: 2024-11-20T19:17:12.191Z
 tags: 
   - screen-recording
   - ai video
@@ -55,7 +55,7 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Wirelessly connect your Switch Pro controller to your PC**
@@ -70,10 +70,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
@@ -83,11 +79,11 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Once Steam is set up, you can begin using it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
@@ -105,11 +101,11 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
-Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 ## **What To Do With Non-Steam Games?**
 
@@ -120,6 +116,10 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution1:** The first solution is to use an external Bluetooth adapter that is specifically designed for different types of gamepads. You will find plenty of them out there for switch pro controllers.
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Final Verdict**
 
@@ -142,18 +142,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-paced-favorites-leading-background-music-in-yt-shorts/"><u>[Updated] 2024 Approved Fast-Paced Favorites Leading Background Music in YT Shorts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-roguelike-vs-roguelite-debates-and-history/"><u>[Updated] In 2024, Roguelike Vs. Roguelite Debates and History</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-integrating-youtube-videos-into-facebook-sharing-options/"><u>[Updated] Integrating YouTube Videos Into Facebook Sharing Options</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-harness-your-screen-with-screencastify-recorder/"><u>2024 Approved Harness Your Screen with Screencastify Recorder</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210545407--astrology-self-care-pisces/"><u>Astrology Self-Care: Pisces | Free Book</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-fullscreen-imprint-of-site/"><u>In 2024, Fullscreen Imprint of Site</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-perfect-peace-mastering-the-art-of-muting-individuals-on-gomeet/"><u>In 2024, Perfect Peace Mastering the Art of Muting Individuals on GoMeet</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-ultimate-list-of-8-chromebook-compatible-digital-audio-workstations-for-composers-and-producers/"><u>New In 2024, The Ultimate List of 8 Chromebook-Compatible Digital Audio Workstations for Composers and Producers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/recording-excellence-the-top-screen-recorder-list/"><u>Recording Excellence The Top Screen Recorder List</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/seamless-scratching-for-chrome-devices-for-2024/"><u>Seamless Scratching for Chrome Devices for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-new-face-of-sony-updates-to-s6500-blu-rayhd-player-for-2024/"><u>The New Face of Sony Updates to S6500 Blu-Ray/HD Player for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-simple-trick-to-finding-your-installed-application-home/"><u>The Simple Trick to Finding Your Installed Application Home</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-smartphone-explore-the-best-ai-software-on-any-device-android-and-iphone/"><u>Transform Your Smartphone: Explore the Best AI Software on Any Device (Android & iPhone)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-master-the-art-of-iphone-7-screen-capture/"><u>[New] In 2024, Master the Art of iPhone 7 Screen Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-finest-global-virtual-learning-hubs-outside-udemy/"><u>[New] The Finest Global Virtual Learning Hubs Outside Udemy</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-professional-capture-tools-for-pcmac-devices/"><u>[Updated] 2024 Approved Professional Capture Tools for PC/Mac Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-conquer-the-cutting-edge-with-advanced-pixlr-tricks/"><u>2024 Approved Conquer the Cutting-Edge with Advanced Pixlr Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-potential-of-audacitys-audio-features/"><u>2024 Approved Unlocking the Potential of Audacity's Audio Features</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-cross-language-interactions-with-keyboard-shortcuts-on-windows-11/"><u>Enhance Cross-Language Interactions with Keyboard Shortcuts on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-removing-write-protection-from-usb-sd-and-cd-in-windows-systems/"><u>Guide to Removing Write Protection From USB, SD, and CD in Windows Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-redmi-a2plus-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi A2+ Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-steps-to-resolve-astro-a2e-20-microphone-issues/"><u>Simple Steps to Resolve Astro A2e 20 Microphone Issues</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-free-guide-to-conducting-flawless-google-meet-sessions/"><u>The Free Guide to Conducting Flawless Google Meet Sessions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-fixing-the-causes-behind-frequent-rust-application-closures/"><u>Understanding and Fixing the Causes Behind Frequent Rust Application Closures</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Classic Quests to Complex Escapades\""
-date: 2024-11-15T22:35:14.166Z
-updated: 2024-11-19T23:39:32.816Z
+date: 2024-11-14T21:04:12.796Z
+updated: 2024-11-20T19:04:30.382Z
 tags: 
   - screen-recording
   - ai video
@@ -45,19 +45,15 @@ In order to best understand these two game genres, we must first analyze the ori
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
 
@@ -70,6 +66,10 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -89,10 +89,6 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -111,6 +107,10 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Roguelite Games
@@ -124,7 +124,7 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Slay the Spire
@@ -132,10 +132,6 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Hades
 
@@ -148,6 +144,10 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,18 +164,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-choosing-between-obs-and-fraps-for-capture/"><u>[New] 2024 Approved Choosing Between OBS and Fraps for Capture</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-basics-of-zoom-group-divisions-unveiled/"><u>[New] In 2024, Basics of Zoom Group Divisions Unveiled</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-obs-vs-shadowplay-which-recording-tool-takes-the-prize/"><u>[Updated] 2024 Approved OBS Vs ShadowPlay Which Recording Tool Takes the Prize?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-prioritizing-quality-the-best-skype-recorders-listed/"><u>[Updated] 2024 Approved Prioritizing Quality The Best Skype Recorders Listed</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unheard-film-footage-appraisal-and-parallel-projects/"><u>[Updated] 2024 Approved Unheard Film Footage Appraisal and Parallel Projects</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-tips-for-producing-ai-powered-live-game-streaming-content/"><u>[Updated] In 2024, Tips for Producing AI-Powered Live Game Streaming Content</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-integrating-zoom-into-your-inbox-experience/"><u>[Updated] Integrating Zoom Into Your Inbox Experience</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-complete-guide-to-proficient-use-of-screenrec-software/"><u>[Updated] The Complete Guide to Proficient Use of ScreenRec Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-top-tech-for-mac-gif-creation-for-2024/"><u>[Updated] Top Tech for Mac GIF Creation for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-ways-to-stream-netflix-programs-simultaneously-with-family-or-friends/"><u>Easy Ways to Stream Netflix Programs Simultaneously with Family or Friends</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-logitech-camera-and-mic-back-online-expert-troubleshooting-tips/"><u>Get Your Logitech Camera and Mic Back Online - Expert Troubleshooting Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-error-code-0xc1900208-on-your-windows-10-system-resolved/"><u>Troubleshooting Tips for Fixing Error Code 0xC1900208 on Your Windows 10 System [RESOLVED]</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-a-new-era-in-iptv-recording-technology-exploration/"><u>[New] 2024 Approved A New Era in IPTV Recording Technology Exploration</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-innovative-strategies-for-keeping-a-log-of-whatsapp-calls/"><u>[New] In 2024, Innovative Strategies for Keeping a Log of WhatsApp Calls</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-next-gen-online-meeting-apps-azoom-no-more-in-2024/"><u>[Updated] Next-Gen Online Meeting Apps Azoom No More, In 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-ultimate-list-of-livestream-streaming-strategies/"><u>2024 Approved The Ultimate List of Livestream Streaming Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-x50i-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from X50i.</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elevate-your-videos-the-essential-guide-to-screencasts-today/"><u>Elevate Your Videos The Essential Guide to Screencasts Today</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-effortless-video-editing-on-mac-os-x-mavericks-tutorial/"><u>In 2024, Effortless Video Editing on Mac OS X Mavericks Tutorial</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-infinix-zero-5g-2023-turbo-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Infinix Zero 5G 2023 Turbo Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-most-effective-mac-screen-recording-software-other-than-bandicam/"><u>In 2024, Most Effective Mac Screen Recording Software, Other than Bandicam</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-thumbnails-revamp-with-vibrant-neon-borders/"><u>In 2024, YouTube Thumbnails Revamp with Vibrant Neon Borders</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/m4a-file-converter-online-convert-aif-files-for-free-with-movavis-easy-tool/"><u>M4A File Converter Online: Convert AIF Files for Free with Movavi's Easy Tool</u></a></li>
+<li><a href="https://extra-support.techidaily.com/proven-strategies-for-powerful-customer-success-stories-on-screen-for-2024/"><u>Proven Strategies for Powerful Customer Success Stories on Screen for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/summit-of-synergy-for-vr-sensations/"><u>Summit of Synergy for VR Sensations</u></a></li>
 </ul></div>
 

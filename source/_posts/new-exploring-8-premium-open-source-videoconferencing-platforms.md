@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Exploring 8 Premium Open-Source Videoconferencing Platforms\""
-date: 2024-11-14T16:25:31.817Z
-updated: 2024-11-19T21:29:28.346Z
+date: 2024-11-17T18:34:52.857Z
+updated: 2024-11-20T18:38:07.335Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
 ## 10 Best Open Source Meeting Software
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. [Jitsi](https://jitsi.org/)
 
 **Price:** Free
@@ -67,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
 ![Bitrix24](https://images.wondershare.com/filmora/article-images/bitrix24.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. [Rocket.Chat](https://rocket.chat/)
 
 **Price:**
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ![Rocket.Chat](https://images.wondershare.com/filmora/article-images/rocketchat.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. [Riot](https://about.riot.im/)
@@ -106,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
 ![Riot](https://images.wondershare.com/filmora/article-images/riot.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. [Apache OpenMeetings](https://openmeetings.apache.org/)
 
 **Price:** Free
@@ -125,11 +121,7 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ![Apache OpenMeetings](https://images.wondershare.com/filmora/article-images/openmeetings.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. [Livestorm](https://livestorm.co/)
@@ -151,7 +143,7 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ![Livestorm](https://images.wondershare.com/filmora/article-images/livestorm.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. [OpenVidu](https://openvidu.io/)
@@ -171,6 +163,10 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
 ![OpenVidu](https://images.wondershare.com/filmora/article-images/openvidu.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. [Zulipchat](https://zulipchat.com/hello/)
 
 **Price:**
@@ -187,6 +183,10 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 * It has modern apps for several platforms.
 
 ![Zulipchat](https://images.wondershare.com/filmora/article-images/zulipchat.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -205,24 +205,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-academic-archiving-ranking-the-top-10-educators-video-capturers/"><u>[New] 2024 Approved Academic Archiving Ranking the Top 10 Educator's Video Capturers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-chocolate-chronicles-in-depth-screen-recorder-for-sweet-treats-for-2024/"><u>[New] Chocolate Chronicles In-Depth Screen Recorder for Sweet Treats for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-pros-picks-premium-10-windows-11-webcam-recorders/"><u>[New] Pro's Picks Premium 10 Windows 11 Webcam Recorders</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-secrets-unveiled-for-documenting-real-time-sports/"><u>[New] Secrets Unveiled for Documenting Real-Time Sports</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-obs-recording-guide-for-gaming-enthusiasts/"><u>[New] The Ultimate OBS Recording Guide for Gaming Enthusiasts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-100-killer-facebook-bios-to-make-profile-attractive2/"><u>[Updated] In 2024, 100 Killer Facebook Bios to Make Profile Attractive2</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-screencastify-for-easy-video-capture/"><u>[Updated] Mastering Screencastify for Easy Video Capture</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-rookies-guide-to-youtube-entrepreneurship-and-earnings/"><u>[Updated] The Rookie's Guide to YouTube Entrepreneurship and Earnings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-roadmap-for-distance-podcasting/"><u>[Updated] The Ultimate Roadmap for Distance Podcasting</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-hp-laptop-screen-recording-the-best-approaches-explained/"><u>2024 Approved HP Laptop Screen Recording The Best Approaches Explained</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/best-app-selection-perfecting-your-windows-display-captures-for-2024/"><u>Best App Selection Perfecting Your Windows Display Captures for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/effortless-conversion-techniques-for-changing-mp4-videos-to-avi-desktop-and-web-options-explained/"><u>Effortless Conversion Techniques for Changing MP4 Videos to AVI - Desktop and Web Options Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208637048-fixing-the-issue-how-to-resolve-windows-update-error-code-0x8007001f/"><u>Fixing the Issue: How to Resolve Windows Update Error Code 0X8007001f</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-capture-to-clarity-the-complete-guide-for-garageband-editors/"><u>From Capture to Clarity The Complete Guide for GarageBand Editors</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-a-gamers-guide-easy-and-effective-ways-to-record-your-minecraft-games-macos/"><u>In 2024, A Gamer's Guide Easy & Effective Ways to Record Your Minecraft Games (MacOS)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-deficit-dilemma-lacking-inventiveness-in-vr/"><u>In 2024, The Deficit Dilemma Lacking Inventiveness in VR</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-movement-how-exosuit-technology-is-shaping-the-future-of-mobility/"><u>Transform Your Movement: How Exosuit Technology Is Shaping the Future of Mobility</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-custom-tunes-for-your-pixel-phone-for-2024/"><u>Unlocking Custom Tunes for Your Pixel Phone for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/webcamwizardry-techniquesforperfectrecordings-for-2024/"><u>WebCamWizardry TechniquesForPerfectRecordings for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-top-8-youtuber-blunders-to-avoid-and-why-theyre-common/"><u>[New] 2024 Approved Top 8 Youtuber Blunders to Avoid and Why They're Common</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-engaging-article-leader/"><u>[New] In 2024, Engaging Article Leader</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-navigate-the-post-production-maze-with-timestamps-and-labels-for-2024/"><u>[New] Navigate the Post-Production Maze with Timestamps & Labels for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-recordingcritique-assessment/"><u>[New] RecordingCritique Assessment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ultimate-techniques-for-screen-recording-games-on-win10/"><u>[Updated] 2024 Approved Ultimate Techniques for Screen Recording Games on Win10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-leading-9-mic-technology-a-comprehensive-analysis-for-2024/"><u>[Updated] Leading 9 Mic Technology A Comprehensive Analysis for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-pros-pathway-to-professional-video-conferencing-with-slack-and-filmora/"><u>[Updated] The Pro's Pathway to Professional Video Conferencing with Slack & Filmora</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-3-ipad-voice-recorder-for-2024/"><u>[Updated] Top 3 iPad Voice Recorder for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-in-game-film-mastery-using-fbx-recorder/"><u>2024 Approved In-Game Film Mastery Using FBX Recorder</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-distinctive-video-stream-names-tips-for-filmora-users-for-2024/"><u>Crafting Distinctive Video Stream Names Tips for Filmora Users for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Tecno Spark Go (2024)? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-sony-xperia-1-v-phone-by-drfone-android/"><u>How to Unlock a Network Locked Sony Xperia 1 V Phone?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-capturing-games-in-plain-sight-choose-between-obs-and-shadowplay/"><u>In 2024, Capturing Games in Plain Sight Choose Between OBS and ShadowPlay</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-expert-insights-top-insta-management-tools-reviewed/"><u>In 2024, Expert Insights Top Insta Management Tools Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-upgrading-and-downloading-of-drivers-for-your-microsoft-surface-book/"><u>Seamless Upgrading and Downloading of Drivers for Your Microsoft Surface Book</u></a></li>
 </ul></div>
 

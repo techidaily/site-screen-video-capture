@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Approach to Mastering the Steam Pro Controller on Switch\""
-date: 2024-11-19T11:45:31.071Z
-updated: 2024-11-20T11:25:05.188Z
+date: 2024-11-14T23:27:09.618Z
+updated: 2024-11-20T20:25:05.887Z
 tags: 
   - screen-recording
   - ai video
@@ -66,10 +66,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
@@ -79,11 +75,11 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Once Steam is set up, you can begin using it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
@@ -101,11 +97,11 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
-Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 ## **What To Do With Non-Steam Games?**
 
@@ -117,6 +113,10 @@ The main problem here now is how windows will detect your switch pro controller 
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Final Verdict**
 
 This is how you can use your switch pro controller with your PC. Now you can easily enjoy your favorite games on one of the finest controllers available in the market today. All you need to do is, follow some simple steps mentioned in this article, and you are good to go. You can connect it both with wire and wirelessly. It is comparatively easy to connect it through the wire, and the performance of the controller is also slightly better when it is connected through a wire.
@@ -124,7 +124,7 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -142,19 +142,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-post-a-vimeo-video-on-instagram/"><u>[Updated] 2024 Approved How to Post a Vimeo Video on Instagram</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-streamlined-methods-for-iphone-screen-recordings/"><u>[Updated] 2024 Approved Streamlined Methods for iPhone Screen Recordings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-comparative-analysis-the-leading-edge-with-active/"><u>[Updated] Comparative Analysis The Leading Edge with Active</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-playgrounds-for-virtual-escapades/"><u>[Updated] Essential Playgrounds for Virtual Escapades</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-hunt-and-beat-top-10-games-inspired-by-ghost-of-tsushima-for-2024/"><u>[Updated] Hunt & Beat Top 10 Games Inspired by Ghost of Tsushima for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-navigating-overwatch-audio-capture-settings/"><u>[Updated] Navigating Overwatch Audio Capture Settings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-webcam-safety-essentials-the-best-covers-ranked/"><u>[Updated] Webcam Safety Essentials The Best Covers Ranked</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-in-depth-review-of-razers-high-res-cam/"><u>2024 Approved In-Depth Review of Razer's High-Res Cam</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-navigating-through-the-world-of-directed-interaction/"><u>2024 Approved Navigating Through the World of Directed Interaction</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-the-ultimate-adventure-companion-a-garmin-ultra-30-analysis/"><u>2024 Approved The Ultimate Adventure Companion - A Garmin Ultra 30 Analysis</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ver-the-best-15-youtube-science-think-tanks/"><u>Discover the Best 15 YouTube Science Think Tanks</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/enhancing-presentations-with-powerpoint-soundtracks-for-2024/"><u>Enhancing Presentations with PowerPoint Soundtracks for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-live-broadcasters-dilemma-which-tool-triumphs-obs-or-streamlabs/"><u>In 2024, Live Broadcasters' Dilemma Which Tool Triumphs – OBS or Streamlabs?</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/playing-dvd-movies-on-your-ps5-complete-guide-and-compatibility-check/"><u>Playing DVD Movies on Your PS5: Complete Guide and Compatibility Check</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-action-cam-showdown-gopro-vs-yi-technology-review/"><u>[New] 2024 Approved Action Cam Showdown GoPro Vs. Yi Technology Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ios-compatible-ps2-games-simulator-roundup/"><u>[New] 2024 Approved IOS-Compatible PS2 Games Simulator Roundup</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-top-8-easy-and-safe-video-call-options-for-enterprises/"><u>[New] 2024 Approved Top 8 Easy and Safe Video Call Options for Enterprises</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-how-to-match-your-camera-to-its-optimal-gimbal-partner/"><u>[New] How to Match Your Camera to Its Optimal Gimbal Partner</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-background-screen-video-recording-full-guide-for-2024/"><u>[Updated] Background Screen Video Recording Full Guide for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-maximizing-your-tech-efforts-a-detailed-look-at-showmores-features/"><u>[Updated] In 2024, Maximizing Your Tech Efforts A Detailed Look at ShowMore’s Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-overlooked-yet-best-free-speech-transcribers-for-mac/"><u>[Updated] Top 10 Overlooked, Yet Best Free Speech Transcribers for Mac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-3-voice-capturing-ipad-apps-reviewed/"><u>[Updated] TOP 3 Voice Capturing iPad Apps Reviewed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-making-youtube-audio-mp3s-easily-for-your-mac/"><u>2024 Approved Making YouTube Audio MP3s Easily for Your Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/behind-the-scenes-of-iphones-audio-alteration-techniques/"><u>Behind the Scenes of iPhone's Audio Alteration Techniques</u></a></li>
+<li><a href="https://techidaily.com/enhance-digital-marketing-strategies-using-the-power-of-cookiebot-technology/"><u>Enhance Digital Marketing Strategies Using the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-itel-p55-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Itel P55 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/innovations-in-youtube-video-editing-software-reviewed/"><u>Innovations in YouTube Video Editing Software Reviewed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/reimagine-your-farm-in-stardew-valley-with-these-7-mods-for-2024/"><u>Reimagine Your Farm in Stardew Valley with These 7 Mods for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/screensnapper-pro-examining-apowersofts-pc-recorder/"><u>ScreenSnapper Pro Examining Apowersoft’s PC Recorder</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Rogue's Peak  Top Ten Titles Reviewed\""
-date: 2024-11-16T01:44:00.341Z
-updated: 2024-11-20T06:00:42.249Z
+date: 2024-11-19T19:37:57.386Z
+updated: 2024-11-20T17:55:15.951Z
 tags: 
   - screen-recording
   - ai video
@@ -74,6 +74,10 @@ It's one thing to defeat each dungeon's horrifying inhabitants in turn-based com
 
 Your tactical instincts will be put to the test when it comes to teamwork and resource allocation. This is undoubtedly one of the best roguelikes to be found.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **2.[Downwell](https://store.steampowered.com/app/360740/Downwell/)**
 
 **_Platforms:_** _PS4, Switch, PC, iOS, Android_
@@ -84,7 +88,15 @@ Only a couple of minutes to complete each run, this roguelike takes us on an adv
 
 ![downwell](https://images.wondershare.com/filmora/article-images/downwell.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Don't let its retro look fool you. This 2015 title is fast and intense, with a good amount of power-ups that boost your survivability. It is immediately enjoyable with its fast-paced downward action, but gaining mastery of its combat is no simple feat. Downwell is one of the best roguelikes out there, despite its intense difficulty. Its concise levels, satisfying combo system, and creative boss are among the roguelikes' best features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3\. [Dungeon Crawl Stone Soup](https://crawl.develz.org/)**
 
@@ -98,10 +110,6 @@ The successor to the 1997's roguelike Liney's Dungeon Crawl, Dungeon Crawl Stone
 
 Each item, class, spell, and trait in this community-developed game has hundreds of hidden interactions that just heighten your enjoyment every time you play. Each floor increases the game's difficulty, and as you go deeper, it becomes harder to decide whether to fight or flee.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **4\. [Hades](https://store.steampowered.com/app/1145360/Hades/)**
 
 **_Platforms:_**   _Nintendo Switch, macOS, Microsoft Windows, Macintosh operating systems_
@@ -112,11 +120,11 @@ Hades is a masterpiece when it comes to dungeon crawling and roguelike games. Yo
 
 ![hades](https://images.wondershare.com/filmora/article-images/hades.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Many blessings have been given to you by the gods of Olympus, but your quest is not an easy one. A game like this will enthrall you and entice you to keep playing until you get some better stuff for your characters. After each failure, you are resurrected in your own house, the House of Hades, where your friends and family await your following conversation. It is one of the best roguelike titles out there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **5\. [Into the Breach](https://store.steampowered.com/app/590380/Into%5Fthe%5FBreach/)**
 
@@ -127,6 +135,10 @@ Many blessings have been given to you by the gods of Olympus, but your quest is 
 This is the second title developed and published by Subset Games. Their first title was FTL: **_Faster Than Light_** in 2012\. FTL could have taken this spot, but Into the Breach's design and hidden depth make it stand out among the competition. It's a game of turn-based tactics where your team is faced with an army of monsters known as the Vek.
 
 ![into-the-breach](https://images.wondershare.com/filmora/article-images/into-the-breach.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There's only one way to hold off their attack, and that is to enlist some giant mechs. But you'll have to agonize over every decision if you intend to keep your team intact. The more you progress through the game's islands, the more advanced equipment you'll find, so you can turn the tide of war and save humankind.
 
@@ -143,7 +155,7 @@ It foregoes combat mechanics solely in favor of strategy and premonition in a de
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The game, released in 2017, has gained massive audience recognition thanks to its 10/10 Steam rating and over 60,00 reviews despite its simplistic art and simplistic interface. It is considered the best deck-builder roguelike in the market, so if you haven't tried it already, you miss out a lot.
@@ -159,7 +171,7 @@ This rhythm-based roguelike game hits a sweet spot combining two niche genres. T
 This game deviates from roguelike conventions, forcing players to arrive at snappy judgments quickly. While quick decision-making and foresight are required in the genre, the escalating rhythm forces players to maintain a higher tempo to maintain a strong combo, and all you know is, you can't lose the combo. If you haven't tried this game yet, then it's worth your time and money.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **8\. [Dead Cells](https://store.steampowered.com/app/588650/Dead%5FCells/)**
@@ -184,14 +196,10 @@ An indie roguelike developed by Super Meat Boy creator Edmund McMillen, The Bind
 
 ![binding-of-issac](https://images.wondershare.com/filmora/article-images/the-binding-of-isaac.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In addition to some captivating gameplay, the game contains some compelling storytelling, with Biblical references providing a nice hint of lore. Although decisions are essential in roguelikes, you may also need to be quick with your reaction times with some bullet hell-style bosses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **10\. [Otherworld Legends](https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp&hl=en&gl=US)**
@@ -214,15 +222,7 @@ The Otherworld Legends game is incredibly entertaining to play with beautiful gr
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -239,24 +239,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-capturing-desktop-image-on-windows-editions/"><u>[New] Capturing Desktop Image on Windows Editions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-embark-on-a-digital-communication-adventure-with-google-meet/"><u>[New] In 2024, Embark on a Digital Communication Adventure with Google Meet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-screencast-lifeline-crucial-knowledge-for-success/"><u>[New] The Screencast Lifeline Crucial Knowledge for Success</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-tips-for-filming-without-the-hindrance-of-sounds-for-2024/"><u>[New] Tips for Filming Without the Hindrance of Sounds for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unlocking-social-media-potential-stream-to-fb-via-obs/"><u>[New] Unlocking Social Media Potential Stream to FB via OBS</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-balancing-primary-and-b-footage-for-dynamic-video-production/"><u>[Updated] Balancing Primary & B-Footage for Dynamic Video Production</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-can-you-receive-a-monthly-check-from-youtube/"><u>[Updated] In 2024, Can You Receive a Monthly Check From YouTube?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-pioneering-adventures-the-ultimate-gaming-list-top-10/"><u>[Updated] Pioneering Adventures The Ultimate Gaming List (Top 10)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-pioneering-pedagogy-choosing-from-the-premier-10-lecture-recorders/"><u>[Updated] Pioneering Pedagogy Choosing From the Premier 10 Lecture Recorders</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-no-fuss-strategies-recording-your-google-voice-calls/"><u>2024 Approved No-Fuss Strategies Recording Your Google Voice Calls</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-spectacular-stop-motion-animations-15-list/"><u>2024 Approved Spectacular Stop-Motion Animations #15 List</u></a></li>
-<li><a href="https://facebook.techidaily.com/archiving-acrobatics-expertise-in-concealing-social-media-posts/"><u>Archiving Acrobatics: Expertise in Concealing Social Media Posts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/dissecting-vidma-a-guide-to-screen-capturing-tech-for-2024/"><u>Dissecting Vidma A Guide to Screen Capturing Tech for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/leading-edge-mouse-pad-selection-for-optimal-performance-expert-picks/"><u>Leading Edge Mouse Pad Selection for Optimal Performance: Expert Picks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/leading-mac-gif-editor-for-2024/"><u>Leading Mac GIF Editor for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/say-goodbye-no-more-watch-parties-on-amazons-prime-video-platform/"><u>Say Goodbye: No More Watch Parties on Amazon's Prime Video Platform</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-trick-how-to-speed-up-your-video-downloads-for-smartphones-like-a-pro/"><u>Ultimate Trick: How to Speed Up Your Video Downloads for Smartphones Like a Pro!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-effective-strategies-to-mute-unwanted-voices-in-gomeet/"><u>[New] Effective Strategies to Mute Unwanted Voices in GoMeet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-explore-best-android-emulators-for-playstation-2-gaming/"><u>[New] Explore Best Android Emulators for PlayStation 2 Gaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-freecam-x-live-streaming-software-reviewed-for-2024/"><u>[New] FreeCam X Live Streaming Software Reviewed for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-speedy-record-and-audio-assisted-session-creator/"><u>[New] Speedy Record & Audio-Assisted Session Creator</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-discover-unmissable-adventures-in-sandbox-gaming-for-2024/"><u>[Updated] Discover Unmissable Adventures in Sandbox Gaming for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-decoding-the-best-screen-recorder-bandicam-and-camtasia/"><u>[Updated] In 2024, Decoding the Best Screen Recorder Bandicam & Camtasia</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-from-the-grave-to-gameplay-top-8-zombies-unleashed/"><u>[Updated] In 2024, From the Grave to Gameplay Top 8 Zombies Unleashed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-transforming-your-tiktok-profile-altering-account-numbers/"><u>[Updated] Transforming Your TikTok Profile Altering Account Numbers</u></a></li>
+<li><a href="https://win-best.techidaily.com/1728463602667-word/"><u>解決 Word 文件丟失的破洞方法：詳盡修復指南</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/a-detailed-breakdown-comparing-features-of-claude-pro-and-microsofts-advanced-chatgpt-plus/"><u>A Detailed Breakdown: Comparing Features of Claude Pro and Microsoft's Advanced ChatGPT Plus</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/easy-steps-to-securely-record-your-virtual-gatherings-with-google/"><u>Easy Steps to Securely Record Your Virtual Gatherings with Google</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-100-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor 100</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-notifications-disappearing-implement-7-proven-fixes-today/"><u>Struggling with iPhone Notifications Disappearing? Implement 7 Proven Fixes Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-definitive-fixes-for-persistent-paladins-app-issues-a-step-by-step-guide/"><u>The Definitive Fixes for Persistent Paladins App Issues : A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211235945-9781960861993-the-raptured-saints-and-the-left-behind/"><u>The Raptured Saints and the Left Behind | Free Book</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-eight-video-recording-apps/"><u>Top Eight Video Recording Apps</u></a></li>
 </ul></div>
 

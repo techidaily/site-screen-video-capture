@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Dark Realm Explorations  Do's & Don'ts of Nocturnal Shooting\""
-date: 2024-11-18T08:08:19.793Z
-updated: 2024-11-20T02:04:09.504Z
+date: 2024-11-15T18:06:05.714Z
+updated: 2024-11-20T16:42:18.794Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,10 @@ Well, **night-mode portraits** can be such an opportunity. However, it can be a 
 
 Let's start this discussion by exploring the major dos related to **night portraits** photoshoots. Some dos that you should consider are:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Shooting with a topic
 
 One of the most difficult repercussions of **night mode portraits** is that everything in your sight takes on a strange appeal, which can easily make it challenging to understand the composition and picture subject. Well, to avoid such an issue, you need to make yourself familiarized with your topic or subject. So, you can arrive at the location before sunset and begin the setup procedure.
@@ -40,24 +44,16 @@ While shooting **night portraits,** based on the location, you may not get suffi
 ![pexels matheus bertelli 573298](https://images.wondershare.com/filmora/article-images/2022/11/pexels-matheus-bertelli-573298.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 For example, it can be a car light, a phone flashlight, a billboard light and anything that can light up the subject, offering a decent amount of illumination to your camera. Make sure that the light is accessible. Experts suggest using off-camera flashlights for **night portraits** as it offers better flexibility. Based on your requirements, you can adjust the direction and brightness. Using a light stand can also be very helpful here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Make Good Use of Night Mode Portrait
 
 Don't forget to take advantage of your camera's night mode portrait option to get stunning results. Sometimes, you need to depend on software instead of your camera's hardware for better results. Post-processing can enhance the exposure, level colors, effectively tune white balance, etc., and night mode can help you with that. When you choose this option, the camera will consider different factors, like the movement of the subjects, camera, light settings and more.
 
 The camera will then take a series of photos at multiple exposure levels and then merge them to create a single image with great details. Even though **night mode portraits** can help you a lot, they may not work well while taking photos of moving objects. The reason behind this is that this mode takes multiple shots, and moving subjects would be blurred out. If it is a static scene, then go for it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Shooting with a Stabilizer
 
@@ -74,11 +70,11 @@ For better results, you can use a camera stabilizer. A camera stabilizer will of
 
 Experts suggest using a sturdy camera tripod, and it will be better to get a remote release. With this, you can trigger the camera without touching the shutter button, and it will reduce the movement of the camera.
 
-## Part 2: Don't-Dos in Night Portraits
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Part 2: Don't-Dos in Night Portraits
 
 ### 1\. Don't dress in dark
 
@@ -87,7 +83,11 @@ When it comes to wearing black for night portraits, experts suggest avoiding it 
 ![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Don't do a capture shoot
@@ -108,10 +108,6 @@ Speaking about white balance, it is a setting to make sure the colors in the pho
 
 ![pexels simon robben 473107](https://images.wondershare.com/filmora/article-images/2022/11/pexels-simon-robben-473107.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great. On the other hand, for darker skies, white balance settings of 4000k and above will offer you the best results. Begin with the above suggestion and click some test photos while increasing 100k after every shot to find the right white balance settings.
 
 However, you can also preset the white balance in your camera or edit the photos during post-processing to adjust the white balance. For example, you can use color correction to fix colors. Using this, you can make the photos look brighter or darker to make them appear natural and realistic. Always use a vector scope to make sure that your colors are accurate.
@@ -121,6 +117,10 @@ However, you can also preset the white balance in your camera or edit the photos
 ### How To Capture Good Portraits at Night?
 
 As per the experts, the lower the aperture, the more light your camera will receive. This can make your **night mode portraits** difficult. So, you need to go for a slower shutter speed and make sure that there will be subject or camera movement. All you need to do is control the light.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What Should You Need to Avoid in Portrait Photography?
 
@@ -160,21 +160,24 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-quick-fix-for-clearer-focus-in-google-meet/"><u>[New] 2024 Approved Quick Fix for Clearer Focus in Google Meet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-digital-footprint-reduction-for-media-safety/"><u>[New] Digital Footprint Reduction for Media Safety</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-exploring-the-finest-8-no-cost-open-source-video-communication-apps-for-2024/"><u>[New] Exploring the Finest 8 No-Cost, Open Source Video Communication Apps for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-echo-enthusiasts-emporium-obtain-and-review-sound-files/"><u>[New] In 2024, Echo Enthusiasts Emporium Obtain & Review Sound Files</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-revisiting-streamers-for-enhanced-experience/"><u>[New] In 2024, Revisiting Streamers for Enhanced Experience</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-cutting-edge-approaches-merging-obs-with-facebook-live/"><u>[Updated] 2024 Approved Cutting-Edge Approaches Merging OBS with Facebook Live</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-record-video-with-quick-video-recorder/"><u>[Updated] How to Record Video with Quick Video Recorder</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-transforming-youtube-footage-for-ultimate-quality/"><u>[Updated] In 2024, Transforming YouTube Footage for Ultimate Quality</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-no-cost-android-facetime-replacements-ranked/"><u>[Updated] No-Cost Android FaceTime Replacements Ranked</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-starting-out-on-youtube-top-gear-essentials-for-2024/"><u>[Updated] Starting Out on YouTube - Top Gear Essentials for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-guide-to-indoor-android-games-no-internet-required/"><u>[Updated] The Ultimate Guide to Indoor Android Games (No Internet Required)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-blaze-2-5g-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of Blaze 2 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/erratic-key-response/"><u>Erratic Key Response</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/harmonic-starting-points-10-song-picks-for-engaging-podcast-openers/"><u>Harmonic Starting Points 10 Song Picks for Engaging Podcast Openers</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/pasos-simples-para-migrar-documentos-usando-powershell-del-origen-al-destino/"><u>Pasos Simples Para Migrar Documentos Usando PowerShell: Del Origen Al Destino</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-blueprint-to-hitting-it-big-with-instagram-videos-for-2024/"><u>The Blueprint to Hitting It Big with Instagram Videos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-best-6-android-video-capture-apps-for-screen-recording/"><u>[New] 2024 Approved Best 6 Android Video Capture Apps for Screen Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-effortless-iphone-screen-recording-techniques-unveiled/"><u>[New] In 2024, Effortless iPhone Screen Recording Techniques Unveiled</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-portable-playstation-storage-best-10-hdds-ssds/"><u>[New] Portable PlayStation Storage Best 10 HDDs, SSDs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-speaking-like-a-pro-tips-to-upgrade-your-google-meet-skills/"><u>[New] Speaking Like a Pro Tips to Upgrade Your Google Meet Skills</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-use-luts-in-adobe-after-effect/"><u>[Updated] How to Use LUTs in Adobe After Effect</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-complete-guide-to-zooms-top-free-and-paid-transcribers-for-virtual-meetings-for-2024/"><u>[Updated] The Complete Guide to Zoom's Top Free & Paid Transcribers for Virtual Meetings for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-simplify-your-tech-life-capture-and-store-youtube-streaming-effortlessly/"><u>2024 Approved Simplify Your Tech Life Capture and Store YouTube Streaming Effortlessly</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transform-concepts-to-successful-youtube-titles/"><u>2024 Approved Transform Concepts to Successful YouTube Titles</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-huawei-nova-y91-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Huawei Nova Y91</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-the-comprehensive-guide-to-mapmyride-features-and-functionality/"><u>Expert Analysis: The Comprehensive Guide to MapMyRide Features and Functionality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-xltx-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert sign in .xltx files</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-12-pro-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone 12 Pro Online</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-exploring-camstudios-impact-on-video-capture-2023-edition/"><u>In 2024, Exploring CamStudio's Impact on Video Capture - 2023 Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-mac-streamnetflix-with-screen-capture-for-2024/"><u>Mastering Mac StreamNetflix with Screen Capture for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-gmail-labels-tips-and-tricks-for-better-message-classification/"><u>Navigating the World of Gmail Labels: Tips and Tricks for Better Message Classification</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/skype-speak-saver-mp3-conversion-masterclass/"><u>Skype Speak Saver MP3 Conversion Masterclass</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/snag-your-dream-tech-at-exclusive-prices-during-the-amazing-amazon-prime-day-2024/"><u>Snag Your Dream Tech at Exclusive Prices During the Amazing Amazon Prime Day 2024!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-dominance-of-amd-ryzen-ai-9-hx-how-it-outperforms-core-i7-14700hx-and-apples-m3-max-in-benchmarking/"><u>Unveiling the Dominance of AMD Ryzen AI 9 HX: How It Outperforms Core I7-14700HX & Apple's M3 Max in Benchmarking</u></a></li>
 </ul></div>
 

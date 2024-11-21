@@ -1,7 +1,7 @@
 ---
 title: Unlock Year-Round Fun with Rainbow Six Siege - No Costs Involved! (Free Version)
-date: 2024-11-19T07:35:52.547Z
-updated: 2024-11-20T05:40:38.704Z
+date: 2024-11-19T22:22:16.671Z
+updated: 2024-11-20T22:01:43.223Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 * Restart your PC
 * Install the latest updates
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
  If common methods can’t help, you can move to the below methods. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -34,10 +38,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -47,9 +47,17 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Run Microsoft Edge to check the problem is resolved or not.
 
@@ -66,15 +74,11 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
@@ -94,25 +98,17 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
@@ -142,6 +138,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
@@ -157,13 +157,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
@@ -189,21 +189,20 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-enhance-gameplay-memories-win10-recording-methods/"><u>[New] Enhance Gameplay Memories Win10 Recording Methods</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-best-of-both-worlds-screenflow-for-mac-creatives-reviewed/"><u>[New] In 2024, The Best of Both Worlds ScreenFlow for Mac Creatives Reviewed</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-live-stream-success-tackling-common-2023-interruption-cases-in-fb/"><u>[New] Live Stream Success Tackling Common 2023 Interruption Cases in FB</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-optimize-your-workflow-streamlined-processes-for-skype-calls-recording/"><u>[New] Optimize Your Workflow Streamlined Processes for Skype Calls Recording</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-captivating-viewers-top-10-creative-yt-reaction-tactics/"><u>[Updated] 2024 Approved Captivating Viewers Top 10 Creative YT Reaction Tactics</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-simplified-guide-turning-videos-upside-down-with-vlc/"><u>[Updated] 2024 Approved Simplified Guide Turning Videos Upside Down with VLC</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-editing-desk-to-youtube-post-production-processes/"><u>[Updated] From Editing Desk to YouTube Post-Production Processes</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-complete-breakdown-of-game-capture-in-overwatch/"><u>[Updated] In 2024, The Complete Breakdown of Game Capture in Overwatch</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-pursuit-with-panasonics-hx-a1-wearable-cameras-for-2024/"><u>[Updated] In Pursuit with Panasonic’s HX-A1 Wearable Cameras for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-vrecorder-free-easy-setup-guide/"><u>[Updated] VRecorder Free Easy Setup Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-poco-c51-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-from-vision-to-viewers-step-by-step-guide-to-live-tv-screens-on-windows-pcs/"><u>2024 Approved From Vision to Viewers Step-by-Step Guide to Live TV Screens on Windows PCs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/budget-friendly-earfun-air-2-tinnitus-relief-headphones-in-depth-review-and-analysis/"><u>Budget-Friendly EarFun Air 2 Tinnitus Relief Headphones – In-Depth Review and Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-livestreams-with-manycam-the-ultimate-guide-to-virtual-cameras-and-live-video-software-solutions/"><u>Enhance Your Livestreams with ManyCam - The Ultimate Guide to Virtual Cameras & Live Video Software Solutions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/from-viral-soundtracks-to-personalized-phone-alerts-a-how-to-guide-for-2024/"><u>From Viral Soundtracks to Personalized Phone Alerts – A How-To Guide for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-your-windows-10-system-memory-dumps/"><u>Step-by-Step Guide: Clearing Your Windows 10 System Memory Dumps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-pros-playbook-mastering-gameplay-logging-in-windows-10/"><u>[New] 2024 Approved Pro's Playbook Mastering Gameplay Logging in Windows 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-apowersoft-free-screen-recorder-review-and-alternative/"><u>[New] Apowersoft Free Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-personalize-speakability-changing-your-tone-on-instagram-posts/"><u>[New] In 2024, Personalize Speakability Changing Your Tone on Instagram Posts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-strategies-for-universal-zoom-availability-across-platforms/"><u>[New] In 2024, Strategies for Universal Zoom Availability Across Platforms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-innovative-strategies-for-sport-streams-on-the-fly/"><u>[Updated] 2024 Approved Innovative Strategies for Sport Streams on the Fly</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-selective-software-showcase-photoplusmusic-capture-tools/"><u>[Updated] 2024 Approved Selective Software Showcase Photo+Music Capture Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-expert-tips-for-saving-your-favorite-screened-events-for-2024/"><u>[Updated] Expert Tips for Saving Your Favorite Screened Events for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-foremost-biodegradable-equipment-for-video-filming/"><u>[Updated] Foremost Biodegradable Equipment for Video Filming</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-xiaomi-redmi-note-12-pro-4g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Xiaomi Redmi Note 12 Pro 4G Unlock Without Password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-ai-visuals-made-simple-in-windows-11-via-paint-cocreators-magic/"><u>Explore AI Visuals Made Simple in Windows 11 via Paint Cocreator's Magic</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-every-feature-of-the-arlo-video-monitoring-package/"><u>Exploring Every Feature of the Arlo Video Monitoring Package</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-playlist-creation-on-youtube-easily/"><u>Navigating Playlist Creation on YouTube Easily</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/passo-passo-alla-creazione-di-ununita-flash-avviabile-in-windows-7/"><u>Passo Passo Alla Creazione Di Un'unità Flash Avviabile in Windows 7</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/streamlined-techniques-for-sharing-your-desktopmobile-screen-for-2024/"><u>Streamlined Techniques for Sharing Your Desktop/Mobile Screen for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-c22-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia C22 Device</u></a></li>
 </ul></div>
 
