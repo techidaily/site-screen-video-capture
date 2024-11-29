@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Save Your Gameplay Moments with Xbox Screen Recordings"
-date: 2024-11-18T22:25:10.704Z
-updated: 2024-11-20T19:06:39.236Z
+date: 2024-11-27T22:05:30.262Z
+updated: 2024-11-28T23:07:33.072Z
 tags: 
   - screen-recording
   - ai video
@@ -129,9 +129,17 @@ Step 4: Set the screen size as per requirements. Select the audio sources approp
 
 ![recorder options settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Click on the Record button to start recording the screen.
 
 ![filmora start recording](https://images.wondershare.com/filmora/article-images/select-recording-area.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You will get a few seconds to open the game and start playing before recording starts. Press F9 to stop recording when your gameplay is over.
 
@@ -144,10 +152,6 @@ Capture system amd micorphone audio simultaneously
 Edit video and audio with built-in tools
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -225,17 +229,21 @@ Step 2: Go to Widget Menu and click on Gallery option.
 
 ![xbox gallery option](https://images.wondershare.com/filmora/article-images/xbox-gallery-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: From Gallery, choose your recorded screenshots or videos.
 
 Step 4: Click on Share to Twitter button.
 
 ![share game recording xbox](https://images.wondershare.com/filmora/article-images/share-game-recording-twitter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Enter your text to tweet and click on Share button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. Alternative Way to Record Screen on Windows 10
 
@@ -312,7 +320,7 @@ Step 3: You will see the guide on the screen and press “Y” button. Otherwise
 ![capture screenshot xbox](https://images.wondershare.com/filmora/article-images/capture-screenshots-xbox-consoles.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This will save a screenshot automatically and you can access the screenshots from Recent Captures option under Capture & Share.
@@ -330,6 +338,10 @@ Step 3: Go to Capture & Share and select Start Recording option. This will start
 Step 4: To stop recording, you have to open the guide by pressing Xbox button and press “X” button.
 
 The recorded video will be saved and you can view the clips from Recent Captures.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to Record Screen on Windows 10 and 11?
 
@@ -350,7 +362,7 @@ Step 4: To stop recording, click on Stop icon. Alternatively, you can press Wind
 On the side bar, you can click on Camera icon to capture screenshots. There is another option to record the last 30 seconds.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. How to Share Xbox Recording?
@@ -362,10 +374,6 @@ Step 1: Open Xbox Game Bar by pressing Windows + G keys.
 Step 2: Go to Widget Menu and click on Gallery option.
 
 ![xbox gallery option](https://images.wondershare.com/filmora/article-images/xbox-gallery-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: From Gallery, choose your recorded screenshots or videos.
 
@@ -395,23 +403,19 @@ Step 2: Launch the application and click on New Project option.
 
 ![filmora video recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Go to Record > Record PC Screen option.
 
 Step 4: Set the screen size as per requirements. Select the audio sources appropriately. For more settings and parameters, click on Gear icon at the bottom-right corner. Note the hotkeys as they will be handy to start and stop recording of full-screen gameplay.
 
 ![recorder options settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: Click on the Record button to start recording the screen.
 
 ![filmora start recording](https://images.wondershare.com/filmora/article-images/select-recording-area.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You will get a few seconds to open the game and start playing before recording starts. Press F9 to stop recording when your gameplay is over.
 
@@ -424,10 +428,6 @@ Capture system amd micorphone audio simultaneously
 Edit video and audio with built-in tools
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -495,6 +495,10 @@ Step 4: To stop recording, click on Stop icon. Alternatively, you can press Wind
 
 On the side bar, you can click on Camera icon to capture screenshots. There is another option to record the last 30 seconds.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. How to Share Xbox Recording?
 
 If you have taken screenshots and recorded videos of important moments on your gameplay, you can share the screenshots or clips on Twitter as it is the default option available. Alternatively, you can copy any specific screenshot or clip to your clipboard and share it on any platform you want to.
@@ -532,6 +536,10 @@ For macOS 10.12 or later
 Step 2: Launch the application and click on New Project option.
 
 ![filmora video recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Go to Record > Record PC Screen option.
 
@@ -583,22 +591,18 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unlocking-google-meets-whiteboard-capabilities-on-diverse-tech-ecosystems/"><u>[New] 2024 Approved Unlocking Google Meet's Whiteboard Capabilities on Diverse Tech Ecosystems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-apeaksofts-screen-recorder-mastery-2023-exposed/"><u>[New] In 2024, Apeaksoft's Screen Recorder Mastery - 2023 Exposed</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-imageinstinct-a-compreehensive-guide-for-instagram-size-control/"><u>[New] In 2024, ImageInstinct A Compreehensive Guide for Instagram Size Control</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-screen-grab-mastery-for-windows-users-3-techniques/"><u>[New] In 2024, Screen Grab Mastery for Windows Users (3 Techniques)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-windows-wonders-top-9-tools-to-capture-and-save-animated-gif-art/"><u>[New] In 2024, Windows Wonders Top 9 Tools to Capture and Save Animated GIF Art</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-zoom-room-basics-for-newbies/"><u>[New] In 2024, Zoom Room Basics for Newbies</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-direct-pathway-transferring-youtube-content-to-dailymotion-for-2024/"><u>[Updated] Direct Pathway Transferring YouTube Content to Dailymotion for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-vital-tips-to-preserve-lol-competitions/"><u>[Updated] Vital Tips to Preserve LOL Competitions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-saving-your-iphone-screen-a-step-by-step-approach/"><u>2024 Approved Saving Your iPhone Screen A Step-by-Step Approach</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-unleash-the-power-of-zoom-your-win10-journey-begins-here/"><u>2024 Approved Unleash the Power of Zoom Your Win10 Journey Begins Here</u></a></li>
-<li><a href="https://games-able.techidaily.com/dynamic-gameplay-preservation-via-any-graphics-card/"><u>Dynamic Gameplay Preservation via Any Graphics Card</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enjoy-flawless-gameplay-by-installing-the-newest-nvidia-rtx-2080-ti-driver-update/"><u>Enjoy Flawless Gameplay by Installing the Newest NVIDIA RTX 2080 Ti Driver Update</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/high-fidelity-streaming-archiving-a-practical-approach-for-2024/"><u>High-Fidelity Streaming Archiving A Practical Approach for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y78 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-se-2022-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your iPhone SE (2022)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-your-ultimate-guide-to-effortless-xbox-one-image-snaps/"><u>In 2024, Your Ultimate Guide to Effortless Xbox One Image Snaps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-crafting-engaging-sims-4-gameplay-videos/"><u>[New] 2024 Approved Crafting Engaging Sims 4 Gameplay Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-televising-streamed-social-media-vids-in-households/"><u>[New] In 2024, Televising Streamed Social Media Vids in Households</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-a-curated-selection-of-top-6-nft-maker-applications/"><u>[Updated] 2024 Approved A Curated Selection of Top 6 NFT Maker Applications</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photoshop-tutorial-creating-3d-text-illusions/"><u>[Updated] Photoshop Tutorial Creating 3D Text Illusions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-7-excellent-screen-capture-tools/"><u>2024 Approved 7 Excellent Screen Capture Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-perfect-your-playback-implementing-a-countdown-in-obs/"><u>2024 Approved Perfect Your Playback Implementing a Countdown in OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ultimate-ios-compatible-ps2-software/"><u>2024 Approved Ultimate iOS Compatible PS2 Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-gadgets-for-capturing-zoom-sessions-for-2024/"><u>Essential Gadgets for Capturing Zoom Sessions for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-14-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/revolutionize-your-videos-first-impression-with-these-makers-for-2024/"><u>Revolutionize Your Video's First Impression with These Makers for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solution-four-capacitors-at-full-voltage-store-efull-12-4cv2-2cv2-two-at-half-voltage-store-ehalf-12-2cv22-18-cv2-each-so-together-they-store-14-cv2-the-tot4/"><u>Solution: Four Capacitors at Full Voltage Store E_full = 1/2 (4C)V^2 = 2CV^2. Two at Half Voltage Store E_half = 1/2 (2C)(V/2)^2 = 1/8 CV^2 Each, so Together They Store 1/4 CV^2. The Total Energy Is E_total = 2CV^2 + 1/4 CV^n = 9/8 CV^n.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-solutions-how-to-get-your-iphone-out-of-stubborn-headphone-loop/"><u>Top 8 Solutions: How to Get Your iPhone Out of Stubborn Headphone Loop</u></a></li>
 </ul></div>
 

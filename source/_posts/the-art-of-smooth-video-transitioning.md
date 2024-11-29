@@ -1,7 +1,7 @@
 ---
 title: "The Art of Smooth Video Transitioning"
-date: 2024-11-18T22:34:58.848Z
-updated: 2024-11-20T18:08:00.271Z
+date: 2024-11-25T01:51:23.096Z
+updated: 2024-11-28T20:32:05.242Z
 tags: 
   - screen-recording
   - ai video
@@ -45,13 +45,17 @@ Here is how to add dissolve transition in Filmora.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * After importing video footage into Filmora, drag and drop them in the timeline.
 * Go to the Transition tab and find Dissolve under the Basic category. If you didn’t see it, you can use the search bar to find it.
 
 ![Add Dissolve to Fade video in Filmora9 ](https://images.wondershare.com/filmora/article-images/dissolve-transtion-filmora9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Drag the Dissolve transition to the beginning part of the clip, and then drag the Dissolve transition again to the end of the clip.
@@ -64,6 +68,10 @@ Besides applying Dissolve transition to fade video, you can also try the Fade or
 
 You can learn more about Dissolve transition at our guide [How to add Dissolve Transitions in Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Apply Fade Motion Effects to Video
 
 Besides the regular dissolve and fade transitions, you can also apply motion fade effect to make your footage more vivid. Here is how to apply the motion fade effect to video in Filmora.
@@ -72,12 +80,12 @@ Besides the regular dissolve and fade transitions, you can also apply motion fad
 
 ![Add  Fade Motion Effects to video in Filmora  ](https://images.wondershare.com/filmora/article-images/fade-motion-effects-animation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Expand it and you will find that there are several fade effects available, such as fade-zoom in, fade-zoom out, fade slide from top to bottom, fade slide from bottom to top, fade from left to right, or fade right to left.
 * Double click on the fade effect that you want to use and the fade motion effect will be added to the clip automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Add Sample Colors at the beginning and end of the video clip
 
@@ -85,16 +93,12 @@ In case that you don’t want to hide any frames in your video, you can add a bl
 
 ![Add  black color screen   to video in Filmora  ](https://images.wondershare.com/filmora/article-images/add-sample-color-screen-to-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 We’ve made a video tutorial about how to fade in and fade out video easily in Filmora. The video is made with the previous Filmora version, but the steps are similar.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Using Animation Keyframing to Create Fade Effects
@@ -124,7 +128,7 @@ YouTuber Aaron Bowman has made a tutorial about the Filmora transitions, explain
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -142,15 +146,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-decrease-environmental-noise-in-video-recordings-for-2024/"><u>[New] Decrease Environmental Noise in Video Recordings for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-master-level-stardew-upgrades-for-ultimate-growth/"><u>[New] In 2024, Master Level Stardew Upgrades for Ultimate Growth</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-celebrating-the-10-best-moba-games-on-android/"><u>[Updated] Celebrating the #10 Best MOBA Games on Android</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-record-skype-with-obs/"><u>[Updated] How to Record Skype with OBS</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-instagram-reel-creation-guide-for-2024/"><u>[Updated] Instagram Reel Creation Guide for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-uninterrupted-airdrop-connections-in-the-world-of-iphones-and-macs/"><u>[Updated] Uninterrupted AirDrop Connections in the World of iPhones & Macs</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-insiders-guide-to-perfected-picture-hues/"><u>2024 Approved The Insider's Guide to Perfected Picture Hues</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/essential-dash-cam-factors-a-pre-purchase-guide/"><u>Essential Dash Cam Factors: A Pre-Purchase Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-y28-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo Y28 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-steps-for-opening-davinci-resolve-on-a-window-os/"><u>Ultimate Troubleshooting Steps for Opening DaVinci Resolve on a Window OS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-clearer-sound-with-these-ipad-tips/"><u>[New] In 2024, Clearer Sound with These iPad Tips</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nnovative-approaches-to-craft-compelling-asmr-videos-for-mass-appeal-for-2024/"><u>[New] Innovative Approaches to Craft Compelling ASMR Videos for Mass Appeal for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elaborate-breakdown-straightforward-dynamic-range-for-2024/"><u>[Updated] Elaborate Breakdown Straightforward Dynamic Range for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capture-and-share-live-to-the-max-with-4-pro-tips-on-fb/"><u>2024 Approved Capture and Share Live to The Max with 4 Pro Tips on FB</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-capturing-the-web-in-full-color-the-best-screen-recorders-reviewed/"><u>In 2024, Capturing the Web in Full Color The Best Screen Recorders Reviewed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-expert-tips-for-maximizing-visual-impact-via-google-meet-filters-and-masks/"><u>In 2024, Expert Tips for Maximizing Visual Impact via Google Meet Filters & Masks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-image-recording-assistant/"><u>In 2024, Image Recording Assistant</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-immediate-visuals-the-fastest-4-ways-to-snip-on-chrome-os/"><u>In 2024, Immediate Visuals The Fastest 4 Ways To Snip on Chrome OS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-precision-editing-for-perfect-numbers-on-tiktok-videos/"><u>In 2024, Precision Editing for Perfect Numbers on TikTok Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oneplus-11r-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your OnePlus 11R Phone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/keeping-the-memories-efficiently-taking-screenshots-on-xbox-one-for-2024/"><u>Keeping the Memories Efficiently Taking Screenshots on Xbox One for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723011501493-steam-sign-in-failures-heres-how-you-can-get-back-in-easily/"><u>Steam Sign In Failures? Here's How You Can Get Back in Easily!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-the-trouble-youtubes-green-screen-fixes-unveiled/"><u>Tackling the Trouble: YouTube's Green Screen Fixes Unveiled</u></a></li>
 </ul></div>
 
