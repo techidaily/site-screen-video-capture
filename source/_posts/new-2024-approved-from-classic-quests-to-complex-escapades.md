@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Classic Quests to Complex Escapades\""
-date: 2024-11-21T21:28:28.560Z
-updated: 2024-11-28T23:11:06.638Z
+date: 2024-12-01T05:27:54.377Z
+updated: 2024-12-07T20:14:35.303Z
 tags: 
   - screen-recording
   - ai video
@@ -40,7 +40,7 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Rogue: Where it all started
@@ -49,21 +49,25 @@ In order to best understand these two game genres, we must first analyze the ori
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -107,11 +111,11 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -129,10 +133,6 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
@@ -143,11 +143,11 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,24 +164,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-scene-seizing-exploration/"><u>[New] 2024 Approved Ultimate Scene Seizing Exploration</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-elite-web-based-voice-recorders-the-best-of-2023-for-2024/"><u>[New] Elite Web-Based Voice Recorders - The Best of 2023 for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-best-tools-for-video-recording-focus-on-apeaksofts-advantages/"><u>[New] In 2024, The Best Tools for Video Recording – Focus on Apeaksoft's Advantages</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-leading-ipad-voice-recorders-1-2-3/"><u>[New] Leading iPad Voice Recorders #1, #2, #3</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-record-tv-shows-on-windows-pc-with-free-video-recording-software/"><u>[Updated] How to Record TV Shows on Windows PC with Free Video Recording Software?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-bridging-the-gap-youtube-and-facebook-content-collaboration/"><u>[Updated] In 2024, Bridging the Gap YouTube and Facebook Content Collaboration</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-grabber-tech-for-film-lovers-for-2024/"><u>[Updated] Innovative Grabber Tech for Film Lovers for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-effortless-capture-procedure-guiding-you-through-macos-screen-record/"><u>2024 Approved Effortless Capture Procedure Guiding You Through macOS Screen Record</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-precision-game-recording-in-apex-legends-2023-edition/"><u>2024 Approved Precision Game Recording in Apex Legends, 2023 Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-reveiw-by-oladance-evaluating-the-sound-performance-of-popular-open-ear-headphone-models/"><u>Comprehensive Reveiw by Oladance: Evaluating the Sound Performance of Popular Open-Ear Headphone Models</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-enhancing-visual-flow-effortless-fade-tricks/"><u>In 2024, Enhancing Visual Flow Effortless Fade Tricks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-screen-streaming-showdown-whos-the-champion-obs-or-shadowgl/"><u>In 2024, Screen Streaming Showdown Who's the Champion? OBS or ShadowGL?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-presentation-skills-using-ai-technologies/"><u>Innovating Presentation Skills Using AI Technologies</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/instantly-spice-up-videos-on-facebook-with-music-steps-for-2024/"><u>Instantly Spice Up Videos on Facebook With Music Steps for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/must-know-aspects-before-opting-for-a-dash-cam/"><u>Must-Know Aspects Before Opting for a Dash Cam</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/no-budget-big-fun-youtube-vids-as-tweets-gifs-for-2024/"><u>No Budget, Big Fun YouTube Vids as Tweets' GIFs for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/simple-techniques-for-photo-watermarking-a-quick-guide-by-movavi/"><u>Simple Techniques for Photo Watermarking: A Quick Guide by Movavi</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-screen-mirroring-connect-your-huawei-p50-with-a-computer/"><u>Step-by-Screen Mirroring: Connect Your Huawei P50 with a Computer</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/king-financial-success-through-youtubes-viewer-count-for-2024/"><u>Unlocking Financial Success Through Youtube's Viewer Count for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-exploring-the-capabilities-of-bandicam-for-multimedia-creators-for-2024/"><u>[New] Exploring the Capabilities of Bandicam for Multimedia Creators for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-smart-pick-android-apps-for-large-video-meetings/"><u>[New] In 2024, Smart Pick Android Apps for Large Video Meetings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-jaunt-vr-journey-explained/"><u>[New] The Jaunt VR Journey Explained</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-switch-saving-gameplay-footage-for-2024/"><u>[Updated] Mastering Switch Saving Gameplay Footage for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-maximizing-play-in-apex-legends-without-cross-platform-limitations-for-2024/"><u>[Updated] Maximizing Play in Apex Legends Without Cross-Platform Limitations for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unleash-your-adventure-essential-tactics-for-saving-your-vr-gaming-experience-for-2024/"><u>[Updated] Unleash Your Adventure Essential Tactics for Saving Your VR Gaming Experience for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unlock-hdri-magic-compreranial-sdr-to-high-dynamic-range-upgrade-for-2024/"><u>[Updated] Unlock HDRI Magic Compreranial SDR to High Dynamic Range Upgrade for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-recent-hp-deskjet-2240-driver-update-for-pcs-with-windows/"><u>Get the Most Recent HP Deskjet 2240 Driver Update for PCs with Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-s17e-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo S17e to New Android? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/iphone-7-perfect-methods-for-screen-recording-for-2024/"><u>IPhone 7 Perfect Methods for Screen Recording for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/premium-action-recording-in-faceview-option-for-2024/"><u>Premium Action Recording In-Faceview Option for 2024</u></a></li>
 </ul></div>
 

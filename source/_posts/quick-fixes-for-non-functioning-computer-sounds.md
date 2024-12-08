@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Non-Functioning Computer Sounds
-date: 2024-11-22T00:47:08.310Z
-updated: 2024-11-28T18:27:52.863Z
+date: 2024-12-04T16:05:42.498Z
+updated: 2024-12-07T18:51:58.306Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Allow access to microphone (for Windows 10 users)**
 
  If your Logitech G430 microphone stops working in Windows 10, the first thing you should check is to turn on the microphone access. Here’s what you need to do:
@@ -47,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
  Re-plug your microphone again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
 
@@ -78,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd61613c73.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -90,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 5) Try your Logitech microphone again to see if it works now.
 
  If your issue still persists, don’t worry. We have other solutions for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 3: Check your sound settings**
 
@@ -104,19 +96,23 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Recording** tab, then right click on any empty area inside the device list and select**Show** **Disabled** **Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6274ee58efa.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right click your microphone and click**Enable** (if it’s enabled, you’ll see**Disable** ).
@@ -132,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62766a93d1c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Click the**Levels** tab, and drag the volume slider to**maximum** .
@@ -144,6 +140,10 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  Try your Logitech G430 mic again and see if it works.
 
  Still no luck? Okay, there’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall Logitech Game Software**
 
@@ -173,20 +173,16 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ngage-entertain-enlighten-crafting-compelling-live-thumbnails/"><u>[New] Engage, Entertain, Enlighten Crafting Compelling Live Thumbnails</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-macs-top-5-non-bandicam-capturing-apps/"><u>[Updated] In 2024, Mac's Top 5 Non-Bandicam Capturing Apps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-pudding-patrol-tutorial-how-to-guide-to-screen-capture-software/"><u>[Updated] In 2024, Pudding Patrol Tutorial How-To Guide to Screen Capture Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-premier-12-video-capture-goes-on-forever-in-2024/"><u>[Updated] Premier 12 Video Capture - Goes On Forever, In 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-budget-friendly-online-face-offs/"><u>[Updated] Ultimate Budget-Friendly Online Face-Offs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-unveiling-the-top-5-ios-tools-for-psp-gameplay-for-2024/"><u>[Updated] Unveiling the Top 5 iOS Tools for PSP Gameplay for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-how-to-write-amazing-podcast-descriptions-with-examples/"><u>2024 Approved How to Write Amazing Podcast Descriptions (With Examples)</u></a></li>
-<li><a href="https://discover-best.techidaily.com/2024vk3/"><u>2024年VKビデオのダウンロード手順ベスト3</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-honor-90-gt-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor 90 GT Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/immaculatecapture-the-best-w10-recorder-for-2024/"><u>ImmaculateCapture The Best W10 Recorder for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-5-emulators-the-ultimate-guide-for-classic-ps1-games-on-pc/"><u>In 2024, Top 5 Emulators The Ultimate Guide for Classic PS1 Games on PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone 14 Pro Max?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-restful-nights-the-ultimate-guide-to-apple-watch-sleep-analytics/"><u>Maximizing Restful Nights: The Ultimate Guide to Apple Watch Sleep Analytics</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1716069919187-new-2024-approved-inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones/"><u>[New] 2024 Approved Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones.</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-androids-ultimate-guide-to-photo-editors-is-pickup-a-contender/"><u>[New] In 2024, Android’s Ultimate Guide to Photo Editors Is PickUp a Contender?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-optimize-video-meetings-with-top-tier-10-free-recording-tools/"><u>[New] In 2024, Optimize Video Meetings with Top-Tier 10 Free Recording Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-screen-capture-mastery-windows-edition-free-3-methods/"><u>[Updated] 2024 Approved Screen Capture Mastery Windows Edition (Free, 3 Methods)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ultimate-free-video-meeting-checklist-with-desktop-views/"><u>[Updated] 2024 Approved Ultimate Free Video Meeting Checklist - With Desktop Views</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-worlds-best-5-streaming-videography-tools/"><u>[Updated] 2024 Approved World's Best 5 Streaming Videography Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unleashing-potential-learning-steams-switch-controller-for-2024/"><u>[Updated] Unleashing Potential Learning Steam's Switch Controller for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-xiaomi-redmi-note-12-pro-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi Note 12 Pro 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-tecno-pop-8-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Tecno Pop 8 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-pinnacle-fix-in-digital-dimensions/"><u>In 2024, Pinnacle Fix in Digital Dimensions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-selecting-a-streaming-device-chromecast-versus-roku-unveiled/"><u>The Ultimate Guide to Selecting a Streaming Device: Chromecast Versus Roku Unveiled</u></a></li>
 </ul></div>
 

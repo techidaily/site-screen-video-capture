@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Getting Your Unresponsive Bose Speakers Back in Action
-date: 2024-11-22T21:56:46.597Z
-updated: 2024-11-28T19:41:51.918Z
+date: 2024-12-02T05:17:02.288Z
+updated: 2024-12-07T22:51:16.707Z
 tags:
   - win11
   - win10
@@ -56,18 +56,10 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-driver-de-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now check how your headset microphone works. If the driver update doesn’t help, continue to the third fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Allow access to your microphone
 
@@ -87,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
  Test your Oculus Rift S mic with a game or program. Still no luck? Check out the next method then.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Check the sound settings
@@ -97,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 1. Press the**Windows logo key** and**R** on your keyboard at the same time to invoke the Run command. Then, type**control** in the text field and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-1.jpg)
 2. Select**Small icons** next to View by, and then click**Sound** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2.jpg)
 3. On the**Recording** tab, make sure your Oculus Rift S Microphone is**enabled** . Then right-click it and select**Set as Default Device** . If you don’t see your microphone listed, tick**Show Disabled Devices** first.  
@@ -110,13 +106,13 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Are you able to use the Oculus Rift S mic now? If not, there is the last fix to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Change the power management settings
@@ -127,26 +123,26 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager.jpg)
 2. Double-click**Universal Serial Bus controllers** . Then right-click**USB Root Hub** from the list and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-2.jpg)
 3. Navigate to the**Power Management** tab and**untick the box** next to Allow the computer to turn off this device to save power. Then click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-3.jpg)
 4. If you have more than one USB root hubs, repeat the steps above to disable the power management for them all.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Go back to the Device Manager window, double-click**Oculus VR Devices** to expand the category.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-4.jpg)
 6. Righ-click**Rift Sensor** and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-5.jpg)
@@ -154,6 +150,10 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-6.jpg)
 8. Repeat the steps to disable the power-saving option of all the Rift sensors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When it’s all set, you should see the Oculus Rift S mic return to normal and it will give you the VR experience as expected.
 
@@ -180,19 +180,20 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-coordinating-zoom-meetings-with-iphone-android-and-computer-timelines/"><u>[New] 2024 Approved Coordinating Zoom Meetings with iPhone, Android, and Computer Timelines</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-discover-the-elite-live-streaming-platforms/"><u>[New] 2024 Approved Discover the Elite Live Streaming Platforms</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-capturing-movie-scenes-as-single-image-snapshots-windows-10/"><u>[Updated] 2024 Approved Capturing Movie Scenes as Single Image Snapshots (Windows 10)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-reverse-artisan-group/"><u>[Updated] Reverse Artisan Group</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/1716036881357-updated-unlock-the-full-potential-of-skype-written-in-spanish-but-not-widely-known-among-english-speakers-it-was-used-as-a-basis-for-creating-new-models-lik/"><u>[Updated] Unlock the Full Potential of Skype’ Written in Spanish, but Not Widely Known Among English Speakers. It Was Used as a Basis for Creating New Models Like BERT and GPT-3. How Can I Access This Model for 2024 Is It Free to Use?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-stitch-ppt-tiles-into-video-mosaic/"><u>2024 Approved Stitch PPT Tiles Into Video Mosaic</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y100-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y100 5G?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-essential-shortcut-knowledge-for-flawless-mac-recordings/"><u>In 2024, Essential Shortcut Knowledge for Flawless Mac Recordings</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Nokia G22? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-zooming-into-clarity-a-blueprint-for-crisp-screenshots/"><u>In 2024, Zooming Into Clarity A Blueprint for Crisp Screenshots</u></a></li>
-<li><a href="https://win-able.techidaily.com/lossless-dvd-copying-guide-how-to-duplicate-your-movies-in-windows-10/"><u>Lossless DVD Copying Guide: How to Duplicate Your Movies in Windows 10</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/mastering-the-art-of-preserving-playstation-4-gaming-history-for-2024/"><u>Mastering the Art of Preserving PlayStation 4 Gaming History for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210243995-9781614297680-meditations-on-the-trail/"><u>Meditations on the Trail | Free Book</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-counterplay-creative-ways-to-watch-youtube-in-reverse-for-2024/"><u>The Counterplay Creative Ways to Watch YouTube in Reverse for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-getting-to-grips-with-bandicam-your-guide-through-2023s-updates/"><u>[New] In 2024, Getting to Grips with Bandicam – Your Guide Through 2023'S Updates</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-no-downloads-needed-discover-our-list-of-5-best-online-gif-to-video-services/"><u>[New] In 2024, No Downloads Needed? Discover Our List of 5 Best Online GIF-to-Video Services</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-complete-guide-to-selecting-and-raising-valheim-crops-for-2024/"><u>[New] The Complete Guide to Selecting & Raising Valheim Crops for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-techniques-for-high-resolution-webcam-videos/"><u>[New] Top Techniques for High-Resolution WebCam Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-sophisticated-screenshot-options-for-gamers/"><u>[Updated] 2024 Approved Sophisticated Screenshot Options for Gamers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-brain-eaters-unleashed-a-compelling-list/"><u>[Updated] In 2024, Brain-Eaters Unleashed A Compelling List</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-mythos-mazes-decades-best-adventure-games/"><u>[Updated] In 2024, Mythos Mazes Decade’s Best Adventure Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-most-effective-10-sound-recorders-for-spotify-fans-for-2024/"><u>[Updated] The Most Effective 10 Sound Recorders for Spotify Fans for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-getting-started-free-videography-templates/"><u>2024 Approved Getting Started Free Videography Templates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-maximize-instagrams-potential-with-podcasts/"><u>2024 Approved How to Maximize Instagram's Potential with Podcasts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-a60s-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from A60s</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/guide-to-saving-real-time-screen-chats-for-2024/"><u>Guide to Saving Real-Time Screen Chats for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/immerse-yourself-in-cinematic-excellence-the-superior-visuals-of-8k-film-viewing-on-modern-computers/"><u>Immerse Yourself in Cinematic Excellence: The Superior Visuals of 8K Film Viewing on Modern Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-vision-mastering-ai-art-with-free-dall-e-3-through-bing/"><u>Transform Your Vision: Mastering AI Art with Free DALL-E 3 Through Bing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Batman Arkham Knight Glitch? Troubleshooting Steps for a Smooth Gaming Experience
-date: 2024-11-26T18:48:05.760Z
-updated: 2024-11-29T01:07:55.316Z
+date: 2024-12-02T00:05:50.002Z
+updated: 2024-12-07T16:22:38.837Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 [4: Update your network driver](https://tools.techidaily.com/drivereasy/download/)
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection
 
@@ -52,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Configure your DNS settings
 
  When you use your ISP’s (Internet Service Provider) default DNS server, some possible issues like crowded cache could cause the server connection failure. What you can do is switching to a public DNS server to solve the problem. We’ll use the Google DNS server as an example. Here’s how:
@@ -67,18 +71,18 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
@@ -87,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -112,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -128,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -152,24 +152,20 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-best-cam-cover-hacks-top-10-list/"><u>[New] Best Cam Cover Hacks - Top 10 List</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-evaluating-video-editing-tools-bandicam-vs-camtasia/"><u>[New] In 2024, Evaluating Video Editing Tools Bandicam vs Camtasia</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-exploring-screen-capture-with-apowersoft-no-cost-involved-for-2024/"><u>[Updated] Exploring Screen Capture with Apowersoft, No Cost Involved for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-effortlessly-connect-with-these-10-affordable-video-conferencing-services/"><u>[Updated] In 2024, Effortlessly Connect with These 10 Affordable Video Conferencing Services</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-metaverse-explorers-best-virtual-reality-list/"><u>[Updated] Metaverse Explorers Best Virtual Reality List</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-no-more-hassle-record-games-like-pros-for-2024/"><u>[Updated] No More Hassle Record Games Like Pros for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-optimizing-hashtag-performance-on-facebook-ads/"><u>[Updated] Optimizing Hashtag Performance on Facebook Ads</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-top-screen-recorder-alternatives-to-xboxs-game-bar/"><u>[Updated] Top Screen Recorder Alternatives to Xbox’s Game Bar</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-inclusive-insight-easeus-professional-analysis/"><u>2024 Approved Inclusive Insight EaseUS Professional Analysis</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-magic-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/essential-tools-for-motion-artwork/"><u>Essential Tools for Motion Artwork</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-usb-webcam-error-with-asus-model/"><u>Fixed USB Webcam Error with ASUS Model</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-pc-up-to-date-comprehensive-instructions-for-intels-usb-30-drivers-on-win11/"><u>Get Your PC Up-to-Date: Comprehensive Instructions for Intel's USB 3.0 Drivers on Win11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-11-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 11 System Issues? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-hot-40-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix Hot 40 Pro for Free? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-with-imei-code-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro with IMEI Code?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-undead-delight-the-best-zombie-games-reviewed/"><u>In 2024, Undead Delight The Best Zombie Games Reviewed</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/leveraging-obs-for-top-notch-social-media-streaming/"><u>Leveraging OBS for Top-Notch Social Media Streaming</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unveiling-the-technology-behind-whatsapp-voice-calls-for-2024/"><u>Unveiling the Technology Behind WhatsApp Voice Calls for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-awaken-the-warrior-within-with-these-10-films/"><u>[New] 2024 Approved Awaken the Warrior Within with These 10 Films</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-discover-the-best-10-mac-screenshot-and-recording-apps/"><u>[New] In 2024, Discover the Best 10 Mac Screenshot and Recording Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-inferno-captures-best-slow-motion-cameras/"><u>[New] In 2024, Inferno Captures Best Slow-Motion Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-voice-logging-made-simple-with-ipad-apps-for-2024/"><u>[New] Voice Logging Made Simple with iPad Apps for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-your-perfect-playlist-best-12-pc-games-to-enjoy-more-clicks-for-2024/"><u>[New] Your Perfect Playlist Best 12 PC Games to Enjoy More Clicks for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-discreetly-streaming-top-8-video-tools-of-the-year-2023/"><u>[Updated] 2024 Approved Discreetly Streaming Top 8 Video Tools of the Year, 2023</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-easy-techniques-for-using-screencastify-app/"><u>[Updated] In 2024, Easy Techniques for Using Screencastify App</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-screen-recording-the-benefits-of-using-bandicam/"><u>[Updated] In 2024, Mastering Screen Recording The Benefits of Using Bandicam</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-best-equipment-for-precise-zoom-recording/"><u>[Updated] In 2024, The Best Equipment for Precise Zoom Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-zoom-conference-configuration-essentials-for-2024/"><u>[Updated] Zoom Conference Configuration Essentials for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-ai-dialogue-with-the-premier-chrome-extension-for-smart-simple-chatgpt-prompts/"><u>Elevate AI Dialogue with the Premier Chrome Extension for Smart, Simple ChatGPT Prompts</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-mac-video-maker-effortless-slideshow-creation-for-macos-users/"><u>New 2024 Approved Mac Video Maker Effortless Slideshow Creation for macOS Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-fear-of-technology-8-key-motivations-for-teachers-to-embrace-artifice-intelligence/"><u>Overcoming Fear of Technology: 8 Key Motivations for Teachers to Embrace Artifice Intelligence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/shade-portraits-with-orbital-illumination-technique-cs/"><u>Shade Portraits with Orbital Illumination Technique CS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/strategic-mastery-pinpointing-top-7-total-war-battles-for-2024/"><u>Strategic Mastery Pinpointing Top 7 Total War Battles for 2024</u></a></li>
 </ul></div>
 

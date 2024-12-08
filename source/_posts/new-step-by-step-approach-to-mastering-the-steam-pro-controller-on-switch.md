@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Approach to Mastering the Steam Pro Controller on Switch\""
-date: 2024-11-26T16:42:27.996Z
-updated: 2024-11-28T20:26:08.691Z
+date: 2024-12-04T22:08:06.463Z
+updated: 2024-12-08T05:11:23.530Z
 tags: 
   - screen-recording
   - ai video
@@ -42,10 +42,6 @@ This article will tell you how to enable your Nintendo Switch Pro controller to 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Wired Connection for Switch Pro Controllers**
 
 Windows describe it as a DirectInput controller instead of an XInput controller, so getting it to work with PC games can prove tedious. However, thanks to Value-adding full Switch controller support to Steam, you will probably be able to play most of your favorite games.
@@ -67,7 +63,7 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Right-click the Bluetooth icon in the system tray.
@@ -75,16 +71,12 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -97,6 +89,10 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
 1. You will be required to open Steam and enter the settings menu if Big Picture doesn't open automatically when you connect the Pro Controller.
@@ -108,6 +104,10 @@ You should use the gamepad to navigate Big Picture if you have the Pro Controlle
 When configured through Steam, you should use the Pro Controller with any Steam game similar to an Xbox gamepad. Vibration can be enabled or disabled by selecting a controller from the "Detected Controllers" list in the same setup screen as before. It is possible to calibrate the analog sticks by clicking the Calibrate button manually. Also, the controller can be set to disconnect after a specified amount of time before going to sleep.
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
@@ -128,7 +128,7 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -146,22 +146,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-unleashing-musical-talent-with-magix-studio/"><u>[New] 2024 Approved Unleashing Musical Talent with Magix Studio</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-bespoke-urls-for-youtube-channels-an-easy-way/"><u>[New] Bespoke URLs for YouTube Channels An Easy Way</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-gif-capture-on-mac-10-best-tools-ranked/"><u>[Updated] In 2024, GIF Capture on Mac 10 Best Tools Ranked</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-virtual-captures-unlocked/"><u>[Updated] In 2024, Virtual Captures Unlocked</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-video-record-with-vlc-for-2024/"><u>[Updated] Mastering Video Record with VLC for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-props-to-the-best-android-tools-for-playstation-2-experience-for-2024/"><u>[Updated] Props to the Best Android Tools for PlayStation 2 Experience for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-perfect-xiaomi-device-for-amateur-filmmakers/"><u>[Updated] The Perfect Xiaomi Device for Amateur Filmmakers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/action-adventure-hits-the-best-of-the-best-top-10/"><u>Action-Adventure Hits The Best of the Best (Top 10)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-error-30015-26-in-microsoft-365-for-desktops/"><u>Eliminating Error 30015-26 in Microsoft 365 for Desktops</u></a></li>
-<li><a href="https://facebook.techidaily.com/group-unity-on-facebook-acknowledging-each-member/"><u>Group Unity on Facebook: Acknowledging Each Member</u></a></li>
-<li><a href="https://solve-info.techidaily.com/how-to-fix-windows-cant-access-specified-devicepathfile-step-by-step-guide/"><u>How To Fix 'Windows Can't Access Specified Device/Path/File': Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-5-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme GT 5 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-exclusive-look-at-zooms-prime-transcription-software-choices/"><u>In 2024, Exclusive Look at Zoom's Prime Transcription Software Choices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-v30t-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme V30T Phone FRP Lock</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/prove-your-skills-with-flawless-ps4-screen-capture-for-gamers/"><u>Prove Your Skills with Flawless PS4 Screen Capture for Gamers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/reviewing-changes-in-the-sony-s6500-blu-ray-system/"><u>Reviewing Changes in the Sony S6500 Blu-Ray System</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-and-correcting-6-typical-gpt-malfunctions/"><u>Understanding & Correcting 6 Typical GPT Malfunctions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-eliminating-blur-taming-shutter-vibration/"><u>[New] 2024 Approved Eliminating Blur Taming Shutter Vibration</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-gamerecorder-gambit-for-2024/"><u>[New] GameRecorder Gambit for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-streamlined-mac-package-audio-plus-video-capture/"><u>[New] In 2024, Streamlined Mac Package Audio + Video Capture</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-youtube-video-earnings-explained-average-adsense-fees-per-kv/"><u>[New] In 2024, Youtube Video Earnings Explained Average AdSense Fees per KV</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unlocking-lenovos-full-potential-with-screen-recordings/"><u>[Updated] Unlocking Lenovo's Full Potential with Screen Recordings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-perfecting-youtube-videos-with-angle-rotation-mastery/"><u>2024 Approved Perfecting YouTube Videos with Angle Rotation Mastery</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortlessly-isolate-and-save-audio-from-your-zoom-meetings-a-three-step-guide/"><u>Effortlessly Isolate and Save Audio From Your Zoom Meetings: A Three-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-nvidia-geforce-error-code-0x0003-troubleshooting-guide/"><u>Fixing Nvidia Geforce Error Code 0X0003 - Troubleshooting Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-downloading-facebook-videos-ultimate-5-list-ranked/"><u>In 2024, Downloading Facebook Videos Ultimate 5 List Ranked</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-iphone-xs-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on iPhone XS or iPad?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/streamlined-teaching-mastering-lecture-capture-on-mac-systems/"><u>Streamlined Teaching Mastering Lecture Capture on Mac Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/three-key-strategies-to-record-and-review-education-talks-on-macbooks-for-2024/"><u>Three Key Strategies to Record and Review Education Talks on MacBooks for 2024</u></a></li>
 </ul></div>
 

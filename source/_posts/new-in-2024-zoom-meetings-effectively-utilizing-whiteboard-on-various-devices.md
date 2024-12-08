@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Zoom Meetings  Effectively Utilizing Whiteboard on Various Devices\""
-date: 2024-11-25T22:57:36.300Z
-updated: 2024-11-28T23:17:18.209Z
+date: 2024-12-06T16:48:37.734Z
+updated: 2024-12-07T17:29:01.012Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
  Interested in creating a whiteboard video but don't know how? Here is a guide about [How to create a whiteboard animation video.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Access Whiteboard on Zoom Meeting on Windows/Mac
 
  Since Zoom shares almost identical interface on both Mac and Windows platforms, understanding any one would automatically educate you about the other. For this demonstration, a computer running Windows 10 is used.
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 ![Zoom Meeting Whiteboard Annotations](https://images.wondershare.com/filmora/article-images/select-screen-to-share-on-zoom.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check the [Zoom Screen Sharing Guide](https://tools.techidaily.com/wondershare/filmora/download/) to learn more details.
@@ -70,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 ![Zoom Meeting Whiteboard Annotations Interface](https://images.wondershare.com/filmora/article-images/zoom-screen-sharing-whiteboard-interface.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 4: Zoom Annotation Settings
 
  Click the **Clear**  icon from the annotation panel, and choose **Clear All Drawings** , **Clear My Drawings** , or **Clear Viewers’ Drawings**  to clean the entire whiteboard, remove only your annotations, or remove only the annotations added by other participants of the meeting respectively.
@@ -81,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
  If you want to save the whiteboard, click the **Save**  icon to save your whiteboard in the **Documents**  \> **Zoom**  folder. If you want to share a new screen or your desktop screen, just click the **New Share**  button from the Zoom meeting panel, and choose a second object to share it with the viewers.
 
 ![Zoom Meeting Whiteboard Share New Screen](https://images.wondershare.com/filmora/article-images/new-share-in-screen-sharing.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
 
@@ -110,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
 
  Along with Android, Zoom is available for iOS devices as well. However, at the time of this writing, the Whiteboard feature can only be used on iPads. So, if you’re running Zoom Cloud Meeting on your iPhone, you won’t see the Whiteboard option. Nevertheless, the interface and the options that the Zoom’s iOS variant has are almost identical, and so is the process of sharing **Zoom meeting whiteboard** .
@@ -126,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Frequently Asked Questions About Zoom Whiteboard
 
 #### 1\. Can we share multiple whiteboards in a meeting?
@@ -133,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
  Yes. Other participants of a meeting can share their whiteboard with you as well. In order to do this, you must configure Zoom by clicking the small arrow available next to the **Screen Share**  icon, and clicking the **Multiple participants can share simultaneously**  option from the menu.
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\. Why can’t I see the Annotation tools?
 
@@ -151,7 +151,7 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -169,19 +169,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-complete-assessment-gecatas-real-time-logger/"><u>[New] 2024 Approved Complete Assessment Gecata's Real-Time Logger</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastering-in-game-audio-capture-in-overwatch/"><u>[New] Mastering In-Game Audio Capture in Overwatch</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-strategic-approaches-to-share-ppt-powerfully-in-google-meet/"><u>[New] Strategic Approaches to Share PPT Powerfully in Google Meet</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-xbmc-media-center-all-in-one-home-entertainment/"><u>[Updated] 2024 Approved XBMC Media Center All-in-One Home Entertainment</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-theme-wizards-at-work-bestdiscords-top-picks-for-2024/"><u>[Updated] Theme Wizards at Work BestDiscord’s Top Picks for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2023-how-to-solve-facebook-videos-are-partially-muted/"><u>2023 | How to Solve Facebook Videos Are Partially Muted?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-camstudio-screen-recorder-complete-review/"><u>2024 Approved CamStudio Screen Recorder Complete Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/black-friday-alert-snatch-up-a-steep-discount-on-apples-magic-keyboard-for-just-90-less-your-guide-to-savings-starts-here-at-zdnet/"><u>Black Friday Alert! Snatch Up a Steep Discount on Apple's Magic Keyboard for Just $90 Less – Your Guide to Savings Starts Here at ZDNet.</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/customizing-control-panel-a-step-by-step-guide-yl-computings-user-manual/"><u>Customizing Control Panel: A Step-by-Step Guide - YL Computing's User Manual</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-vibrant-colors-with-sunbrites-indestructible-55-outdoor-4k-hdr-smart-television/"><u>Experience Vibrant Colors with SunBrite's Indestructible 55 Outdoor 4K HDR Smart Television</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/free-top-30-karaoke-hits-of-2017-with-lyrics-download-now/"><u>Free Top 30 Karaoke Hits of 2017 with Lyrics - Download Now!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-9-proplus-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Nubia Red Magic 9 Pro+ Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-peeking-into-apeaksofts-2023-screen-recording-features/"><u>In 2024, Peeking Into Apeaksoft’s 2023 Screen Recording Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-edge-insights-discover-6-uses-for-ais-code-maestro/"><u>Leading-Edge Insights - Discover 6 Uses for AI's Code Maestro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-premium-top-11-list-best-audio-tech-showcase/"><u>[New] 2024 Approved Premium Top 11 List - Best Audio Tech Showcase</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-4-ways-how-to-download-videos-from-facebook-messenger/"><u>[New] 4 Ways | How to Download Videos From Facebook Messenger?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-open-minds-open-tech-easeus-report/"><u>[New] In 2024, Open Minds, Open Tech - EaseUS Report</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-transforming-home-security-the-rise-of-multi-camera-recorders/"><u>[New] Transforming Home Security The Rise of Multi-Camera Recorders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-choosing-livestream-software-the-obs-vs-streamlabs-dilemma/"><u>[Updated] In 2024, Choosing Livestream Software The OBS Vs. Streamlabs Dilemma</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-key-methods-to-capture-and-document-live-youtube-broadcasts/"><u>[Updated] In 2024, Key Methods to Capture and Document Live Youtube Broadcasts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-13-pro-max-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 13 Pro Max Prevention & Solution</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-strategies-for-writing-persuasive-vlog-show-narratives/"><u>In 2024, Strategies for Writing Persuasive Vlog Show Narratives</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/is-it-possible-to-navigate-a-flippingbook-pdf-in-reverse-order-similar-to-arabic-text-reading/"><u>Is It Possible to Navigate a FlippingBook PDF in Reverse Order Similar to Arabic Text Reading?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-physxloaderdll-error-a-step-by-step-guide/"><u>Resolving 'PhysXLoader.dll' Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/steven-spielbergs-legendary-cinema-top-titles-that-defined-an-era-and-outlived-it/"><u>Steven Spielberg's Legendary Cinema: Top Titles That Defined an Era and Outlived It</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-list-of-cinematic-color-adjustments/"><u>The Ultimate List of Cinematic Color Adjustments</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-screen-brightness-malfunctions/"><u>Troubleshooting Windows 11 Screen Brightness Malfunctions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-take-your-videos-to-the-next-level-editing-tips-and-tricks-for-2024/"><u>Updated Take Your Videos to the Next Level Editing Tips and Tricks for 2024</u></a></li>
 </ul></div>
 
