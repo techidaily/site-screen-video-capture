@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Troubleshooting a Non-Functional OBS Capture Device\""
-date: 2024-12-06T17:46:43.257Z
-updated: 2024-12-07T18:00:52.454Z
+date: 2024-12-07T20:20:13.712Z
+updated: 2024-12-13T19:17:20.041Z
 tags: 
   - screen-recording
   - ai video
@@ -28,11 +28,7 @@ Regularly upgrading drivers and the newest versions of Windows can cure most iss
 ![windows update](https://images.wondershare.com/filmora/article-images/windows-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Reinstall Webcam
@@ -59,27 +55,19 @@ Step 2: Open webcam settings by accessing the Source tab. Here, locate and doubl
 
 ![obs output settings](https://images.wondershare.com/filmora/article-images/obs-output-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Check the options Deactivate When Not Showing. Perform the same processes for each scene in OBS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Adjust Webcam Settings
 
 If the webcam is still not functioning on OBS, visit the webcam settings by completing the same steps before and tweak items like camera resolution, FPS, video format, etc.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 5: Add Your Webcam as A Source
 
 At the moment everything is set to default and you could notice your camera looks softer than it should and also cropped. Once you're pleased with your choices, press Configure Video and this will bring up your camera's attributes and settings. What you'll have accessible to you can depend on your camera, but you'll also have access to things like brightness, contrast, sharpness, and so on. Add your camera as a source and then right-click and pick Properties.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use OBS Alternative to Record Screen
 
@@ -119,6 +107,10 @@ Step 4: Save Webcam Recordings
 
 In the end, after you're done with different edits and modifications of the editing and recording, Filmora also enables you to publish your masterpiece straight to YouTube or any other recognized site, you may without much of a stretch pick your chosen platform to share from there. Just press the Export button as indicated above and it might provide several possibilities for you on the fly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Bottom Line
 
 OBS Studio is especially popular in the gaming community since it helps you create video from numerous sources, mix your audio, set hotkeys to operate the recorder in full-screen mode, and then broadcast it live via Twitch and similar platforms or submit it to video sharing sites. if you want to make use of the capabilities of video recording and editing, consider Filmora. So, if you're a newbie wishing to film your gaming sessions, Filmora is an OBS option you should explore. Filmora video editorial manager gives various essential parts including the potential to add overlays,3D Effects, and components, for example, GIF photos, music, and text to the recordings.
@@ -145,12 +137,16 @@ To commence, just tap the Record button and it will start recording your persona
 
 ![recording video with filmora](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Save Webcam Recordings
 
 In the end, after you're done with different edits and modifications of the editing and recording, Filmora also enables you to publish your masterpiece straight to YouTube or any other recognized site, you may without much of a stretch pick your chosen platform to share from there. Just press the Export button as indicated above and it might provide several possibilities for you on the fly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -197,6 +193,10 @@ To start, visit the official website and download the Filmora installer for your
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Setup Webcam Recording
 
 To personalize your webcam with the recording screen, firstly, you need to start with the New Project and then open the Screen recorder. For that, go to the File > Record Media and then choose your chosen format of screen recording from the options as shown above. It'll transport you to the user-friendly UI of Filmora where you may pick up the recording capability on-spot as demonstrated in the image below:
@@ -204,7 +204,7 @@ To personalize your webcam with the recording screen, firstly, you need to start
 ![wondershare screen recorder](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Start Recording
@@ -214,7 +214,7 @@ To commence, just tap the Record button and it will start recording your persona
 ![recording video with filmora](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: Save Webcam Recordings
@@ -222,7 +222,7 @@ Step 4: Save Webcam Recordings
 In the end, after you're done with different edits and modifications of the editing and recording, Filmora also enables you to publish your masterpiece straight to YouTube or any other recognized site, you may without much of a stretch pick your chosen platform to share from there. Just press the Export button as indicated above and it might provide several possibilities for you on the fly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -253,24 +253,19 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-video-recording-made-easy-on-macbooks-camera/"><u>[New] 2024 Approved Video Recording Made Easy on MacBook's Camera</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-premium-12-video-capture-apps-no-time-limit/"><u>[New] In 2024, Premium 12 Video Capture Apps, No Time Limit</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-pinnacle-of-recording-quality-9-mic-devices-rated-best/"><u>[New] Pinnacle of Recording Quality 9 Mic Devices Rated Best</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-real-world-application-perfecting-your-instagram-livestream-with-obs/"><u>[New] Real-World Application Perfecting Your Instagram Livestream with OBS</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-non-xbox-screen-recording-software/"><u>[New] The Ultimate Guide to Non-Xbox Screen Recording Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-minecrafts-oriental-elegance-6-top-ideas/"><u>[Updated] 2024 Approved Minecraft's Oriental Elegance 6 Top Ideas</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-laughable-film-grabber-review/"><u>[Updated] Laughable Film Grabber Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-complete-guide-to-iphone-speech-recordings/"><u>2024 Approved The Complete Guide to iPhone Speech Recordings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-urban-escapades-top-10-games-akin-to-gta-v/"><u>2024 Approved Urban Escapades Top 10 Games Akin to GTA V</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-a14-4g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy A14 4G</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-fractured-videos-leveraging-backup-copies/"><u>Fixing Fractured Videos: Leveraging Backup Copies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/hot-picks-of-20212022-your-guide-to-top-disney-plus-films/"><u>Hot Picks of 2021/2022: Your Guide to Top Disney Plus Films</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-and-certificate-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to create a digital signature and certificate</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-audiovisual-debut-breakdown/"><u>In 2024, Audiovisual Debut Breakdown</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-python-through-linkedins-gratis-artificial-intelligence-courses-a-zdnet-review/"><u>Mastering Python Through LinkedIn's Gratis Artificial Intelligence Courses - A ZDNet Review</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/navigating-the-world-of-online-broadcasts-on-youtube-and-twitch-with-obs-for-2024/"><u>Navigating the World of Online Broadcasts on YouTube and Twitch with OBS for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/sonic-sanctuary-the-mac-experience/"><u>Sonic Sanctuary The Mac Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-getting-the-microsoft-outlook-spell-checker-back-on-track/"><u>Troubleshooting Tips: Getting the Microsoft Outlook Spell Checker Back on Track</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-all-time-highest-chart-youtubes-premier-video-list/"><u>[New] 2024 Approved All-Time Highest Chart YouTube's Premier Video List</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-best-practices-for-laptop-based-ppt-presentations-on-google-meet/"><u>[New] 2024 Approved Best Practices for Laptop-Based PPT Presentations on Google Meet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-fresh-perspectives-picture-perfect-collages-for-lifes-highlights-for-2024/"><u>[New] Fresh Perspectives Picture-Perfect Collages for Life's Highlights for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-immediate-cessation-of-live-streaming-in-quicktime/"><u>[Updated] 2024 Approved Immediate Cessation of Live Streaming in QuickTime</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1716069200311-updated-2024-approved-offline-android-delights-top-screen-free-game-list-you-must-play/"><u>[Updated] 2024 Approved Offline Android Delights Top Screen-Free Game List You Must Play!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-unveiling-the-cutting-edge-cost-free-platforms-for-professional-video-editing/"><u>[Updated] 2024 Approved Unveiling The Cutting-Edge, Cost-Free Platforms for Professional Video Editing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-elevate-your-gaming-advanced-techniques-for-recording-minecraft/"><u>[Updated] Elevate Your Gaming Advanced Techniques for Recording Minecraft</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-reviews-on-top-6-hdmi-21-display-models/"><u>[Updated] Expert Reviews on Top 6 HDMI 2.1 Display Models</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-superior-software-packages-to-improve-webcam-videos/"><u>[Updated] In 2024, Superior Software Packages to Improve Webcam Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-precision-at-a-glance-elevate-your-hp-laptop-recording-skills-for-2024/"><u>[Updated] Precision at a Glance Elevate Your HP Laptop Recording Skills for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/bite-sized-script-producer-for-2024/"><u>Bite-Sized Script Producer for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-f04-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy F04 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-tecno-camon-20-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Tecno Camon 20 Pro 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo T2x 5G | Dr.fone</u></a></li>
 </ul></div>
 

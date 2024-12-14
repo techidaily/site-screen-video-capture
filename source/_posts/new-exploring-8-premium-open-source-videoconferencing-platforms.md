@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Exploring 8 Premium Open-Source Videoconferencing Platforms\""
-date: 2024-12-03T02:44:17.673Z
-updated: 2024-12-08T05:56:55.223Z
+date: 2024-12-10T06:40:31.574Z
+updated: 2024-12-13T20:56:24.144Z
 tags: 
   - screen-recording
   - ai video
@@ -50,11 +50,11 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ![Jitsi](https://images.wondershare.com/filmora/article-images/jitsi-meet-app.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. [Bitrix24](https://www.bitrix24.com/uses/free-video-conferencing-software.php)
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ![Rocket.Chat](https://images.wondershare.com/filmora/article-images/rocketchat.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. [Riot](https://about.riot.im/)
@@ -110,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
 ![Riot](https://images.wondershare.com/filmora/article-images/riot.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. [Apache OpenMeetings](https://openmeetings.apache.org/)
 
 **Price:** Free
@@ -125,7 +129,7 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ![Apache OpenMeetings](https://images.wondershare.com/filmora/article-images/openmeetings.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. [Livestorm](https://livestorm.co/)
@@ -147,7 +151,7 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ![Livestorm](https://images.wondershare.com/filmora/article-images/livestorm.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. [OpenVidu](https://openvidu.io/)
@@ -166,10 +170,6 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 * It supports screen sharing.
 
 ![OpenVidu](https://images.wondershare.com/filmora/article-images/openvidu.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. [Zulipchat](https://zulipchat.com/hello/)
 
@@ -205,18 +205,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-embark-on-a-funimate-adventure/"><u>[New] 2024 Approved Embark on a Funimate Adventure</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-boost-your-storytelling-on-instagram-with-loops/"><u>[New] Boost Your Storytelling on Instagram With Loops</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-frame-it-right-selecting-the-perfect-borders-for-social-media-photos/"><u>[New] In 2024, Frame It Right Selecting the Perfect Borders for Social Media Photos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-navigating-screen-recording-on-your-hp-laptop-effortlessly/"><u>[New] Navigating Screen Recording on Your HP Laptop Effortlessly</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/hythm-reversal-top-10-audio-distortors-for-devices-for-2024/"><u>[New] Rhythm Reversal Top 10 Audio Distortors for Devices for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-video-editing-software-comparison-obs-vs-fraps-for-2024/"><u>[New] Video Editing Software Comparison OBS vs Fraps for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-enhancing-meeting-productivity-zooms-audio-and-video-recording-tips/"><u>[Updated] In 2024, Enhancing Meeting Productivity Zoom's Audio & Video Recording Tips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-rethinking-social-media-presence-in-light-of-instagrams-new-algorithm/"><u>[Updated] In 2024, Rethinking Social Media Presence in Light of Instagram's New Algorithm</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y100-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y100 5G Through Google Earth?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-innovative-strategies-for-combining-obs-with-zoom-platform/"><u>In 2024, Innovative Strategies for Combining OBS with Zoom Platform</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/sierras-best-the-top-5-choices-for-mac-video-editing/"><u>Sierra's Best The Top 5 Choices for Mac Video Editing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-redmi-note-12r-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi Redmi Note 12R Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-se-without-itunes-or-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone SE without itunes or icloud</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-premier-mobile-devices-top-gba-game-players/"><u>[New] In 2024, Premier Mobile Devices Top GBA Game Players</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-avatar-genius-the-easy-guide-to-metaverse-creation/"><u>[Updated] 2024 Approved Avatar Genius The Easy Guide to Metaverse Creation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-nintendo-switchs-ultimate-hd-gameplay/"><u>[Updated] 2024 Approved Nintendo Switch's Ultimate HD Gameplay</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-chill-peaks-2022-winter-games-moments/"><u>[Updated] In 2024, Chill Peaks 2022 Winter Games Moments</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-is-youtubes-monetization-routine/"><u>[Updated] In 2024, Is YouTube’s Monetization Routine?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-simultaneous-screen-and-camera-capture-guide/"><u>[Updated] In 2024, Simultaneous Screen & Camera Capture Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-slumber-solutions-through-asmr-advisors-choice/"><u>[Updated] Slumber Solutions Through ASMR Advisors' Choice</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/is-splitcam-the-pinnacle-of-recording-capabilities-for-2024/"><u>Is SplitCam The Pinnacle of Recording Capabilities for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-10-best-free-online-screen-recorders-for-2024/"><u>Top 10 Best Free Online Screen Recorders for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-tips-and-tricks-for-an-unforgettable-labor-day-celebration-insights-from-zdnet/"><u>Ultimate Guide: Tips and Tricks for an Unforgettable Labor Day Celebration - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-chatgpt-wondershare-virbo-glossary/"><u>What Is ChatGPT? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
 
