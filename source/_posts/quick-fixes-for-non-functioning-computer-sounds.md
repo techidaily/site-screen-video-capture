@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Non-Functioning Computer Sounds
-date: 2024-12-09T00:40:21.676Z
-updated: 2024-12-13T22:12:29.720Z
+date: 2024-12-19T22:12:43.299Z
+updated: 2024-12-23T09:34:00.875Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
  Is your**Logitech G430 microphone not working** ? You’re not alone. Many people have reported similar issues. But don’t worry, you can**fix the Logitech G430 mic not working** issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **How to fix Logitech G430 mic not working**
 
  If you didn’t mute the mic, if you’ve troubleshot the hardware and tried plugging your headset into different USB ports but your mic is still not working, try the solutions below:
@@ -34,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Allow access to microphone (for Windows 10 users)**
 
  If your Logitech G430 microphone stops working in Windows 10, the first thing you should check is to turn on the microphone access. Here’s what you need to do:
@@ -44,13 +44,13 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Microphone** on the left pane, and make sure**Microphone access for this device** **is on** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
@@ -76,11 +76,19 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd5faedb2b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged sound card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd61613c73.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -92,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  If your issue still persists, don’t worry. We have other solutions for you to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 3: Check your sound settings**
@@ -111,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6274ee58efa.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right click your microphone and click**Enable** (if it’s enabled, you’ll see**Disable** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627553bb550.jpg)
@@ -123,13 +127,13 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Right click your microphone, and click**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62766a93d1c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click the**Levels** tab, and drag the volume slider to**maximum** .
 
@@ -140,10 +144,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  Try your Logitech G430 mic again and see if it works.
 
  Still no luck? Okay, there’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall Logitech Game Software**
 
@@ -173,22 +173,18 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-industrys-leading-heavy-duty-drone-picks/"><u>[New] 2024 Approved Industry's Leading Heavy-Duty Drone Picks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streaming-quality-comparison-obs-against-shadowplay/"><u>[New] 2024 Approved Streaming Quality Comparison OBS Against ShadowPlay</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-sharexs-competitors-unveiled-for-2024/"><u>[New] ShareX's Competitors Unveiled for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-giggle-in-the-virtual-realm-how-to-create-your-own-hilarious-memes-for-2024/"><u>[Updated] Giggle in the Virtual Realm How to Create Your Own Hilarious Memes for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-effective-strategies-to-capture-and-save-google-voice-dialogues/"><u>[Updated] In 2024, Effective Strategies to Capture and Save Google Voice Dialogues</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-talking-technology-appraisal/"><u>[Updated] In 2024, Talking Technology Appraisal</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prototyping-perfection-the-best-vector-software-of-the-year/"><u>[Updated] Prototyping Perfection The Best Vector Software of the Year</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/exploring-the-differences-between-dvdplusr-and-dvd-r-key-benefits-of-choosing-dvdplusr-format-for-your-needs/"><u>Exploring the Differences Between DVD+R and DVD-R - Key Benefits of Choosing DVD+R Format for Your Needs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/get-ahead-in-call-capturing-20plus-techniques-for-windowsmac-users/"><u>Get Ahead in Call Capturing 20+ Techniques for Windows/Mac Users</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/immaculate-visual-logging-systems-for-2024/"><u>Immaculate Visual Logging Systems for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-archive-your-online-dialogues-essential-steps-for-fb-chat-recordings/"><u>In 2024, Archive Your Online Dialogues Essential Steps for FB Chat Recordings</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-novices-selection-guide-to-ideal-filming-cameras/"><u>In 2024, Novice's Selection Guide to Ideal Filming Cameras</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-14-plus-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 14 Plus Making It Possible</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/inaugural-vision-preservation-review-and-alternate-suggestions/"><u>Inaugural Vision Preservation Review & Alternate Suggestions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/space-saver-strategies-pioneering-the-best-cloud-platforms/"><u>Space-Saver Strategies Pioneering the Best Cloud Platforms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-professional-landscape-for-ai-interaction-experts/"><u>Understanding the Professional Landscape for AI Interaction Experts</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/wie-man-den-nvenc-videoencoder-erfolgreich-in-handbrake-integriert-und-aktiviert/"><u>Wie Man Den NVENC Videoencoder Erfolgreich in HandBrake Integriert Und Aktiviert</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-precise-techniques-for-shifting-macscreenshot-filetype/"><u>[New] 2024 Approved Precise Techniques for Shifting MacScreenshot Filetype</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-upload-youtube-shorts-detailed-instructions-from-desktopmobile/"><u>[New] 2024 Approved Upload YouTube Shorts Detailed Instructions From Desktop/Mobile</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-minisculecam-record-evaluation-and-comparisons-for-2024/"><u>[New] MinisculeCam Record Evaluation & Comparisons for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-ultimate-hunt-cut-to-7-fps-giants/"><u>[Updated] 2024 Approved The Ultimate Hunt Cut to 7 FPS Giants</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-stop-and-start-strategies-fb-livestream-recovery-methods-for-2024/"><u>[Updated] Stop and Start Strategies FB Livestream Recovery Methods for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/aif-to-ogg-file-transformation-no-cost-do-it-here/"><u>AIF to Ogg File Transformation - No Cost, Do It Here!</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevating-your-profile-the-journey-into-creating-3d-social-media-content/"><u>Elevating Your Profile: The Journey Into Creating 3D Social Media Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-directdraw-problems-on-windows-11-with-precision-tactics/"><u>Eliminating DirectDraw Problems on Windows 11 with Precision Tactics</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-8s-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 8S Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-successful-solutions-for-when-saints-row-fails-to-start-on-your-pc/"><u>Resolving Issues: Successful Solutions for When Saints Row Fails to Start on Your PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-disco-streaming-guide-3-essential-recording-methods/"><u>The Ultimate Disco Streaming Guide 3 Essential Recording Methods</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-mavericks-mp4-converter-and-editor-two-in-one-solution/"><u>Updated 2024 Approved Mavericks MP4 Converter and Editor Two-in-One Solution</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-redmi-k70e-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi Redmi K70E? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

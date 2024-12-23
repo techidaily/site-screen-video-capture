@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Zoom Etiquette  Secrets to Polite and Productive Online Chats\""
-date: 2024-12-10T04:04:13.499Z
-updated: 2024-12-13T23:20:45.665Z
+date: 2024-12-17T05:32:58.828Z
+updated: 2024-12-22T20:34:32.403Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,6 @@ That said, if you are new to the app and want to learn **how to chat in Zoom**, 
 * [Part 3: Save Zoom Chats](#save%5Fzoom%5Fchat)
 * [Part 4: Disable chat in Zoom](#disable%5Fzoom%5Fchat)
 * [Part 5: FAQ About Zoom Meeting Chats](#zoom%5Fchat%5Ffaq)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What Is Zoom Chat and Chat Settings for Secure Zoom Meeting Chat
 
@@ -77,21 +73,21 @@ The **Do not disturb from** checkbox allows you to define the duration of the da
 
 When the **Show message preview** box is unchecked, Zoom prevents the text of the chat messages from appearing on the screen, and you must open the message to view its content.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Chat in Zoom
 
 When it comes to texting there are several options available for you to choose **how to chat in Zoom**. For instance, you can send a message to everyone in the chat or send a private message to one of the participants, mention participant(s) while typing a message, and can even send a file to them if need be. You can learn how to do all these by following their corresponding methods given below:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. How to Mention People in Zoom Chat?
 
 As it is with most social media platforms these days, even in Zoom chat, you can use the @ sign followed by the starting few characters of the person you want to mention. When you start typing, a list of participants with the matching names would appear, and you can then choose the one you want to mention.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. How to Send Chat Announcements?
 
@@ -111,10 +107,6 @@ Click the **+** icon, in the available field type the email address(es) of the u
 
 ![Zoom Meeting Chat  Announcements](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-announcement.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Launch Zoom app and sign into your account. Click the **Chat** icon from the top, click **Announcements** from the left bar, type a message in the text box in the right and/or attach a file if need be. Press **Enter** to send the message/attachment as an announcement to all the recipients.
 
 ### 3\. What File Types Does Zoom Chat Support?
@@ -122,6 +114,10 @@ Launch Zoom app and sign into your account. Click the **Chat** icon from the top
 **Note:** Restricting file types and configuring other options granularly can only be done if you have purchased a paid subscription plan.
 
 At the time of this writing, **Zoom chat** supports almost all types of files. However, by signing in to your account on Zoom’s web portal, you can restrict them by their extensions. For example, you can configure your Zoom account to send only the files with JPG, ZIP, or RAR extensions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Save Zoom Chats
 
@@ -142,7 +138,11 @@ Turn on the toggle switch next to **Auto saving chats** to configure your Zoom a
 ![Zoom Meeting Chat  Auto save](https://images.wondershare.com/filmora/article-images/auto-saving-chat-in-zoom-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. How to Save Zoom Chats Manually
@@ -163,6 +163,10 @@ Click the **More** icon (with three horizontal dots) from the bottom-right corne
 
 If you are hosting a Zoom meeting, you can control the way people chat. To elaborate, you can either allow or disallow **Zoom private chat** for the members in a particular session, or can permanently disable the chat feature for your Zoom account altogether. To learn how to configure Zoom for both of these, you can follow the steps given below:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. How to Disable Zoom Private Chat?
 
 #### Step 1: Enable Chat Pane
@@ -176,7 +180,11 @@ Click the **More** icon from the bottom-right area of the pane you enabled, and 
 ![Disable Zoom Meeting Chat ](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. How to Permanently Disable Zoom Chats?
@@ -188,10 +196,6 @@ Open an Internet browser, sign in to your Zoom account on the web, click **Setti
 #### Step 2: Permanently Disable Chat
 
 ![Disable Zoom Meeting Chat ](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Turn off the **Chat** toggle switch, and on the **Turn OFF for “Chat”** box that pops up next, click **Turn Off** to disable all types of chats and the related features, i.e. including **Zoom private chat** and auto saving.
 
@@ -210,10 +214,6 @@ Tips
 As a video call host, if you don’t want the participant to save the chat content, you should enable **Prevent participants from saving chat** and save the changes.
 
 ![Zoom Meeting Chat  Saving Settings](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-prevent-participants-from-saving-chat.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Furthermore, if you have a paid subscription of Zoom, you can use advanced encryption method that is available on the **IM Management** page on your account’s web portal. About the second question, the host cannot see the private messages that the participants send to each other during a meeting session.
 
@@ -244,20 +244,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-much-does-youtube-pay-for-1-million-views/"><u>[New] 2024 Approved How Much Does YouTube Pay for 1 Million Views?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-record-and-relish-the-art-of-live-discord-streams/"><u>[New] 2024 Approved Record and Relish The Art of Live Discord Streams</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-strategy-for-highlight-image-success-in-instagram/"><u>[New] 2024 Approved The Ultimate Strategy for Highlight Image Success in Instagram</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-key-to-capturing-and-preserving-your-favorite-streamed-shows/"><u>[New] The Ultimate Key to Capturing and Preserving Your Favorite Streamed Shows</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-comparative-study-on-vlc-video-capture-for-2024/"><u>[Updated] Comparative Study on VLC Video Capture for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-experience-professional-video-calling-explore-the-top-5-devices/"><u>[Updated] Experience Professional Video Calling - Explore The Top 5 Devices</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-how-to-share-youtube-link-on-instagram-story/"><u>[Updated] In 2024, How to Share YouTube Link on Instagram Story</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-ions-bold-step-forward-with-pro-3-a-comprehensive-camera-review/"><u>[Updated] ION's Bold Step Forward with Pro 3 - A Comprehensive Camera Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-step-by-step-creating-a-skype-group-on-both-systems/"><u>[Updated] Step-by-Step Creating a Skype Group on Both Systems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/an-introductory-guide-to-navigating-your-way-through-zoom-webinars-for-2024/"><u>An Introductory Guide to Navigating Your Way Through Zoom Webinars for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/christian-hymnal-options-for-ringtone-customization/"><u>Christian Hymnal Options for Ringtone Customization</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-a-non-responsive-left-click-on-computer-mice/"><u>Easy Fixes for a Non-Responsive Left Click on Computer Mice</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/expert-choices-top-browsers-to-capture-your-digital-experience/"><u>Expert Choices Top Browsers to Capture Your Digital Experience</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-efficiently-archive-skype-conversations-for-future-reference/"><u>In 2024, Efficiently Archive Skype Conversations for Future Reference</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ize-views-magnify-impact-youtube-marketing-essentials-for-2024/"><u>Maximize Views, Magnify Impact (YouTube Marketing Essentials) for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-crafting-professional-ppt-video-content/"><u>[New] 2024 Approved Crafting Professional PPT Video Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-efficiently-capture-whatsapp-chat-a-step-by-step-tutorial/"><u>[New] 2024 Approved Efficiently Capture WhatsApp Chat A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-zoom-transcription-apps-finding-value-in-freepaid-for-2024/"><u>[New] Essential Zoom Transcription Apps Finding Value in Free/Paid for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-impeccablecapture-studio-suite-windows-10-edition-for-2024/"><u>[New] ImpeccableCapture Studio Suite (Windows 10 Edition) for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-keep-the-conversation-going-essential-fixes-for-live-video-pauses/"><u>[New] Keep the Conversation Going Essential Fixes for Live Video Pauses</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-nostalgia-revue-old-school-review-of-the-goofys/"><u>[New] Nostalgia Revue Old-School Review of The Goofys</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-methods-for-streamlining-console-playback-pc-wise/"><u>[Updated] 2024 Approved Expert Methods for Streamlining Console Playback PC-Wise</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-8-most-reliable-and-free-open-source-video-chat-options/"><u>[Updated] In 2024, The 8 Most Reliable and Free Open Source Video Chat Options</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-tier-windows-10-screen-capture-programs-unveiled/"><u>[Updated] Top-Tier Windows 10 Screen Capture Programs Unveiled</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capture-every-moment-exploring-free-high-quality-cameras/"><u>2024 Approved Capture Every Moment – Exploring Free, High-Quality Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-high-definition-webcams-top-5-combined-visual-and-audio/"><u>2024 Approved High-Definition Webcams Top 5 - Combined Visual & Audio</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-interactive-horizinas-analyzing-the-triumvirate-of-tech-vr-ar-and-mr/"><u>2024 Approved Interactive Horizinas Analyzing the Triumvirate of Tech (VR, AR, & MR)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-rescuing-a-stuck-laptop-mouse-from-malfunction/"><u>Comprehensive Fixes: Rescuing a Stuck Laptop Mouse From Malfunction</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-pinnacle-cloud-solutions-highest-rated-reviewed/"><u>In 2024, Pinnacle Cloud Solutions Highest-Rated Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-cmos-troubles-ultimate-tips-for-resolving-checksum-discrepancies/"><u>Navigating CMOS Troubles: Ultimate Tips for Resolving Checksum Discrepancies</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-best-of-both-worlds-online-and-offline-glitch-video-editors-compared-for-2024/"><u>New The Best of Both Worlds Online and Offline Glitch Video Editors Compared for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-by-step-guide-to-crafting-an-instagram-enterprise-profile-for-2024/"><u>Step-by-Step Guide to Crafting an Instagram Enterprise Profile for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-closed-captioning-issues-in-win-10/"><u>Unraveling Closed Captioning Issues in Win 10</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-how-to-record-your-desktop-with-filmora-scrn/"><u>Updated In 2024, How to Record Your Desktop with Filmora Scrn?</u></a></li>
 </ul></div>
 
