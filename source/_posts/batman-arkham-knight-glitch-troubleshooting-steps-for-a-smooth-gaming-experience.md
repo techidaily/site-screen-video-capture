@@ -1,7 +1,7 @@
 ---
 title: Batman Arkham Knight Glitch? Troubleshooting Steps for a Smooth Gaming Experience
-date: 2024-12-16T19:28:33.100Z
-updated: 2024-12-23T00:36:55.518Z
+date: 2024-12-21T17:31:06.531Z
+updated: 2024-12-28T19:46:46.861Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 [4: Update your network driver](https://tools.techidaily.com/drivereasy/download/)
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection
 
@@ -60,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Configure your DNS settings
 
  When you use your ISP’s (Internet Service Provider) default DNS server, some possible issues like crowded cache could cause the server connection failure. What you can do is switching to a public DNS server to solve the problem. We’ll use the Google DNS server as an example. Here’s how:
@@ -71,22 +67,30 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -102,15 +106,15 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -152,15 +152,22 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-capture-every-detail-exploring-apowersofts-pc-tool-for-2024/"><u>[New] Capture Every Detail Exploring Apowersoft’s PC Tool for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-tailoring-meet-backdrop-for-enhanced-presentations/"><u>[New] In 2024, Tailoring Meet Backdrop for Enhanced Presentations</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-achieve-creative-vibrancy-with-picshots-assistance/"><u>[Updated] Achieve Creative Vibrancy with Picshot's Assistance</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-optimized-process-for-melding-gopro-sequences-in-full-dome-videos-for-2024/"><u>[Updated] Optimized Process for Melding GoPro Sequences in Full-Dome Videos for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-crafting-a-masterpiece-with-collages/"><u>[Updated] Step-by-Step Crafting a Masterpiece with Collages</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capturing-lessons-with-ease-top-screen-recorders/"><u>2024 Approved Capturing Lessons with Ease Top Screen Recorders</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/are-camera-shakes-less-troublesome-after-photostable-effects/"><u>Are Camera Shakes Less Troublesome After PhotoStable Effects?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/design-custom-chatgpt-experience/"><u>Design Custom ChatGPT Experience</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-epic-journey-through-memory-lane-advanced-methods-for-capturing-your-sims-digital-adventures/"><u>In 2024, The Epic Journey Through Memory Lane Advanced Methods for Capturing Your Sims' Digital Adventures</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-cryptocurrency-wallets-a-comprehensive-guide/"><u>Understanding Cryptocurrency Wallets: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-indoors-adopting-the-vibe-of-a-brighter-world/"><u>[New] 2024 Approved Indoors Adopting the Vibe of a Brighter World</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/oost-income-secrets-to-successful-youtube-shorts-earning-for-2024/"><u>[New] Boost Income Secrets to Successful YouTube Shorts Earning for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-capturing-presentations-effortlessly-a-guide-to-screen-capture/"><u>[New] In 2024, Capturing Presentations Effortlessly A Guide to Screen Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-master-screen-recording-on-windows-macos-and-android-devices/"><u>[New] Master Screen Recording on Windows, macOS, and Android Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-navigating-the-world-of-audio-editing-in-audacity-for-mac-devices/"><u>[New] Navigating the World of Audio Editing in Audacity for Mac Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-saving-every-word-a-guide-to-fb-messenger-call-logs-for-2024/"><u>[New] Saving Every Word A Guide to FB Messenger Call Logs for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-video-content-battle-who-wins-with-vimeo-youtube-or-dailymotion/"><u>[New] Video Content Battle Who Wins with Vimeo, YouTube, or DailyMotion?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-tier-5-speedy-screen-recorders/"><u>[Updated] 2024 Approved Tier 5 Speedy Screen Recorders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-uniting-obs-and-zoom-a-compreehensive-video-guide/"><u>[Updated] 2024 Approved Uniting OBS and Zoom A Compreehensive Video Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-creating-classical-cinematography-a-modern-tutorial-for-2024/"><u>[Updated] Creating Classical Cinematography A Modern Tutorial for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-segmentviewer-study-notes/"><u>[Updated] In 2024, SegmentViewer Study Notes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-edits-pro-level-photo-color-techniques/"><u>Elevate Your Edits Pro-Level Photo Color Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/enhancing-presentations-with-powerpoint-soundtracks/"><u>Enhancing Presentations with PowerPoint Soundtracks</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-6-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 6 Plus to Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-90-gt-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor 90 GT via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/next-gen-recording-iphoneipad-screens/"><u>Next-Gen Recording IPhone/iPad Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgia-on-demand-ios-port-of-classic-gaming/"><u>Nostalgia on Demand: IOS Port of Classic Gaming</u></a></li>
 </ul></div>
 

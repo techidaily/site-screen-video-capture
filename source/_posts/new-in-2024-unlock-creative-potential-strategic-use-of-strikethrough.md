@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Unlock Creative Potential  Strategic Use of Strikethrough\""
-date: 2024-12-10T04:32:40.582Z
-updated: 2024-12-13T23:41:36.853Z
+date: 2024-12-24T18:24:08.313Z
+updated: 2024-12-28T19:07:55.107Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ Markers can be used during the video editing and after the screen recording to m
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * [Record desktop screen](https://tools.techidaily.com/wondershare/filmora/download/), voiceover, and webcam simultaneously
@@ -48,14 +52,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Distinctions Between the Two Types of Markers
 
 Watching the footage you've captured over and over can be a tiresome process that consumes both time and energy, so in order to increase your efficiency during the process of capturing and editing videos, you can simply add markers both to the files you're creating while recording or to your project's timeline.
@@ -67,7 +63,7 @@ You can use them to mark a place in the screen recording you're not too happy wi
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
@@ -99,10 +95,6 @@ To add markers, watch your video and find the mistake. Pause the video, then cli
 
 ![add marker from the timeline toolbar](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2: Access the Modification Option
 
 Filmora lets you adjust your marker settings for your video. Right-click on the marker and select **"Modify Marker"** from the control panel.
@@ -110,7 +102,7 @@ Filmora lets you adjust your marker settings for your video. Right-click on the 
 ![access the modification option](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 3: Customize the Markers
@@ -119,11 +111,19 @@ In the Marker Editor window, make relevant changes such as naming the marker, ad
 
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Method 2: Adding Markers through the Keyboard**
 
 After importing the clip into the timeline and identifying the points of error in your video, place the playhead on these points and press the **"M"** key on your keyboard to add a marker at the chosen timeframes.
 
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. How to Remove a Marker After Screen Recording**
 
@@ -152,22 +152,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mp4-screen-grabber-free-easy-access/"><u>[New] 2024 Approved MP4 Screen Grabber Free, Easy Access</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-filmoras-easy-steps-to-convert-avi-files-into-vibrant-gifs-on-all-platforms/"><u>[New] Filmora’s Easy Steps to Convert AVI Files Into Vibrant GIFs on All Platforms</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-cross-platform-iptv-adaptability/"><u>[New] In 2024, Cross-Platform IPTV Adaptability</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-track-instagram-people-whove-left-your-feed/"><u>[New] In 2024, Track Instagram People Who've Left Your Feed</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-windows-desktop-snapshot-learn-it-for-free-today-for-2024/"><u>[New] Windows Desktop Snapshot Learn It for Free Today for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-multiplatform-iptv-live-streaming-for-2024/"><u>[Updated] Multiplatform IPTV Live Streaming for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-windowsmacos-visual-enhancement-a-guide-to-text-embellishments-in-photos/"><u>[Updated] Windows/MacOS Visual Enhancement A Guide to Text Embellishments in Photos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-cutting-edge-simulators-for-sonys-playstation-3-games-pc/"><u>2024 Approved Cutting-Edge Simulators for Sony's PlayStation 3 Games (PC)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-hassle-free-webinar-logging-tips-for-pc-and-mac-enthusiasts/"><u>2024 Approved Hassle-Free Webinar Logging Tips for PC & Mac Enthusiasts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-beginners-pathway-to-personalizing-your-game-voice-free-in-free-fire/"><u>2024 Approved The Beginner's Pathway to Personalizing Your Game Voice, FREE in Free Fire</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-breaking-into-livestreaming-your-pathway-to-youtube-and-twitch-via-obs/"><u>In 2024, Breaking Into Livestreaming Your Pathway to YouTube & Twitch via OBS</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-s17e-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo S17e Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-12-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi 12</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-skype-capture-methods-seamless-transition-between-oses/"><u>In 2024, Skype Capture Methods Seamless Transition Between OSes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/interactive-imaging-archive-for-2024/"><u>Interactive Imaging Archive for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-your-digital-shadows-with-this-anonymous-linux-os-a-comprehensive-tutorial/"><u>Master Your Digital Shadows with This Anonymous Linux OS – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/secure-storage-strategies-for-itunes-media-for-2024/"><u>Secure Storage Strategies for iTunes Media for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-slowing-down-action-iphone-filmmaking-tricks/"><u>[New] 2024 Approved Slowing Down Action IPhone Filmmaking Tricks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-audiovisual-harmony-music-integration-in-social-media/"><u>[New] Audiovisual Harmony Music Integration in Social Media</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-pro-tips-configuring-stopwatches-in-obs-studio/"><u>[Updated] 2024 Approved Pro Tips Configuring Stopwatches in OBS Studio</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-foremost-strategies-for-stream-and-store-game-moments-for-2024/"><u>[Updated] Foremost Strategies for Stream and Store Game Moments for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-ppt-recording-techniques/"><u>[Updated] Mastering PPT Recording Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-cutting-edge-recording-sounds-in-the-mac-era-for-2024/"><u>[Updated] The Cutting Edge Recording Sounds in the Mac Era for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tips-for-optimizing-facebooks-auto-play-videos-for-2024/"><u>[Updated] Tips for Optimizing Facebook's Auto-Play Videos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/easing-high-encoding-issues-in-obs-for-2024/"><u>Easing High Encoding Issues in OBS for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/freeweb-cams-features-uncovered-in-detail-for-2024/"><u>FreeWeb Cam's Features Uncovered in Detail for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oppo-a59-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Oppo A59 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>How to identify malfunctioning hardware drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-brief-sequences-lasting-impressions-time-lapse-with-samsung/"><u>In 2024, Brief Sequences, Lasting Impressions Time-Lapse with Samsung</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-free-extension-software-leaders-in-chromebook-video-recording/"><u>In 2024, Free Extension Software Leaders in Chromebook Video Recording</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-common-iphone-glitches-with-a-simple-network-settings-reset/"><u>Resolve Common iPhone Glitches with a Simple Network Settings Reset</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-and-private-alternative-to-google-drive-explore-the-benefits-of-a-decentralized-cloud-storage-solution/"><u>Secure and Private Alternative to Google Drive - Explore the Benefits of a Decentralized Cloud Storage Solution</u></a></li>
 </ul></div>
 

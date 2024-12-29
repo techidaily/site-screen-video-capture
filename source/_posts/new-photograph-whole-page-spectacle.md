@@ -1,7 +1,7 @@
 ---
 title: "[New] Photograph Whole Page Spectacle"
-date: 2024-12-11T17:26:59.858Z
-updated: 2024-12-13T21:41:07.086Z
+date: 2024-12-27T23:17:55.124Z
+updated: 2024-12-28T21:29:00.634Z
 tags: 
   - screen-recording
   - ai video
@@ -38,7 +38,7 @@ On the other hand, The Internet contains such a vast amount of information, that
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -58,25 +58,17 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
 
 Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
-Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
 
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
 
@@ -92,11 +84,19 @@ Built-in screen capturing options on Windows and Mac offer only a limited amount
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
 
 #### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
 
@@ -129,7 +129,7 @@ Taking full page screenshots on a Mac computer is made much simpler by [Paparazz
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
@@ -159,19 +159,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-complete-motion-evaluation-2023/"><u>[New] Complete Motion Evaluation 2023</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-effective-ways-to-save-your-ps4-games/"><u>[New] Effective Ways to Save Your PS4 Games</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-achieving-virality-on-youtube-essential-steps-demystified/"><u>[New] In 2024, Achieving Virality on YouTube Essential Steps Demystified</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-innovative-methods-to-log-gaming-sessions/"><u>[New] Innovative Methods to Log Gaming Sessions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-precision-and-power-choosing-best-kung-fu-games-ranked/"><u>[Updated] 2024 Approved Precision & Power Choosing Best Kung Fu Games Ranked</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-fix-successful-non-operational-obs-camera/"><u>[Updated] Fix Successful Non-Operational OBS Camera</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-analyzing-multi-angle-video-technology-trends-today/"><u>[Updated] In 2024, Analyzing Multi-Angle Video Technology Trends Today</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-8-free-video-conferencing-software-for-windows-and-mac/"><u>2024 Approved 8 Free Video Conferencing Software for Windows and Mac</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-boosting-game-speed-optimizing-minecrafts-ram-usage/"><u>2024 Approved Boosting Game Speed Optimizing Minecraft's RAM Usage</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-by-cookiebot-solutions-boosting-website-analytics-and-seo-success/"><u>Enhanced By Cookiebot Solutions: Boosting Website Analytics and SEO Success</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-of-apples-latest-airpods-pro-gen-3-spotlight-on-key-enhancements-a-detailed-review/"><u>In-Depth Analysis of Apple's Latest AirPods Pro (Gen 3): Spotlight on Key Enhancements - A Detailed Review</u></a></li>
-<li><a href="https://extra-information.techidaily.com/stable-shooting-ultimate-iphoneandroid-tripod-hits/"><u>Stable Shooting Ultimate iPhone/Android Tripod Hits</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-best-choice-for-gamers-and-techies-a-thorough-review-of-the-asus-rog-gt-ac5300-router/"><u>The Best Choice for Gamers & Techies: A Thorough Review of the Asus ROG GT-Ac5300 Router</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ballot-box-bonanza-topping-politic-simulations/"><u>[New] 2024 Approved Ballot Box Bonanza Topping Politic Simulations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-become-a-pro-at-documenting-your-twitch-sessions-for-2024/"><u>[New] Become a Pro at Documenting Your Twitch Sessions for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-game-on-log-it-galaxy-phone-playthroughs-for-2024/"><u>[New] Game on, Log It! Galaxy Phone Playthroughs for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-rapidrush-framefrozen-recording-for-2024/"><u>[New] RapidRush FrameFrozen Recording for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-restored-full-screen-happy-obs-users/"><u>[New] Restored Full Screen, Happy OBS Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-efficiently-record-your-screen-with-io-screen-recorder-for-2024/"><u>[Updated] Efficiently Record Your Screen with IO Screen Recorder for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-essential-techniques-for-efficient-iphone-7-recording/"><u>[Updated] In 2024, Essential Techniques for Efficient iPhone 7 Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-virtual-verbal-excellence-proven-methods-for-effective-zoom-interactions/"><u>[Updated] In 2024, Virtual Verbal Excellence Proven Methods for Effective Zoom Interactions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-automatic-subtitles-for-instagram-stories-and-reels-for-2024/"><u>[Updated] Mastering Automatic Subtitles for Instagram Stories & Reels for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-evolutionary-path-of-roguelike-games-for-2024/"><u>[Updated] The Evolutionary Path of Roguelike Games for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-through-time-with-historical-fb-features-device-guide/"><u>2024 Approved Navigating Through Time with Historical FB Features Device Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazon-primes-ultimate-selection-of-family-favorites-july-2024-edition/"><u>Amazon Prime's Ultimate Selection of Family Favorites - July 2024 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-open-programs-with-preset-window-sizes-in-windows-11/"><u>How to Open Programs With Preset Window Sizes in Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-essential-steps-for-youtube-video-preservation/"><u>In 2024, Essential Steps for YouTube Video Preservation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-quick-quirky-qs-how-to-save-funny-tweets-as-gifs/"><u>In 2024, Quick, Quirky Qs How To Save Funny Tweets as GIFs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/precision-in-ai-reactions-the-power-of-6-strategic-prompts/"><u>Precision in AI Reactions: The Power of 6 Strategic Prompts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-puzzle-ultimate-guide-to-eliminate-crackling-sounds-from-your-logitech-g-pro-x-headset/"><u>Solving the Puzzle: Ultimate Guide to Eliminate Crackling Sounds From Your Logitech G Pro X Headset</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unearth-17-methods-a-complete-guide-to-tracking-internet-radio-for-2024/"><u>Unearth 17 Methods A Complete Guide to Tracking Internet Radio for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/videokopien-von-vhs-auf-dvd-und-pc-konvertieren-schritt-fur-schritt-anleitung/"><u>Videokopien Von VHS Auf DVD Und PC Konvertieren - Schritt-Für-Schritt-Anleitung</u></a></li>
 </ul></div>
 

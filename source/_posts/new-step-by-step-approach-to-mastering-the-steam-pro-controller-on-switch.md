@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Approach to Mastering the Steam Pro Controller on Switch\""
-date: 2024-12-18T18:07:58.771Z
-updated: 2024-12-22T17:12:20.004Z
+date: 2024-12-22T20:18:40.838Z
+updated: 2024-12-28T21:08:22.491Z
 tags: 
   - screen-recording
   - ai video
@@ -43,7 +43,7 @@ This article will tell you how to enable your Nintendo Switch Pro controller to 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Wired Connection for Switch Pro Controllers**
@@ -58,6 +58,10 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
 It's also easy, but you need to buy an adapter or have Bluetooth on your computer.
@@ -66,20 +70,20 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
@@ -89,13 +93,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 * Once Steam is set up, you can begin using it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -108,10 +112,6 @@ You should use the gamepad to navigate Big Picture if you have the Pro Controlle
 When configured through Steam, you should use the Pro Controller with any Steam game similar to an Xbox gamepad. Vibration can be enabled or disabled by selecting a controller from the "Detected Controllers" list in the same setup screen as before. It is possible to calibrate the analog sticks by clicking the Calibrate button manually. Also, the controller can be set to disconnect after a specified amount of time before going to sleep.
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
@@ -146,18 +146,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-detailed-breakdown-complete-test-of-gecata-tracker/"><u>[New] Detailed Breakdown Complete Test of Gecata Tracker</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-expert-techniques-for-high-quality-xbox-screenshots/"><u>[Updated] 2024 Approved Expert Techniques for High-Quality Xbox Screenshots</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-prioritizing-visibility-a-guide-to-insta-highlights-perfection/"><u>[Updated] Prioritizing Visibility A Guide to Insta Highlights Perfection</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-aural-aesthetics-in-whatsapp-statues/"><u>2024 Approved Aural Aesthetics in WhatsApp Statues</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-duplicate-screen-output-tracking/"><u>2024 Approved Duplicate Screen Output Tracking</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-samsungs-gaming-memories-record-and-reveal/"><u>2024 Approved Samsung's Gaming Memories Record and Reveal</u></a></li>
-<li><a href="https://article-posts.techidaily.com/encompassing-activity-survey/"><u>Encompassing Activity Survey</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-fixes-for-computers-that-boot-up-but-dont-show-any-video-output/"><u>Expert Fixes for Computers That Boot Up but Don't Show Any Video Output</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-redmi-k70e-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi Redmi K70E to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-ultimate-top-quality-hd-screen-capture-tools/"><u>In 2024, Ultimate Top-Quality HD Screen Capture Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/outwiththeold-camerasbeyondmycam-for-2024/"><u>OutWithTheOld CamerasBeyondMyCam for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/streamlining-video-workflow-capture-save-refine-using-adobe-connect-for-2024/"><u>Streamlining Video Workflow Capture, Save, Refine Using Adobe Connect for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-to-stream-smoothly-with-nook-miles-tactics/"><u>[New] How to Stream Smoothly with Nook Miles Tactics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-achieving-distraction-free-video-conferencing-with-skype/"><u>[New] In 2024, Achieving Distraction-Free Video Conferencing with Skype</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-aerial-imagery-crews-the-10-drones/"><u>[New] Premium Aerial Imagery Crews The #10 Drones</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-quietest-cool-memes-on-the-web/"><u>[New] The Quietest Cool Memes on the Web</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-amazon-prime-and-tweet-fandom-most-appreciated-videos-2023-for-2024/"><u>[Updated] Amazon Prime and Tweet Fandom - Most Appreciated Videos, 2023 for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-exploring-mycams-video-recording-quality-and-efficiency/"><u>[Updated] In 2024, Exploring MyCam's Video Recording Quality and Efficiency</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-what-every-youtuber-should-know-about-live-thumbnails/"><u>2024 Approved What Every YouTuber Should Know About Live Thumbnails</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/comprehensive-list-of-top-9-video-meeting-software-on-devices-for-2024/"><u>Comprehensive List of Top 9 Video Meeting Software on Devices for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-key-strategies-for-harvesting-free-photo-frames/"><u>In 2024, Key Strategies for Harvesting Free Photo Frames</u></a></li>
+<li><a href="https://facebook.techidaily.com/metas-framework-to-foil-foul-play-with-personal-images/"><u>Meta’s Framework to Foil Foul-Play with Personal Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-artistry-of-image-editing-understanding-luts-role/"><u>The Artistry of Image Editing Understanding LUTs' Role</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209868697-9780578437910-the-origin-of-opportunity/"><u>The Origin of Opportunity | Free Book</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-picks-in-depth-review-of-best-macos-screenshot-apps-for-2024/"><u>Top Picks In-Depth Review of Best macOS Screenshot Apps for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-10-free-avi-merger-tools-to-combine-avi-videos-effortlessly-for-2024/"><u>Updated 10 Free AVI Merger Tools to Combine AVI Videos Effortlessly for 2024</u></a></li>
 </ul></div>
 

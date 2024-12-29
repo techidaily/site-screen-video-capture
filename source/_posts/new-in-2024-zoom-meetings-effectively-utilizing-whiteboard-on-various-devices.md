@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Zoom Meetings  Effectively Utilizing Whiteboard on Various Devices\""
-date: 2024-12-19T05:52:40.037Z
-updated: 2024-12-22T21:50:35.299Z
+date: 2024-12-21T21:30:22.648Z
+updated: 2024-12-28T17:02:49.287Z
 tags: 
   - screen-recording
   - ai video
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
  Interested in creating a whiteboard video but don't know how? Here is a guide about [How to create a whiteboard animation video.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Access Whiteboard on Zoom Meeting on Windows/Mac
@@ -58,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 ![Zoom Meeting Whiteboard Annotations](https://images.wondershare.com/filmora/article-images/select-screen-to-share-on-zoom.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check the [Zoom Screen Sharing Guide](https://tools.techidaily.com/wondershare/filmora/download/) to learn more details.
 
 #### Step 3: Use Annotation Tools
@@ -66,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 ![Zoom Meeting Whiteboard Annotations Interface](https://images.wondershare.com/filmora/article-images/zoom-screen-sharing-whiteboard-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 4: Zoom Annotation Settings
 
  Click the **Clear**  icon from the annotation panel, and choose **Clear All Drawings** , **Clear My Drawings** , or **Clear Viewers’ Drawings**  to clean the entire whiteboard, remove only your annotations, or remove only the annotations added by other participants of the meeting respectively.
@@ -73,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
  If you want to save the whiteboard, click the **Save**  icon to save your whiteboard in the **Documents**  \> **Zoom**  folder. If you want to share a new screen or your desktop screen, just click the **New Share**  button from the Zoom meeting panel, and choose a second object to share it with the viewers.
 
 ![Zoom Meeting Whiteboard Share New Screen](https://images.wondershare.com/filmora/article-images/new-share-in-screen-sharing.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
 
@@ -103,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
@@ -122,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Frequently Asked Questions About Zoom Whiteboard
 
 #### 1\. Can we share multiple whiteboards in a meeting?
@@ -129,10 +137,6 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
  Yes. Other participants of a meeting can share their whiteboard with you as well. In order to do this, you must configure Zoom by clicking the small arrow available next to the **Screen Share**  icon, and clicking the **Multiple participants can share simultaneously**  option from the menu.
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 2\. Why can’t I see the Annotation tools?
 
@@ -150,10 +154,6 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -169,24 +169,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-leveraging-video-for-maximum-impact-with-these-5-youtube-strategies/"><u>[New] 2024 Approved Leveraging Video for Maximum Impact with These 5 YouTube Strategies</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-be-a-social-media-wizard-best-tweeter-video-tools-for-2024/"><u>[New] Be a Social Media Wizard Best Tweeter Video Tools for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-best-performance-at-a-glance-top-4k-laptops/"><u>[New] Best Performance at a Glance - Top 4K Laptops</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-2023-insights-how-to-hunt-down-cool-vids-on-fb/"><u>[New] In 2024, 2023 Insights How to Hunt Down Cool Vids on FB</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ultimate-screen-recorder-pro-win11-edition/"><u>[New] In 2024, Ultimate Screen Recorder Pro - Win11 Edition</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-infinite-possibilities-on-a-track-top-5-racing-simulators-reviewed/"><u>[New] Infinite Possibilities on a Track Top 5 Racing Simulators Reviewed</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-ps4-to-video-complete-obs-broadcasting-guide/"><u>[New] PS4 to Video Complete OBS Broadcasting Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-swift-guide-to-screenshots-via-ipados-for-2024/"><u>[New] Swift Guide to Screenshots via iPadOS for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-game-on-unlock-the-secrets-of-effective-lol-recording-for-2024/"><u>[Updated] Game-On! - Unlock the Secrets of Effective LOL Recording for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-expert-insights-bridging-obs-and-facebook-live-streaming/"><u>2024 Approved Expert Insights Bridging OBS and Facebook Live Streaming</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-provideocapture-pro-10plus-features-and-functionality-overview/"><u>2024 Approved ProVideoCapture Pro 10+ Features & Functionality Overview</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-fundamentals-of-screen-capture-with-a-dell-device/"><u>2024 Approved The Fundamentals of Screen Capture with a Dell Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-xiaomi-14-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-torrenting-platforms-for-gaming-enthusiasts-ranked-and-reviewed/"><u>Best Torrenting Platforms for Gaming Enthusiasts: Ranked and Reviewed!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/democracy-dashboard-top-5-voting-simulation-titles-for-2024/"><u>Democracy Dashboard Top 5 Voting Simulation Titles for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-ultimate-connectivity-asrocks-z890-taichi-aqua-motherboard-features-10x-usb-type-c-and-2x-thunderbolt-ports/"><u>Experience Ultimate Connectivity: ASRock's Z890 Taichi Aqua Motherboard Features 10X USB Type-C & 2X Thunderbolt Ports</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-metaverse-vs-multi-meva-understanding-their-core-differences/"><u>In 2024, Metaverse Vs. Multi-Meva Understanding Their Core Differences</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-impact-on-commerce-leveraging-chatgpt-and-whispers-powerful-apis/"><u>The Impact on Commerce: Leveraging ChatGPT and Whisper's Powerful APIs</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-essentials-fix-continuous-pc-gameplay-interruptions-in-horizon-forbidden-west-full-version/"><u>Troubleshooting Essentials: Fix Continuous PC Gameplay Interruptions in 'Horizon Forbidden West' Full Version</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-affordable-video-grabbing-tools-tested-on-pcs-for-2024/"><u>[New] Affordable Video Grabbing Tools Tested on PCs for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-poll-power-players-quintessential-politic-games/"><u>[New] In 2024, Poll Power Players Quintessential Politic Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-navigating-screen-recordings-with-gotomeeting/"><u>[New] Navigating Screen Recordings with GoToMeeting</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-precise-screen-record-azs-full-app-dissection/"><u>[New] Precise Screen Record - AZ's Full App Dissection</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-quick-fixes-for-perfect-ipad-screenshots/"><u>[New] Quick Fixes for Perfect iPad Screenshots</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-transition-to-darkness-premiere-pro-techniques/"><u>[New] Transition to Darkness Premiere Pro Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-windows-movie-maker-6-a-download-primer/"><u>[New] Windows Movie Maker 6 A Download Primer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2023s-elite-web-based-recording-devices/"><u>[Updated] 2023'S Elite Web-Based Recording Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-enhancing-presentations-with-voice-to-text-in-ppt/"><u>[Updated] 2024 Approved Enhancing Presentations with Voice-to-Text in PPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-talk-to-text-utilizing-speech-recognition-in-microsoft-office/"><u>[Updated] From Talk to Text Utilizing Speech Recognition in Microsoft Office</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-channel-command-center-mastering-your-digital-domain/"><u>[Updated] In 2024, Channel Command Center Mastering Your Digital Domain</u></a></li>
+<li><a href="https://facebook.techidaily.com/30-ways-breaking-up-with-friends-on-fb-can-improve-life/"><u>30 Ways Breaking Up with Friends on FB Can Improve Life</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/5-ways-to-record-facetime-calls-for-2024/"><u>5 Ways to Record FaceTime Calls for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/change-google-password-what-should-i-do/"><u>Change Google Password – What Should I Do?</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/discover-inbuilt-data-recovery-options-within-windows-a-guide-by-yl-software-experts/"><u>Discover Inbuilt Data Recovery Options Within Windows - A Guide by YL Software Experts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-motorola-razr-40-ultra-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Motorola Razr 40 Ultra?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-obs-master-vs-camtastic-pro/"><u>In 2024, OBS Master vs Camtastic Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-ideal-starting-point-uncomplicated-gaming-edits-tools/"><u>In 2024, The Ideal Starting Point Uncomplicated Gaming Edits Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/screenshot-supreme-expert-analysis-of-recorders-for-2024/"><u>Screenshot Supreme Expert Analysis of Recorders for 2024</u></a></li>
 </ul></div>
 
