@@ -1,7 +1,7 @@
 ---
 title: "\"Urban Uprising  Video Game List Like GTA V for 2024\""
-date: 2024-09-15T17:36:34.593Z
-updated: 2024-09-19T05:14:03.645Z
+date: 2025-01-03T04:21:10.440Z
+updated: 2025-01-07T11:04:51.254Z
 tags: 
   - screen-recording
   - ai video
@@ -117,6 +117,10 @@ You, the player, have a lot of freedom in Just Cause 4, so you can achieve unpre
 
 ![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Platforms:** PC, PS4
 
 With so many side activities to enjoy outside of the main campaign, Grand Theft Auto has always been praised for the way it brings cities to life. The design philosophy of Yakuza 0 is taken to its logical conclusion. Yakuza 0 joins the likes of Grand Theft Auto 5 with karaoke, pool, arcade games, wrestling, bowling, dancing, gambling, and... I think awkwardly viewing some explicit material in the back of a video store. Those last two can attest that not all side activities are tastefully done, but the sheer number and variety of options are astonishing. Compared to GTA, Yakuza has a much smaller scope, but what it lacks in quantity (quirky, offbeat) it makes up for in quality.
@@ -134,6 +138,10 @@ With so many side activities to enjoy outside of the main campaign, Grand Theft 
 ### 7.Sleeping Dogs
 
 ![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Platforms:** PC, PS4, Xbox One, PS3, Xbox 360
 
@@ -229,6 +237,10 @@ The same studio makes both the GTA series and Red Dead, so you can probably gues
 
 ![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows, Google Stadia
 
 The Assassin's Creed series has increasingly emphasized open-world gameplay, making it a great choice for GTA 5 fans. You'll find plenty of fun to be had with its vast world that is three times larger than Assassin's Creed: Black Flag. There are dungeons and pyramids to explore so that you won't get bored.
@@ -244,13 +256,6 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 • Combat is outstanding.
 
 • The best part of the Assassin's Creed History.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3.Watch Dogs 2
 
@@ -344,6 +349,10 @@ In keeping with its name, Sleeping Dogs was a sleeper hit in 2012\. Combining th
 
 • You can find a variety of collectibles and enjoy many other diversions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8.The Saboteur
 
 ![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
@@ -424,6 +433,10 @@ The same studio makes both the GTA series and Red Dead, so you can probably gues
 
 ![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows, Google Stadia
 
 The Assassin's Creed series has increasingly emphasized open-world gameplay, making it a great choice for GTA 5 fans. You'll find plenty of fun to be had with its vast world that is three times larger than Assassin's Creed: Black Flag. There are dungeons and pyramids to explore so that you won't get bored.
@@ -443,6 +456,10 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 ### 3.Watch Dogs 2
 
 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Platforms**: PC, PS4, Xbox One
 
@@ -477,19 +494,6 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 • The world has a tremendous amount of depth.
 
 • Driving and combat models that are simple.
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5.Just Cause 4
 
@@ -526,6 +530,10 @@ With so many side activities to enjoy outside of the main campaign, Grand Theft 
 • There are some great sidequests.
 
 • The storyline and main characters are good.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7.Sleeping Dogs
 
@@ -569,13 +577,6 @@ Gameplay-wise, The Saboteur and GTA 5 have a lot in common. Both involve running
 
 ![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows
 
 While Mafia: Definitive Edition lacks the open-world concept as much as fans would have liked, its mafia-themed story makes up for it. Mafia's story is similar to GTA 5's astonishing storytelling ability. Tommy Angelo is a cab driver who becomes involved in the Mafia after an unfortunate event. Fans are kept on edge by Mafia's story as they experience unexpected betrayal and heartbreaking forgiveness.
@@ -595,6 +596,10 @@ Additionally, Mafia provides a third-person perspective and multiple weapons wit
 ### 10.Grand Theft Auto IV
 
 ![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Platforms:** Xbox 360, PlayStation 3, Microsoft Windows
 
@@ -648,9 +653,17 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 
 • The best part of the Assassin's Creed History.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.Watch Dogs 2
 
 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Platforms**: PC, PS4, Xbox One
 
@@ -670,19 +683,6 @@ Ubisoft took this criticism to heart when developing Watch Dogs 2, which was cri
 
 ![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Platforms:** PC, Xbox One, Switch, PS3, Xbox 360
 
 Initially, Saints Row was an obvious ripoff of GTA, desperately trying to copy Rockstar's style. In the end, it was a mediocre effort that garnered a cult following for two games but failed to make a lasting impression. Saints Row: The Third, in contrast, took note of how grim and serious games like GTA were becoming, said "f that," and made them ridiculous.
@@ -698,13 +698,6 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 • The world has a tremendous amount of depth.
 
 • Driving and combat models that are simple.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5.Just Cause 4
 
@@ -844,5 +837,26 @@ So, this was our list of 10 best games like GTA 5\. We tried our best to keep th
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-optimizing-recording-quality-tips-and-tricks-for-ps3-gamers/"><u>[New] 2024 Approved Optimizing Recording Quality Tips and Tricks for PS3 Gamers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-bring-on-the-browsers-top-strategies-to-transform-your-unwatched-videos/"><u>[New] Bring on the Browsers Top Strategies to Transform Your Unwatched Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unpacking-the-essence-of-digital-tales-for-2024/"><u>[New] Unpacking the Essence of Digital Tales for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-simplify-with-top-10-free-mac-tools-for-screen-recording/"><u>[Updated] 2024 Approved Simplify with Top 10 Free Mac Tools for Screen Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-5-must-know-strategies-for-effective-team-video-calls-for-2024/"><u>[Updated] 5 Must-Know Strategies for Effective Team Video Calls for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-become-a-videographer-essentials-of-recording-with-logitech-for-2024/"><u>[Updated] Become a Videographer Essentials of Recording with Logitech for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-discover-key-methods-to-store-discord-livestream-videos-efficiently/"><u>[Updated] Discover Key Methods to Store Discord Livestream Videos Efficiently</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-capturing-quality-lens-recommendations-for-content-makers/"><u>[Updated] In 2024, Capturing Quality Lens Recommendations for Content Makers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-cost-effective-streaming-on-low-cost-pcs/"><u>[Updated] In 2024, Cost-Effective Streaming on Low-Cost PCs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capturing-the-ultimate-xbox-experience-a-screen-recorders-manual/"><u>2024 Approved Capturing the Ultimate Xbox Experience A Screen Recorder's Manual</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-insiders-secrets-of-screencastify-recording/"><u>2024 Approved The Insider’s Secrets of Screencastify Recording</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/wma-mp3-movavi/"><u>移動電話錄音直接播放：WMA 和 MP3 在线免费转换 - 靠Movavi软件进行高效转码</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/compre-cookie-cutter-webinar-logging-a-windows-and-macos-manual/"><u>Compre Cookie Cutter Webinar Logging A Windows & macOS Manual</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/erstellen-einer-sicheren-bildkopie-von-ihrer-sd-speicherkarte-tipps-und-tricks/"><u>Erstellen Einer Sicheren Bildkopie Von Ihrer SD-Speicherkarte - Tipps Und Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210012684-fix-x3daudio17dll-error-play-games-smoothly/"><u>Fix X3DAudio1_7.dll Error, Play Games Smoothly!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-peek-into-the-m1-max-clips-capabilities/"><u>In 2024, A Peek Into the M1 Max Clip's Capabilities</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-turning-viewers-into-vendors-mastery-of-youtube-income-streams/"><u>In 2024, Turning Viewers Into Vendors Mastery of YouTube Income Streams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavimovavi/"><u>Movaviの無料オンラインMOV形式ファイルをAVIに簡単変換！</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-v27e-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo V27e Device</u></a></li>
+</ul></div>
 

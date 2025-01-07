@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Classic Quests to Complex Escapades\""
-date: 2024-12-24T19:38:35.792Z
-updated: 2024-12-28T18:30:08.472Z
+date: 2024-12-30T21:17:00.049Z
+updated: 2025-01-07T08:39:35.229Z
 tags: 
   - screen-recording
   - ai video
@@ -46,7 +46,11 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -56,11 +60,11 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -68,10 +72,6 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -117,10 +117,6 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Roguelite Games
 
 For this genre, we've chosen three games that are completely different to illustrate the wider variety of titles that exists within the roguelite space.
@@ -136,6 +132,10 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Hades
 
@@ -164,24 +164,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/pixelpreserve-a-comprehensive-screen-record-review-for-2024/"><u>'PixelPreserve' A Comprehensive Screen Record Review for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-darkened-details-expert-techniques-for-night-photography-success-for-2024/"><u>[New] Darkened Details Expert Techniques for Night Photography Success for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-ultimate-guide-to-making-engaging-youtube-video-thumbnails-with-phones/"><u>[New] In 2024, The Ultimate Guide to Making Engaging YouTube Video Thumbnails with Phones</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-futuristic-approaches-surpassing-traditional-fbx-recorders/"><u>[Updated] 2024 Approved Futuristic Approaches Surpassing Traditional FBX Recorders</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-bypass-youtubes-short-video-playback-on-all-devices-for-2024/"><u>[Updated] Bypass YouTube's Short Video Playback on All Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-charting-the-path-to-previous-imagery-a-facebook-centric-guide/"><u>[Updated] In 2024, Charting the Path to Previous Imagery A Facebook-Centric Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-pixelstreamer-os-native-screen-recording/"><u>[Updated] In 2024, PixelStreamer OS-Native Screen Recording</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-ps5-elite-gaming-screens-top-5-hdmi-21-ultra-high-res-monitors-for-2024/"><u>[Updated] PS5 Elite Gaming Screens Top 5 HDMI 2.1 Ultra High-Res Monitors for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-step-into-the-spotlight-on-instagram-with-these-tricks-for-2024/"><u>[Updated] Step Into the Spotlight on Instagram with These Tricks for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-virtual-playstation-revival-on-android-try-the-5-best-emulators-here-in-2024/"><u>[Updated] Virtual PlayStation Revival on Android? Try the 5 Best Emulators Here, In 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-transform-your-live-streaming-best-practices-in-obs-studio/"><u>2024 Approved Transform Your Live Streaming Best Practices in OBS Studio</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/break-free-10-innovative-editors-beyond-vimeos-boundaries-for-2024/"><u>Break Free 10 Innovative Editors Beyond Vimeo's Boundaries for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/mastering-video-capture-bandicams-edge-over-camtasia/"><u>Mastering Video Capture Bandicam’s Edge Over Camtasia</u></a></li>
-<li><a href="https://games-able.techidaily.com/memorial-day-sale-get-800-off-the-razer-blade-15-from-walmart-exclusive-deal/"><u>Memorial Day Sale: Get $800 Off the Razer Blade 15 From Walmart - Exclusive Deal</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/selecting-the-best-screen-recorders-of-todays-market-for-2024/"><u>Selecting the Best Screen Recorders of Today's Market for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-techniques-for-revitalizing-exchange-databases/"><u>Stellar Techniques for Revitalizing Exchange Databases</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-guide-for-enthusiasts-on-screenshotting-with-zd-software-for-2024/"><u>The Ultimate Guide for Enthusiasts on Screenshotting with ZD Software for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-errors-failed-attempt-at-installing-the-latest-windows-11-version-1607-upgrade/"><u>Troubleshooting Errors: Failed Attempt at Installing the Latest Windows 11 (Version 1607) Upgrade</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-country-rhythms-for-peaceful-evenings-top-20-tiktok-tracks/"><u>[New] Country Rhythms for Peaceful Evenings Top 20 TikTok Tracks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-comprehensive-breakdown-of-zd-soft-recording-features/"><u>[New] In 2024, Comprehensive Breakdown of ZD Soft Recording Features</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-vrecorder-download-install/"><u>[New] In 2024, Mastering VRecorder Download, Install</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-navigating-android-video-calls-effortlessly/"><u>[New] In 2024, Navigating Android Video Calls Effortlessly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-definitive-guide-ios-screenshots-and-recording-2inas-2023/"><u>[New] In 2024, The Definitive Guide IOS Screenshots & Recording (2Inas 2023)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-innovative-advanced-gaming-monitoring-tools-for-a-better-experience/"><u>[New] Innovative, Advanced Gaming Monitoring Tools for a Better Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-setting-up-audacity-for-effective-mac-based-sound-capture/"><u>[New] Setting Up Audacity for Effective Mac-Based Sound Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-virtual-adventure-awaits-with-these-top-12-pc-clickers/"><u>[Updated] In 2024, Virtual Adventure Awaits with These Top 12 PC Clickers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-peak-performance-in-live-recording-software/"><u>[Updated] Peak Performance in Live Recording Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-simplifying-video-production-with-captivate-for-2024/"><u>[Updated] Simplifying Video Production with Captivate for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/from-sound-to-sight-choosing-between-audio-and-video-media/"><u>From Sound to Sight Choosing Between Audio and Video Media</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-chatgpt-for-engaging-presentation-creation/"><u>Harnessing ChatGPT for Engaging Presentation Creation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-depth-video-metrics-at-your-fingertips-social-blade-for-youtube-for-2024/"><u>In-Depth Video Metrics at Your Fingertips Social Blade for YouTube for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-geforce-210-drivers-update-for-windows-10/"><u>NVIDIA GeForce 210 Drivers Update for Windows 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/precise-methods-for-recording-your-facetime-communication/"><u>Precise Methods for Recording Your FaceTime Communication</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/saving-strategies-securing-your-mov-on-windows-pcs-for-2024/"><u>Saving Strategies Securing Your .mov On Windows PCs for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-the-missing-msvcr80dll-file-problem/"><u>Solutions for Resolving the 'Missing MSVCR80.DLL' File Problem</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlining-communication-the-art-of-using-zoom-in-win11/"><u>Streamlining Communication The Art of Using Zoom in Win11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-guide-unpacking-the-secrets-of-du-recorder/"><u>Ultimate Guide Unpacking the Secrets of Du Recorder</u></a></li>
 </ul></div>
 

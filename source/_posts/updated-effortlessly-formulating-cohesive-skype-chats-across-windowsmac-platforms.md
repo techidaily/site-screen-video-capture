@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Effortlessly Formulating Cohesive Skype Chats Across Windows/Mac Platforms"
-date: 2024-12-22T17:16:30.320Z
-updated: 2024-12-28T16:21:34.972Z
+date: 2025-01-02T00:08:06.109Z
+updated: 2025-01-06T17:00:02.619Z
 tags: 
   - screen-recording
   - ai video
@@ -43,28 +43,24 @@ To make a group chat on Skype using a Windows operating system you can get conne
 
 ![new group chat](https://images.wondershare.com/filmora/article-images/new-group-chat1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * A new window will appear in the Skype main screen. Here you’ll have to write the name of the group and select a picture for the group chat. The name should represent the purpose of the chat group to make sense to its participants, I’ve selected a figurative name for the sake of an example. After you’re done with the name and picture, press the ahead arrow.
 
 ![create group name](https://images.wondershare.com/filmora/article-images/create-group-name2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Skype will take you to your contact list to choose the members for your new chat group. You can skimp through the whole list or search the name in the search bar to look for a particular person. Once you’re done selecting all your contacts press the “Done” button and Skype will create your new shiny group within a minute.
 
 ![finish create group](https://images.wondershare.com/filmora/article-images/finish-create-group3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * You’ll be taken directly to the new group chat you just created. Here you can chat with all the group members at the same time without any delay. Send pictures, videos, schedule a group call, add more people to the group, and many more features.
 
 ![start group chat](https://images.wondershare.com/filmora/article-images/start-group-chat4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Start a Skype Group Chat on Mac
@@ -84,6 +80,10 @@ Skype allows anyone to create a group chat on Mac. You can easily create and enj
 
 ![contact list](https://images.wondershare.com/filmora/article-images/contact-list3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You will directly be taken to the newly created Skype group chat. where you can start chit chat with the group members.
 
 ![get new group](https://images.wondershare.com/filmora/article-images/get-new-group4.jpg)
@@ -91,7 +91,7 @@ Skype allows anyone to create a group chat on Mac. You can easily create and enj
 * Now you can have a group video or audio call in real-time with members around the world. Talk and collaborate with coworkers, family, and friends while being able to send pictures, videos, and other files simultaneously.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Manage Your Skype Group Chat
@@ -102,12 +102,16 @@ Skype gives you full control over the group chats you create on Windows, Mac, Li
 
 ![manage group](https://images.wondershare.com/filmora/article-images/manage-group1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Update or add a group picture**: Upload, view, or remove the group picture.
 
 ![upload group pic](https://images.wondershare.com/filmora/article-images/upload-group-pic2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * **Change your group name**: Press the Edit (pencil) icon next to the group name to edit the name of your group.
@@ -127,10 +131,6 @@ Skype gives you full control over the group chats you create on Windows, Mac, Li
 ## Part 4: Q&A about Skype Group Chat
 
 Have some questions about skype group video chat? Keep the following!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q1: How many people can you have on a Skype group chat?
 
@@ -168,25 +168,29 @@ To delete all your Skype contacts at once follow the steps:
 
 ![skype settings](https://images.wondershare.com/filmora/article-images/skype-settings6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * 2\. In the settings go to the “Contacts” tab on the left sidebar. This will show all the settings for contacts, go to “Privacy” settings.
 
 ![contact tab](https://images.wondershare.com/filmora/article-images/contact-tab7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * 3\. In the Privacy settings, you will see all the other details. We need to go into the “View list” under the Profile section. This will reveal all your contacts in a list.
 
 ![view list](https://images.wondershare.com/filmora/article-images/view-list8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * 4\. In the list, you’ll be presented with all your contacts. Deleting them is very easy, just left-click each or dotted menu option and select “Delete contact”. This way you won’t have to go into each contact’s profile to delete the particular contact.
 
 ![delete contact](https://images.wondershare.com/filmora/article-images/delete-contact9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -195,10 +199,6 @@ Skype group chats allow multiple people to communicate face-to-face through time
 If you feel the same about the need for group chats like the one Skype offers, tell us about the applications you usually use for group chatting among your friends, family, and office staff in the comment section below.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -215,20 +215,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-dynamic-diversity-30plus-fresh-biographical-strategies-to-triple-your-views-following-on-tiktok-filmora-platform/"><u>[New] 2024 Approved Dynamic Diversity 30+ Fresh Biographical Strategies to Triple Your Views, Following on TikTok-Filmora Platform</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-no-cost-youtube-audio-tools-for-seamless-mp3-downloads/"><u>[New] No-Cost YouTube Audio Tools for Seamless MP3 Downloads</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-techniques-that-elevate-your-ppt-recording-experience/"><u>[New] Techniques that Elevate Your PPT Recording Experience</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-26-low-cost-strategies-capture-webinars-without-spending-money/"><u>[Updated] 2024 Approved 26 Low-Cost Strategies Capture Webinars Without Spending Money</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-best-3-ways-to-record-live-sports-streaming/"><u>[Updated] 2024 Approved Best 3 Ways to Record Live Sports Streaming</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-unlock-the-magic-of-custom-snaps-and-effortless-lenses/"><u>[Updated] 2024 Approved Unlock the Magic of Custom Snaps & Effortless Lenses</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-capture-and-share-your-mac-life-free-for-2024/"><u>[Updated] Capture & Share Your Mac Life, FREE for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-choosing-the-best-portable-microphones-for-macos-users-for-2024/"><u>[Updated] Choosing the Best Portable Microphones for MacOS Users for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-framefusion-matrix-the-ultimate-montage-craft/"><u>[Updated] FrameFusion Matrix The Ultimate Montage Craft</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-techniques-for-quality-controlled-skype-call-captures-for-2024/"><u>[Updated] Techniques for Quality-Controlled Skype Call Captures for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-warnings-for-the-unquestioning-advocate-of-ai/"><u>6 Warnings for the Unquestioning Advocate of AI</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oneplus-nord-n30-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on OnePlus Nord N30 5G Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-y02t-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Y02T.</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-strategies-for-efficient-mobizen-screencasting/"><u>In 2024, Top Strategies for Efficient Mobizen Screencasting</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210340033-9781940837086-mantra/"><u>Mantra | Free Book</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-speedy-iphone-timelapses-made-simple/"><u>[New] 2024 Approved Speedy iPhone Timelapses Made Simple</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-backupmasters-expert-verdict/"><u>[New] BackUpMasters Expert Verdict</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-fixing-the-obs-fullscreen-hurdle-for-2024/"><u>[New] Fixing the OBS Fullscreen Hurdle for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-holdscreen-rapid-snapshot-manual/"><u>[New] HoldScreen Rapid Snapshot Manual</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-mastering-the-art-of-using-ez-grabber-with-this-tutorial/"><u>[New] In 2024, Mastering the Art of Using EZ Grabber with This Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incremental-introduction/"><u>[New] Incremental Introduction</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-configuration-clock-integration-for-streaming-software/"><u>[Updated] 2024 Approved Expert Configuration Clock Integration for Streaming Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-determining-frame-rates-master-choice-between-30fps-and-60fps-for-2024/"><u>[Updated] Determining Frame Rates Master Choice Between 30Fps and 60Fps for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-enhancing-team-coordination-through-thoughtful-office-spaces-for-2024/"><u>[Updated] Enhancing Team Coordination Through Thoughtful Office Spaces for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-exclusive-list-11-best-sound-capturers-guide/"><u>[Updated] Exclusive List 11 Best Sound Capturers Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-telepresence-seminar-capture/"><u>[Updated] In 2024, Telepresence Seminar Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-stepwise-approach-to-unleash-creativity-with-your-logitech-webcam/"><u>[Updated] Stepwise Approach to Unleash Creativity with Your Logitech Webcam</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/disabling-targeted-network-interfaces-on-your-pc-windows-with-expertise-from-yl-software-solutions/"><u>Disabling Targeted Network Interfaces on Your PC (Windows) with Expertise From YL Software Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discord-connectivity-woes-a-comprehensive-2024-troubleshooting-manual/"><u>Discord Connectivity Woes? A Comprehensive 2024 Troubleshooting Manual!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-gadgets-with-tom-in-depth-hardware-reviews/"><u>Exploring Gadgets with Tom: In-Depth Hardware Reviews</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-mobile-substitutes-for-chatgpt-enhancing-ai-conversations-on-the-go/"><u>Top 6 Mobile Substitutes for ChatGPT: Enhancing AI Conversations on the Go</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/turn-off-intrusive-bluetooth-in-windows-10/"><u>Turn Off Intrusive Bluetooth in Windows 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unbeatable-hard-drives-to-upgrade-your-xbox-gear-for-2024/"><u>Unbeatable Hard Drives to Upgrade Your Xbox Gear for 2024</u></a></li>
 </ul></div>
 

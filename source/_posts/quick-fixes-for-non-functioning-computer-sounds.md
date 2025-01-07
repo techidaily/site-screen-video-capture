@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Non-Functioning Computer Sounds
-date: 2024-12-26T22:47:05.554Z
-updated: 2024-12-28T20:45:14.199Z
+date: 2025-01-05T23:35:52.929Z
+updated: 2025-01-07T15:35:39.690Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Allow access to microphone (for Windows 10 users)**
@@ -44,17 +44,21 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Microphone** on the left pane, and make sure**Microphone access for this device** **is on** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
  Re-plug your microphone again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
 
@@ -83,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd61613c73.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -94,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 5) Try your Logitech microphone again to see if it works now.
 
  If your issue still persists, don’t worry. We have other solutions for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Check your sound settings**
 
@@ -108,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Recording** tab, then right click on any empty area inside the device list and select**Show** **Disabled** **Devices** .
@@ -123,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Right click your microphone, and click**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62766a93d1c.jpg)
@@ -140,10 +144,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  Try your Logitech G430 mic again and see if it works.
 
  Still no luck? Okay, there’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall Logitech Game Software**
 
@@ -173,16 +173,17 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-in-depth-analysis-of-vidmas-recording-capabilities/"><u>[New] In 2024, In-Depth Analysis of Vidma's Recording Capabilities</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-integrated-mac-system-screenmicrophone-recording-for-2024/"><u>[New] Integrated Mac System Screen/Microphone Recording for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-stream-it-record-it-facebook-live-tips-and-tricks-for-2024/"><u>[New] Stream It, Record It Facebook Live Tips & Tricks for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-your-go-to-list-of-best-free-game-apps-on-android/"><u>[New] Your Go-To List of Best Free Game Apps on Android</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-secure-continuous-streaming-in-obs/"><u>[Updated] In 2024, How To Secure Continuous Streaming In OBS</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-maximizing-view-count-for-facebook-videos/"><u>[Updated] In 2024, Maximizing View Count for Facebook Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-quicksnap-firefox-enhancements/"><u>[Updated] In 2024, QuickSnap Firefox Enhancements</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-at-a-glance-digital-home-for-quality-videos-for-2024/"><u>[Updated] Vimeo at a Glance Digital Home for Quality Videos for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-windows-10-capture-apps-ultimate-guide/"><u>2024 Approved Top Windows 10 Capture Apps Ultimate Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-the-magic-of-dandd-integrating-ai-assisted-creativity/"><u>Enhance the Magic of D&D: Integrating AI-Assisted Creativity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-sound-speeds-in-spotify-without-compromise/"><u>In 2024, Streamlining Sound Speeds in Spotify Without Compromise</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-maximizing-impact-best-practices-for-corporate-screencast-training-for-2024/"><u>[New] Maximizing Impact Best Practices for Corporate Screencast Training for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-digging-into-the-heart-of-recordcast-technology/"><u>[Updated] Digging Into the Heart of RecordCast Technology</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-guide-unraveling-ios-screen-capture-magic-for-2024/"><u>[Updated] Essential Guide Unraveling IO's Screen Capture Magic for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-fight-to-the-end-nintendos-top-10-fighters/"><u>[Updated] Fight to the End Nintendo's Top 10 Fighters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-ram-management-in-minecraft-for-2024/"><u>[Updated] Mastering RAM Management in Minecraft for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-personalizing-ps-sound-the-complete-guide-for-gamers-for-2024/"><u>[Updated] Personalizing PS Sound The Complete Guide for Gamers for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screencast-o-matic-review-for-2024/"><u>[Updated] Screencast-O-Matic Review for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-tailored-insights-setting-up-your-personalbusiness-yt-channel-mobilely/"><u>[Updated] Tailored Insights Setting Up Your Personal/Business YT Channel Mobilely</u></a></li>
+<li><a href="https://driver-error.techidaily.com/a-comprehensive-guide-to-fixing-default-amd-radeon-wattman-setting-disruptions/"><u>A Comprehensive Guide to Fixing Default AMD Radeon Wattman Setting Disruptions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-step-by-step-perfectly-sharing-your-photography-on-youtube/"><u>In 2024, Step-by-Step Perfectly Sharing Your Photography on YouTube</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/windows-wonders-top-9-tools-to-capture-and-save-animated-gif-art/"><u>Windows Wonders Top 9 Tools to Capture and Save Animated GIF Art</u></a></li>
 </ul></div>
 

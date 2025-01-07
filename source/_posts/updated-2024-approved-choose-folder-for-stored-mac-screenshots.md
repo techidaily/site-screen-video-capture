@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Choose Folder for Stored Mac Screenshots\""
-date: 2024-12-11T23:15:58.384Z
-updated: 2024-12-13T23:24:03.298Z
+date: 2024-12-31T18:22:09.700Z
+updated: 2025-01-07T05:16:33.928Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -53,7 +49,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -71,7 +71,7 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -85,7 +85,7 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -101,7 +101,7 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -119,20 +119,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastering-the-art-of-live-streams-merge-obs-zoom-for-2024/"><u>[New] Mastering the Art of Live Streams Merge OBS, Zoom for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-list-best-8-free-open-source-enterprise-callers/"><u>[New] The Ultimate List Best 8 Free, Open Source Enterprise Callers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-the-9-best-smartphone-camera-accessories-for-vloggers/"><u>[Updated] 2024 Approved The 9 Best Smartphone Camera Accessories for Vloggers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-elevating-video-content-10-proven-methods-for-youtube-conversion-for-2024/"><u>[Updated] Elevating Video Content 10 Proven Methods for YouTube Conversion for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-expert-analysis-how-showmore-enhances-your-video-capture-techniques/"><u>[Updated] In 2024, Expert Analysis How ShowMore Enhances Your Video Capture Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-next-gen-options-to-record-high-quality-gaming-footage/"><u>[Updated] Next Gen Options to Record High-Quality Gaming Footage</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-harvest-highs-celebrating-farming-gaming-innovation/"><u>2024 Approved Harvest Highs Celebrating Farming Gaming Innovation</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/dynamic-backdrop-customization-in-teammate-windows-prepost-calls/"><u>Dynamic Backdrop Customization in Teammate Windows, Pre/Post Calls</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-selection-top-3d-video-players-for-android/"><u>Elite Selection Top 3D Video Players for Android</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-external-display-detection-issues-on-your-mac-computer/"><u>Fixing External Display Detection Issues on Your Mac Computer</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-c33-2023-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme C33 2023</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-streamlined-steps-for-ios-voice-recordings/"><u>In 2024, Streamlined Steps for iOS Voice Recordings</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-a15-4g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy A15 4G Screen | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/synchronizing-with-instagram-perfect-video-integration/"><u>Synchronizing With Instagram Perfect Video Integration</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-12-pro-max-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 12 Pro Max</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-efficient-steps-recording-on-apples-ipad/"><u>[New] 2024 Approved Efficient Steps Recording on Apple's iPad</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-comparing-apowersoft-and-more-a-screen-capture-deep-dive-for-2024/"><u>[New] Comparing Apowersoft & More A Screen Capture Deep Dive for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-choosing-between-free-and-paid-zoom-transcribers-for-2024/"><u>[New] The Ultimate Guide to Choosing Between Free & Paid Zoom Transcribers for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-top-5-ios-downloader-tools-seamless-access-to-fb-videos-and-events/"><u>[Updated] 2024 Approved Top 5 iOS Downloader Tools Seamless Access to FB Videos & Events</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-techniques-for-quick-and-reliable-recording-of-online-classes/"><u>[Updated] Essential Techniques for Quick and Reliable Recording of Online Classes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-6-minecraft-abodes-for-survivors/"><u>[Updated] In 2024, Top 6 Minecraft Abodes for Survivors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-easy-steps-for-sharing-your-xbox-playtime/"><u>2024 Approved Easy Steps for Sharing Your Xbox Playtime</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cut-the-noise-get-smooth-beats-with-our-free-analyzers-today/"><u>Cut the Noise - Get Smooth Beats with Our FREE Analyzers Today</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enabling-cross-platform-compatibility-streaming-and-viewing-any-video-format-on-xbox-360-using-a-mac/"><u>Enabling Cross-Platform Compatibility: Streaming and Viewing Any Video Format on Xbox 360 Using a Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-essential-racing-games-the-ultimate-5-list/"><u>In 2024, Essential Racing Games The Ultimate 5-List</u></a></li>
+<li><a href="https://games-able.techidaily.com/past-price-points-of-games-on-steam/"><u>Past Price Points of Games on Steam</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/protecting-your-privacy-a-guide-to-preventing-surveillance-by-popular-brands-like-lg-samsung-sony-and-vizio/"><u>Protecting Your Privacy: A Guide to Preventing Surveillance by Popular Brands Like LG, Samsung, Sony & Vizio</u></a></li>
+<li><a href="https://article-tips.techidaily.com/ultimate-picture-quality-tvs-best-10-in-4k/"><u>Ultimate Picture Quality TVs – Best 10 in 4K</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-s-top-rated-free-music-recording-programs-a-comprehensive-guide/"><u>Updated S Top-Rated Free Music Recording Programs A Comprehensive Guide</u></a></li>
 </ul></div>
 
