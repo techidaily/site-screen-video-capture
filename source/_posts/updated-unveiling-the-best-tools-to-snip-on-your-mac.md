@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling the Best Tools to Snip on Your Mac"
-date: 2024-07-21T16:36:17.363Z
-updated: 2024-07-22T16:36:17.363Z
+date: 2025-01-12T23:13:45.747Z
+updated: 2025-01-13T20:42:44.036Z
 tags: 
   - screen-recording
   - ai video
@@ -25,22 +25,24 @@ However, a Mac user must use a snipping tool to take pictures. Despite the popul
 
 ### 1.Snagit
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![snagit-for-mac](https://images.wondershare.com/filmora/article-images/snagit-for-mac.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As far as screen capturing software goes, Snagit is the gold standard. Due to its attractive interface and powerful features, it is very popular with corporate customers. Among its many features are screen recording and editing. An important aspect of the app is its intuitive user interface.
 
 The top of your screen displays a small control panel. Screenshots can be taken, settings can be changed, and hotkeys customized. The editor provides several useful tools, including callouts, arrows, blur, and others. From the app, you can also create animated gifs and videos. The process of capturing and editing images and videos on a Mac is seamless that even the least tech-savvy user will find it easy to use.
 
 There are several ways to capture your screen with Snagit. An entire screen can be captured, a specific area, or a specific application. Scanners and cameras can also be used to import images. An awesome feature of this snipping tool for Mac is the possibility of capturing text from a photo and pasting it into a text editor. You have to pay $50 to access all features, which is quite expensive when compared with other tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.Lightshot
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![lightshot-for-mac](https://images.wondershare.com/filmora/article-images/lightshot-for-mac.png)
 
 The Lightshot screen capture tool is extremely lightweight. Using it is very easy as well. You can use this tool if you are concerned about how to use the snipping tool on Mac. You only need to press the print screen button on your keyboard and select your area of interest. Everything else will be taken care of by the app.
@@ -48,9 +50,9 @@ The Lightshot screen capture tool is extremely lightweight. Using it is very eas
 Besides text and colours, you can also add shapes and other elements to your screenshots. The software has a simple interface, but it can only be used on the screen capture screen itself. One of the most prominent features is the ease with which screenshots can be captured, saved, and uploaded. It is the only tool that allows you to take multiple screenshots in rapid succession.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3.MonoSnap
 
 ![monosnap-for-mac](https://images.wondershare.com/filmora/article-images/monosnap-for-mac.png)
@@ -59,9 +61,6 @@ The Monosnap screen-capture platform is a web-based application. With strong sec
 
 Monosnap is equipped with a powerful editor, which lets you customize your snapshots and share them with others. In addition to taking snapshots of the full screen, the capturer can also take snapshots of selected areas. There are useful tools such as pens, rectangles, arrows, etc. Monosnap has a cropping tool to get rid of unwanted details. If you want to use the provided cloud storage, you have to log in via Facebook or email. It is possible to sort saved snapshots into folders for convenience.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4.Greenshot Mac
 
 ![greenshot-for-mac](https://images.wondershare.com/filmora/article-images/greenshot-for-mac.png)
@@ -94,9 +93,6 @@ The top of your screen displays a small control panel. Screenshots can be taken,
 
 There are several ways to capture your screen with Snagit. An entire screen can be captured, a specific area, or a specific application. Scanners and cameras can also be used to import images. An awesome feature of this snipping tool for Mac is the possibility of capturing text from a photo and pasting it into a text editor. You have to pay $50 to access all features, which is quite expensive when compared with other tools.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.Lightshot
 
 ![lightshot-for-mac](https://images.wondershare.com/filmora/article-images/lightshot-for-mac.png)
@@ -105,9 +101,6 @@ The Lightshot screen capture tool is extremely lightweight. Using it is very eas
 
 Besides text and colours, you can also add shapes and other elements to your screenshots. The software has a simple interface, but it can only be used on the screen capture screen itself. One of the most prominent features is the ease with which screenshots can be captured, saved, and uploaded. It is the only tool that allows you to take multiple screenshots in rapid succession.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3.MonoSnap
 
 ![monosnap-for-mac](https://images.wondershare.com/filmora/article-images/monosnap-for-mac.png)
@@ -116,14 +109,8 @@ The Monosnap screen-capture platform is a web-based application. With strong sec
 
 Monosnap is equipped with a powerful editor, which lets you customize your snapshots and share them with others. In addition to taking snapshots of the full screen, the capturer can also take snapshots of selected areas. There are useful tools such as pens, rectangles, arrows, etc. Monosnap has a cropping tool to get rid of unwanted details. If you want to use the provided cloud storage, you have to log in via Facebook or email. It is possible to sort saved snapshots into folders for convenience.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4.Greenshot Mac
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![greenshot-for-mac](https://images.wondershare.com/filmora/article-images/greenshot-for-mac.png)
 
 In the Greenshot vs Snagit comparison, many people choose Greenshot because it has a great selection of features. Hotkey shortcuts are available, and you can copy your snapshot to your clipboard, then you can send it to any cloud-based program or printer.
@@ -156,9 +143,6 @@ There are several ways to capture your screen with Snagit. An entire screen can 
 
 ### 2.Lightshot
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lightshot-for-mac](https://images.wondershare.com/filmora/article-images/lightshot-for-mac.png)
 
 The Lightshot screen capture tool is extremely lightweight. Using it is very easy as well. You can use this tool if you are concerned about how to use the snipping tool on Mac. You only need to press the print screen button on your keyboard and select your area of interest. Everything else will be taken care of by the app.
@@ -167,35 +151,31 @@ Besides text and colours, you can also add shapes and other elements to your scr
 
 ### 3.MonoSnap
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![monosnap-for-mac](https://images.wondershare.com/filmora/article-images/monosnap-for-mac.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Monosnap screen-capture platform is a web-based application. With strong security and great compatibility with both Windows and Chrome, this tool can please users with ease.
 
 Monosnap is equipped with a powerful editor, which lets you customize your snapshots and share them with others. In addition to taking snapshots of the full screen, the capturer can also take snapshots of selected areas. There are useful tools such as pens, rectangles, arrows, etc. Monosnap has a cropping tool to get rid of unwanted details. If you want to use the provided cloud storage, you have to log in via Facebook or email. It is possible to sort saved snapshots into folders for convenience.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4.Greenshot Mac
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![greenshot-for-mac](https://images.wondershare.com/filmora/article-images/greenshot-for-mac.png)
 
 In the Greenshot vs Snagit comparison, many people choose Greenshot because it has a great selection of features. Hotkey shortcuts are available, and you can copy your snapshot to your clipboard, then you can send it to any cloud-based program or printer.
 
 This screenshot maker is one of the best because it allows you to blur some personal information so that you can protect your privacy. Greenshot comes with an integrated editing tool that lets you edit the look of your snapshots. Additionally, Greenshot enables you to configure some default settings and customize hotkey shortcuts.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5.SnapNDrag
 
 ![snapndrag-pro-for-mac](https://images.wondershare.com/filmora/article-images/snapndrag-pro-for-mac.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Take screenshots of the full screen or parts of it fast and easily with SnapNDrag, a high-performance Mac snipping tool. You can benefit from many useful features in the free version. If you purchase the pro version, you will be able to customize hotkeys and get rid of annoying ads. Purchasing a subscription is a good idea if you need to work with snapshots as part of your professional activities. In SnapNDrag, you can modify screenshots and add annotations using the Preview mode. The snapshot will open in the "Preview" window when you click on it twice.
 
@@ -217,10 +197,6 @@ The top of your screen displays a small control panel. Screenshots can be taken,
 
 There are several ways to capture your screen with Snagit. An entire screen can be captured, a specific area, or a specific application. Scanners and cameras can also be used to import images. An awesome feature of this snipping tool for Mac is the possibility of capturing text from a photo and pasting it into a text editor. You have to pay $50 to access all features, which is quite expensive when compared with other tools.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### 2.Lightshot
 
 ![lightshot-for-mac](https://images.wondershare.com/filmora/article-images/lightshot-for-mac.png)
@@ -230,22 +206,28 @@ The Lightshot screen capture tool is extremely lightweight. Using it is very eas
 Besides text and colours, you can also add shapes and other elements to your screenshots. The software has a simple interface, but it can only be used on the screen capture screen itself. One of the most prominent features is the ease with which screenshots can be captured, saved, and uploaded. It is the only tool that allows you to take multiple screenshots in rapid succession.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3.MonoSnap
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![monosnap-for-mac](https://images.wondershare.com/filmora/article-images/monosnap-for-mac.png)
 
 The Monosnap screen-capture platform is a web-based application. With strong security and great compatibility with both Windows and Chrome, this tool can please users with ease.
 
 Monosnap is equipped with a powerful editor, which lets you customize your snapshots and share them with others. In addition to taking snapshots of the full screen, the capturer can also take snapshots of selected areas. There are useful tools such as pens, rectangles, arrows, etc. Monosnap has a cropping tool to get rid of unwanted details. If you want to use the provided cloud storage, you have to log in via Facebook or email. It is possible to sort saved snapshots into folders for convenience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4.Greenshot Mac
 
 ![greenshot-for-mac](https://images.wondershare.com/filmora/article-images/greenshot-for-mac.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In the Greenshot vs Snagit comparison, many people choose Greenshot because it has a great selection of features. Hotkey shortcuts are available, and you can copy your snapshot to your clipboard, then you can send it to any cloud-based program or printer.
 
@@ -255,7 +237,15 @@ This screenshot maker is one of the best because it allows you to blur some pers
 
 ![snapndrag-pro-for-mac](https://images.wondershare.com/filmora/article-images/snapndrag-pro-for-mac.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Take screenshots of the full screen or parts of it fast and easily with SnapNDrag, a high-performance Mac snipping tool. You can benefit from many useful features in the free version. If you purchase the pro version, you will be able to customize hotkeys and get rid of annoying ads. Purchasing a subscription is a good idea if you need to work with snapshots as part of your professional activities. In SnapNDrag, you can modify screenshots and add annotations using the Preview mode. The snapshot will open in the "Preview" window when you click on it twice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Final Verdict**
 
@@ -291,8 +281,20 @@ For macOS 10.12 or later
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-navigating-skype-recordings-on-windows-and-mac-free-vs-paid-guide/"><u>[New] Navigating Skype Recordings on Windows & Mac - Free vs Paid Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-immortalize-your-gaming-adventures-on-pc-6-ways/"><u>[Updated] Immortalize Your Gaming Adventures on PC [6 Ways]</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-essential-gear-guide-uncovering-the-best-streamer-webcams/"><u>[Updated] In 2024, Essential Gear Guide Uncovering the Best Streamer Webcams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-no-money-down-best-free-video-chat-platforms/"><u>[Updated] In 2024, No Money Down? Best Free Video Chat Platforms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-digital-dynamo-recording-on-a-mac/"><u>2024 Approved Digital Dynamo Recording on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/dont-let-your-budget-be-a-wrong-choice-for-oled-screen/"><u>Don't Let Your Budget Be a Wrong Choice for OLED Screen</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-note-30-vip-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Note 30 VIP to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-guide-resolving-issues-when-vrchat-wont-start-or-work-properly/"><u>Quick Guide: Resolving Issues When VRChat Won't Start or Work Properly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/snap-the-scene-comprehensive-no-cost-pcmac-capture-tools-for-2024/"><u>Snap the Scene Comprehensive, No-Cost PC/Mac Capture Tools for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/snapchat-versus-tiktok-whats-the-real-difference/"><u>Snapchat Versus TikTok What's The Real Difference?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-tecno-spark-10-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Tecno Spark 10 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unleashing-true-potential-in-speech-interpretation-through-google-for-2024/"><u>Unleashing True Potential in Speech Interpretation Through Google for 2024</u></a></li>
+</ul></div>
 

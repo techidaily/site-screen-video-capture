@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Non-Functioning Computer Sounds
-date: 2025-01-05T23:35:52.929Z
-updated: 2025-01-07T15:35:39.690Z
+date: 2025-01-09T17:28:30.835Z
+updated: 2025-01-13T21:47:37.800Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Allow access to microphone (for Windows 10 users)**
 
  If your Logitech G430 microphone stops working in Windows 10, the first thing you should check is to turn on the microphone access. Here’s what you need to do:
@@ -45,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Microphone** on the left pane, and make sure**Microphone access for this device** **is on** .
@@ -53,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
@@ -86,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd61613c73.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -99,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
  If your issue still persists, don’t worry. We have other solutions for you to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 3: Check your sound settings**
 
  Your Logitech G430 mic may not work because it’s disabled or not set as the default device for your Windows computer. Follow the steps below to check your sound settings:
@@ -111,12 +99,16 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Recording** tab, then right click on any empty area inside the device list and select**Show** **Disabled** **Devices** .
@@ -126,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  4) Right click your microphone and click**Enable** (if it’s enabled, you’ll see**Disable** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627553bb550.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Right click on your microphone again and select**Set as Default Device** .
 
@@ -138,6 +134,10 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  7) Click the**Levels** tab, and drag the volume slider to**maximum** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6278bfe07b0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Save your changes and restart your computer.
 
@@ -173,17 +173,21 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-maximizing-impact-best-practices-for-corporate-screencast-training-for-2024/"><u>[New] Maximizing Impact Best Practices for Corporate Screencast Training for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-digging-into-the-heart-of-recordcast-technology/"><u>[Updated] Digging Into the Heart of RecordCast Technology</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-guide-unraveling-ios-screen-capture-magic-for-2024/"><u>[Updated] Essential Guide Unraveling IO's Screen Capture Magic for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-fight-to-the-end-nintendos-top-10-fighters/"><u>[Updated] Fight to the End Nintendo's Top 10 Fighters</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-ram-management-in-minecraft-for-2024/"><u>[Updated] Mastering RAM Management in Minecraft for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-personalizing-ps-sound-the-complete-guide-for-gamers-for-2024/"><u>[Updated] Personalizing PS Sound The Complete Guide for Gamers for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-screencast-o-matic-review-for-2024/"><u>[Updated] Screencast-O-Matic Review for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-tailored-insights-setting-up-your-personalbusiness-yt-channel-mobilely/"><u>[Updated] Tailored Insights Setting Up Your Personal/Business YT Channel Mobilely</u></a></li>
-<li><a href="https://driver-error.techidaily.com/a-comprehensive-guide-to-fixing-default-amd-radeon-wattman-setting-disruptions/"><u>A Comprehensive Guide to Fixing Default AMD Radeon Wattman Setting Disruptions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-step-by-step-perfectly-sharing-your-photography-on-youtube/"><u>In 2024, Step-by-Step Perfectly Sharing Your Photography on YouTube</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/windows-wonders-top-9-tools-to-capture-and-save-animated-gif-art/"><u>Windows Wonders Top 9 Tools to Capture and Save Animated GIF Art</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-expert-tips-for-documenting-computer-speakers-and-mics/"><u>[New] Expert Tips for Documenting Computer Speakers & Mics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-learn-to-leverage-telegram-a-comprehensive-online-tutorial/"><u>[New] Learn to Leverage Telegram A Comprehensive Online Tutorial</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-selecting-the-perfect-screen-recorder-for-educational-purposes/"><u>[New] Selecting the Perfect Screen Recorder for Educational Purposes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-simple-ways-to-record-and-save-your-macos-screen-for-2024/"><u>[New] Simple Ways to Record and Save Your macOS Screen for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-ultimate-screen-recorder-showdown-testing-recmeister/"><u>[Updated] 2024 Approved The Ultimate Screen Recorder Showdown Testing Recmeister</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-webcams-for-podcast/"><u>[Updated] Best Webcams for Podcast</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-gameplay-memories-preserved-unveiling-6-minecraft-tips/"><u>[Updated] Gameplay Memories Preserved Unveiling 6 Minecraft Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-whos-leading-in-screen-capture-tech-obs-studios-vs-bandicam/"><u>[Updated] Who's Leading in Screen Capture Tech OBS Studios Vs. Bandicam</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-zoom-meetings-made-effortless-with-top-5-transcribers-reviewed/"><u>[Updated] Zoom Meetings Made Effortless with Top 5 Transcribers Reviewed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effectively-lowering-cpu-consumption-for-a-smoother-god-of-war-experience/"><u>Effectively Lowering CPU Consumption for a Smoother God of War Experience</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-8-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-12-mini-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone 12 mini | Stellar</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-regain-access-fixing-lockout-of-admin-on-windows-11-restoration-guide/"><u>How to Regain Access: Fixing Lockout of Admin on Windows 11 - Restoration Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/huawei-p30-pro-review-why-i-still-love-this-phone/"><u>Huawei P30 Pro Review: Why I Still Love This Phone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210406874-9781683489733-say-yes-flying-solo-after-sixty/"><u>SAY YES! Flying Solo After Sixty | Free Book</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/tp-link-archer-c9-the-ultimate-review-of-a-cost-effective-wireless-router/"><u>TP-Link Archer C9: The Ultimate Review of a Cost-Effective Wireless Router</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Record iPhone/iPad’s Screen for 2024"
-date: 2025-01-05T11:13:12.149Z
-updated: 2025-01-06T18:28:07.581Z
+date: 2025-01-12T19:01:15.555Z
+updated: 2025-01-13T19:11:59.165Z
 tags: 
   - screen-recording
   - ai video
@@ -44,26 +44,30 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 
 ![ios 11](https://images.wondershare.com/filmora/ios11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    1. Open the Control Center by swiping up from the bottom of your iPhone/iPad.
 
 ![ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Tap the screen recording icon that looks like a solid circle enclosed in another circle. And you will see the start recording option and a microphone button. If you want to record the microphone audio, then tap it to turn on the microphone. Then, tap on Start Recording to start.
 
 ![ ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording-start.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. The video recording will start after a 3-second delay and the recording button will turn red. A notification will also appear on the top indicating recording time.
 2. After you are done recording, open the control center again and tap on the screen recorder button again. Alternatively, you can also tap on the red notification on the top of your screen and tap Stop at the prompt.
 
 ![iPhone/iPad screen recorder](https://images.wondershare.com/filmora/ios%20stop.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. This will stop the screen recording and the recorded video will be saved in the Photos app.
 
@@ -72,7 +76,7 @@ That's the steps of how to record your iPhone screen in iOS 11 and later version
 If your iOS device is running a previous version older than iOS 11, and you do not want to update, then you can record your iPhone screen with some best screen recorders for iOS, or record with QuickTime. In the following section, we will show you how to do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Use [QuickTime](https://support.apple.com/quicktime) to Record Screens of iPhone/iPad (Version Before iOS 11)
@@ -84,10 +88,6 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 1\. Connect your iOS device (iPhone/iPad/iPod touch) to your Mac with a USB cable.
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20logo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2\. Launch QuickTime on your Mac available in the application folder.
 
@@ -103,10 +103,6 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 ![quicktime screen recorder](https://images.wondershare.com/filmora/quicktime%20iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7\. To stop the recording of the screen of your iOS device, click on the Stop button at the video recorder window.
 
 8\. If you want to edit the video, you can do it in QuickTime (for basic editing). You can also save the recorded video first and then edit it later. You can directly save it as it is in QuickTime by going to File Menu and clicking on save option.
@@ -120,6 +116,10 @@ iPhone/iPad screen recorder is a very useful tool when you want to record tutori
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -136,19 +136,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-high-quality-videos-at-your-fingertesps-selecting-the-right-fps/"><u>[New] 2024 Approved High-Quality Videos at Your Fingertesps Selecting the Right FPS</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-wintvcapture-learn-the-art-of-free-screen-recording/"><u>[Updated] 2024 Approved WinTVCapture Learn the Art of Free Screen Recording</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-instant-screen-grabber-plus-easy-guide-soundtrack/"><u>[Updated] In 2024, Instant Screen Grabber + Easy Guide Soundtrack</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultimate-techniques-for-screen-recording-games-on-win10/"><u>[Updated] In 2024, Ultimate Techniques for Screen Recording Games on Win10</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazons-economical-sound-experience-a-review-of-basic-soundbar/"><u>Amazon's Economical Sound Experience: A Review of Basic Soundbar</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/from-legacy-systems-to-modern-windows-the-win7-10-shift/"><u>From Legacy Systems to Modern Windows: The Win7-10 Shift</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-v27-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo V27 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-a56s-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo A56s 5G Location | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/simple-screen-recorder-for-windows-11-download-for-2024/"><u>Simple Screen Recorder for Windows 11 Download for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-standout-instagram-captions-507-picks/"><u>The Ultimate Guide to Standout Instagram Captions - 507 Picks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-premium-panorama-creation-tools-the-ultimate-guide-to-professional-photo-stitching-software/"><u>Top 8 Premium Panorama Creation Tools: The Ultimate Guide to Professional Photo Stitching Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-experience-advanced-strategies-for-board-game-tutoring-and-visual-content-with-chatgpt-bots/"><u>Transform Your Experience: Advanced Strategies for Board Game Tutoring & Visual Content with ChatGPT Bots</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upcoming-m4-mac-mini-anticipated-launch-details-and-pricing-insights/"><u>Upcoming M4 Mac Mini: Anticipated Launch Details & Pricing Insights</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/visual-voyage-amds-radeon-reborn/"><u>Visual Voyage AMD's Radeon Reborn</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-advanced-steganography-in-videos-hiding-the-unseen/"><u>[New] In 2024, Advanced Steganography in Videos Hiding the Unseen</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-youtube-shorts-video-editor-tools-for-ios-and-android-devices/"><u>[New] In 2024, Best YouTube Shorts Video Editor Tools for iOS & Android Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-which-screen-recorder-excels-obs-or-fraps-for-2024/"><u>[New] Which Screen Recorder Excels OBS or Fraps for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-from-soil-to-success-selecting-the-top-valheim-seeds/"><u>[Updated] 2024 Approved From Soil to Success Selecting the Top Valheim Seeds</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-7-screen-recorders-for-low-end-pc/"><u>[Updated] 2024 Approved Top 7 Screen Recorders for Low-End PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-gecata-game-recorder-review-complete/"><u>[Updated] Gecata Game Recorder Review [Complete]</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-practical-ways-to-archive-online-discussions/"><u>2024 Approved Practical Ways to Archive Online Discussions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-turing-test-possibilities-of-overcoming-human-level-ai/"><u>Exploring the Turing Test: Possibilities of Overcoming Human-Level AI</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-11x-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Realme 11X 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-elevate-your-presentations-with-professional-screencasts/"><u>In 2024, Elevate Your Presentations with Professional Screencasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-gopro-face-off-a-detailed-comparison-guide/"><u>In 2024, GoPro Face-Off A Detailed Comparison Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-art-of-visual-anonymity-in-videos/"><u>In 2024, The Art of Visual Anonymity in Videos</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-honor-magic5-ultimate-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-10-gif-recorder-mac-for-2024/"><u>Top 10 Gif Recorder Mac for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-electric-leaf-blowers-expert-reviews-and-comparison/"><u>Top Rated Electric Leaf Blowers - Expert Reviews & Comparison</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-windows-with-chatgpt/"><u>Transform Your Windows With ChatGPT</u></a></li>
 </ul></div>
 
