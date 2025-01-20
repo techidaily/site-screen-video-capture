@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Non-Functioning Computer Sounds
-date: 2025-01-09T17:28:30.835Z
-updated: 2025-01-13T21:47:37.800Z
+date: 2025-01-18T22:03:22.008Z
+updated: 2025-01-19T16:13:05.278Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6271a1949db.jpg)
 
  Is your**Logitech G430 microphone not working** ? You’re not alone. Many people have reported similar issues. But don’t worry, you can**fix the Logitech G430 mic not working** issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **How to fix Logitech G430 mic not working**
 
@@ -40,21 +44,21 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Microphone** on the left pane, and make sure**Microphone access for this device** **is on** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
  Re-plug your microphone again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
 
@@ -99,17 +103,9 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Recording** tab, then right click on any empty area inside the device list and select**Show** **Disabled** **Devices** .
 
@@ -119,13 +115,13 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627553bb550.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Right click on your microphone again and select**Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Right click your microphone, and click**Properties.**
 
@@ -136,7 +132,7 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6278bfe07b0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  8) Save your changes and restart your computer.
@@ -144,6 +140,10 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  Try your Logitech G430 mic again and see if it works.
 
  Still no luck? Okay, there’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall Logitech Game Software**
 
@@ -173,21 +173,15 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-expert-tips-for-documenting-computer-speakers-and-mics/"><u>[New] Expert Tips for Documenting Computer Speakers & Mics</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-learn-to-leverage-telegram-a-comprehensive-online-tutorial/"><u>[New] Learn to Leverage Telegram A Comprehensive Online Tutorial</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-selecting-the-perfect-screen-recorder-for-educational-purposes/"><u>[New] Selecting the Perfect Screen Recorder for Educational Purposes</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-simple-ways-to-record-and-save-your-macos-screen-for-2024/"><u>[New] Simple Ways to Record and Save Your macOS Screen for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-ultimate-screen-recorder-showdown-testing-recmeister/"><u>[Updated] 2024 Approved The Ultimate Screen Recorder Showdown Testing Recmeister</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-webcams-for-podcast/"><u>[Updated] Best Webcams for Podcast</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-gameplay-memories-preserved-unveiling-6-minecraft-tips/"><u>[Updated] Gameplay Memories Preserved Unveiling 6 Minecraft Tips</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-whos-leading-in-screen-capture-tech-obs-studios-vs-bandicam/"><u>[Updated] Who's Leading in Screen Capture Tech OBS Studios Vs. Bandicam</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-zoom-meetings-made-effortless-with-top-5-transcribers-reviewed/"><u>[Updated] Zoom Meetings Made Effortless with Top 5 Transcribers Reviewed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effectively-lowering-cpu-consumption-for-a-smoother-god-of-war-experience/"><u>Effectively Lowering CPU Consumption for a Smoother God of War Experience</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-8-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 8</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-12-mini-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone 12 mini | Stellar</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-regain-access-fixing-lockout-of-admin-on-windows-11-restoration-guide/"><u>How to Regain Access: Fixing Lockout of Admin on Windows 11 - Restoration Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/huawei-p30-pro-review-why-i-still-love-this-phone/"><u>Huawei P30 Pro Review: Why I Still Love This Phone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210406874-9781683489733-say-yes-flying-solo-after-sixty/"><u>SAY YES! Flying Solo After Sixty | Free Book</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/tp-link-archer-c9-the-ultimate-review-of-a-cost-effective-wireless-router/"><u>TP-Link Archer C9: The Ultimate Review of a Cost-Effective Wireless Router</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-premier-ios-platform-for-psp-emulation-1-5/"><u>[New] 2024 Approved Premier iOS Platform for PSP Emulation #1-5</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-professional-approaches-to-preserving-ps3-games-on-screen/"><u>[New] 2024 Approved Professional Approaches to Preserving PS3 Games On Screen</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-record-and-share-every-victory-in-obs/"><u>[New] Record & Share Every Victory in OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mixing-video-sequences-with-blend-mode-expertise-for-2024/"><u>[Updated] Mixing Video Sequences with Blend Mode Expertise for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-telegram-for-novices-an-easy-path-to-effective-advertising/"><u>[Updated] Telegram for Novices An Easy Path to Effective Advertising</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/10-facts-about-instagram-reels-the-truth-you-may-ignore/"><u>10 Facts About Instagram Reels-The Truth You May Ignore</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtubes-flawless-beauty-masterclass-skincare-hairdos-and-cosmetics/"><u>2024 Approved YouTube's Flawless Beauty Masterclass Skincare, Hairdos & Cosmetics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/archiving-your-media-best-practices-for-mov-files-on-windows-pcs-for-2024/"><u>Archiving Your Media Best Practices for .mov Files on Windows PCs for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoiding-chatgpt-traps-best-practices-for-students-seeking-academic-improvement/"><u>Avoiding ChatGPT Traps: Best Practices for Students Seeking Academic Improvement</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-how-to-burn-photos-to-dvd-with-transitions-and-music/"><u>Updated 2024 Approved How to Burn Photos to DVD with Transitions and Music</u></a></li>
 </ul></div>
 
