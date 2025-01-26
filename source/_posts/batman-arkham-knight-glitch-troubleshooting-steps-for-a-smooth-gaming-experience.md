@@ -1,7 +1,7 @@
 ---
 title: Batman Arkham Knight Glitch? Troubleshooting Steps for a Smooth Gaming Experience
-date: 2025-01-15T01:49:07.063Z
-updated: 2025-01-19T23:54:28.665Z
+date: 2025-01-19T01:01:32.295Z
+updated: 2025-01-26T00:32:48.418Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Install all the game updates
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 2. Click**Change adapter options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
@@ -81,16 +81,16 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -123,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
@@ -152,16 +152,18 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-battle-of-the-lenses-sj6-vs-yi-4k-prodigy/"><u>[New] Battle of the Lenses SJ6 Vs. Yi 4K Prodigy</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-freezing-your-window-windows-screenshoting-guide/"><u>[New] In 2024, Freezing Your Window Windows Screenshoting Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-capture-your-screen-on-chromebook-methods-4-you/"><u>[Updated] 2024 Approved Capture Your Screen on Chromebook Methods 4 You</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-best-of-the-best-1-ranked-4k-gaming-pcs/"><u>[Updated] Best of the Best #1 Ranked 4K Gaming PCs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-resolving-disconnected-sound-on-obs-broadcast/"><u>[Updated] Resolving Disconnected Sound on OBS Broadcast</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-visual-templates-free-eco-friendly-options-for-2024/"><u>[Updated] Visual Templates Free Eco-Friendly Options for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-voice-back-in-action-overcoming-voip-issues-in-call-of-dutys-modern-warfare/"><u>Get Your Voice Back in Action: Overcoming VOIP Issues in Call of Duty's Modern Warfare</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/how-to-create-video-ads-for-free-in-youtube-video-builder/"><u>How to Create Video Ads for Free in YouTube Video Builder</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-innovating-your-sims-4-experience-through-recording/"><u>In 2024, Innovating Your Sims 4 Experience Through Recording</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-wholesale-sky-shelves-economic-bulk-data-holder/"><u>In 2024, Wholesale Sky Shelves Economic Bulk Data Holder</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-gpt-3-potential-through-python-scripting/"><u>Unveiling GPT-3 Potential Through Python Scripting</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-leading-the-charge-in-sustainable-filmmaking/"><u>[New] 2024 Approved Leading the Charge in Sustainable Filmmaking</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/esigning-effective-video-previews-for-channels/"><u>[New] Designing Effective Video Previews for Channels</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-master-mac-gif-archiver/"><u>[New] In 2024, Master Mac GIF Archiver</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-navigate-your-way-to-partner-status-via-a-quick-10k-view-achievement/"><u>[Updated] 2024 Approved Navigate Your Way to Partner Status via a Quick 10K View Achievement</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-energy-efficient-laptops-with-gamers-features/"><u>[Updated] Best Energy-Efficient Laptops with Gamers' Features</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-disappear-red-eye-effect-on-iphone-images-at-no-charge-for-2024/"><u>[Updated] Disappear Red Eye Effect on iPhone Images at No Charge for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-savvy-savers-for-your-instagram-treasures-for-2024/"><u>[Updated] Savvy Savers for Your Instagram Treasures for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-should-itop-screen-recorder-be-a-staple-in-your-kit-for-2024/"><u>[Updated] Should ITop Screen Recorder Be a Staple in Your Kit for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-definition-horizons-with-lgs-newest-tv-review-27ud68-for-2024/"><u>High-Definition Horizons with LG's Newest TV Review (27UD68) for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-12-pro-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 12 Pro without Password?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-best-free-user-friendly-srt-translators-online/"><u>In 2024, Unveiling Best Free, User-Friendly SRT Translators Online</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-from-missing-printmanagement-in-print-settings/"><u>Recovering From Missing 'Printmanagement' In Print Settings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/vlc-screen-recorder-review-and-using-guide/"><u>VLC Screen Recorder Review and Using Guide</u></a></li>
 </ul></div>
 
