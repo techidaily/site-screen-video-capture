@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Unlock Creative Potential  Strategic Use of Strikethrough\""
-date: 2025-01-18T18:28:50.320Z
-updated: 2025-01-25T18:10:38.431Z
+date: 2025-02-03T21:29:08.782Z
+updated: 2025-02-07T16:58:25.362Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ The production of visually impressive videos, you'll be proud to share on your Y
 Markers can be used during the video editing and after the screen recording to make post-production, to help you mark the places in the footage where you've made a mistake, where the new take starts or to indicate a spot on the timeline where you would like to place a particular video clip. In this article, we are going to show you how to utilize markers during the screen capturing sessions or while you're [editing videos](https://tools.techidaily.com/wondershare/filmora/download/) with Filmora.
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
 
@@ -75,6 +79,10 @@ For macOS 10.12 or later
 * [1\. How to Add a Marker During Video Editing](#filmora1)
 * [2\. How to Remove a Marker After Screen Recording](#filmora2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. How to Add a Marker During Video Editing
 
 Adding Markers During Video Editing is essential for efficient editing process, as they help save time when reviewing the video. This section provides a detailed step-by-step guide on how to add markers before starting to edit a video with two methods:
@@ -93,15 +101,15 @@ Filmora lets you adjust your marker settings for your video. Right-click on the 
 
 ![access the modification option](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 3: Customize the Markers
 
 In the Marker Editor window, make relevant changes such as naming the marker, adding a comment in the **"Comment"** box, and changing the marker color.
 
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **Method 2: Adding Markers through the Keyboard**
 
@@ -110,11 +118,7 @@ After importing the clip into the timeline and identifying the points of error i
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. How to Remove a Marker After Screen Recording**
@@ -123,10 +127,6 @@ Once you have finished editing your mistakes, it's important to remove the marke
 
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In conclusion, markers are a valuable tool for video recording and editing. They can help editors keep track of important moments, make precise edits, and streamline your workflow. By utilizing markers effectively, you can save time and ensure a more polished final result. Furthermore, you can try to use Wondershare Filmora to incorporate markers into the screen recording and video editing process. It is a great way to enhance the quality and efficiency of your work greatly. So, don't hesitate to start using markers in your video recording and editing projects today with Filmora!
@@ -134,7 +134,7 @@ In conclusion, markers are a valuable tool for video recording and editing. They
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -152,19 +152,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-five-must-play-street-fighter-clones/"><u>[New] 2024 Approved Five Must-Play Street Fighter Clones</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-razer-kiyo-webcam-review/"><u>[New] In 2024, Razer Kiyo Webcam Review</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unlock-fb-livestream-potential-with-recorded-content-know-how/"><u>[New] Unlock FB Livestream Potential with Recorded Content Know-How</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-breaking-into-livestreaming-your-pathway-to-youtube-and-twitch-via-obs/"><u>[Updated] 2024 Approved Breaking Into Livestreaming Your Pathway to YouTube & Twitch via OBS</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-top-edge-video-editing-programs-for-instagram-on-android/"><u>[Updated] In 2024, Top Edge Video Editing Programs for Instagram on Android</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-solve-the-svchostexe-network-overload-problem-on-your-pc-expert-tips/"><u>How to Solve the Svchost.exe Network Overload Problem on Your PC: Expert Tips</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-selecting-fps-for-videos-why-not-both-30-or-60/"><u>In 2024, Selecting FPS for Videos Why Not Both, 30 or 60?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/recording-your-games-in-hd-ps4-and-obs-studio-guide/"><u>Recording Your Games in HD PS4 & OBS Studio Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revamped-apple-carplay-unveiled-top-features-revealed-during-wwdc-2024-highlights-tech-news/"><u>Revamped Apple CarPlay Unveiled: Top Features Revealed During WWDC 2024 Highlights - Tech News</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-to-pathfinder-wrath-of-the-righteeous-keyboard-failures/"><u>Step-by-Step Solution to 'Pathfinder - Wrath of the Righteeous' Keyboard Failures</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transform-your-broadcasts-with-manycam-top-tier-virtual-webcams-and-live-video-editors-unveiled/"><u>Transform Your Broadcasts with ManyCam: Top-Tier Virtual Webcams and Live Video Editors Unveiled</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/unravel-the-power-of-live-streaming-with-obs-on-youtube-and-twitch-for-2024/"><u>Unravel the Power of Live Streaming with OBS on YouTube & Twitch for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unstuck-reviving-the-windows-11-start-menu-when-it-stops-responding/"><u>Unstuck: Reviving the Windows 11 Start Menu When It Stops Responding</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-gionee-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Gionee Phone Network-Ready</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-journey-to-joyrides-top-housing-ideas-for-new-players/"><u>[New] 2024 Approved Journey to Joyrides Top Housing Ideas for New Players</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-be-the-game-changer-xbox-one-screen-recording-mastery/"><u>[New] Be the Game Changer Xbox One Screen Recording Mastery</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-vrecorder-download-install/"><u>[New] In 2024, Mastering VRecorder Download, Install</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-dailymotion-elites-in-snapchat-world/"><u>[Updated] 2024 Approved Dailymotion Elites in Snapchat World</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-windows-snapshot-mastery-3-easy-approaches/"><u>[Updated] 2024 Approved Windows Snapshot Mastery (3 Easy Approaches)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-screen-recorder-options-for-igadgets/"><u>[Updated] In 2024, Screen Recorder Options for iGadgets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/affordable-xr-glasses-solved-my-apple-vision-dilemma-beating-peer-pressure-for-just-a-click-away-insights-from-zdnet/"><u>Affordable XR Glasses Solved My Apple Vision Dilemma, Beating Peer Pressure for Just a Click Away – Insights From ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-honor-magic-6-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Honor Magic 6</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-s18e-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo S18e Device</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-most-effective-windows-to-do-apps/"><u>Navigating the Most Effective Windows To-Do Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/precise-methods-for-recording-your-facetime-communication/"><u>Precise Methods for Recording Your FaceTime Communication</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/skype-connection-woes-overcome-common-issues-using-these-10-helpful-hints/"><u>Skype Connection Woes? Overcome Common Issues Using These 10 Helpful Hints</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-9-essential-considerations-when-purchasing-an-electric-vehicle/"><u>Top 9 Essential Considerations When Purchasing an Electric Vehicle</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-guide-unpacking-the-secrets-of-du-recorder/"><u>Ultimate Guide Unpacking the Secrets of Du Recorder</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-latest-developments-new-twitter-scams-uncovered-introduction-of-metas-verification-feature-and-insights-into-chatgpt-4/"><u>Understanding the Latest Developments: New Twitter Scams Uncovered, Introduction of Meta's Verification Feature & Insights Into ChatGPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-creativity-with-python-and-gpt-3/"><u>Unleashing Creativity with Python and GPT-3</u></a></li>
 </ul></div>
 

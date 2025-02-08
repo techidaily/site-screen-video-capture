@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Effortless Control  Enhancing Gameplay on Steam Using Switch Pro\""
-date: 2025-01-22T19:30:20.765Z
-updated: 2025-01-25T17:22:32.795Z
+date: 2025-01-31T20:21:11.998Z
+updated: 2025-02-07T17:02:57.056Z
 tags: 
   - screen-recording
   - ai video
@@ -52,11 +52,11 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 ![switch-pro-controller-connected-with-cable](https://images.wondershare.com/filmora/article-images/switch-pro-controller-connected-with-cable.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
@@ -65,6 +65,10 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 * Once you have charged the Pro Controller, you can press and hold the Sync button on the top of the controller for a few seconds until the indicator lights begin to flash.
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Right-click the Bluetooth icon in the system tray.
 
@@ -75,17 +79,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Once Steam is set up, you can begin using it.
 
@@ -94,7 +94,7 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
@@ -111,10 +111,6 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **What To Do With Non-Steam Games?**
 
 Using the methods discussed above, you can easily use a switch pro controller with your pc, but it only works with steam games. But what if you want to play a non-steam game using a switch pro controller? What will you do now? The switch pro controller hardware support will run out of luck in this scenario.
@@ -124,6 +120,10 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution1:** The first solution is to use an external Bluetooth adapter that is specifically designed for different types of gamepads. You will find plenty of them out there for switch pro controllers.
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Final Verdict**
 
@@ -146,16 +146,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-deciding-on-a-digital-domain-obs-vs-twitch-studio/"><u>[New] Deciding on a Digital Domain OBS Vs Twitch Studio</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-streamlining-your-live-broadcast-ps4-recording-via-obs-studio/"><u>[New] In 2024, Streamlining Your Live Broadcast PS4 Recording via OBS Studio</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-simplifying-powerpoint-presentation-captures/"><u>[Updated] 2024 Approved Simplifying PowerPoint Presentation Captures</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-advanced-techniques-for-implementing-luts-in-creative-suite/"><u>[Updated] In 2024, Advanced Techniques for Implementing LUTs in Creative Suite</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unlocking-the-prime-youtube-post-hours/"><u>[Updated] In 2024, Unlocking the Prime YouTube Post Hours</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-the-art-of-online-meeting-recordings-with-google/"><u>[Updated] Mastering the Art of Online Meeting Recordings with Google</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-steps-towards-joining-filmoras-certified-creative-circle/"><u>[Updated] Steps Towards Joining Filmora's Certified Creative Circle</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-streamlining-the-demo-process-in-adobe-captivate/"><u>[Updated] Streamlining the Demo Process in Adobe Captivate</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-ultimate-guide-how-to-safely-convert-and-download-drakes-music-in-various-formats-mp3-flac-wav/"><u>1. Ultimate Guide: How To Safely Convert and Download Drake's Music in Various Formats (MP3, FLAC, WAV)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedies-for-resolving-acer-monitor-ripples/"><u>Remedies for Resolving Acer Monitor Ripples</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/egies-for-sourcing-video-content-with-google-trends/"><u>Strategies for Sourcing Video Content with Google Trends</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-audiotest-review/"><u>[New] 2024 Approved AudioTest Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-building-a-visual-story-on-facebook-with-slideshows/"><u>[New] 2024 Approved Building a Visual Story on Facebook with Slideshows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-breakthrough-in-recording-nine-revolutionary-online-microphones/"><u>[Updated] Breakthrough in Recording Nine Revolutionary Online Microphones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capture-cinematic-moments-seamlessly-across-pcs-and-smartphones-for-2024/"><u>[Updated] Capture Cinematic Moments Seamlessly Across PCs & Smartphones for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-elite-callers-on-windows-top-8-sorted/"><u>[Updated] In 2024, Elite Callers on Windows Top 8 Sorted</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-your-ultimate-guide-to-utilizing-telegrams-desktop-functionality/"><u>[Updated] In 2024, Your Ultimate Guide to Utilizing Telegram's Desktop Functionality</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-noise-control-for-filmmakers-basic-pro-methods-and-pricing/"><u>[Updated] Noise Control for Filmmakers - Basic, Pro Methods & Pricing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essential-guide-to-youtube-edits-with-premiere-pro/"><u>In 2024, The Essential Guide to YouTube Edits with Premiere Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-lan-access-blockades-in-winmc/"><u>Overcoming LAN Access Blockades in WinMC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pinterest-video-extraction-top-5-free-tools-ranked-for-2024/"><u>Pinterest Video Extraction Top 5 Free Tools Ranked for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/professional-video-editing-implementing-the-ken-burns-effect-in-camtasa/"><u>Professional Video Editing Implementing the Ken Burns Effect in Camtasa</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/sundae-surveillance-insightful-review-of-frozen-film-software/"><u>Sundae Surveillance Insightful Review of Frozen Film Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/king-6-hidden-sources-for-custom-youtube-symbols/"><u>Unlocking 6 Hidden Sources for Custom YouTube Symbols</u></a></li>
 </ul></div>
 

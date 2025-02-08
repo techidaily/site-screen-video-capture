@@ -1,7 +1,7 @@
 ---
 title: "Horizon Zero Dawn PC Launch Issues Resolved: How to Fix Game Crashes"
-date: 2024-11-16T06:08:41.037Z
-updated: 2024-11-20T02:04:39.491Z
+date: 2025-02-01T23:37:59.259Z
+updated: 2025-02-07T21:50:16.795Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 ## Epic Games Launcher Troubleshooting: Resolve Issues Instantly
 
 **Epic Games Launcher won’t open?** Don’t worry… Although it’s very frustrating, you’re not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: End the Epic Games Launcher process in Task Manager
 
  Make sure the Epic Games launcher is not running in the background. If it is, when you double-click its shortcut on your desktop, it won’t launch. So you need to end the processes related to Epic Games Launcher in Task Manager first. Here’s how to do it:
@@ -40,16 +48,12 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/keyboard.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
  If Epic Games Launcher still won’t launcher, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your display settings
@@ -90,15 +90,15 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Run Epic Games Launcher again to see if this issue reappears.
 
  If not, congratulations! You’ve fixed this issue. If this issue persists, try the next fix to update your graphics driver.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -112,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1071.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; **it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund** , no questions asked.
@@ -128,6 +124,10 @@ _You can do it for free if you like, but it’s partly manual._
 
  The Pro version of Driver Easy comes with full technical support.  
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Change Epic Games Launcher Properties
 
@@ -176,7 +176,7 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1069.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Launch Epic Games Launcher again when Windows completes the repair process.
@@ -192,6 +192,10 @@ _You can do it for free if you like, but it’s partly manual._
  1) On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control appwiz.cpl** and press**Enter** to open the**Programs and Features** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
@@ -225,20 +229,16 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-playlist-pivot-new-order-strategies-for-youtube/"><u>[New] 2024 Approved The Playlist Pivot New Order Strategies for YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-essential-bandicam-know-how-a-complete-review-for-2024/"><u>[New] Essential Bandicam Know-How - A Complete Review for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/et-more-from-tiny-screens-top-6-youtube-shorts-downloader-apps-for-2024/"><u>[New] Get More From Tiny Screens Top 6 YouTube Shorts Downloader Apps for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-strategic-evasion-the-best-room-escapes-ranked/"><u>[New] Strategic Evasion The Best Room Escapes Ranked</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-optimal-recording-practices-for-remote-work-conferences/"><u>[Updated] 2024 Approved Optimal Recording Practices for Remote Work Conferences</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-a-compilation-of-must-play-virtual-realms/"><u>[Updated] A Compilation of Must-Play Virtual Realms</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-ps3-simulators-for-windows-users-top-5-for-2024/"><u>[Updated] Essential PS3 Simulators for Windows Users (Top 5) for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-ultimate-selection-of-inexpensive-web-explorers-for-remote-work/"><u>[Updated] In 2024, The Ultimate Selection of Inexpensive Web Explorers for Remote Work</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-virtual-vice-games-resembling-gta-v-experience/"><u>[Updated] Virtual Vice Games Resembling GTA V Experience</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-find-x7-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Find X7</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/narratives-unleashed-10-adventure-games-reviewed-for-2024/"><u>Narratives Unleashed #10 Adventure Games Reviewed for 2024</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/quick-and-effortless-guide-producing-personalized-wedding-milestone-videos-online/"><u>Quick and Effortless Guide: Producing Personalized Wedding Milestone Videos Online</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nokia-105-classic-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nokia 105 Classic with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-s18-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo S18 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-6-mac-screen-capture-tools-expert-picks/"><u>[New] Top 6 Mac Screen Capture Tools - Expert Picks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-ds4-windows-not-working-driver-install-failed/"><u>[SOLVED] DS4 Windows Not Working / Driver Install Failed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-leading-tools-to-elevate-webcam-video-quality/"><u>[Updated] 2024 Approved Leading Tools to Elevate Webcam Video Quality</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-miniature-motorcade-matchups/"><u>[Updated] 2024 Approved Miniature Motorcade Matchups</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-capturing-the-globe-from-novice-to-experienced-travel-videographer-for-2024/"><u>[Updated] Capturing the Globe From Novice to Experienced Travel Videographer for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-essential-guide-to-creating-cinematic-videos-in-camtasa-for-2024/"><u>[Updated] The Essential Guide to Creating Cinematic Videos in Camtasa for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-nokia-c300-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Nokia C300 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-lightning-share-youtube-playlist-hacks/"><u>2024 Approved Lightning Share YouTube Playlist Hacks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-quickcopy-custodians-judgment/"><u>2024 Approved QuickCopy Custodians' Judgment</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-install-a-new-canon-printer-step-by-step/"><u>How To Install a New Canon Printer (Step-by-Step)</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/solution-guide-how-to-overcome-request-timed-out-errors-for-aws-s3-operations/"><u>Solution Guide: How to Overcome 'Request Timed Out' Errors for AWS S3 Operations</u></a></li>
 </ul></div>
 

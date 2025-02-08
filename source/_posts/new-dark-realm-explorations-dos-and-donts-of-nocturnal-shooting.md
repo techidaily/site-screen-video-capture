@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Dark Realm Explorations  Do's & Don'ts of Nocturnal Shooting\""
-date: 2025-01-11T23:50:58.498Z
-updated: 2025-01-13T18:45:27.199Z
+date: 2025-02-05T18:36:44.041Z
+updated: 2025-02-07T23:01:38.247Z
 tags: 
   - screen-recording
   - ai video
@@ -23,6 +23,10 @@ Well, **night-mode portraits** can be such an opportunity. However, it can be a 
 
 ![night potraits](https://images.wondershare.com/filmora/article-images/2022/11/night-potraits.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Must-Dos in Night Portraits
 
 Let's start this discussion by exploring the major dos related to **night portraits** photoshoots. Some dos that you should consider are:
@@ -41,6 +45,10 @@ While shooting **night portraits,** based on the location, you may not get suffi
 
 For example, it can be a car light, a phone flashlight, a billboard light and anything that can light up the subject, offering a decent amount of illumination to your camera. Make sure that the light is accessible. Experts suggest using off-camera flashlights for **night portraits** as it offers better flexibility. Based on your requirements, you can adjust the direction and brightness. Using a light stand can also be very helpful here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Make Good Use of Night Mode Portrait
 
 Don't forget to take advantage of your camera's night mode portrait option to get stunning results. Sometimes, you need to depend on software instead of your camera's hardware for better results. Post-processing can enhance the exposure, level colors, effectively tune white balance, etc., and night mode can help you with that. When you choose this option, the camera will consider different factors, like the movement of the subjects, camera, light settings and more.
@@ -48,7 +56,7 @@ Don't forget to take advantage of your camera's night mode portrait option to ge
 The camera will then take a series of photos at multiple exposure levels and then merge them to create a single image with great details. Even though **night mode portraits** can help you a lot, they may not work well while taking photos of moving objects. The reason behind this is that this mode takes multiple shots, and moving subjects would be blurred out. If it is a static scene, then go for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Shooting with a Stabilizer
@@ -67,7 +75,7 @@ For better results, you can use a camera stabilizer. A camera stabilizer will of
 Experts suggest using a sturdy camera tripod, and it will be better to get a remote release. With this, you can trigger the camera without touching the shutter button, and it will reduce the movement of the camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Don't-Dos in Night Portraits
@@ -77,10 +85,6 @@ Experts suggest using a sturdy camera tripod, and it will be better to get a rem
 When it comes to wearing black for night portraits, experts suggest avoiding it unless you have proper light settings and you have your make-up done by an expert who can correct the color for shadows. Sometimes, dark clothes may create an aging effect on the subject. Besides, if the lighting condition is not good, the photos will become much darker due to your dark dress. So, wear light-colored dresses. Besides, don't use shirts that have visible text, brand names or logos.
 
 ![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Don't do a capture shoot
 
@@ -100,12 +104,16 @@ Speaking about white balance, it is a setting to make sure the colors in the pho
 
 ![pexels simon robben 473107](https://images.wondershare.com/filmora/article-images/2022/11/pexels-simon-robben-473107.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great. On the other hand, for darker skies, white balance settings of 4000k and above will offer you the best results. Begin with the above suggestion and click some test photos while increasing 100k after every shot to find the right white balance settings.
 
 However, you can also preset the white balance in your camera or edit the photos during post-processing to adjust the white balance. For example, you can use color correction to fix colors. Using this, you can make the photos look brighter or darker to make them appear natural and realistic. Always use a vector scope to make sure that your colors are accurate.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -114,17 +122,9 @@ However, you can also preset the white balance in your camera or edit the photos
 
 As per the experts, the lower the aperture, the more light your camera will receive. This can make your **night mode portraits** difficult. So, you need to go for a slower shutter speed and make sure that there will be subject or camera movement. All you need to do is control the light.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What Should You Need to Avoid in Portrait Photography?
 
 Some common mistakes that you need to avoid while shooting portraits are poor lighting, poor composition, bad background, using the incorrect lens, not properly focusing on the eyes, overexposure and more. Just follow the above-mentioned tips to get stunning night portraits.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What Are the Best Camera Settings for Night Photography?
 
@@ -160,24 +160,22 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-crafting-engaging-voiceovers-for-powerpoint-slides/"><u>[New] 2024 Approved Crafting Engaging Voiceovers for PowerPoint Slides</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-live-gaming-strategies-for-capturing-moments-for-2024/"><u>[New] Live Gaming Strategies for Capturing Moments for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-methods-to-rectify-obs-fullscreen-crash-for-2024/"><u>[New] Methods to Rectify OBS Fullscreen Crash for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-free-screen-recording-software-windows-and-mac-for-2024/"><u>[Updated] Free Screen Recording Software [Windows & Mac] for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-qualitysound-check/"><u>[Updated] In 2024, QualitySound Check</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-ranked-hd-screen-replay-units/"><u>[Updated] In 2024, Top-Ranked HD Screen Replay Units</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-masterful-edits-highest-rated-video-tools-for-youtube-for-2024/"><u>[Updated] Masterful Edits Highest Rated Video Tools For YouTube for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-digital-screen-capture-techniques/"><u>[Updated] Mastering Digital Screen Capture Techniques</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-infinix-smart-8-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Infinix Smart 8 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-messenger-broadcasting-your-place/"><u>Facebook Messenger: Broadcasting Your Place</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-xperia-1-v-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Sony Xperia 1 V Phone without PIN</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/inside-the-pros-playbook-top-5-gaming-techniques/"><u>Inside the Pro's Playbook Top 5 Gaming Techniques</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mavericks-mp4-video-editor-simplify-your-editing-process/"><u>Mavericks MP4 Video Editor Simplify Your Editing Process</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-davinci-resolve-audio-processing-101-a-comprehensive-guide-to-normalization-for-2024/"><u>New DaVinci Resolve Audio Processing 101 A Comprehensive Guide to Normalization for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/singapore-invests-s24-billion-in-enhancing-ict-infrastructure-and-digital-service-offerings-technews/"><u>Singapore Invests S$2.4 Billion in Enhancing ICT Infrastructure & Digital Service Offerings | TechNews</u></a></li>
-<li><a href="https://win-updates.techidaily.com/the-best-way-to-convert-written-content-into-audio-at-no-cost/"><u>The Best Way to Convert Written Content Into Audio at No Cost</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-strategies-capturing-saving-and-sharing-ps4-experiences-for-2024/"><u>Top Strategies Capturing, Saving & Sharing PS4 Experiences for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-protective-covers-for-samsung-galaxy-z-flip-6/"><u>Top-Rated Protective Covers for Samsung Galaxy Z Flip 6</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-windows-11-mov-to-avi-conversion-tutorial/"><u>[New] 2024 Approved Windows 11 MOV to AVI Conversion Tutorial</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-the-art-of-sniping-on-mac-with-these-tools/"><u>[New] Mastering the Art of Sniping on Mac with These Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-strategies-for-effortlessly-sharing-youtube-videos-on-fb/"><u>[New] Strategies for Effortlessly Sharing YouTube Videos on FB</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-10-strategies-to-make-money-on-youtube-shorts-easily/"><u>[Updated] 10 Strategies to Make Money on YouTube Shorts Easily</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-rogues-peak-top-ten-titles-reviewed/"><u>[Updated] 2024 Approved Rogue's Peak Top Ten Titles Reviewed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-from-game-to-giga-full-ps4-capture-using-obs/"><u>[Updated] In 2024, From Game to Giga Full PS4 Capture Using OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-gaming-filmmaking-techniques-to-record-games-flawlessly/"><u>[Updated] In 2024, Gaming Filmmaking Techniques to Record Games Flawlessly</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mini-stories-decoded-whats-inside/"><u>[Updated] Mini Stories Decoded What's Inside?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-no-fuss-tactics-for-saving-vimeo-footage/"><u>[Updated] No-Fuss Tactics for Saving Vimeo Footage</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-photoflex-max-best-windowsmac-picture-editors-for-2024/"><u>[Updated] PhotoFlex Max Best Windows/Mac Picture Editors for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-periscope-utilization-complete-manual/"><u>[Updated] Step-by-Step Periscope Utilization Complete Manual</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-error-effective-techniques-to-get-your-minecraft-up-and-running-on-a-pc-again/"><u>Beat the Error: Effective Techniques to Get Your Minecraft Up and Running on a PC Again</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-imagery-a-look-at-samsung-image-studio-tools/"><u>Enhancing Imagery A Look at Samsung Image Studio Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-samsung-galaxy-f54-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Samsung Galaxy F54 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-8-plus-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 8 Plus to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-multimedia-posts-multiphotograph-and-video-uploads-on-instagram/"><u>Mastering Multimedia Posts Multiphotograph & Video Uploads on Instagram</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/understanding-du-recorder-through-this-guide/"><u>Understanding Du Recorder Through This Guide</u></a></li>
 </ul></div>
 

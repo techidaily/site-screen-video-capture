@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Shadowcast Capture Issues on Windows PCs
-date: 2025-01-01T05:15:27.689Z
-updated: 2025-01-07T04:09:46.328Z
+date: 2025-02-06T16:50:51.608Z
+updated: 2025-02-07T16:37:38.916Z
 tags:
   - win11
   - win10
@@ -26,29 +26,37 @@ If you have GeForce Experience installed, and you find that you can’t record y
 
 In some cases, the culprit is NVIDA Streamer service, especially when it’s off. You can restart this service: 1)On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9799cbbba.png) and **R**  at the same time.  Type   **services.msc**  and press  **Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b3de585a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Right-click **NVIDIA Streamer Service**  and click **Restart**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2314a11508.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) See if your Shadowplay can record now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2: Reinstall NVIDIA Driver
 
 In some cases, GeForce Experience install programs that are not graphics driver on your PC. So you should reinstall NVIDIA display driver all over again. You can go to NVIDIA support website to search for and download the latest version of display driver available. Or you can update your video card driver via Device Manager or Windows Update. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/)and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9a8fa563d.png)3) Click the**Update**button next to the flagged NVIDIA device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b0348294.jpg)4) Restart your PC for the change to take effect. See if Shadowplay works well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3: Upgrade GeForce Experience
 
@@ -60,15 +68,7 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c236ca3feba.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Go to NVIDIA support to download the latest version of GeForce Experience and install as instructed. 4) See if your Shadowplay not recording problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4: Enable desktop capture
 
@@ -95,15 +95,24 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-firefoxs-best-screen-recorders-roundup-for-2024/"><u>[New] Firefox's Best Screen Recorders Roundup for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-decoding-the-code-for-quick-fb-media/"><u>[New] In 2024, Decoding the Code for Quick FB Media</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-direct-guide-to-modifying-macs-default-snapshots-for-2024/"><u>[Updated] Direct Guide to Modifying Mac's Default Snapshots for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-perfecting-instagram-livestreams-with-obs-technology/"><u>[Updated] Perfecting Instagram Livestreams with OBS Technology</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-your-ultimate-guide-to-best-free-game-recording-apps/"><u>2024 Approved Your Ultimate Guide to Best Free Game Recording Apps</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-7-plus-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone 7 Plus</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-poco-x6-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Poco X6 Pro Phone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-compreenas-guide-to-designing-a-compelling-rss-feed-for-2024/"><u>A Compreenas Guide to Designing a Compelling RSS Feed for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-conversationalists-compared-is-it-chatgpt-or-bing-chat-that-wins-the-battle-of-bot-intelligence/"><u>AI Conversationalists Compared: Is It ChatGPT or Bing Chat That Wins the Battle of Bot Intelligence?</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/upload-and-transform-mp4-videos-to-movquicktime-formats-for-free-online-conversion-services/"><u>Upload & Transform MP4 Videos to MOV/QuickTime Formats for Free Online Conversion Services</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-choosing-the-right-screen-recorder-outside-of-xbox/"><u>[New] 2024 Approved Choosing the Right Screen Recorder, Outside of Xbox</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-setting-the-scene-ideal-video-aspect-ratios-and-widths-for-youtube/"><u>[New] 2024 Approved Setting the Scene Ideal Video Aspect Ratios & Widths for YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-a-deep-dive-into-zdsoft-recorder-features/"><u>[New] A Deep Dive Into ZDSoft Recorder Features</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-exclusive-look-at-zooms-prime-transcription-software-choices/"><u>[New] In 2024, Exclusive Look at Zoom's Prime Transcription Software Choices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-maximizing-revenue-average-income-from-youtubes-adsense-per-thousand-watchers/"><u>[New] In 2024, Maximizing Revenue Average Income From YouTube's AdSense Per Thousand Watchers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-top-picks-best-hd-cameras-for-professional-twitch-streamers/"><u>[New] In 2024, Top Picks Best HD Cameras for Professional Twitch Streamers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-optimizing-audio-and-video-quality-during-zoom-recordings/"><u>[Updated] 2024 Approved Optimizing Audio & Video Quality During Zoom Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-5-best-racing-simulator-games-for-2024/"><u>[Updated] 5 Best Racing Simulator Games for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-elite-5-digital-media-screenshots/"><u>[Updated] Elite 5 Digital Media Screenshots</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-a-beginners-guide-to-editing-digits-in-tiktoks/"><u>[Updated] In 2024, A Beginner’s Guide to Editing Digits in TikToks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-audio-interface-mastery-your-podcast-setup-savior/"><u>2024 Approved Audio Interface Mastery Your Podcast Setup Savior</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-ghost-3-clash-ghost-4-rising/"><u>2024 Approved Ghost 3 Clash Ghost 4 Rising</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/awaitingnewagecameratechnologies-for-2024/"><u>AwaitingNewAgeCameraTechnologies for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-system-speed-optimize-and-revitalize-windows-7/"><u>Enhance System Speed: Optimize and Revitalize Windows 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-m6-pro-4g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco M6 Pro 4G To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pixel-phone-10-revealed-upcoming-features-cost-estimates-and-launch-window-uncovered/"><u>Pixel Phone 10 Revealed? Upcoming Features, Cost Estimates & Launch Window Uncovered</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/precision-window-photography-in-winoses-for-2024/"><u>Precision Window Photography in WinOSes for 2024</u></a></li>
 </ul></div>
 
