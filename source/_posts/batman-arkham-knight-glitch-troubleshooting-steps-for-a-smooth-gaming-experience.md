@@ -1,7 +1,7 @@
 ---
 title: Batman Arkham Knight Glitch? Troubleshooting Steps for a Smooth Gaming Experience
-date: 2025-01-31T16:58:28.648Z
-updated: 2025-02-07T16:26:07.237Z
+date: 2025-02-15T03:56:24.548Z
+updated: 2025-02-17T08:59:40.806Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 * If you have low-speed Internet, it could lead to an unstable Internet connection. You can google “Internet speed test” and pick a tool to**test your Internet speed** . However, when your Internet connection is unreasonably slow, consider contacting your Internet provider for help.
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Install all the game updates
 
@@ -83,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
@@ -102,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -113,7 +105,11 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -128,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -152,21 +152,24 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-easy-ways-to-record-webinar-on-windows-and-mac-for-2024/"><u>[New] Easy Ways to Record Webinar on Windows and Mac for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-free-and-paid-tools-master-your-google-meet-sessions/"><u>[New] In 2024, Free & Paid Tools Master Your Google Meet Sessions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-simplifying-complexity-essential-gs-tutorials-kinemaster/"><u>[New] In 2024, Simplifying Complexity Essential GS Tutorials (KineMaster)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-renewal-of-windows-photo-viewer-two-efficient-methods-in-windows-10-for-2024/"><u>[New] Renewal of Windows Photo Viewer Two Efficient Methods in Windows 10 for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-exploring-every-aspect-of-androids-recording-technology-for-2024/"><u>[Updated] Exploring Every Aspect of Android's Recording Technology for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-fbx-filming-made-simple-a-step-by-step-approach/"><u>[Updated] FBX Filming Made Simple A Step-by-Step Approach</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-rapid-reel-sound-mixed-screenshotting-for-2024/"><u>[Updated] Rapid Reel Sound-Mixed Screenshotting for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-ultimate-guide-selecting-top-ranked-free-srt-translation-tools/"><u>2024 Approved Ultimate Guide Selecting Top-Ranked FREE SRT Translation Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ral-channels-top-educational-yt-networks/"><u>Cerebral Channels Top Educational YT Networks</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-xs-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone XS Max</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-pixel-8-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Google Pixel 8 Pro PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus Passcode Screen?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/seamless-backdrop-switches-for-google-meet-users/"><u>Seamless Backdrop Switches for Google Meet Users</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/streamlining-your-gaming-experience-windows-11-edition/"><u>Streamlining Your Gaming Experience Windows 11 Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-farm-games-for-social-play-with-peers/"><u>[New] 2024 Approved Top Farm Games for Social Play with Peers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-androids-elite-selection-of-collage-apps/"><u>[New] Android's Elite Selection of Collage Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-screen-streaming-showdown-whos-the-champion-for-2024-obs-or-shadowgl/"><u>[New] Screen Streaming Showdown Who's the Champion for 2024 OBS or ShadowGL?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-elite-7-secure-platforms-for-smaller-companies-for-2024/"><u>[Updated] Elite 7 Secure Platforms for Smaller Companies for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-paw-some-profits-the-paychecks-of-pewdiepie/"><u>[Updated] In 2024, Paw-Some Profits The Paychecks of PewDiePie</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-iphone-camera-features-you-should-know-in-ios-11/"><u>10 iPhone Camera Features You Should Know in iOS 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-captivating-your-curbsides-glow-inside-your-house/"><u>2024 Approved Captivating Your Curbside's Glow Inside Your House</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-harness-your-screen-with-screencastify-recorder/"><u>2024 Approved Harness Your Screen with Screencastify Recorder</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/googles-augmented-reality-stickers-an-in-depth-look-and-alternatives-for-2024/"><u>Google's Augmented Reality Stickers An In-Depth Look and Alternatives for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-v30-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme V30 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-fullscreen-imprint-of-site/"><u>In 2024, Fullscreen Imprint of Site</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-perfect-peace-mastering-the-art-of-muting-individuals-on-gomeet/"><u>In 2024, Perfect Peace Mastering the Art of Muting Individuals on GoMeet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-pixelpilot-video-snapshot/"><u>In 2024, PixelPilot Video Snapshot</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-premier-mac-gif-capturer-pro/"><u>In 2024, Premier Mac GIF Capturer Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-se-2020-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone SE (2020) in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/recording-excellence-the-top-screen-recorder-list/"><u>Recording Excellence The Top Screen Recorder List</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/reducing-excessive-encoding-obs-for-2024/"><u>Reducing Excessive Encoding (OBS) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/safeguarding-personal-info-with-nintendo-switch-accounts/"><u>Safeguarding Personal Info with Nintendo Switch Accounts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/seamless-scratching-for-chrome-devices-for-2024/"><u>Seamless Scratching for Chrome Devices for 2024</u></a></li>
 </ul></div>
 

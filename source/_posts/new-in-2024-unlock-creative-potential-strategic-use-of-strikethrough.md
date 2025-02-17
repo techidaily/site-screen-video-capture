@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Unlock Creative Potential  Strategic Use of Strikethrough\""
-date: 2025-02-03T21:29:08.782Z
-updated: 2025-02-07T16:58:25.362Z
+date: 2025-02-12T22:27:10.667Z
+updated: 2025-02-17T14:53:02.053Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ Markers can be used during the video editing and after the screen recording to m
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * [Record desktop screen](https://tools.techidaily.com/wondershare/filmora/download/), voiceover, and webcam simultaneously
@@ -62,6 +58,10 @@ You can use them to mark a place in the screen recording you're not too happy wi
 
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
 
 This type of marker is immensely useful if you want to organize the timeline in your project better and to know exactly where every clip you want to use in your video is located at all times. Besides being a highly efficient tool for organizing vast amounts of footage, timeline markers can also help you denote the beats in the audio file and then sync the video clip perfectly to the beat of the tune you're using as a soundtrack to your video.
@@ -80,7 +80,7 @@ For macOS 10.12 or later
 * [2\. How to Remove a Marker After Screen Recording](#filmora2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. How to Add a Marker During Video Editing
@@ -101,6 +101,10 @@ Filmora lets you adjust your marker settings for your video. Right-click on the 
 
 ![access the modification option](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 3: Customize the Markers
 
 In the Marker Editor window, make relevant changes such as naming the marker, adding a comment in the **"Comment"** box, and changing the marker color.
@@ -108,7 +112,7 @@ In the Marker Editor window, make relevant changes such as naming the marker, ad
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **Method 2: Adding Markers through the Keyboard**
@@ -117,25 +121,21 @@ After importing the clip into the timeline and identifying the points of error i
 
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **2\. How to Remove a Marker After Screen Recording**
 
 Once you have finished editing your mistakes, it's important to remove the markers. To do this, right-click on the marker and select **"Delete"** from the options menu to remove a specific marker, or choose **"Delete All Markers"** to remove them collectively.
 
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, markers are a valuable tool for video recording and editing. They can help editors keep track of important moments, make precise edits, and streamline your workflow. By utilizing markers effectively, you can save time and ensure a more polished final result. Furthermore, you can try to use Wondershare Filmora to incorporate markers into the screen recording and video editing process. It is a great way to enhance the quality and efficiency of your work greatly. So, don't hesitate to start using markers in your video recording and editing projects today with Filmora!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -152,21 +152,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-journey-to-joyrides-top-housing-ideas-for-new-players/"><u>[New] 2024 Approved Journey to Joyrides Top Housing Ideas for New Players</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-be-the-game-changer-xbox-one-screen-recording-mastery/"><u>[New] Be the Game Changer Xbox One Screen Recording Mastery</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-vrecorder-download-install/"><u>[New] In 2024, Mastering VRecorder Download, Install</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-dailymotion-elites-in-snapchat-world/"><u>[Updated] 2024 Approved Dailymotion Elites in Snapchat World</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-windows-snapshot-mastery-3-easy-approaches/"><u>[Updated] 2024 Approved Windows Snapshot Mastery (3 Easy Approaches)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-screen-recorder-options-for-igadgets/"><u>[Updated] In 2024, Screen Recorder Options for iGadgets</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/affordable-xr-glasses-solved-my-apple-vision-dilemma-beating-peer-pressure-for-just-a-click-away-insights-from-zdnet/"><u>Affordable XR Glasses Solved My Apple Vision Dilemma, Beating Peer Pressure for Just a Click Away – Insights From ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-honor-magic-6-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Honor Magic 6</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-s18e-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo S18e Device</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-most-effective-windows-to-do-apps/"><u>Navigating the Most Effective Windows To-Do Apps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/precise-methods-for-recording-your-facetime-communication/"><u>Precise Methods for Recording Your FaceTime Communication</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/skype-connection-woes-overcome-common-issues-using-these-10-helpful-hints/"><u>Skype Connection Woes? Overcome Common Issues Using These 10 Helpful Hints</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-9-essential-considerations-when-purchasing-an-electric-vehicle/"><u>Top 9 Essential Considerations When Purchasing an Electric Vehicle</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ultimate-guide-unpacking-the-secrets-of-du-recorder/"><u>Ultimate Guide Unpacking the Secrets of Du Recorder</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-latest-developments-new-twitter-scams-uncovered-introduction-of-metas-verification-feature-and-insights-into-chatgpt-4/"><u>Understanding the Latest Developments: New Twitter Scams Uncovered, Introduction of Meta's Verification Feature & Insights Into ChatGPT-4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-creativity-with-python-and-gpt-3/"><u>Unleashing Creativity with Python and GPT-3</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamlining-your-remote-podcast-production-workflow/"><u>[New] 2024 Approved Streamlining Your Remote Podcast Production Workflow</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-elevating-your-facebook-footprint-the-top-20-strategies-for-successful-videos/"><u>[New] In 2024, Elevating Your Facebook Footprint The Top 20 Strategies for Successful Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-low-end-pc-reach-high-with-best-obs-configuration/"><u>[New] In 2024, Low-End PC Reach High with Best OBS Configuration</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-10-engaging-mobile-idle-puzzles-for-2024/"><u>[New] Top 10 Engaging Mobile Idle Puzzles for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-youtube-sponsor-opportunities-via-famebit-methods/"><u>[New] Unlocking YouTube Sponsor Opportunities via FameBit Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-essential-tips-for-simple-hdr-mastery/"><u>[Updated] 2024 Approved Essential Tips for Simple HDR Mastery</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-inside-scoop-on-sharex-scrutiny-and-comparisons/"><u>[Updated] 2024 Approved Inside Scoop on ShareX Scrutiny & Comparisons</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-streamlabs-rival-tools-unveiled/"><u>[Updated] In 2024, Streamlabs' Rival Tools Unveiled</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-paired-monitors-preservation/"><u>2024 Approved Paired Monitors Preservation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/creative-constructs-top-6-minimalist-mini-mansions/"><u>Creative Constructs Top 6 Minimalist Mini-Mansions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/m-soundtracks-simplified-converting-from-spotify-playlists-to-youtube-music/"><u>Custom Soundtracks Simplified Converting From Spotify Playlists to YouTube Music</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-color-palettes-applying-theories-effectively-for-2024/"><u>Mastering Color Palettes Applying Theories Effectively for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/snapscreen-scrutiny-a-deep-dive-into-recorders-for-2024/"><u>SnapScreen Scrutiny A Deep Dive Into Recorders for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/stealthy-strategies-for-anonymous-instagram-broadcasts-for-2024/"><u>Stealthy Strategies for Anonymous Instagram Broadcasts for 2024</u></a></li>
 </ul></div>
 

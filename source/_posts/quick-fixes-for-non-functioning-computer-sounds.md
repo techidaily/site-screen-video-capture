@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Non-Functioning Computer Sounds
-date: 2025-02-03T17:26:14.960Z
-updated: 2025-02-07T19:20:38.669Z
+date: 2025-02-11T18:04:09.575Z
+updated: 2025-02-17T10:51:29.458Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Allow access to microphone (for Windows 10 users)**
@@ -44,12 +44,16 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Microphone** on the left pane, and make sure**Microphone access for this device** **is on** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
@@ -76,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd5faedb2b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged sound card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
@@ -116,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6274ee58efa.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right click your microphone and click**Enable** (if it’s enabled, you’ll see**Disable** ).
@@ -128,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Right click your microphone, and click**Properties.**
@@ -173,22 +173,19 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-eco-friendly-visuals-for-film-enthusiasts-for-2024/"><u>[New] Eco-Friendly Visuals for Film Enthusiasts for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-conquer-windows-10-a-mov-filming-masterclass/"><u>[New] In 2024, Conquer Windows 10 A MOV Filming Masterclass</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-simplifying-video-sharing-on-the-cloud-by-microsoft/"><u>[New] In 2024, Simplifying Video Sharing on the Cloud by Microsoft</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-audio-recording-solutions-for-educators-using-apple-products/"><u>[Updated] Audio Recording Solutions for Educators Using Apple Products</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-crucial-info-every-asmr-viewer-should-absorb-for-2024/"><u>[Updated] Crucial Info Every ASMR Viewer Should Absorb for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-expert-advice-for-quick-and-effortless-mac-screen-recording-via-keyboard-shortcuts-for-2024/"><u>[Updated] Expert Advice for Quick and Effortless Mac Screen Recording via Keyboard Shortcuts for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-explore-the-best-ps2-emulation-software-for-android-for-2024/"><u>[Updated] Explore the Best PS2 Emulation Software for Android for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-navigating-global-reach-via-vimeo-links/"><u>[Updated] In 2024, Navigating Global Reach via Vimeo Links</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-tailoring-blends-for-stunning-composite-videos/"><u>[Updated] In 2024, Tailoring Blends for Stunning Composite Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/8-key-ways-that-ai-chatbots-are-redefining-content-creation-strategies/"><u>8 Key Ways That AI Chatbots Are Redefining Content Creation Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-to-quell-background-game-bar-noise-on-modern-devices/"><u>Guide to Quell Background Game Bar Noise on Modern Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-honor-magic-6-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Honor Magic 6 Is Unlocked</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-oppo-find-n3-flip-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Oppo Find N3 Flip For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Itel A70? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/premiered-index-of-most-authentic-3ds-emulation-software/"><u>Premiered Index of Most Authentic 3DS Emulation Software</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/premium-guide-capturing-and-storing-tweets-jokes-on-pc-for-2024/"><u>Premium Guide Capturing and Storing Tweets Jokes on PC for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-complete-mac-users-guide-to-capturing-roblox-gaming-sessions/"><u>The Complete Mac User's Guide to Capturing Roblox Gaming Sessions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-breaking-into-livestreaming-your-pathway-to-youtube-and-twitch-via-obs/"><u>[New] 2024 Approved Breaking Into Livestreaming Your Pathway to YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-insights-setting-up-time-limited-sessions-with-obs/"><u>[New] 2024 Approved Ultimate Insights Setting Up Time-Limited Sessions with OBS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hacky-podcast-transmission-tactic/"><u>[Updated] Hacky Podcast Transmission Tactic</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-the-art-of-instagram-metrics-analysis-your-ultimate-ig-guide/"><u>[Updated] In 2024, Mastering the Art of Instagram Metrics Analysis – Your Ultimate IG Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-teenyscreenmugger-evaluation-insights/"><u>[Updated] TeenyScreenMugger Evaluation Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-to-live-stream-to-instagram-from-obs/"><u>2024 Approved How To Live Stream to Instagram From OBS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compreran-exploration-of-giroptics-panorama-for-2024/"><u>Compreran Exploration of Giroptic's Panorama for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-versatile-powers-of-chatgpt-with-these-8-strategies/"><u>Discover the Versatile Powers of ChatGPT with These 8 Strategies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-8-strategies-for-digital-sound-recording/"><u>Essential 8 Strategies for Digital Sound Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-acoustiquest-investigating-soundscape/"><u>In 2024, AcoustiQuest Investigating Soundscape</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175655256-intels-next-gen-arrow-lake-cpus-compatible-with-new-arctic-36x36-cooler-prepare-your-setup/"><u>Intel's Next-Gen Arrow Lake CPUs Compatible with New Arctic 36X36 Cooler - Prepare Your Setup!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oneplus-open-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on OnePlus Open</u></a></li>
+<li><a href="https://win-web3.techidaily.com/partytymes-latest-additions-enjoy-your-favorite-tracks-with-our-karaoke-subscription-service/"><u>PartyTyme's Latest Additions: Enjoy Your Favorite Tracks with Our Karaoke Subscription Service!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-list-of-5-apps-to-boost-your-social-network-and-make-friends/"><u>Ultimate List of 5 Apps to Boost Your Social Network and Make Friends</u></a></li>
 </ul></div>
 

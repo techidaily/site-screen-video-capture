@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Crafting High-Quality Game Stream Videos with Artificial Intelligence\""
-date: 2024-07-21T16:10:44.214Z
-updated: 2024-07-22T16:10:44.214Z
+date: 2025-02-15T13:27:50.463Z
+updated: 2025-02-16T19:34:34.005Z
 tags: 
   - screen-recording
   - ai video
@@ -27,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc
 
 Have you ever watched gaming videos on Youtube with the gamer on the corner of the screen with a transparent background? They look very nice, right. You can also make such game streaming videos by yourself, thanks to Filmora's latest AI Portrait feature.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![game-streaming-poster](https://images.wondershare.com/filmora/article-images/game-streaming-poster.jpg)
 
 There is a huge competition on Youtube for the game streaming category. If you want to stand out from the crowd and make your mark on viewers' minds, you have to make videos unique and different from all those streamers. One of the best ways to make your game streaming videos stunning and cool is to remove the background of your footage on the corner.
@@ -63,9 +60,6 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 **Step 01:** Open Filmora X. If it is not already installed on your PC, you can download it from [here](https://tools.techidaily.com/wondershare/filmora/download/) and install it on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step1](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step1.png)
 
 **Step 02:** Import your Gameplay and your own video into the Filmora by clicking on the import button or by dragging the media into Filmora.
@@ -76,16 +70,16 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 ![game-streaming-with-ai-portrait-step3](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 04:** Select your self-recording and click on effects. Go to the AI Portraits. It shows all the AI Portrait effects.
 
 ![game-streaming-with-ai-portrait-step4](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step4.png)
 
 **Step 05:** Since we want to remove the background of our video, drag the "Human Segmentation" effect into the footage to apply it. You can easily purchase it from here. It will ask you to purchase it if you haven't purchased it already.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step5](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step5.png)
 
 **Step 06:** Once it is applied to the footage, it will separate the background from the character and remove the background.
@@ -100,25 +94,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![game-streaming-with-ai-portrait-step8](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 09:** It will automatically add a keyframe. Now move forward into the timeline, drag the character's position to your preferred position, and hit OK. It will move the character from the old position to the new position smoothly.
 
 ![game-streaming-with-ai-portrait-step9](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step9.png)
 
 **Step 10:** If you want to move the character to the same position, move forward into the timeline and drag it to the same position.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step10](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step10.png)
 
 #### Conclusion
 
 After following and applying all the steps, your game streaming video is ready to be uploaded on Youtube or any other video-sharing platform. This AI Portrait will make your videos unique and distinct from all other videos and help you gain more views and subscribers. Using AI Portrait will not only save your time but money as well. Because removing the background from videos required Green Sheet and other material to place and hold it. Filmora AI Portrait feature helps you get rid of all those unnecessary and difficult to carry and setup materials. Now you can make your game streaming videos anytime and anywhere.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -135,10 +126,6 @@ Follow @Shanoon Cox
 
 Have you ever watched gaming videos on Youtube with the gamer on the corner of the screen with a transparent background? They look very nice, right. You can also make such game streaming videos by yourself, thanks to Filmora's latest AI Portrait feature.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![game-streaming-poster](https://images.wondershare.com/filmora/article-images/game-streaming-poster.jpg)
 
 There is a huge competition on Youtube for the game streaming category. If you want to stand out from the crowd and make your mark on viewers' minds, you have to make videos unique and different from all those streamers. One of the best ways to make your game streaming videos stunning and cool is to remove the background of your footage on the corner.
@@ -166,9 +153,6 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 Using AI Portrait doesn't require any kind of technical skills or expertise. One can easily apply the AI Portrait effect with a single click. So, let's get started with the step-by-step guide. Make sure you have already recorded your gameplay and your own video. If not, record it first to process with the following steps.
@@ -181,16 +165,12 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 ![game-streaming-with-ai-portrait-step2](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 03:** Drag both of these footages into the timeline. Make sure to place your self-recording above the gameplay.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step3](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step3.png)
 
 **Step 04:** Select your self-recording and click on effects. Go to the AI Portraits. It shows all the AI Portrait effects.
@@ -199,9 +179,6 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 **Step 05:** Since we want to remove the background of our video, drag the "Human Segmentation" effect into the footage to apply it. You can easily purchase it from here. It will ask you to purchase it if you haven't purchased it already.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step5](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step5.png)
 
 **Step 06:** Once it is applied to the footage, it will separate the background from the character and remove the background.
@@ -210,9 +187,6 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 **Step 07:** Adjust the footage by making it smaller and moving to the lower-left corner of the screen. We are good to go.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step7.png)
 
 **Step 08:** If in some part of the video you want to show something covered by the character, you can easily change the character's position using keyframes for a smooth movement. To make sure the character footage is selected, pause the video when you want to change the position of the character and click on the keyframe button above the timeline.
@@ -225,23 +199,18 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 **Step 10:** If you want to move the character to the same position, move forward into the timeline and drag it to the same position.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step10](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step10.png)
 
 #### Conclusion
 
 After following and applying all the steps, your game streaming video is ready to be uploaded on Youtube or any other video-sharing platform. This AI Portrait will make your videos unique and distinct from all other videos and help you gain more views and subscribers. Using AI Portrait will not only save your time but money as well. Because removing the background from videos required Green Sheet and other material to place and hold it. Filmora AI Portrait feature helps you get rid of all those unnecessary and difficult to carry and setup materials. Now you can make your game streaming videos anytime and anywhere.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -271,28 +240,23 @@ If you are going to do it traditionally, you will need so many materials like a 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Make a Game Streaming Video \[Step by Step\]
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Using AI Portrait doesn't require any kind of technical skills or expertise. One can easily apply the AI Portrait effect with a single click. So, let's get started with the step-by-step guide. Make sure you have already recorded your gameplay and your own video. If not, record it first to process with the following steps.
 
@@ -302,9 +266,6 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 **Step 02:** Import your Gameplay and your own video into the Filmora by clicking on the import button or by dragging the media into Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step2](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step2.png)
 
 **Step 03:** Drag both of these footages into the timeline. Make sure to place your self-recording above the gameplay.
@@ -333,28 +294,22 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 **Step 09:** It will automatically add a keyframe. Now move forward into the timeline, drag the character's position to your preferred position, and hit OK. It will move the character from the old position to the new position smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step9](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step9.png)
 
 **Step 10:** If you want to move the character to the same position, move forward into the timeline and drag it to the same position.
 
 ![game-streaming-with-ai-portrait-step10](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Conclusion
 
 After following and applying all the steps, your game streaming video is ready to be uploaded on Youtube or any other video-sharing platform. This AI Portrait will make your videos unique and distinct from all other videos and help you gain more views and subscribers. Using AI Portrait will not only save your time but money as well. Because removing the background from videos required Green Sheet and other material to place and hold it. Filmora AI Portrait feature helps you get rid of all those unnecessary and difficult to carry and setup materials. Now you can make your game streaming videos anytime and anywhere.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -384,9 +339,6 @@ If you are going to do it traditionally, you will need so many materials like a 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Make a Game Streaming Video \[Step by Step\]
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -394,6 +346,10 @@ If you are going to do it traditionally, you will need so many materials like a 
 For Win 7 or later (64-bit)
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -405,9 +361,6 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 **Step 01:** Open Filmora X. If it is not already installed on your PC, you can download it from [here](https://tools.techidaily.com/wondershare/filmora/download/) and install it on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step1](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step1.png)
 
 **Step 02:** Import your Gameplay and your own video into the Filmora by clicking on the import button or by dragging the media into Filmora.
@@ -416,23 +369,18 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 **Step 03:** Drag both of these footages into the timeline. Make sure to place your self-recording above the gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step3](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step3.png)
 
 **Step 04:** Select your self-recording and click on effects. Go to the AI Portraits. It shows all the AI Portrait effects.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step4](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 05:** Since we want to remove the background of our video, drag the "Human Segmentation" effect into the footage to apply it. You can easily purchase it from here. It will ask you to purchase it if you haven't purchased it already.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step5](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step5.png)
 
 **Step 06:** Once it is applied to the footage, it will separate the background from the character and remove the background.
@@ -445,21 +393,23 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 **Step 08:** If in some part of the video you want to show something covered by the character, you can easily change the character's position using keyframes for a smooth movement. To make sure the character footage is selected, pause the video when you want to change the position of the character and click on the keyframe button above the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step8](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 09:** It will automatically add a keyframe. Now move forward into the timeline, drag the character's position to your preferred position, and hit OK. It will move the character from the old position to the new position smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step9](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step9.png)
 
 **Step 10:** If you want to move the character to the same position, move forward into the timeline and drag it to the same position.
 
 ![game-streaming-with-ai-portrait-step10](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Conclusion
 
@@ -497,8 +447,24 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-perfect-your-mac-how-to-record-desktop-activity/"><u>[New] 2024 Approved Perfect Your Mac How to Record Desktop Activity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-creme-de-la-cream-of-online-tv-services/"><u>[New] The Crème De La Cream of Online TV Services</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-next-level-screenshots-review-of-apowersofts-pc-recorder/"><u>[Updated] 2024 Approved Next-Level Screenshots Review of Apowersoft's PC Recorder</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-ultimate-10-volume-uplifters-for-windowsios-devices/"><u>[Updated] 2024 Approved Ultimate 10 Volume Uplifters for Windows/iOS Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-audience-take-movaviscreenvisions-new-release/"><u>[Updated] In 2024, Audience Take MovaviScreenVision's New Release</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-streamline-workflow-with-macoss-screen-capture-feature/"><u>[Updated] In 2024, Streamline Workflow with macOS's Screen Capture Feature</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unparalleled-mac-capture-tools-assessed/"><u>[Updated] In 2024, Unparalleled Mac Capture Tools Assessed</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202086275-activated-safeguard-alert-enable-all-security-measures-immediately/"><u>Activated Safeguard Alert: Enable All Security Measures Immediately</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/archive-your-online-dialogues-essential-steps-for-fb-chat-recordings-for-2024/"><u>Archive Your Online Dialogues Essential Steps for FB Chat Recordings for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-crucial-techniques-for-documenting-lol-wars/"><u>In 2024, Crucial Techniques for Documenting LOL Wars</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-expert-review-avs-video-editor-2023-the-good-the-bad-and-the-ugly/"><u>In 2024, Expert Review AVS Video Editor 2023 - The Good, the Bad, and the Ugly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-roguelikes-traditional-tactics-vs-modern-mechanics/"><u>In 2024, Roguelike's Traditional Tactics Vs. Modern Mechanics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-download-pioneer-dj-ddj-sx2-controller-software/"><u>Instant Download: Pioneer DJ DDJ-SX2 Controller Software</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-14-ultra-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 14 Ultra Phone FRP Lock</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-or-minimizing-the-real-story-of-expat-facebook-groups/"><u>Maximizing or Minimizing? The Real Story of Expat Facebook Groups</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-review-of-camstudio-capturing-features/"><u>The Ultimate Review of CamStudio Capturing Features</u></a></li>
+</ul></div>
 

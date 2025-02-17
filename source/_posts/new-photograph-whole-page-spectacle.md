@@ -1,7 +1,7 @@
 ---
 title: "[New] Photograph Whole Page Spectacle"
-date: 2025-02-06T21:42:06.290Z
-updated: 2025-02-07T21:02:31.226Z
+date: 2025-02-13T09:25:51.487Z
+updated: 2025-02-17T04:32:51.302Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,10 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
 
 Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
@@ -61,20 +65,20 @@ Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offe
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
 
 If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
 
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Capturing Screenshots With Browser Extensions
 
@@ -89,10 +93,6 @@ This is a free and easy to use add-on that is compatible with Google Chrome, Fir
 #### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
 
@@ -110,10 +110,6 @@ Install the extension in your browser and then click on its icon in the Extensio
 
 [Firefox Quantum](https://www.mozilla.org/en-US/firefox/) browser allows you to quickly take screenshots of the full page without much hassle. Make sure that the tab with the web page you'd like to capture is open, and then click on the **Page Action** icon, that looks like three dots. Select the **Take a Screenshot** feature from the menu and then when the new dialogue box appears on the screen click on the **Save full page** option. Your screenshots will be stored online and you can share, organize or delete them from **My Shots** folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 4: Using Online Tools for Full Page Screenshots
 
 If you don't want to go through the trouble of installing a screenshot extension in your web browser, you can easily capture an entire page with an online tool. [Web-capture.net](https://web-capture.net/) platform is designed to help their users to take full page screenshots effortlessly. You just have to copy the URL of the page you'd like to capture and select the image file format.
@@ -121,7 +117,7 @@ If you don't want to go through the trouble of installing a screenshot extension
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
@@ -144,6 +140,10 @@ Leave a comment below and let us know which method of capturing full page screen
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -159,22 +159,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-expert-picks-5-superior-video-call-recording-tools/"><u>[New] 2024 Approved Expert Picks 5 Superior Video Call Recording Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-virtuocapture-pro-windows-10-edition/"><u>[New] 2024 Approved VirtuoCapture Pro (Windows 10 Edition)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-dance-the-viral-dance-mix-in-some-tiktok-flavor-for-insta-success/"><u>[New] Dance the Viral Dance Mix in Some TikTok Flavor for Insta Success</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-essential-10-screen-capture-apps-for-mac-users/"><u>[New] Essential 10 Screen Capture Apps for Mac Users</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-advanced-techniques-in-itunes-video-saving/"><u>[Updated] Advanced Techniques in iTunes Video Saving</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-cutting-edge-techniques-for-dynamic-instagram-reels-for-2024/"><u>[Updated] Cutting-Edge Techniques for Dynamic Instagram Reels for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-digital-portraits-proven-the-science-of-social-snap-validation-for-2024/"><u>[Updated] Digital Portraits Proven The Science of Social Snap Validation for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-diving-into-the-world-of-youtubers-starting-your-channel-earning-cash-for-2024/"><u>[Updated] Diving Into the World of Youtubers Starting Your Channel, Earning Cash for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-dungeons-deep-and-deeper-old-school-and-hybrid-games-for-2024/"><u>[Updated] Dungeons Deep & Deeper Old School and Hybrid Games for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-exciting-possibilities-the-best-12-clickers-for-pc-gamers-for-2024/"><u>[Updated] Exciting Possibilities The Best 12 Clickers for PC Gamers for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-elevating-sims-4-chronicles-advanced-techniques-for-precise-game-recording/"><u>[Updated] In 2024, Elevating Sims 4 Chronicles Advanced Techniques for Precise Game Recording</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweeted-trailblazers-cutting-edge-strategies-to-save-tweets-on-screen/"><u>[Updated] In 2024, Tweeted Trailblazers Cutting-Edge Strategies to Save Tweets on Screen</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-maximizing-team-output-8-excellent-facebook-planners-revealed/"><u>In 2024, Maximizing Team Output 8 Excellent Facebook Planners Revealed</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/secrets-of-storing-whatsapp-conversations/"><u>Secrets of Storing WhatsApp Conversations</u></a></li>
-<li><a href="https://win-forum.techidaily.com/steps-to-reduce-100-drive-consumption-in-windows-11/"><u>Steps to Reduce 100% Drive Consumption in Windows 11</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-benefits-of-high-dynamic-range-in-professional-videography-for-2024/"><u>The Benefits of High Dynamic Range in Professional Videography for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-90-gt-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor 90 GT Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-financially-flourishing-online-media-personality/"><u>[New] 2024 Approved Financially Flourishing Online Media Personality</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-step-into-the-world-of-high-quality-lenovo-screen-recordings/"><u>[New] Step Into the World of High-Quality Lenovo Screen Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-desktop-and-mobile-capturing-team-video-conferences/"><u>[Updated] In 2024, Mastering Desktop & Mobile Capturing Team Video Conferences</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-postmycam-seeking-top-notch-alternatives/"><u>2024 Approved PostMyCam Seeking Top-Notch Alternatives</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unveiling-the-power-of-effective-screencasts-in-digital-content/"><u>2024 Approved Unveiling the Power of Effective Screencasts in Digital Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-power-problems-in-sony-ps4-remotes/"><u>Diagnosing and Repairing Power Problems in Sony PS4 Remotes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/elevate-your-craft-canvas-hidden-design-secrets/"><u>Elevate Your Craft Canva's Hidden Design Secrets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/probing-the-use-of-language-models-in-hacking/"><u>Probing the Use of Language Models in Hacking</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-updating-and-downloading-the-newest-epson-ds-510-printer-software-for-windows-users/"><u>Step by Step Guide to Updating and Downloading the Newest Epson DS-510 Printer Software for Windows Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-art-of-preservation-innovative-techniques-to-capture-the-magic-of-living-with-sims/"><u>The Art of Preservation Innovative Techniques to Capture the Magic of Living with Sims</u></a></li>
+<li><a href="https://fox-place.techidaily.com/troubleshooting-making-your-gopro-detectable-by-windowsmac-for-file-transfer/"><u>Troubleshooting: Making Your GoPro Detectable by Windows/Mac for File Transfer</u></a></li>
 </ul></div>
 
