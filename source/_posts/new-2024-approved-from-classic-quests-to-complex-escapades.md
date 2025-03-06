@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Classic Quests to Complex Escapades\""
-date: 2025-02-14T02:27:42.873Z
-updated: 2025-02-16T23:08:14.340Z
+date: 2025-03-03T03:09:51.834Z
+updated: 2025-03-06T07:09:14.302Z
 tags: 
   - screen-recording
   - ai video
@@ -39,19 +39,11 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
 
@@ -59,23 +51,11 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -164,15 +144,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-dive-into-retro-gaming-the-5-highest-rated-android-ps2-emulators/"><u>[Updated] 2024 Approved Dive Into Retro Gaming The 5 Highest-Rated Android PS2 Emulators</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-navigating-video-production-with-captivate/"><u>[Updated] 2024 Approved Navigating Video Production with Captivate</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-straightforwardsnapper-w10s-easy-tool/"><u>[Updated] In 2024, StraightforwardSnapper W10's Easy Tool</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovative-approaches-to-change-song-speed-on-spotify/"><u>[Updated] Innovative Approaches to Change Song Speed on Spotify</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-apple-devices-enthusiasts-guide-to-top-voice-recorders/"><u>2024 Approved Apple Devices Enthusiast's Guide to Top Voice Recorders</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-quick-guide-to-capturing-timelapses-with-gopro-hero5/"><u>2024 Approved Quick Guide to Capturing Timelapses with GoPro Hero5</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleashing-potential-channel-building-mastery/"><u>2024 Approved Unleashing Potential Channel Building Mastery</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-f04-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy F04</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/immediate-disengagement-from-chatgpt/"><u>Immediate Disengagement From ChatGPT</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-audio-effective-fixes-for-black-ops-cold-war-pc-playback-problems/"><u>Restore Audio: Effective Fixes for Black Ops: Cold War PC Playback Problems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unveiling-the-ultimate-strategy-to-record-your-favorite-streamed-series-hulu/"><u>[New] 2024 Approved Unveiling the Ultimate Strategy to Record Your Favorite Streamed Series (Hulu)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-gamers-archive-6-innovative-approaches-for-recording-games/"><u>[New] In 2024, The Gamers' Archive 6 Innovative Approaches for Recording Games</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-which-online-platform-stands-out-discord-and-skype-compared/"><u>[New] Which Online Platform Stands Out? Discord & Skype Compared</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-windows-1011-grab-your-desk-view/"><u>[Updated] 2024 Approved Windows 10/11 Grab Your Desk View</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-elite-environmentally-friendly-cinematography-tech-for-2024/"><u>[Updated] Elite Environmentally Friendly Cinematography Tech for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-battle-for-asgard-the-ragnarok-chronicles/"><u>[Updated] In 2024, Battle for Asgard The Ragnarök Chronicles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-essential-teacher-friendly-screen-recording-software/"><u>[Updated] In 2024, Essential Teacher-Friendly Screen Recording Software</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-revolutionize-your-social-media-game-personalizing-twitter-video-images/"><u>[Updated] In 2024, Revolutionize Your Social Media Game Personalizing Twitter Video Images</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-transform-virtual-engagements-the-10-free-applications-you-need-for-2024/"><u>[Updated] Transform Virtual Engagements The 10 Free Applications You Need for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-captivating-your-audience-writing-podcast-intros/"><u>2024 Approved Captivating Your Audience Writing Podcast Intros</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-drone-buys-the-top-5-pro-picks-for-2024/"><u>Best Drone Buys - The Top 5 Pro Picks for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/compatible-video-types-and-maximum-sizes-on-whatsapp/"><u>Compatible Video Types and Maximum Sizes on WhatsApp</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/consumer-outraged-by-intel-process-for-rma-accuses-company-of-selling-fake-i9-13900k-chips-through-amazon-micro-center/"><u>Consumer Outraged by Intel Process for RMA; Accuses Company of Selling Fake I9-13900K Chips Through Amazon, Micro Center</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-exclusive-content-on-twitter-no-twitting/"><u>In 2024, Exclusive Content on Twitter - No Twitting</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-asus-rog-phone-8-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Asus ROG Phone 8 FRP Bypass</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-ultimate-selection-non-advertising-android-recording-tools/"><u>In 2024, Ultimate Selection Non-Advertising Android Recording Tools</u></a></li>
 </ul></div>
 

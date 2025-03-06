@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Non-Functioning Computer Sounds
-date: 2025-02-11T18:04:09.575Z
-updated: 2025-02-17T10:51:29.458Z
+date: 2025-03-02T05:19:42.448Z
+updated: 2025-03-05T20:22:44.604Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Allow access to microphone (for Windows 10 users)**
 
  If your Logitech G430 microphone stops working in Windows 10, the first thing you should check is to turn on the microphone access. Here’s what you need to do:
@@ -44,17 +40,9 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Microphone** on the left pane, and make sure**Microphone access for this device** **is on** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
@@ -103,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
@@ -115,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6274ee58efa.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right click your microphone and click**Enable** (if it’s enabled, you’ll see**Disable** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627553bb550.jpg)
@@ -126,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
  5) Right click on your microphone again and select**Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Right click your microphone, and click**Properties.**
 
@@ -173,19 +149,21 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-breaking-into-livestreaming-your-pathway-to-youtube-and-twitch-via-obs/"><u>[New] 2024 Approved Breaking Into Livestreaming Your Pathway to YouTube & Twitch via OBS</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-insights-setting-up-time-limited-sessions-with-obs/"><u>[New] 2024 Approved Ultimate Insights Setting Up Time-Limited Sessions with OBS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hacky-podcast-transmission-tactic/"><u>[Updated] Hacky Podcast Transmission Tactic</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-the-art-of-instagram-metrics-analysis-your-ultimate-ig-guide/"><u>[Updated] In 2024, Mastering the Art of Instagram Metrics Analysis – Your Ultimate IG Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-teenyscreenmugger-evaluation-insights/"><u>[Updated] TeenyScreenMugger Evaluation Insights</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-to-live-stream-to-instagram-from-obs/"><u>2024 Approved How To Live Stream to Instagram From OBS</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/compreran-exploration-of-giroptics-panorama-for-2024/"><u>Compreran Exploration of Giroptic's Panorama for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-versatile-powers-of-chatgpt-with-these-8-strategies/"><u>Discover the Versatile Powers of ChatGPT with These 8 Strategies</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/essential-8-strategies-for-digital-sound-recording/"><u>Essential 8 Strategies for Digital Sound Recording</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-acoustiquest-investigating-soundscape/"><u>In 2024, AcoustiQuest Investigating Soundscape</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175655256-intels-next-gen-arrow-lake-cpus-compatible-with-new-arctic-36x36-cooler-prepare-your-setup/"><u>Intel's Next-Gen Arrow Lake CPUs Compatible with New Arctic 36X36 Cooler - Prepare Your Setup!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oneplus-open-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on OnePlus Open</u></a></li>
-<li><a href="https://win-web3.techidaily.com/partytymes-latest-additions-enjoy-your-favorite-tracks-with-our-karaoke-subscription-service/"><u>PartyTyme's Latest Additions: Enjoy Your Favorite Tracks with Our Karaoke Subscription Service!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-list-of-5-apps-to-boost-your-social-network-and-make-friends/"><u>Ultimate List of 5 Apps to Boost Your Social Network and Make Friends</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-complete-guide-to-audio-editing-in-audacity-made-simple/"><u>[New] In 2024, The Complete Guide to Audio Editing in Audacity, Made Simple</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-essence-of-chuckles-in-single-photos/"><u>[Updated] 2024 Approved The Essence of Chuckles in Single Photos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-sideways-scene-understanding-igs-upside-down-issue/"><u>[Updated] In 2024, Sideways Scene Understanding IG's Upside-Down Issue</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-initial-cinematographers-work-scrutiny-and-replacement-ideas/"><u>[Updated] Initial Cinematographer's Work Scrutiny & Replacement Ideas</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-master-the-craft-three-secrets-to-perfectly-saving-streamed-discords/"><u>[Updated] Master the Craft Three Secrets to Perfectly Saving Streamed Discords</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-analyzing-instagram-de-followings/"><u>2024 Approved Analyzing Instagram De-Followings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-customizing-teams-background-priorpost-meeting/"><u>2024 Approved Customizing Teams Background Prior/Post-Meeting</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-win10-screen-grabbing-top-quality-captures/"><u>2024 Approved Win10 Screen Grabbing - Top Quality Captures</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/capturing-your-desktop-in-winoses-effortlessly/"><u>Capturing Your Desktop in WinOSes Effortlessly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-nvidia-quadro-drivers-for-windows-11-latest-compatible-versions-and-installation-guide/"><u>Download Nvidia Quadro Drivers for Windows 11: Latest Compatible Versions and Installation Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-quickly-mastering-instagram-written-communication/"><u>In 2024, Quickly Mastering Instagram' Written Communication</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/laugh-out-loud-top-meme-studio-for-2024/"><u>Laugh Out Loud Top Meme Studio for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/perfecting-your-performance-logging-the-ultimate-guide-for-capturing-roblox-on-a-mac-for-2024/"><u>Perfecting Your Performance Logging The Ultimate Guide for Capturing Roblox on a Mac for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-15-free-self-directed-artificial-intelligence-learning-programs-comprehensive-guide/"><u>Top 15 Free, Self-Directed Artificial Intelligence Learning Programs – Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-12-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 12 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Photograph Whole Page Spectacle"
-date: 2025-02-13T09:25:51.487Z
-updated: 2025-02-17T04:32:51.302Z
+date: 2025-03-04T17:31:10.504Z
+updated: 2025-03-05T16:20:54.258Z
 tags: 
   - screen-recording
   - ai video
@@ -54,25 +54,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
 
 Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
 
@@ -116,10 +104,6 @@ If you don't want to go through the trouble of installing a screenshot extension
 
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
 
 Stand-alone software products that enable its users to take screenshots of entire documents and web pages are a great choice for professionals that frequently need a powerful screen capturing tool. [Screenpresso,](https://www.screenpresso.com/) [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm) or [Snagit](https://www.techsmith.com/screen-capture.html) are just a few screen recorders, that are capable of producing still and moving images of a computer display.
@@ -140,10 +124,6 @@ Leave a comment below and let us know which method of capturing full page screen
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -159,16 +139,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-financially-flourishing-online-media-personality/"><u>[New] 2024 Approved Financially Flourishing Online Media Personality</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-step-into-the-world-of-high-quality-lenovo-screen-recordings/"><u>[New] Step Into the World of High-Quality Lenovo Screen Recordings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-desktop-and-mobile-capturing-team-video-conferences/"><u>[Updated] In 2024, Mastering Desktop & Mobile Capturing Team Video Conferences</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-postmycam-seeking-top-notch-alternatives/"><u>2024 Approved PostMyCam Seeking Top-Notch Alternatives</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unveiling-the-power-of-effective-screencasts-in-digital-content/"><u>2024 Approved Unveiling the Power of Effective Screencasts in Digital Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-power-problems-in-sony-ps4-remotes/"><u>Diagnosing and Repairing Power Problems in Sony PS4 Remotes</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/elevate-your-craft-canvas-hidden-design-secrets/"><u>Elevate Your Craft Canva's Hidden Design Secrets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/probing-the-use-of-language-models-in-hacking/"><u>Probing the Use of Language Models in Hacking</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-updating-and-downloading-the-newest-epson-ds-510-printer-software-for-windows-users/"><u>Step by Step Guide to Updating and Downloading the Newest Epson DS-510 Printer Software for Windows Users</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-art-of-preservation-innovative-techniques-to-capture-the-magic-of-living-with-sims/"><u>The Art of Preservation Innovative Techniques to Capture the Magic of Living with Sims</u></a></li>
-<li><a href="https://fox-place.techidaily.com/troubleshooting-making-your-gopro-detectable-by-windowsmac-for-file-transfer/"><u>Troubleshooting: Making Your GoPro Detectable by Windows/Mac for File Transfer</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unlock-vimeos-potential-cutting-edge-video-tools/"><u>[New] 2024 Approved Unlock Vimeo's Potential Cutting Edge Video Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-cutting-edge-tools-for-digital-video-capture/"><u>[New] Cutting-Edge Tools for Digital Video Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-excellent-ios-apps-the-ultimate-psp-emulators/"><u>[New] Excellent iOS Apps The Ultimate PSP Emulators</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quality-microphone-recorders-for-mac-devices-our-five-choices-revealed/"><u>[New] In 2024, Quality Microphone Recorders for Mac Devices Our Five Choices Revealed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimal-settings-for-watching-nba-live-streams/"><u>[New] Optimal Settings for Watching NBA LIVE STREAMs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-for-mac-quick-installation-tips/"><u>[New] Snapchat for MAC Quick Installation Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-all-in-one-screen-capture-az-insights-and-alternatives/"><u>[Updated] 2024 Approved All-in-One Screen Capture - AZ Insights & Alternatives</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-pros-guide-to-free-screen-recording-on-mac-devices/"><u>[Updated] 2024 Approved Pro's Guide to FREE Screen Recording on Mac Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-curating-the-best-video-game-openers-on-yt-no-money-max-impact-in-2024/"><u>[Updated] Curating the Best Video Game Openers on YT No Money, Max Impact, In 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-hit-the-town-non-gta-games-that-offer-similar-joy/"><u>[Updated] Hit the Town Non-GTA Games That Offer Similar Joy</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-removing-background-distractions-in-skype/"><u>[Updated] In 2024, Removing Background Distractions in Skype</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-urban-adventure-top-games-similar-to-gta-v/"><u>2024 Approved Urban Adventure Top Games Similar to GTA V</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flashback-flair-top-80s-video-tricks-for-a-contemporary-edge/"><u>In 2024, Flashback Flair Top 80S Video Tricks for a Contemporary Edge</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-12-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 12 Prevention & Solution</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-straight-from-the-studio-simple-steps-to-sizzling-mac-vids-on-youtube/"><u>In 2024, Straight From the Studio Simple Steps to Sizzling Mac Vids on YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-tips-for-overcoming-issues-with-windows-11-not-closing-properly/"><u>Master Tips for Overcoming Issues with Windows 11 Not Closing Properly</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-wont-play-on-my-galaxy-s24plus-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Galaxy S24+</u></a></li>
 </ul></div>
 

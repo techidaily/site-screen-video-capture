@@ -1,7 +1,7 @@
 ---
 title: "[New] Memorable Moments, Quick & Clean Xbox Screenshots for 2024"
-date: 2025-02-16T01:17:49.229Z
-updated: 2025-02-17T00:26:09.666Z
+date: 2025-03-05T02:24:47.231Z
+updated: 2025-03-06T00:11:31.360Z
 tags: 
   - screen-recording
   - ai video
@@ -52,14 +52,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Capturing Screenshots on Xbox One Using the Controller
 
 There is nothing complicated about taking a screenshot of your favorite game on Xbox One using the device's controller. All you have to do is double-click on the Xbox button and the screenshot will be captured. A sidebar will appear on the screen asking you if you want to take a screenshot or record the last 30 seconds of the gameplay. Just hit the Y button to save the screenshot. A dialog box will appear on the screen informing you that the screenshot has been saved successfully.
@@ -72,17 +64,9 @@ Press the Xbox button on the controller, and locate the System menu. Select the 
 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Capture Screenshots on Xbox One Using Voice Commands
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
 
@@ -114,10 +98,6 @@ What is your favorite method of taking screenshots on Xbox One? We're anxious to
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -133,18 +113,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-leading-free-non-commercial-android-recorders/"><u>[New] 2024 Approved Leading Free Non-Commercial Android Recorders</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-hp-laptop-tips-for-perfect-screen-recordings/"><u>[New] HP Laptop Tips for Perfect Screen Recordings</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-how-to-share-screen-on-skype-when-working-at-home/"><u>[New] In 2024, How to Share Screen on Skype When Working at Home</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unveiling-the-best-zero-price-videochat-services/"><u>[New] In 2024, Unveiling the Best Zero-Price Videochat Services</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-latest-tricks-for-ios-screenshots-and-recording/"><u>[Updated] 2024 Approved Latest Tricks for iOS Screenshots & Recording</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-stepping-up-advanced-techniques-for-w11-gamers/"><u>[Updated] 2024 Approved Stepping Up Advanced Techniques for W11 Gamers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-a-compreayer-study-of-magix-image-suite/"><u>[Updated] A Compreayer Study of MAGIX Image Suite</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-tackling-frame-rate-glitches-in-obs-outputs/"><u>[Updated] Tackling Frame Rate Glitches in OBS Outputs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-deep-dive-into-sharex-feedback-and-substitutes/"><u>2024 Approved Deep Dive Into ShareX Feedback & Substitutes</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/5-easy-ways-to-record-youtube-videos/"><u>5 Easy Ways to Record YouTube Videos</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-xiaomi-redmi-k70-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Xiaomi Redmi K70 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-ways-to-boost-your-video-watch-count-responsibly-for-2024/"><u>Legal Ways to Boost Your Video Watch Count Responsibly for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/top-strategies-to-combat-memory-issues-on-your-windows-system-tips-by-yl-computing/"><u>Top Strategies to Combat Memory Issues on Your Windows System - Tips by YL Computing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-terras-treasures-selecting-the-top-mapping-games/"><u>[New] 2024 Approved Terra's Treasures Selecting the Top Mapping Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ideal-video-editing-software-enhance-your-webcam-content/"><u>[Updated] 2024 Approved Ideal Video Editing Software Enhance Your Webcam Content</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-screen-saga-a-thousand-stories-one-channel-at-a-time/"><u>[Updated] 2024 Approved Screen Saga A Thousand Stories, One Channel at a Time</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-achieve-peak-performance-enhancing-gameplay-using-switch-pro-controller-in-steam-for-2024/"><u>[Updated] Achieve Peak Performance Enhancing Gameplay Using Switch Pro Controller in Steam for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-secrets-to-professional-voice-overs-on-a-budget-for-2024/"><u>[Updated] Secrets to Professional Voice Overs on a Budget for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-magic-6-lite-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor Magic 6 Lite? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-laserjet-p3015-printer-drivers-for-windows-get-the-latest-updates-and-download-now/"><u>HP LaserJet P3015 Printer Drivers for Windows - Get the Latest Updates and Download Now!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-x90s-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo X90S Phone that is Locked?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-ideal-strategies-for-noiseless-filming/"><u>In 2024, Ideal Strategies for Noiseless Filming</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/is-it-worth-it-a-detailed-review-of-microsofts-pricey-all-in-one-workstation-studio-2/"><u>Is It Worth It? A Detailed Review of Microsoft's Pricey All-in-One Workstation, Studio 2</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-macos-sierra-tools-for-video-changeovers-for-2024/"><u>Premier macOS Sierra Tools for Video Changeovers for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-future-in-your-hand-top-10-cutting-edge-recorder-apps-for-2024/"><u>The Future in Your Hand Top 10 Cutting-Edge Recorder Apps for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-process-of-wireless-electric-vehicle-charging/"><u>Understanding the Process of Wireless Electric Vehicle Charging</u></a></li>
 </ul></div>
 

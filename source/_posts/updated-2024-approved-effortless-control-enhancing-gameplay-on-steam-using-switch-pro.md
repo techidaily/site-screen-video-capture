@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Effortless Control  Enhancing Gameplay on Steam Using Switch Pro\""
-date: 2025-02-13T17:12:12.860Z
-updated: 2025-02-16T21:58:17.868Z
+date: 2025-03-01T19:26:57.896Z
+updated: 2025-03-05T23:55:35.112Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,6 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 ![switch-pro-controller-connected-with-cable](https://images.wondershare.com/filmora/article-images/switch-pro-controller-connected-with-cable.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
 ## **Wirelessly connect your Switch Pro controller to your PC**
@@ -74,24 +70,12 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Once Steam is set up, you can begin using it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
@@ -110,10 +94,6 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -146,24 +126,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-how-to-take-screenshots-of-pc-games-6-methods/"><u>[New] 2024 Approved How to Take Screenshots of PC Games [6 Methods]</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-gamers-paradise-leading-5-hdmi-21-monitors-for-ps5/"><u>[New] In 2024, Gamers' Paradise Leading 5 HDMI 2.1 Monitors for PS5</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-in-depth-look-mycam-cams-performance/"><u>[New] In 2024, In-Depth Look MyCam Cam's Performance</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-leading-tools-to-elevate-webcam-video-quality/"><u>[New] In 2024, Leading Tools to Elevate Webcam Video Quality</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-boosting-your-stream-quality-with-zoom-and-fb-live/"><u>[Updated] 2024 Approved Boosting Your Stream Quality with ZOOM & FB Live</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-discover-the-power-of-photo-enhancement-with-full-facetune-review-for-2024/"><u>[Updated] Discover the Power of Photo Enhancement with Full Facetune Review for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-intuitive-guide-how-to-capture-on-vimeo/"><u>[Updated] In 2024, Intuitive Guide How to Capture on Vimeo</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-leveraging-hashtags-and-mentions/"><u>[Updated] In 2024, Leveraging Hashtags and Mentions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-fbx-gametime-tracking-solutions/"><u>[Updated] Innovative FBX Gametime Tracking Solutions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-professional-stabilization-tech-for-youtube-content-creators/"><u>[Updated] Professional Stabilization Tech for YouTube Content Creators</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-tinytake-screen-recorder-review-and-alternative-for-2024/"><u>[Updated] TinyTake Screen Recorder Review and Alternative for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/easy-screen-capture-in-vlc-player-for-2024/"><u>Easy Screen Capture in VLC Player for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/equip-your-leaders-with-ai-knowledge-the-essential-step-highlighted-by-zdnet/"><u>Equip Your Leaders with AI Knowledge - The Essential Step Highlighted by ZDNet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-cheap-but-effective-the-1-to-10-free-desktop-recorders/"><u>In 2024, Cheap but Effective The #1 to #10 Free Desktop Recorders</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-master-the-art-of-video-editing-in-obs-studio/"><u>In 2024, Master the Art of Video Editing in OBS Studio</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-insiders-techniques-for-google-voice-recordings/"><u>In 2024, The Insider's Techniques for Google Voice Recordings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-buffering-how-to-eliminate-lag-when-using-obs-for-live-broadcasting-or-recording/"><u>No More Buffering: How to Eliminate Lag When Using OBS for Live Broadcasting or Recording</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/seeking-consistent-income-through-youtube-for-2024/"><u>Seeking Consistent Income Through YouTube for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-10-no-cost-high-quality-digital-recorder-apps/"><u>Top 10 No-Cost, High-Quality Digital Recorder Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-perfect-obs-settings-for-low-cost-hardware/"><u>[New] In 2024, Perfect OBS Settings for Low-Cost Hardware</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-navigate-your-gaming-world-with-steams-switch-controller/"><u>[New] Navigate Your Gaming World with Steam's Switch Controller</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-complete-guide-to-voiced-ppt-mastery/"><u>[Updated] The Complete Guide to Voiced PPT Mastery</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-mastering-lecture-capture-a-comprehensible-methodology-for-mac-users/"><u>2024 Approved Mastering Lecture Capture A Comprehensible Methodology for Mac Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-depth-guide-to-2023s-leading-web-capture-applications/"><u>In-Depth Guide to 2023’S Leading Web Capture Applications</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-delivers-high-definition-sound-to-win7-users/"><u>NVIDIA Delivers High-Definition Sound to Win7 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-for-critical-error-code-0x887a0006-learn-how-here/"><u>Quick Fix for Critical Error Code 0X887A0006 - Learn How Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470980310-safari-full-page-image-snags-quick-fixes-for-your-screen-capture-woes/"><u>Safari Full-Page Image Snags: Quick Fixes for Your Screen Capture Woes</u></a></li>
 </ul></div>
 

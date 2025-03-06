@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Zombification Extravaganza - 8 Epic Titles Ranked for 2024\""
-date: 2025-02-16T04:33:21.812Z
-updated: 2025-02-17T01:11:11.758Z
+date: 2025-03-03T18:13:52.318Z
+updated: 2025-03-06T07:27:38.811Z
 tags: 
   - screen-recording
   - ai video
@@ -31,17 +31,9 @@ There isn't much to World War Z by itself, but there isn't a better game for mow
 
 It is undeniably influenced by the Left 4 Dead series (RIP). It does, however, have several modern game mainstays like selectable classes & permanent progression. You may choose to play as a Horror flick, who gets extra health by rapidly killing enemies, a Fixer, who places traps in safe areas, or even one of four additional classes. Whatever character you select to level up first, you'll get to fire a lot of lead into sliding walls of decaying flesh.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.Dying Light: The Following
 
 ![dying-light-the-following-poster](https://images.wondershare.com/filmora/article-images/dying-light-the-following-poster.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Running over zombies has never been more fun. The Foregoing is really a DLC for Dying Light that eliminates much of the parkour again from the original game and instead places you behind the wheel of a car across a stretch of nearly spotless countryside. Splatter zombies spewing gore and leave tire tracks in their guts as you drive across the fields, attempting daring jumps. Just make sure you don't get a monster head caught in your wipers.
 
@@ -107,10 +99,6 @@ It is undeniably influenced by the Left 4 Dead series (RIP). It does, however, h
 
 Running over zombies has never been more fun. The Foregoing is really a DLC for Dying Light that eliminates much of the parkour again from the original game and instead places you behind the wheel of a car across a stretch of nearly spotless countryside. Splatter zombies spewing gore and leave tire tracks in their guts as you drive across the fields, attempting daring jumps. Just make sure you don't get a monster head caught in your wipers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3.State of the Decay 2
 
 ![state-of-the-decay-2-poster](https://images.wondershare.com/filmora/article-images/state-of-the-decay-2-poster.jpg)
@@ -122,10 +110,6 @@ The introduction of multiplayer in States of Decay 2 is probably the most intrig
 ### 4.Resident Evil 2 (remake of 2019)
 
 ![resident-evil-2-poster](https://images.wondershare.com/filmora/article-images/resident-evil-2-poster.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Resident Evil 2's sequel treads a thin line between the sluggish horror of the original Resident Evil game and the quicker (but still methodical) action of the post-Resident Evil 7 period. It succeeds in being both a worthy homage to the first Resident Evil 2 and the most important, playable RE games in years as a result of this. The key is the zombies, as you'd expect from a game that ranks among the zombie games. Even while the remake's mobility and shooting controls seem to be more contemporary and streamlined, each zombie can only take so many shots - even headshot - before resurrecting. Even immediately in front of your eyes, or perhaps a few minutes later, when you believe you are secure.
 
@@ -157,10 +141,6 @@ The journey of Joel and Ellie would be both dark and terrifying. The decaying, g
 
 ![back4blood-poster](https://images.wondershare.com/filmora/article-images/back4blood-poster.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Back 4 Blood is an action-packed cooperative first-person action from the highly popular Left 4 Dead series developers. You're smack dab in the middle of a battle with the Ridden. That once hosts of a terrible infection have evolved into frightening monsters intent on eating civilization's ruins. It's up to you and your allies to take the battle to the enemy, eliminate the Ridden, and recapture the planet, with humanity's extinction on the line.
 
 #### Wondershare Filmora
@@ -178,10 +158,6 @@ It is undeniably influenced by the Left 4 Dead series (RIP). It does, however, h
 ### 2.Dying Light: The Following
 
 ![dying-light-the-following-poster](https://images.wondershare.com/filmora/article-images/dying-light-the-following-poster.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Running over zombies has never been more fun. The Foregoing is really a DLC for Dying Light that eliminates much of the parkour again from the original game and instead places you behind the wheel of a car across a stretch of nearly spotless countryside. Splatter zombies spewing gore and leave tire tracks in their guts as you drive across the fields, attempting daring jumps. Just make sure you don't get a monster head caught in your wipers.
 
@@ -206,10 +182,6 @@ In the remake of Resident Evil 2, the perfect aim isn't enough to ensure your li
 ![the-walking-dead-poster](https://images.wondershare.com/filmora/article-images/the-walking-dead-poster.jpg)
 
 You play Lee Everett, a convicted murderer who takes in an orphaned young girl called Clementine as his charge. You'll make choices that will have significant repercussions for your group members when you meet more survivors. The worst part is that you develop feelings for the people in your group. As a consequence, when bad things happen, you'll feel as though you've just seen a real-life buddy being eaten rather than a video game character. People will die, unexpected events will occur, and choices will need to be made. You'll have to live with the repercussions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6.The HD Remaster of Resident Evil
 
@@ -241,17 +213,9 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 
 ![](https://neveragain.allstatics.com/2019/assets/image/box/filmora-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There isn't much to World War Z by itself, but there isn't a better game for mow down dozens, if not hundreds, of zombies with a group of friends or strangers. It's based in part on the Brad Pitt film from 2013\. Nonetheless, it's mainly an excuse to repeat the film's one distinguishing attribute: swarms of monsters that rush down streets and crash around curves like a torrent through a breached dam.
 
 It is undeniably influenced by the Left 4 Dead series (RIP). It does, however, have several modern game mainstays like selectable classes & permanent progression. You may choose to play as a Horror flick, who gets extra health by rapidly killing enemies, a Fixer, who places traps in safe areas, or even one of four additional classes. Whatever character you select to level up first, you'll get to fire a lot of lead into sliding walls of decaying flesh.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.Dying Light: The Following
 
@@ -280,10 +244,6 @@ In the remake of Resident Evil 2, the perfect aim isn't enough to ensure your li
 ![the-walking-dead-poster](https://images.wondershare.com/filmora/article-images/the-walking-dead-poster.jpg)
 
 You play Lee Everett, a convicted murderer who takes in an orphaned young girl called Clementine as his charge. You'll make choices that will have significant repercussions for your group members when you meet more survivors. The worst part is that you develop feelings for the people in your group. As a consequence, when bad things happen, you'll feel as though you've just seen a real-life buddy being eaten rather than a video game character. People will die, unexpected events will occur, and choices will need to be made. You'll have to live with the repercussions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6.The HD Remaster of Resident Evil
 
@@ -339,22 +299,19 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-easygamerecording-by-nvidia/"><u>[New] In 2024, EasyGameRecording by NVIDIA</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-quick-and-easy-snapshot-in-zoom-video-call/"><u>[New] Quick and Easy Snapshot in Zoom Video Call</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-art-of-discerning-if-ones-friend-blocked-your-account/"><u>[Updated] 2024 Approved The Art of Discerning if One's Friend Blocked Your Account</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-flamegrab-ff-extras/"><u>[Updated] Flamegrab FF Extras</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-game-on-unlock-the-secrets-of-effective-lol-recording/"><u>[Updated] Game-On! - Unlock the Secrets of Effective LOL Recording</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unveiling-past-images-3-approaches-for-fb-reverse-search/"><u>[Updated] In 2024, Unveiling Past Images 3 Approaches for FB Reverse Search</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mac-recording-hub-essential-insights/"><u>2024 Approved Mac Recording Hub Essential Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-apple-vision-pro-unveiling-pricing-key-features-and-expert-user-experiences-your-complete-guide/"><u>Exploring the Apple Vision Pro: Unveiling Pricing, Key Features, and Expert User Experiences - Your Complete Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/extract-focus-from-logitech-cam-feed/"><u>Extract Focus From Logitech Cam Feed</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-11-pro-max-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 11 Pro Max GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-first-captured-visual-saga-critique-with-alternate-views/"><u>In 2024, First Captured Visual Saga Critique with Alternate Views</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximizing-ipad-output-discover-key-apps-to-enhance-productivity-and-workflow-as-recommended-by-zdnet-experts/"><u>Maximizing iPad Output? Discover Key Apps to Enhance Productivity and Workflow as Recommended by ZDNet Experts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/streamline-your-filming-journey-a-step-by-step-guide-to-utilize-your-logitech-camera/"><u>Streamline Your Filming Journey A Step-by-Step Guide to Utilize Your Logitech Camera</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-6-secure-mc-domains-for-2024/"><u>Top 6 Secure MC Domains for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-crashes-in-the-division-2-simple-steps-for-smooth-gaming/"><u>Troubleshooting Crashes in The Division 2 - Simple Steps for Smooth Gaming</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/uitlegwijzer-voor-het-uithalen-van-windows-10-op-een-nieuwe-schijf-twaalf-verslatend-vragenbeantwoord/"><u>Uitlegwijzer Voor Het Uithalen Van Windows 10 Op Een Nieuwe Schijf: Twaalf Verslatend Vragenbeantwoord</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-characters-with-win11s-tool/"><u>Unraveling Characters with Win11's Tool</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-elevate-your-productivity-io-screen-capture-secrets/"><u>[New] 2024 Approved Elevate Your Productivity IO Screen Capture Secrets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-breakthrough-techniques-for-online-audio-archiving-and-editing/"><u>[New] Breakthrough Techniques for Online Audio Archiving & Editing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-gpu-renaissance-amd-radeon-redux/"><u>[New] GPU Renaissance AMD Radeon Redux</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-essential-steps-in-logging-youtube-live-content/"><u>[New] In 2024, Essential Steps in Logging YouTube Live Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-how-to-watermark-instagram-photos/"><u>[Updated] 2024 Approved How to Watermark Instagram Photos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-essential-tutorial-for-xbox-fb-streams/"><u>[Updated] The Essential Tutorial for Xbox FB Streams</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-mac-video-editing-tools-reviewed-bandicam-vs-camtasia/"><u>Best Mac Video Editing Tools Reviewed Bandicam Vs Camtasia</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bing-chat-vs-chatgpt-for-the-independent-professional-what-are-the-critical-considerations-unpack-these-top-8-aspects/"><u>Bing Chat Vs. ChatGPT for the Independent Professional: What Are the Critical Considerations? Unpack These Top 8 Aspects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-choose-the-ideal-full-screen-recording-tool-for-windows-11-8-and-7-computers/"><u>How To Choose The Ideal Full-Screen Recording Tool For Windows 11, 8 & 7 Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-quickly-resolve-win1011-screen-flicker/"><u>How to Quickly Resolve WIN10/11 Screen Flicker</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-post-mortem-punchlines-pro/"><u>In 2024, Post-Mortem Punchlines Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixel-playmates-five-methods-to-multitask-with-minecraft-pals/"><u>Pixel Playmates: Five Methods to Multitask with Minecraft Pals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-6-overlords-vast-data-models-crowned/"><u>Ultimate 6 Overlords: Vast Data Models Crowned</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-new-linguistic-worlds-through-research-based-melodies/"><u>Unlocking New Linguistic Worlds Through Research-Based Melodies</u></a></li>
 </ul></div>
 

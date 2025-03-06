@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Unlock Creative Potential  Strategic Use of Strikethrough\""
-date: 2025-02-12T22:27:10.667Z
-updated: 2025-02-17T14:53:02.053Z
+date: 2025-02-28T20:39:22.176Z
+updated: 2025-03-06T00:52:56.109Z
 tags: 
   - screen-recording
   - ai video
@@ -58,10 +58,6 @@ You can use them to mark a place in the screen recording you're not too happy wi
 
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
 
 This type of marker is immensely useful if you want to organize the timeline in your project better and to know exactly where every clip you want to use in your video is located at all times. Besides being a highly efficient tool for organizing vast amounts of footage, timeline markers can also help you denote the beats in the audio file and then sync the video clip perfectly to the beat of the tune you're using as a soundtrack to your video.
@@ -78,10 +74,6 @@ For macOS 10.12 or later
 
 * [1\. How to Add a Marker During Video Editing](#filmora1)
 * [2\. How to Remove a Marker After Screen Recording](#filmora2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. How to Add a Marker During Video Editing
 
@@ -101,19 +93,11 @@ Filmora lets you adjust your marker settings for your video. Right-click on the 
 
 ![access the modification option](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 3: Customize the Markers
 
 In the Marker Editor window, make relevant changes such as naming the marker, adding a comment in the **"Comment"** box, and changing the marker color.
 
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **Method 2: Adding Markers through the Keyboard**
 
@@ -126,10 +110,6 @@ After importing the clip into the timeline and identifying the points of error i
 Once you have finished editing your mistakes, it's important to remove the markers. To do this, right-click on the marker and select **"Delete"** from the options menu to remove a specific marker, or choose **"Delete All Markers"** to remove them collectively.
 
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -152,20 +132,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamlining-your-remote-podcast-production-workflow/"><u>[New] 2024 Approved Streamlining Your Remote Podcast Production Workflow</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-elevating-your-facebook-footprint-the-top-20-strategies-for-successful-videos/"><u>[New] In 2024, Elevating Your Facebook Footprint The Top 20 Strategies for Successful Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-low-end-pc-reach-high-with-best-obs-configuration/"><u>[New] In 2024, Low-End PC Reach High with Best OBS Configuration</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-10-engaging-mobile-idle-puzzles-for-2024/"><u>[New] Top 10 Engaging Mobile Idle Puzzles for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-youtube-sponsor-opportunities-via-famebit-methods/"><u>[New] Unlocking YouTube Sponsor Opportunities via FameBit Methods</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-essential-tips-for-simple-hdr-mastery/"><u>[Updated] 2024 Approved Essential Tips for Simple HDR Mastery</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-inside-scoop-on-sharex-scrutiny-and-comparisons/"><u>[Updated] 2024 Approved Inside Scoop on ShareX Scrutiny & Comparisons</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-streamlabs-rival-tools-unveiled/"><u>[Updated] In 2024, Streamlabs' Rival Tools Unveiled</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-paired-monitors-preservation/"><u>2024 Approved Paired Monitors Preservation</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/creative-constructs-top-6-minimalist-mini-mansions/"><u>Creative Constructs Top 6 Minimalist Mini-Mansions</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/m-soundtracks-simplified-converting-from-spotify-playlists-to-youtube-music/"><u>Custom Soundtracks Simplified Converting From Spotify Playlists to YouTube Music</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo Y100? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/mastering-color-palettes-applying-theories-effectively-for-2024/"><u>Mastering Color Palettes Applying Theories Effectively for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/snapscreen-scrutiny-a-deep-dive-into-recorders-for-2024/"><u>SnapScreen Scrutiny A Deep Dive Into Recorders for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/stealthy-strategies-for-anonymous-instagram-broadcasts-for-2024/"><u>Stealthy Strategies for Anonymous Instagram Broadcasts for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-essential-screen-recording-tools-a-comprehensive-educators-guide/"><u>[New] 2024 Approved Essential Screen Recording Tools A Comprehensive Educator's Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-vdr-screen-capture-compilation-extensive-guide/"><u>[New] 2024 Approved VDR Screen Capture Compilation Extensive Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-action-packed-escapades-the-next-big-things-post-gta-v-for-2024/"><u>[New] Action-Packed Escapades - The Next Big Things Post-GTA V for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-best-practices-for-high-quality-streaming-of-sporting-games/"><u>[New] Best Practices for High-Quality Streaming of Sporting Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-streamlining-your-screenshot-journey-on-sonys-playstation-4-console/"><u>[Updated] 2024 Approved Streamlining Your Screenshot Journey on Sony’s PlayStation 4 Console</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-prime-motorsport-experiences-quintessential-list/"><u>[Updated] In 2024, Prime Motorsport Experiences Quintessential List</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screenflow-for-mac-full-review-for-2024/"><u>[Updated] ScreenFlow for Mac Full Review for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-windows-best-camcorders-reviewed-and-rated/"><u>[Updated] Window's Best Camcorders Reviewed & Rated</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-editors-playbook-essential-strategies-for-youtube-video-crafting/"><u>2024 Approved The Editor's Playbook Essential Strategies for Youtube Video Crafting</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/delve-into-tech-with-toms-hardware-guide/"><u>Delve Into Tech with Tom's Hardware Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a34-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A34 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-itel-a60-easily-by-drfone-android/"><u>How To Unlock a Itel A60 Easily?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-ipad-timelapse-a-beginners-handbook-to-filming/"><u>In 2024, IPad Timelapse A Beginner's Handbook to Filming</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-challenges-of-launching-a-nier-replicant-remaster-game/"><u>Overcoming the Challenges of Launching a NieR Replicant Remaster Game</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-review-of-microsoft-flight-simulator-x-gold-edition-still-soaring-high/"><u>The Ultimate Review of Microsoft Flight Simulator X: Gold Edition - Still Soaring High!</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/transform-your-tiffs-into-any-format-for-zero-cost-using-movavis-web-service/"><u>Transform Your TIFFs Into Any Format for Zero Cost Using Movavi's Web Service</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-exclusive-tech-bargains-find-the-best-gaming-deals-during-prime-day-in-october-2024-with-zdnet/"><u>Unlock Exclusive Tech Bargains: Find the Best Gaming Deals During Prime Day in October 2024 with ZDNet</u></a></li>
 </ul></div>
 

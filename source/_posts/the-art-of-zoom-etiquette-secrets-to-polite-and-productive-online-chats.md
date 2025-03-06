@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Zoom Etiquette  Secrets to Polite and Productive Online Chats\""
-date: 2025-02-15T16:34:59.589Z
-updated: 2025-02-17T09:56:24.909Z
+date: 2025-02-27T23:30:27.038Z
+updated: 2025-03-05T21:01:42.247Z
 tags: 
   - screen-recording
   - ai video
@@ -43,10 +43,6 @@ When talking about the chat configurations, all the contextual options can be ac
 
 ![Zoom Meeting Settings icon](https://images.wondershare.com/filmora/article-images/zoom-meeting-setting.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once there, following are the options that you can configure to secure your **Zoom chat** experience:
 
 * **Active Status**
@@ -65,10 +61,6 @@ The radio buttons under this section let you choose which type of chat messages 
 
 ![Zoom Meeting Chat Nofitications Settings](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-notification-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Other Notifications**
 
 The **Keywords** button next to the **Receive notifications for** label lets you define the keywords in the chat messages that can trigger notifications.
@@ -80,10 +72,6 @@ The **Do not disturb from** checkbox allows you to define the duration of the da
 * **Message Previews**
 
 When the **Show message preview** box is unchecked, Zoom prevents the text of the chat messages from appearing on the screen, and you must open the message to view its content.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Chat in Zoom
 
@@ -111,10 +99,6 @@ Click the **+** icon, in the available field type the email address(es) of the u
 
 ![Zoom Meeting Chat  Announcements](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-announcement.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Launch Zoom app and sign into your account. Click the **Chat** icon from the top, click **Announcements** from the left bar, type a message in the text box in the right and/or attach a file if need be. Press **Enter** to send the message/attachment as an announcement to all the recipients.
 
 ### 3\. What File Types Does Zoom Chat Support?
@@ -135,23 +119,11 @@ Launch a web browser and sign in to your Zoom account on the web portal. From th
 
 ![Zoom Meeting Basic In meeting settings](https://images.wondershare.com/filmora/article-images/set-zoom-meeting-basic.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 2: Enable Autosave
 
 Turn on the toggle switch next to **Auto saving chats** to configure your Zoom account to save the chats automatically when a meeting starts.
 
 ![Zoom Meeting Chat  Auto save](https://images.wondershare.com/filmora/article-images/auto-saving-chat-in-zoom-meeting.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How to Save Zoom Chats Manually
 
@@ -211,10 +183,6 @@ As a video call host, if you don’t want the participant to save the chat conte
 
 ![Zoom Meeting Chat  Saving Settings](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-prevent-participants-from-saving-chat.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Furthermore, if you have a paid subscription of Zoom, you can use advanced encryption method that is available on the **IM Management** page on your account’s web portal. About the second question, the host cannot see the private messages that the participants send to each other during a meeting session.
 
 #### **Q) Can people see my chat when I am screen sharing?**
@@ -244,14 +212,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-a-new-dawn-in-gaming-stardew-valleys-best-mods-7/"><u>[New] In 2024, A New Dawn in Gaming - Stardew Valley's Best Mods (#7)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-analyzing-the-impact-of-burst-on-live-action-shoots/"><u>[Updated] Analyzing the Impact of Burst on Live-Action Shoots</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-leading-firefox-recording-software/"><u>[Updated] In 2024, Leading Firefox Recording Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-set-new-directory-for-mac-image-backups-for-2024/"><u>[Updated] Set New Directory for Mac Image Backups for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-excel-2000-files-document-electronically-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a Excel 2000 files document electronically</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immersion-and-interaction-the-high-definition-shift-of-hp-envy-27-for-2024/"><u>Immersion and Interaction The High-Definition Shift of HP Envy 27 for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-11-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From iPhone 11?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-picks-crafting-mc-villages-abodes/"><u>Top Picks Crafting MC Villages' Abodes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-does-codegpt-offer-to-aspiring-programmers-insights-on-its-code-writing-features/"><u>What Does CodeGPT Offer to Aspiring Programmers? Insights on Its Code Writing Features</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-cutting-edge-webcam-utilization-at-home/"><u>[New] Cutting-Edge Webcam Utilization at Home</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unlocking-the-potentials-of-streamlabs-obs/"><u>[New] In 2024, Unlocking the Potentials of Streamlabs OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-quick-tips-streamlined-processes-for-iphones-screening/"><u>[New] Quick Tips Streamlined Processes for Iphone's Screening</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-effective-techniques-to-archive-vimeo-content/"><u>[Updated] 2024 Approved Effective Techniques to Archive Vimeo Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-streaming-success-starts-here-your-channel-gear-guide/"><u>[Updated] 2024 Approved Streaming Success Starts Here Your Channel Gear Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pioneering-camera-tech-an-analysis-of-manycams-new-recorder/"><u>[Updated] Pioneering Camera Tech An Analysis of ManyCam's New Recorder</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722984700354-destiny-2-compatible-with-pc-how-to-fix-the-launch-error-quickly/"><u>Destiny 2 Compatible with PC? How to Fix the Launch Error Quickly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-to-resolve-libgdk-win32-20-0dll-errors-in-windows-expert-advice/"><u>Easy Steps to Resolve libgdk-win32-2.0-0.dll Errors in Windows - Expert Advice</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unraveling-the-economic-power-of-mr-beast/"><u>Unraveling the Economic Power of Mr. Beast</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-from-zero-to-hero-top-10-cartoon-video-makers-for-beginners-for-2024/"><u>Updated From Zero to Hero Top 10 Cartoon Video Makers for Beginners for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/be-producers-favorite-cameras-and-lenses-for-2024/"><u>YouTube Producers' Favorite Cameras & Lenses for 2024</u></a></li>
 </ul></div>
 
